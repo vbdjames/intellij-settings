@@ -156,11 +156,12 @@
         <mark key="." line="324" column="32" />
         <mark key="^" line="324" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" timestamp="1468010482248">
-        <mark key="[" line="411" column="5" />
-        <mark key="]" line="416" column="7" />
-        <mark key="^" line="412" column="0" />
-        <mark key="." line="412" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" timestamp="1468011309957">
+        <mark key="'" line="243" column="0" />
+        <mark key="[" line="549" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="^" line="243" column="0" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/adminui/EchoEntityEditorFramesHandler.java" timestamp="1466537948252">
         <mark key="'" line="67" column="13" />
@@ -230,9 +231,9 @@
         <mark key="^" line="105" column="48" />
         <mark key="." line="105" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" timestamp="1468007570551">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="38" column="24" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" timestamp="1468011810233">
+        <mark key="'" line="130" column="16" />
+        <mark key="[" line="342" column="47" />
         <mark key="]" line="40" column="30" />
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
@@ -330,11 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4133" column="48" filename="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="4140" column="48" filename="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="4147" column="48" filename="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="4157" column="52" filename="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="4178" column="48" filename="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="4802" column="48" filename="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="4808" column="48" filename="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="4815" column="48" filename="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
@@ -430,6 +426,11 @@
       <jump line="161" column="50" filename="$USER_HOME$/Code/echo/oldSSEdFrame.java" />
       <jump line="228" column="13" filename="$USER_HOME$/Code/echo/oldSSEdFrame.java" />
       <jump line="1470" column="21" filename="$USER_HOME$/Code/echo/oldSSEdFrame.java" />
+      <jump line="243" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
+      <jump line="25" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
+      <jump line="322" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
+      <jump line="130" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -439,7 +440,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>availableEmails</text>
+        <text>initialize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyBhIG9uZS1kaW1lbnNpb25hbCBsaXN0IG9mIHRoZSBzZWxlY3RlZCBkZXN0aW5hdGlvbnMKICAgICAqIAogICAgICogQHJldHVybiBMaXN0PERpcmVjdG9yeUNvbnRhY3RNZXRob2RTZWxlY3Rpb24+IGxpc3Qgb2YgZGVzdGluYXRpb25zCiAgICAgKi8K</text>
@@ -476,9 +477,9 @@
       </register>
     </registers>
     <search>
-      <last-search>availableEmails</last-search>
+      <last-search>initialize</last-search>
       <last-offset />
-      <last-pattern>availableEmails</last-pattern>
+      <last-pattern>initialize</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -486,7 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry>okay</entry>
         <entry>close</entry>
         <entry>TODO</entry>
         <entry>void deliver</entry>
@@ -506,6 +506,7 @@
         <entry>getSelected</entry>
         <entry>setAvailableEmail</entry>
         <entry>availableEmails</entry>
+        <entry>initialize</entry>
       </history-search>
       <history-cmd>
         <entry>198</entry>
