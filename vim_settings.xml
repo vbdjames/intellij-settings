@@ -163,10 +163,10 @@
         <mark key="." line="324" column="32" />
         <mark key="^" line="324" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" timestamp="1468250213111">
-        <mark key="'" line="557" column="43" />
-        <mark key="[" line="178" column="71" />
-        <mark key="]" line="178" column="61" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" timestamp="1468250589381">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="132" column="6" />
         <mark key="^" line="178" column="60" />
         <mark key="." line="178" column="61" />
       </file>
@@ -264,12 +264,12 @@
         <mark key="^" line="27" column="80" />
         <mark key="." line="27" column="80" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceContentsPanel.java" timestamp="1468250426501">
-        <mark key="'" line="558" column="45" />
-        <mark key="[" line="472" column="11" />
-        <mark key="]" line="481" column="0" />
-        <mark key="." line="481" column="0" />
-        <mark key="^" line="445" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceContentsPanel.java" timestamp="1468251347120">
+        <mark key="'" line="576" column="45" />
+        <mark key="[" line="738" column="0" />
+        <mark key="]" line="744" column="10" />
+        <mark key="." line="744" column="10" />
+        <mark key="^" line="744" column="10" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/generalui/TestUtilityDialog.java" timestamp="1463169713524">
         <mark key="'" line="432" column="8" />
@@ -387,7 +387,6 @@
       <jump line="93" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceContentsPanel.java" />
       <jump line="102" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
       <jump line="574" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
-      <jump line="570" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
       <jump line="103" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
       <jump line="29" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
       <jump line="360" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
@@ -456,22 +455,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" />
       <jump line="254" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
       <jump line="176" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
       <jump line="564" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceContentsPanel.java" />
       <jump line="560" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
+      <jump line="570" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBzYXZlIGludmFsaWQgbGlzdCByZXR1cm5lZCwgb25seSBmbGFnIHRob3NlIHJldHVybmVkCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyB0aGUgZm9jdXMgbWVzc2FnZSB3aGVuIHRoZSBsaW5lcyB0YWJsZSBoYXMgZm9jdXMKICAgICAqIAogICAgICogQHJldHVybiBTdHJpbmcKICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">IHJlcHJlc2VudGluZyB0aGUgYXR0YWNobWVudCBmaWxlbmFtZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>fillDestin</text>
+        <text>clear</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGV0ZXJtaW5lIHRoZSBzZXJ2aWNlIHR5cGVzIGF2YWlsYWJsZSB0byBzZWxlY3QuCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyB0aGUgZm9jdXMgbWVzc2FnZSB3aGVuIHRoZSBsaW5lcyB0YWJsZSBoYXMgZm9jdXMKICAgICAqIAogICAgICogQHJldHVybiBTdHJpbmcKICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBzYXZlIGludmFsaWQgbGlzdCByZXR1cm5lZCwgb25seSBmbGFnIHRob3NlIHJldHVybmVkCg==</text>
@@ -505,9 +505,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fillDestin</last-search>
+      <last-search>clear</last-search>
       <last-offset />
-      <last-pattern>fillDestin</last-pattern>
+      <last-pattern>clear</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -515,7 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fillDestinations</entry>
         <entry>configureFOr</entry>
         <entry>Command</entry>
         <entry>DESTINATIONS_CHANGED</entry>
@@ -535,6 +534,7 @@
         <entry>openNewScheduledService</entry>
         <entry>openNewOneTime</entry>
         <entry>fillDestin</entry>
+        <entry>clear</entry>
       </history-search>
       <history-cmd>
         <entry>10967</entry>
