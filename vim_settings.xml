@@ -60,8 +60,8 @@
         <mark key="^" line="4985" column="17" />
         <mark key="." line="4986" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1468345648482">
-        <mark key="'" line="245" column="22" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1468437991801">
+        <mark key="'" line="158" column="51" />
         <mark key="[" line="211" column="46" />
         <mark key="]" line="211" column="26" />
         <mark key="." line="211" column="26" />
@@ -263,12 +263,12 @@
         <mark key="^" line="359" column="70" />
         <mark key="." line="359" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1468433915772">
-        <mark key="'" line="4065" column="24" />
-        <mark key="[" line="4091" column="0" />
-        <mark key="]" line="4091" column="0" />
-        <mark key="." line="4091" column="0" />
-        <mark key="^" line="4087" column="7" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1468438387104">
+        <mark key="'" line="6187" column="47" />
+        <mark key="[" line="1132" column="76" />
+        <mark key="]" line="1132" column="75" />
+        <mark key="." line="1132" column="75" />
+        <mark key="^" line="1132" column="75" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/form/FormEntityType.java" timestamp="1466537168286">
         <mark key="'" line="692" column="8" />
@@ -425,9 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6193" column="26" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="1083" column="41" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6309" column="47" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6385" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="540" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="151" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" />
@@ -525,55 +522,58 @@
       <jump line="311" column="26" filename="$USER_HOME$/Code/echo/ra_message_details.c" />
       <jump line="314" column="29" filename="$USER_HOME$/Code/echo/ra_message_details.c" />
       <jump line="315" column="40" filename="$USER_HOME$/Code/echo/ra_message_details.c" />
+      <jump line="158" column="51" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" />
+      <jump line="4089" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6186" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiICIgKwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">T3V0Y2FsbCA=</text>
       </register>
       <register name="/" type="4">
-        <text>delivery</text>
+        <text>getTakenMessageAmd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJBIiwgIkZheCBObyBBbnN3ZXIiKTsKICAgICAgICBzdGF0dXNNYXAucHV0KCJCIiwgIkZheCBCdXN5Iik7CiAgICAgICAgc3RhdHVzTWFwLnB1dCgiQyIsICJDbGVhcmVkIik7CiAgICAgICAgc3RhdHVzTWFwLnB1dCgiRCIsICJCYWQgQWRkcmVzcyBFcnJvciIpOwogICAgICAgIHN0YXR1c01hcC5wdXQoImUiLCAiRW1haWwgQ29tbWFuZCBFcnJvciIpOwogICAgICAgIHN0YXR1c01hcC5wdXQoIkUiLCAiRXJyb3IiKTsKICAgICAgICBzdGF0dXNNYXAucHV0KCJGIiwgIkZheCBDb21tYW5kIEVycm9yIik7CiAgICAgICAgc3RhdHVzTWFwLnB1dCgiSyIsICJTa2lwcGVkIik7CiAgICAgICAgc3RhdHVzTWFwLnB1dCgiTSIsICJCYWQgTWFpbGJveCBFcnJvciIpOwogICAgICAgIHN0YXR1c01hcC5wdXQoIk4iLCAiT24gQ2FsbCBObyBDb250YWN0IEVycm9yIik7CiAgICAgICAgc3RhdHVzTWFwLnB1dCgiUSIsICJRdWV1ZWQiKTsKICAgICAgICBzdGF0dXNNYXAucHV0KCJTIiwgIlNlbnQiKTsKICAgICAgICBzdGF0dXNNYXAucHV0KCJUIiwgIkZheCBUcmFuc21pc3Npb24gRXJyb3IiKTsKICAgICAgICBzdGF0dXNNYXAucHV0KCJVIiwgIlVua25vd24iKTsKICAgICAgICBzdGF0dXNNYXAucHV0KCJWIiwgIkZheCBWb2ljZSBFcnJvciIpOwogICAgICAgIHN0YXR1c01hcC5wdXQoIlkiLCAiQ29udGFjdCBNYWRlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiICIgKwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJlIiwgIkVtYWlsIENvbW1hbmQgRXJyb3IiKTsKICAgICAgICBzdGF0dXNNYXAucHV0KCJLIiwgIlNraXBwZWQiKTsKICAgICAgICBzdGF0dXNNYXAucHV0KCJVIiwgIlVua25vd24iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiICIgKwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJZIiwgIk91dGNhbGwgQ29udGFjdCBNYWRlIik7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJOIiwgIk91dGNhbGwgTm8gQ29udGFjdCIpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJEIiwgIkVtYWlsIEJhZCBBZGRyZXNzIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJNIiwgIkVtYWlsIEJhZCBNYWlsYm94Iik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJlIiwgIkVtYWlsIENvbW1hbmQgRXJyb3IiKTsKICAgICAgICBzdGF0dXNNYXAucHV0KCJLIiwgIlNraXBwZWQiKTsKICAgICAgICBzdGF0dXNNYXAucHV0KCJVIiwgIlVua25vd24iKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJZIiwgIk91dGNhbGwgQ29udGFjdCBNYWRlIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJOIiwgIk91dGNhbGwgTm8gQ29udGFjdCIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJEIiwgIkVtYWlsIEJhZCBBZGRyZXNzIik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJWIiwgIkZheCBWb2ljZSBBbnN3ZXIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJNIiwgIkVtYWlsIEJhZCBNYWlsYm94Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNNYXAucHV0KCJUIiwgIkZheCBUcmFuc21pc3Npb24gRXJyb3IiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delivery</last-search>
+      <last-search>getTakenMessageAmd</last-search>
       <last-offset />
-      <last-pattern>delivery</last-pattern>
+      <last-pattern>getTakenMessageAmd</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -596,11 +596,11 @@
         <entry>MessageDetails</entry>
         <entry>AmdDetails</entry>
         <entry>machineId</entry>
-        <entry>getTakenMessageAmd</entry>
         <entry>deliveryStatus</entry>
         <entry>difference</entry>
         <entry>DELIVERY_STATUS_MAP</entry>
         <entry>delivery</entry>
+        <entry>getTakenMessageAmd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9LywvZw==</entry>
