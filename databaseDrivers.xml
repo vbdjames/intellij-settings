@@ -6,6 +6,9 @@
     <driver id="oracle" name="Oracle" dialect="Oracle">
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
+      <library>
+        <url>file://$USER_HOME$/.dotfiles/bin/ojdbc6.jar</url>
+      </library>
     </driver>
     <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
       <option name="auto-sync" value="true" />
