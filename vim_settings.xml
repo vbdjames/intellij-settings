@@ -259,12 +259,12 @@
         <mark key="^" line="359" column="70" />
         <mark key="." line="359" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1468416083929">
-        <mark key="'" line="1068" column="86" />
-        <mark key="[" line="6318" column="49" />
-        <mark key="]" line="6313" column="59" />
-        <mark key="^" line="6313" column="59" />
-        <mark key="." line="6313" column="59" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1468418176866">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1151" column="54" />
+        <mark key="]" line="1154" column="49" />
+        <mark key="^" line="1154" column="49" />
+        <mark key="." line="1154" column="49" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/form/FormEntityType.java" timestamp="1466537168286">
         <mark key="'" line="692" column="8" />
@@ -421,7 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="69" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="1082" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
       <jump line="3571" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
@@ -518,9 +517,10 @@
       <jump line="1181" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="52" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6313" column="59" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="50" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1068" column="86" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1235" column="79" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -530,7 +530,7 @@
         <text encoding="base64">IC8vIFRPRE8tZHdqOiB0aGlzIG1hdGNoZXMgT1BTLCBidXQgbWF5YmUg</text>
       </register>
       <register name="/" type="4">
-        <text>AmdDetails</text>
+        <text>machineId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICJyZWNlaXZlZF9kYXRlID0gPyBhbmQgZGVzdGluYXRpb24gPSA/ICIgKwo=</text>
@@ -567,9 +567,9 @@
       </register>
     </registers>
     <search>
-      <last-search>AmdDetails</last-search>
+      <last-search>machineId</last-search>
       <last-offset />
-      <last-pattern>AmdDetails</last-pattern>
+      <last-pattern>machineId</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -577,7 +577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Message</entry>
         <entry>New</entry>
         <entry>getMessageDeliveryDetails</entry>
         <entry>DetailsNew</entry>
@@ -597,6 +596,7 @@
         <entry>messageDetails</entry>
         <entry>MessageDetails</entry>
         <entry>AmdDetails</entry>
+        <entry>machineId</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9LywvZw==</entry>
