@@ -60,12 +60,12 @@
         <mark key="^" line="4985" column="17" />
         <mark key="." line="4986" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1468507344323">
-        <mark key="'" line="158" column="51" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1468517601533">
+        <mark key="'" line="97" column="0" />
         <mark key="[" line="39" column="24" />
-        <mark key="]" line="211" column="26" />
-        <mark key="." line="211" column="26" />
-        <mark key="^" line="211" column="26" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo3/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" timestamp="1466108357770">
         <mark key="'" line="421" column="17" />
@@ -262,12 +262,12 @@
         <mark key="^" line="359" column="70" />
         <mark key="." line="359" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1468506219594">
-        <mark key="'" line="1077" column="34" />
-        <mark key="[" line="1160" column="34" />
-        <mark key="]" line="1160" column="11" />
-        <mark key="." line="1160" column="11" />
-        <mark key="^" line="1160" column="11" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1468518096158">
+        <mark key="'" line="1064" column="60" />
+        <mark key="[" line="1137" column="37" />
+        <mark key="]" line="1138" column="70" />
+        <mark key="." line="1138" column="70" />
+        <mark key="^" line="1138" column="70" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/form/FormEntityType.java" timestamp="1466537168286">
         <mark key="'" line="692" column="8" />
@@ -424,8 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="32" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="108" column="3" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="193" column="47" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="197" column="49" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -524,6 +522,8 @@
       <jump line="995" column="38" filename="$USER_HOME$/Code/echo/ra_message_details.c" />
       <jump line="1000" column="57" filename="$USER_HOME$/Code/echo/ra_message_details.c" />
       <jump line="1119" column="66" filename="$USER_HOME$/Code/echo/ra_message_details.c" />
+      <jump line="97" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" />
+      <jump line="1064" column="60" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -533,7 +533,7 @@
         <text>cal.getTime()</text>
       </register>
       <register name="/" type="4">
-        <text>day_prec_t</text>
+        <text>primaryHistory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FsLnNldChDYWxlbmRhci5IT1VSX09GX0RBWSwgMCk7CiAgICAgICAgICAgIGNhbC5zZXQoQ2FsZW5kYXIuTUlOVVRFLCAwKTsKICAgICAgICAgICAgY2FsLnNldChDYWxlbmRhci5TRUNPTkQsIDApOwogICAgICAgICAgICBjYWwuc2V0KENhbGVuZGFyLk1JTExJU0VDT05ELCAwKTsK</text>
@@ -570,9 +570,9 @@
       </register>
     </registers>
     <search>
-      <last-search>day_prec_t</last-search>
+      <last-search>primaryHistory</last-search>
       <last-offset />
-      <last-pattern>day_prec_t</last-pattern>
+      <last-pattern>primaryHistory</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -580,7 +580,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rostered</entry>
         <entry>email</entry>
         <entry>Page</entry>
         <entry>PREVIOUSL</entry>
@@ -598,8 +597,9 @@
         <entry>delivery</entry>
         <entry>Primary</entry>
         <entry>TakenMessageAmd</entry>
-        <entry>getTakenMessageAmd</entry>
         <entry>day_prec_t</entry>
+        <entry>getTakenMessageAmd</entry>
+        <entry>primaryHistory</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9LywvZw==</entry>
