@@ -110,12 +110,12 @@
         <mark key="." line="100" column="47" />
         <mark key="^" line="100" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1468942029812">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1468942914849">
         <mark key="'" line="259" column="41" />
-        <mark key="[" line="254" column="38" />
-        <mark key="]" line="259" column="41" />
-        <mark key="." line="259" column="41" />
-        <mark key="^" line="259" column="41" />
+        <mark key="[" line="197" column="45" />
+        <mark key="]" line="210" column="43" />
+        <mark key="." line="210" column="43" />
+        <mark key="^" line="210" column="43" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" timestamp="1467053332545">
         <mark key="'" line="592" column="5" />
@@ -350,8 +350,8 @@
         <mark key="^" line="105" column="48" />
         <mark key="." line="105" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" timestamp="1468941797487">
-        <mark key="'" line="184" column="22" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" timestamp="1468942244497">
+        <mark key="'" line="934" column="13" />
         <mark key="]" line="95" column="47" />
         <mark key="^" line="95" column="47" />
         <mark key="." line="95" column="47" />
@@ -481,8 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
-      <jump line="1029" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="161" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="928" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="111" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
@@ -561,7 +559,6 @@
       <jump line="923" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1065" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1690" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="224" column="66" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="226" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="338" column="61" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
@@ -579,12 +576,15 @@
       <jump line="43" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="1426" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="183" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
-      <jump line="184" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="259" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
+      <jump line="930" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
+      <jump line="184" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
+      <jump line="934" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>from</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8uc2V0TWVzc2FnZU5hbWUoIkluY2x1ZGUgRGVsaXZlcnkgRGV0YWlscz8iKTsKICAgICAgICBpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8uc2V0VG9vbFRpcFRleHQoIldoZXRoZXIgdG8gaW5jbHVkZSAiICsKICAgICAgICAgICAgICAgICJkZWxpdmVyeSBkZXRhaWxzIHdpdGggbGlzdCBvZiBtZXNzYWdlcyIpOwogICAgICAgIGluY2x1ZGVDYWxsRGV0YWlsc0NoZWNrQm94Xy5hZGRGb2N1c0xpc3RlbmVyKGNoZWNrQm94Rm9jdXNMaXN0ZW5lcik7CiAgICAgICAgaW5jbHVkZUNhbGxEZXRhaWxzQ2hlY2tCb3hfLnNldFNlbGVjdGVkKHRydWUpOwogICAgICAgIGRpYWxvZ1BhbmVsLmFkZChpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8sCiAgICAgICAgICAgICAgICBuZXcgTGlzdEdyaWRCYWdDb25zdHJhaW50cygwLCAyKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>from</text>
@@ -593,7 +593,7 @@
         <text>includeDeliveryDetailsCheckBox_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKCJmcm9tIGRhdGUgaXMgIiArCiAgICAgICAgICAgICAgICAoZnJvbURhdGVUaW1lRmllbGRfLmlzVmFsaWRJbnB1dCgpID8gIiIgOiAibm90ICIpICsKICAgICAgICAgICAgICAgICJ2YWxpZCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8uc2V0TWVzc2FnZU5hbWUoIkluY2x1ZGUgRGVsaXZlcnkgRGV0YWlscz8iKTsKICAgICAgICBpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8uc2V0VG9vbFRpcFRleHQoIldoZXRoZXIgdG8gaW5jbHVkZSAiICsKICAgICAgICAgICAgICAgICJkZWxpdmVyeSBkZXRhaWxzIHdpdGggbGlzdCBvZiBtZXNzYWdlcyIpOwogICAgICAgIGluY2x1ZGVDYWxsRGV0YWlsc0NoZWNrQm94Xy5hZGRGb2N1c0xpc3RlbmVyKGNoZWNrQm94Rm9jdXNMaXN0ZW5lcik7CiAgICAgICAgaW5jbHVkZUNhbGxEZXRhaWxzQ2hlY2tCb3hfLnNldFNlbGVjdGVkKHRydWUpOwogICAgICAgIGRpYWxvZ1BhbmVsLmFkZChpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8sCiAgICAgICAgICAgICAgICBuZXcgTGlzdEdyaWRCYWdDb25zdHJhaW50cygwLCAyKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
