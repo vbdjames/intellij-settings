@@ -109,12 +109,12 @@
         <mark key="." line="100" column="47" />
         <mark key="^" line="100" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1468889612047">
-        <mark key="'" line="77" column="6" />
-        <mark key="[" line="173" column="62" />
-        <mark key="]" line="188" column="39" />
-        <mark key="." line="188" column="39" />
-        <mark key="^" line="188" column="39" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1468890651780">
+        <mark key="'" line="78" column="6" />
+        <mark key="[" line="109" column="9" />
+        <mark key="]" line="109" column="8" />
+        <mark key="." line="109" column="8" />
+        <mark key="^" line="109" column="8" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" timestamp="1467053332545">
         <mark key="'" line="592" column="5" />
@@ -571,11 +571,11 @@
       <jump line="79" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlUmFuZ2VGcm9tRmllbGRfLnNldE1lc3NhZ2VOYW1lKCJNZXNzYWdlcyBzdGFydGluZyIpOwogICAgICAgIGRhdGVSYW5nZUZyb21GaWVsZF8uc2V0UmVxdWlyZWQodHJ1ZSk7CiAgICAgICAgZGF0ZVJhbmdlRnJvbUZpZWxkXy5zZXRUb29sVGlwVGV4dCgiRW50ZXIgYSBkYXRlIGFuZCB0aW1lIGZvciB0aGUgIiArCiAgICAgICAgICAgICAgICAiYmVnaW5uaW5nIG9mIHRoZSBpbnRlcnZhbC4iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Email/Fax Combo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICA=</text>
+        <text>Email/Fax Combo</text>
       </register>
       <register name="/" type="4">
         <text>emailAddress</text>
@@ -584,31 +584,31 @@
         <text encoding="base64">ICAgICAgICBkYXRlUmFuZ2VGcm9tRmllbGRfLnNldE1lc3NhZ2VOYW1lKCJNZXNzYWdlcyBzdGFydGluZyIpOwogICAgICAgIGRhdGVSYW5nZUZyb21GaWVsZF8uc2V0UmVxdWlyZWQodHJ1ZSk7CiAgICAgICAgZGF0ZVJhbmdlRnJvbUZpZWxkXy5zZXRUb29sVGlwVGV4dCgiRW50ZXIgYSBkYXRlIGFuZCB0aW1lIGZvciB0aGUgIiArCiAgICAgICAgICAgICAgICAiYmVnaW5uaW5nIG9mIHRoZSBpbnRlcnZhbC4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5jb25zdGFudC5UaW1lWm9uZUZvcm1hdFR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnRDb250ZXh0TWVudUhhbmRsZXIgbWVudUhhbmRsZXIgPQogICAgICAgICAgICAgICAgbmV3IENvbXBvbmVudENvbnRleHRNZW51SGFuZGxlcihkaWFsb2dQYW5lbExvb2suZ2V0TWVudUxvb2soKSk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTUJ1dHRvbiBzZW5kQnV0dG9uXzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5jb25zdGFudC5UaW1lWm9uZUZvcm1hdFR5cGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2o6IG1uZW1vbmljIGtleQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGaWVsZExvb2sgZmllbGRMb29rID0gZGlhbG9nUGFuZWxMb29rLmdldEZpZWxkTG9vaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2o6IG1uZW1vbmljIGtleQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMYWJlbExvb2sgbGFiZWxMb29rID0gZGlhbG9nUGFuZWxMb29rLmdldExhYmVsTG9vaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZExvb2sgZmllbGRMb29rID0gZGlhbG9nUGFuZWxMb29rLmdldEZpZWxkTG9vaygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBMYWJlbExvb2sgbGFiZWxMb29rID0gZGlhbG9nUGFuZWxMb29rLmdldExhYmVsTG9vaygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
