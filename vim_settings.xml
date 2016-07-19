@@ -40,7 +40,7 @@
       <file name="$USER_HOME$/Code/echo/ra_message_details.c" timestamp="1468529319718">
         <mark key="'" line="1119" column="66" />
       </file>
-      <file name="/a.dummy" timestamp="1468893365165">
+      <file name="/a.dummy" timestamp="1468943111275">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" timestamp="1468433735539">
@@ -110,12 +110,12 @@
         <mark key="." line="100" column="47" />
         <mark key="^" line="100" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1468942914849">
-        <mark key="'" line="259" column="41" />
-        <mark key="[" line="197" column="45" />
-        <mark key="]" line="210" column="43" />
-        <mark key="." line="210" column="43" />
-        <mark key="^" line="210" column="43" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1468944023175">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="179" column="71" />
+        <mark key="]" line="179" column="70" />
+        <mark key="." line="179" column="70" />
+        <mark key="^" line="179" column="70" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" timestamp="1467053332545">
         <mark key="'" line="592" column="5" />
@@ -328,6 +328,7 @@
         <mark key="'" line="960" column="12" />
         <mark key="n" line="172" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/awt/TextAreaGridBagConstraints.java" timestamp="1468943857462" />
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" timestamp="1467144152667">
         <mark key="'" line="273" column="47" />
         <mark key="[" line="380" column="0" />
@@ -481,7 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="928" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="111" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="156" column="13" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageListFormatType.java" />
@@ -581,10 +581,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="184" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="934" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
+      <jump line="180" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8uc2V0TWVzc2FnZU5hbWUoIkluY2x1ZGUgRGVsaXZlcnkgRGV0YWlscz8iKTsKICAgICAgICBpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8uc2V0VG9vbFRpcFRleHQoIldoZXRoZXIgdG8gaW5jbHVkZSAiICsKICAgICAgICAgICAgICAgICJkZWxpdmVyeSBkZXRhaWxzIHdpdGggbGlzdCBvZiBtZXNzYWdlcyIpOwogICAgICAgIGluY2x1ZGVDYWxsRGV0YWlsc0NoZWNrQm94Xy5hZGRGb2N1c0xpc3RlbmVyKGNoZWNrQm94Rm9jdXNMaXN0ZW5lcik7CiAgICAgICAgaW5jbHVkZUNhbGxEZXRhaWxzQ2hlY2tCb3hfLnNldFNlbGVjdGVkKHRydWUpOwogICAgICAgIGRpYWxvZ1BhbmVsLmFkZChpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8sCiAgICAgICAgICAgICAgICBuZXcgTGlzdEdyaWRCYWdDb25zdHJhaW50cygwLCAyKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IFRleHRBcmVhR3JpZEJhZ0NvbnN0cmFpbnRzKDEsIDEpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>from</text>
@@ -596,31 +597,31 @@
         <text encoding="base64">ICAgICAgICBpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8uc2V0TWVzc2FnZU5hbWUoIkluY2x1ZGUgRGVsaXZlcnkgRGV0YWlscz8iKTsKICAgICAgICBpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8uc2V0VG9vbFRpcFRleHQoIldoZXRoZXIgdG8gaW5jbHVkZSAiICsKICAgICAgICAgICAgICAgICJkZWxpdmVyeSBkZXRhaWxzIHdpdGggbGlzdCBvZiBtZXNzYWdlcyIpOwogICAgICAgIGluY2x1ZGVDYWxsRGV0YWlsc0NoZWNrQm94Xy5hZGRGb2N1c0xpc3RlbmVyKGNoZWNrQm94Rm9jdXNMaXN0ZW5lcik7CiAgICAgICAgaW5jbHVkZUNhbGxEZXRhaWxzQ2hlY2tCb3hfLnNldFNlbGVjdGVkKHRydWUpOwogICAgICAgIGRpYWxvZ1BhbmVsLmFkZChpbmNsdWRlQ2FsbERldGFpbHNDaGVja0JveF8sCiAgICAgICAgICAgICAgICBuZXcgTGlzdEdyaWRCYWdDb25zdHJhaW50cygwLCAyKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IFRleHRBcmVhR3JpZEJhZ0NvbnN0cmFpbnRzKDEsIDEpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChTY2hlZHVsZWRTZXJ2aWNlVHlwZS5GQVguZ2V0VG9rZW4oKS5lcXVhbHMoCiAgICAgICAgICAgICAgICAoU3RyaW5nKSBleHBvcnRUeXBlXy5nZXRDb3JlVmFsdWUoKSkpIHsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGRpYWxvZ1BhbmVsLmFkZChlbWFpbEFkZHJlc3NBcmVhXywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXhwb3J0VHlwZV8uZ2V0Q29yZVZhbHVlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5zd2luZy5mb2N1cy5FZGl0YWJsZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5zY2hlZHVsZWRzZXJ2aWNlLlNjaGVkdWxlZFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmF4TnVtYmVyRmllbGRfLnNldFJlcXVpcmVkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChTY2hlZHVsZWRTZXJ2aWNlVHlwZS5GQVguZ2V0VG9rZW4oKS5lcXVhbHMoCiAgICAgICAgICAgICAgICAoU3RyaW5nKSBleHBvcnRUeXBlXy5nZXRDb3JlVmFsdWUoKSkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWxBZGRyZXNzQXJlYV8uc2V0UmVxdWlyZWQoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXhwb3J0VHlwZV8uZ2V0Q29yZVZhbHVlKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmF4TnVtYmVyRmllbGRfLnNldFJlcXVpcmVkKGZhbHNlKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5zd2luZy5mb2N1cy5FZGl0YWJsZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWxBZGRyZXNzQXJlYV8uc2V0UmVxdWlyZWQodHJ1ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5zY2hlZHVsZWRzZXJ2aWNlLlNjaGVkdWxlZFNlcnZpY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
