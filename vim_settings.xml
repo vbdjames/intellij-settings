@@ -109,12 +109,12 @@
         <mark key="." line="100" column="47" />
         <mark key="^" line="100" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1468892945198">
-        <mark key="'" line="122" column="33" />
-        <mark key="[" line="118" column="49" />
-        <mark key="]" line="127" column="59" />
-        <mark key="." line="127" column="59" />
-        <mark key="^" line="127" column="59" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1468893993098">
+        <mark key="'" line="38" column="23" />
+        <mark key="[" line="128" column="56" />
+        <mark key="]" line="130" column="53" />
+        <mark key="." line="130" column="53" />
+        <mark key="^" line="130" column="53" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" timestamp="1467053332545">
         <mark key="'" line="592" column="5" />
@@ -469,7 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="471" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/OneTimeScheduledServiceEditorFrame.java" />
       <jump line="510" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/OneTimeScheduledServiceEditorFrame.java" />
       <jump line="511" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/OneTimeScheduledServiceEditorFrame.java" />
       <jump line="558" column="65" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/OneTimeScheduledServiceEditorFrame.java" />
@@ -569,55 +568,56 @@
       <jump line="189" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="540" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="122" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
+      <jump line="38" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnRUeXBlXy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBhcmVhZ3JpZGJhZAo=</text>
       </register>
       <register name="-" type="4">
         <text>ScheduledServiceType.getTypes(), fieldLook</text>
       </register>
       <register name="/" type="4">
-        <text>messageListFormat</text>
+        <text>emailAddressArea</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkYXRlUmFuZ2VGcm9tRmllbGRfLnNldE1lc3NhZ2VOYW1lKCJNZXNzYWdlcyBzdGFydGluZyIpOwogICAgICAgIGRhdGVSYW5nZUZyb21GaWVsZF8uc2V0UmVxdWlyZWQodHJ1ZSk7CiAgICAgICAgZGF0ZVJhbmdlRnJvbUZpZWxkXy5zZXRUb29sVGlwVGV4dCgiRW50ZXIgYSBkYXRlIGFuZCB0aW1lIGZvciB0aGUgIiArCiAgICAgICAgICAgICAgICAiYmVnaW5uaW5nIG9mIHRoZSBpbnRlcnZhbC4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnRUeXBlXy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBhcmVhZ3JpZGJhZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5nZW5lcmFsdWkuQ29tcG9uZW50Q29udGV4dE1lbnVIYW5kbGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBUZUFyZWFHcmlkQmFnQ29uc3RyYWludHMoMSwgMSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnRDb250ZXh0TWVudUhhbmRsZXIgbWVudUhhbmRsZXIgPQogICAgICAgICAgICAgICAgbmV3IENvbXBvbmVudENvbnRleHRNZW51SGFuZGxlcihkaWFsb2dQYW5lbExvb2suZ2V0TWVudUxvb2soKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBleHBvcnRUeXBlXy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTUJ1dHRvbiBzZW5kQnV0dG9uXzsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5nZW5lcmFsdWkuQ29tcG9uZW50Q29udGV4dE1lbnVIYW5kbGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5jb25zdGFudC5UaW1lWm9uZUZvcm1hdFR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnRDb250ZXh0TWVudUhhbmRsZXIgbWVudUhhbmRsZXIgPQogICAgICAgICAgICAgICAgbmV3IENvbXBvbmVudENvbnRleHRNZW51SGFuZGxlcihkaWFsb2dQYW5lbExvb2suZ2V0TWVudUxvb2soKSk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTUJ1dHRvbiBzZW5kQnV0dG9uXzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5jb25zdGFudC5UaW1lWm9uZUZvcm1hdFR5cGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2o6IG1uZW1vbmljIGtleQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>messageListFormat</last-search>
+      <last-search>emailAddressArea</last-search>
       <last-offset />
-      <last-pattern>messageListFormat</last-pattern>
+      <last-pattern>emailAddressArea</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -625,7 +625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TITLE</entry>
         <entry>refreshAction</entry>
         <entry>exportMessages</entry>
         <entry>showSearch</entry>
@@ -645,6 +644,7 @@
         <entry>attachmentFilenameField</entry>
         <entry>emailAddress</entry>
         <entry>messageListFormat</entry>
+        <entry>emailAddressArea</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
