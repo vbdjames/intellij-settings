@@ -51,6 +51,9 @@
         <mark key="^" line="4985" column="17" />
         <mark key="." line="4986" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1470066501644">
+        <mark key="'" line="13502" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1468517601533">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="39" column="24" />
@@ -104,11 +107,12 @@
         <mark key="^" line="181" column="41" />
         <mark key="." line="181" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470064384284">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="217" column="44" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470067096643">
+        <mark key="'" line="48" column="3" />
+        <mark key="[" line="218" column="8" />
+        <mark key="]" line="224" column="29" />
+        <mark key="." line="224" column="29" />
+        <mark key="^" line="224" column="29" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" timestamp="1467053332545">
         <mark key="'" line="592" column="5" />
@@ -471,10 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2106" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="2704" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="3538" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="935" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="941" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="947" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="1036" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
@@ -571,55 +571,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceUtilities.java" />
       <jump line="163" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
+      <jump line="482" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="12947" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="13502" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="48" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>// TODO-dwj: this needs to be in correct timezone!</text>
       </register>
       <register name="-" type="4">
-        <text>effectiveDate</text>
+        <text>// TODO-dwj: this needs to be in correct timezone!</text>
       </register>
       <register name="/" type="4">
-        <text>effective</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtR3JvdXAgc2VydmljZUl0ZW0gPSBuZXcgQ3VzdG9tRm9ybUdyb3VwKHNlcnZpY2VJdGVtVHlwZV8sCiAgICAgICAgICAgICAgICBudWxsLCBzZXJ2aWNlSXRlbU51bWJlcl8sIG51bGwsIHRydWUsIHRydWUsIGZhbHNlLCBudWxsLAogICAgICAgICAgICAgICAgdHJ1ZSwgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFNjaGVkdWxlZFNlcnZpY2VTY2hlZHVsZT4gc2NoZWR1bGVzID0KICAgICAgICAgICAgICAgIG5ldyBBcnJheUxpc3Q8U2NoZWR1bGVkU2VydmljZVNjaGVkdWxlPigpOwogICAgICAgIHNjaGVkdWxlcy5hZGQodGhpcy5nZXRTY2hlZHVsZSgpKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IHRoaXMgb25seSB3b3JrcyBmb3IgYW4gYWNjb3VudAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IHRoaXMgb25seSB3b3JrcyBmb3IgYW4gYWNjb3VudAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImNvbnN0cnVjdGluZyB0aGUgc2NoZWR1bGVkIHNlcnZpY2UiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldHRpbmcgdGltZXpvbmUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImNvbnN0cnVjdGluZyB0aGUgc2NoZWR1bGVkIHNlcnZpY2UiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldHRpbmcgc2NoZWR1bGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldHRpbmcgdGltZXpvbmUiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldHRpbmcgbWVzc2FnZSBzZWxlY3RvcnMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldHRpbmcgc2NoZWR1bGUiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldHRpbmcgZGVzdGluYXRpb25zIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldHRpbmcgbWVzc2FnZSBzZWxlY3RvcnMiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImluIGdldCBzY2hlZHVsZWQgc2VydmljZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldHRpbmcgZGVzdGluYXRpb25zIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>effective</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>effective</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -627,9 +631,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Attach for entity</entry>
-        <entry>attachFormEntity</entry>
-        <entry>attach</entry>
         <entry>serviceType</entry>
         <entry>getting list of</entry>
         <entry>getNextRemiders</entry>
@@ -645,8 +646,11 @@
         <entry>Single</entry>
         <entry>create</entry>
         <entry>getScheduledServiceMessageSelectors</entry>
-        <entry>saveNew</entry>
         <entry>effective</entry>
+        <entry>saveNew</entry>
+        <entry>saveNewSched</entry>
+        <entry>saveNewScheduledService</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
@@ -666,9 +670,9 @@
         <entry>96</entry>
         <entry>471</entry>
         <entry>2679</entry>
-        <entry>w</entry>
         <entry>2724</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
