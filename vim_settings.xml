@@ -98,8 +98,12 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" timestamp="1468871692134">
         <mark key="'" line="117" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceLocal.java" timestamp="1469047614812" />
-      <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/scheduledservice/strategy/AbstractScheduleRangeStrategy.java" timestamp="1469023458120" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceLocal.java" timestamp="1470061049406">
+        <mark key="[" line="181" column="43" />
+        <mark key="]" line="181" column="41" />
+        <mark key="^" line="181" column="41" />
+        <mark key="." line="181" column="41" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1469048071983">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="157" column="0" />
@@ -236,10 +240,10 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" timestamp="1469025831479">
         <mark key="'" line="191" column="27" />
-        <mark key="[" line="1810" column="11" />
-        <mark key="]" line="1811" column="7" />
-        <mark key="." line="1811" column="7" />
-        <mark key="^" line="1811" column="7" />
+        <mark key="[" line="1811" column="11" />
+        <mark key="]" line="1812" column="7" />
+        <mark key="." line="1812" column="7" />
+        <mark key="^" line="1812" column="7" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/adminui/EchoEntityEditorFramesHandler.java" timestamp="1466537948252">
         <mark key="'" line="67" column="13" />
@@ -396,10 +400,10 @@
         <mark key="'" line="147" column="18" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceUtilities.java" timestamp="1469037054629">
-        <mark key="e" line="1848" column="47" />
-        <mark key="[" line="1868" column="0" />
-        <mark key="]" line="1868" column="0" />
-        <mark key="." line="1868" column="0" />
+        <mark key="e" line="1854" column="47" />
+        <mark key="[" line="1874" column="0" />
+        <mark key="]" line="1874" column="0" />
+        <mark key="." line="1874" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" timestamp="1468346575203">
         <mark key="'" line="1078" column="0" />
@@ -608,7 +612,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImluIGdldCBzY2hlZHVsZWQgc2VydmljZSIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -644,7 +648,6 @@
         <entry>getScheduledServiceMessageSelectors</entry>
       </history-search>
       <history-cmd>
-        <entry>4081</entry>
         <entry>vsplit</entry>
         <entry>151</entry>
         <entry>199</entry>
@@ -662,8 +665,9 @@
         <entry>96</entry>
         <entry>471</entry>
         <entry>2679</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>2724</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
