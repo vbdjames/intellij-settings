@@ -115,6 +115,9 @@
         <mark key="." line="250" column="69" />
         <mark key="^" line="250" column="69" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceSchedule.java" timestamp="1470146883751">
+        <mark key="'" line="443" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" timestamp="1467053332545">
         <mark key="'" line="592" column="5" />
         <mark key="[" line="65" column="22" />
@@ -288,12 +291,11 @@
         <mark key="." line="389" column="71" />
         <mark key="^" line="389" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" timestamp="1470144218146">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="401" column="0" />
-        <mark key="]" line="401" column="57" />
-        <mark key="." line="401" column="0" />
-        <mark key="^" line="383" column="72" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" timestamp="1470147254996">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="386" column="0" />
+        <mark key="]" line="386" column="0" />
+        <mark key="." line="386" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/form/FormEntityType.java" timestamp="1466537168286">
         <mark key="'" line="692" column="8" />
@@ -391,8 +393,10 @@
         <mark key="^" line="163" column="55" />
         <mark key="." line="163" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" timestamp="1469041270817">
-        <mark key="'" line="43" column="59" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" timestamp="1470147115964">
+        <mark key="'" line="45" column="61" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="22" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDateRangePanel.java" timestamp="1466791638708">
         <mark key="'" line="12" column="45" />
@@ -479,17 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1383" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1432" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1437" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1443" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1486" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1493" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1500" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1561" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1568" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1656" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1662" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="1668" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="1716" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="1724" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
@@ -578,56 +571,67 @@
       <jump line="129" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" />
       <jump line="195" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" />
       <jump line="103" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" />
+      <jump line="50" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" />
+      <jump line="443" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceSchedule.java" />
+      <jump line="380" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" />
+      <jump line="480" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" />
+      <jump line="371" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" />
+      <jump line="2" column="1" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" />
+      <jump line="159" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" />
+      <jump line="141" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" />
+      <jump line="19" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" />
+      <jump line="45" column="61" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsLnNldFRpbWUoc2NoZWR1bGUuZ2V0RWZmZWN0aXZlRnJvbURhdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gZ2V0dGluZyBmaXJzdCBkZWxpdmVyeSBkYXRlIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>immediately (in timeZone)</text>
+        <text encoding="base64">IC8vIFRPRE8tZHdqOiBzaG91bGQgd2UgcmV0dXJuIG51bGwgaW5zdGVhZD8=</text>
       </register>
       <register name="/" type="4">
-        <text>Single</text>
+        <text>timeProvider</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsLnNldFRpbWUoc2NoZWR1bGUuZ2V0RWZmZWN0aXZlRnJvbURhdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2FsZW5kYXIgY2FsID0gdGltZVByb3ZpZGVyXy5nZXRDdXJyZW50VGltZSgpOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oImdldHRpbmcgbmV4dCBkZWxpdmVyeSBkYXRlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gZ2V0dGluZyBmaXJzdCBkZWxpdmVyeSBkYXRlIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oImdldHRpbmcgbmV4dCBkZWxpdmVyeSBkYXRlIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oZWZmZWN0aXZlRGF0ZS5nZXRUaW1lSW5NaWxsaXMoKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBDYWxlbmRhciBjYWwgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpOyAvLyBUT0RPLWR3ajogdGltZXpvbmU/Ci8vICAgICAgICAgICAgY2FsLnNldFRpbWUoKERhdGUpIFVJQ29uc3RhbnQKLy8gICAgICAgICAgICAgICAgICAgIC5BQ1RJVkVfVU5USUxfRlVSVEhFUl9OT1RJQ0VfREFURVRJTUUuZ2V0VmFsdWUoKSk7Ci8vICAgICAgICAgICAgTE9HR0VSLmluZm8oY2FsLmdldFRpbWUoKSk7Ci8vICAgICAgICAgICAgTE9HR0VSLmluZm8oY2FsLmdldFRpbWVab25lKCkpOwovLyAgICAgICAgICAgIExPR0dFUi5pbmZvKGNhbC5nZXRUaW1lSW5NaWxsaXMoKSk7Ci8vICAgICAgICAgICAgY2FsLnNldFRpbWUoc2NoZWR1bGUuZ2V0RWZmZWN0aXZlRnJvbURhdGUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oZWZmZWN0aXZlRGF0ZS5nZXRUaW1lWm9uZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICBDYWxlbmRhci5nZXRJbnN0YW5jZSgpOyAvLyBUT0RPLWR3ajogdGltZXpvbmU/CiAgICAgICAgICAgIGNhbC5zZXRUaW1lKHNjaGVkdWxlLmdldEVmZmVjdGl2ZUZyb21EYXRlKCkpOwogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oZWZmZWN0aXZlRGF0ZS5nZXRUaW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oImdldHRpbmcgbmV4dCBkZWxpdmVyeSBkYXRlIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oImdldHRpbmcgZW5kIHRpbWUgb2YgcHJldmlvdXMgc2VuZCIpOwogICAgICAgICAgICBMT0dHRVIuaW5mbyhlbmRUaW1lT2ZUaGlzU2VuZC5nZXRUaW1lKCkpOwogICAgICAgICAgICBMT0dHRVIuaW5mbyhlbmRUaW1lT2ZUaGlzU2VuZC5nZXRUaW1lWm9uZSgpKTsKICAgICAgICAgICAgTE9HR0VSLmluZm8oZW5kVGltZU9mVGhpc1NlbmQuZ2V0VGltZUluTWlsbGlzKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVmZmVjdGl2ZURhdGUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIENhbGVuZGFyLmdldEluc3RhbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oZWZmZWN0aXZlRGF0ZS5nZXRUaW1lSW5NaWxsaXMoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlbmRUaW1lIGlzIGluIHRpbWVab25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oZWZmZWN0aXZlRGF0ZS5nZXRUaW1lWm9uZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdGFydFRpbWUgaXMgaW4gdGltZVpvbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oZWZmZWN0aXZlRGF0ZS5nZXRUaW1lKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Single</last-search>
+      <last-search>timeProvider</last-search>
       <last-offset />
-      <last-pattern>Single</last-pattern>
+      <last-pattern>timeProvider</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -635,10 +639,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getNextRemiders</entry>
-        <entry>explicit</entry>
-        <entry>messageListFormatTypeMap</entry>
-        <entry>RangeType</entry>
         <entry>range type</entry>
         <entry>get message</entry>
         <entry>range</entry>
@@ -654,7 +654,11 @@
         <entry>logger</entry>
         <entry>PACIFIC</entry>
         <entry>getFirstDeliveryDate</entry>
+        <entry>calculateNext</entry>
+        <entry>getCurrent</entry>
+        <entry>timeProvider_</entry>
         <entry>Single</entry>
+        <entry>timeProvider</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
