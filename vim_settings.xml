@@ -116,12 +116,11 @@
         <mark key="^" line="181" column="41" />
         <mark key="." line="181" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470320642595">
-        <mark key="'" line="647" column="0" />
-        <mark key="[" line="302" column="41" />
-        <mark key="]" line="302" column="41" />
-        <mark key="." line="302" column="41" />
-        <mark key="^" line="650" column="29" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470321385664">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="663" column="0" />
+        <mark key="]" line="663" column="0" />
+        <mark key="." line="663" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceSchedule.java" timestamp="1470146883751">
         <mark key="'" line="443" column="6" />
@@ -507,7 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1741" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="151" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="195" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="219" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
@@ -604,58 +602,59 @@
       <jump line="240" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCheckBoxSelectionTable.java" />
       <jump line="616" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="662" column="69" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="443" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="647" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
+      <jump line="514" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRhYmxlTGlzdC5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICBkZXN0aW5hdGlvblRhYmxlXy5zZXRJdGVtcyh0YWJsZUxpc3QpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>assemble</text>
+        <text>set</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTY2hlZHVsZWRTZXJ2aWNlVHlwZSBleHBvcnRUeXBlID0gKFNjaGVkdWxlZFNlcnZpY2VUeXBlKSBleHBvcnRUeXBlXwogICAgICAgICAgICAgICAgLmdldENvcmVWYWx1ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRhYmxlTGlzdC5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICBkZXN0aW5hdGlvblRhYmxlXy5zZXRJdGVtcyh0YWJsZUxpc3QpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmYXhDb250YWN0c0NvbWJvQm94Xy5yZW1vdmVBbGxJdGVtcygpOwovLyAgICAgICAgICAgIGZvciAoRGlyZWN0b3J5Q29udGFjdE1ldGhvZFNlbGVjdGlvbiBmYXggOiBhdmFpbGFibGVGYXhlc18pIHsKLy8gICAgICAgICAgICAgICAgZmF4Q29udGFjdHNDb21ib0JveF8uYWRkSXRlbShmYXgpOwovLyAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CgoKLy8gICAgICAgICAgICBlbWFpbEFkZHJlc3NMYWJlbF8uc2V0VmlzaWJsZShmYWxzZSk7Ci8vICAgICAgICAgICAgZW1haWxDb250YWN0c0NvbWJvQm94Xy5zZXRWaXNpYmxlKGZhbHNlKTsKLy8gICAgICAgICAgICBlbWFpbENvbnRhY3RzQ29tYm9Cb3hfLnNldFJlcXVpcmVkKGZhbHNlKTsKLy8gICAgICAgICAgICBmYXhOdW1iZXJMYWJlbF8uc2V0VmlzaWJsZSh0cnVlKTsKLy8gICAgICAgICAgICBmYXhDb250YWN0c0NvbWJvQm94Xy5zZXRWaXNpYmxlKHRydWUpOwovLyAgICAgICAgICAgIGZheENvbnRhY3RzQ29tYm9Cb3hfLnNldFJlcXVpcmVkKHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBlbWFpbENvbnRhY3RzQ29tYm9Cb3hfLnJlbW92ZUFsbEl0ZW1zKCk7Ci8vICAgICAgICAgICAgZm9yIChEaXJlY3RvcnlDb250YWN0TWV0aG9kU2VsZWN0aW9uIGVtYWlsIDogYXZhaWxhYmxlRW1haWxzXykgewovLyAgICAgICAgICAgICAgICBlbWFpbENvbnRhY3RzQ29tYm9Cb3hfLmFkZEl0ZW0oZW1haWwpOwovLyAgICAgICAgICAgIH0KLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2V0dGluZyBkZXN0aW5hdGlvbiBpdGVtcyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPLWR3ajogdGhpcyBhbGwgY2hhbmdlcyBiYXNlZCBvbiBmZWVkYmFjayAtIG5lZWQgYSB0YWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0YWJsZSBsaXN0IGlzIG5vdyAiICsgdGFibGVMaXN0LnNpemUoKSArICIgIiArCiAgICAgICAgICAgICAgICAgICAgImVudHJpZXMiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNldHRpbmcgc291cmNlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGVyZSdzIGEgZmF4Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldERlc3RpbmF0aW9uQ29tcG9uZW50cyhTY2hlZHVsZWRTZXJ2aWNlVHlwZS5FTUFJTCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpdCdzIGZheCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldERlc3RpbmF0aW9uQ29tcG9uZW50cyhTY2hlZHVsZWRTZXJ2aWNlVHlwZS5FTUFJTCk7Cg==</text>
+        <text encoding="base64">CgoKLy8gICAgICAgICAgICBlbWFpbEFkZHJlc3NMYWJlbF8uc2V0VmlzaWJsZSh0cnVlKTsKLy8gICAgICAgICAgICBlbWFpbENvbnRhY3RzQ29tYm9Cb3hfLnNldFZpc2libGUodHJ1ZSk7Ci8vICAgICAgICAgICAgZW1haWxDb250YWN0c0NvbWJvQm94Xy5zZXRSZXF1aXJlZCh0cnVlKTsKLy8gICAgICAgICAgICBmYXhOdW1iZXJMYWJlbF8uc2V0VmlzaWJsZShmYWxzZSk7Ci8vICAgICAgICAgICAgZmF4Q29udGFjdHNDb21ib0JveF8uc2V0VmlzaWJsZShmYWxzZSk7Ci8vICAgICAgICAgICAgZmF4Q29udGFjdHNDb21ib0JveF8uc2V0UmVxdWlyZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldERlc3RpbmF0aW9uQ29tcG9uZW50cyhTY2hlZHVsZWRTZXJ2aWNlVHlwZS5FTUFJTCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2V0dGluZyBkZXN0aW5hdGlvbiBpdGVtcyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc3RpbmF0aW9uVGFibGVfLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>assemble</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>assemble</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -663,7 +662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>messageRetrievalExport</entry>
         <entry>showExport</entry>
         <entry>createExport</entry>
         <entry>this all</entry>
@@ -683,6 +681,7 @@
         <entry>destinationTable</entry>
         <entry>destinationsPanel</entry>
         <entry>assemble</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>151</entry>
