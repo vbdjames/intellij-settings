@@ -108,8 +108,8 @@
         <mark key="." line="64" column="32" />
         <mark key="^" line="64" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" timestamp="1468871692134">
-        <mark key="'" line="117" column="28" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" timestamp="1470688414663">
+        <mark key="'" line="153" column="4" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" timestamp="1470667877785">
         <mark key="'" line="0" column="0" />
@@ -527,12 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="614" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
-      <jump line="660" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
-      <jump line="10" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
-      <jump line="246" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
-      <jump line="278" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
-      <jump line="309" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
       <jump line="408" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
       <jump line="434" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
       <jump line="215" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
@@ -627,6 +621,12 @@
       <jump line="1517" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="128" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
+      <jump line="132" column="79" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="212" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="37" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="117" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="153" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -636,7 +636,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>assemble</text>
+        <text>whenSentDateTimeField</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLm1hc2tGb3JtYXQgPSBuZXcgRGF0ZVRpbWVNYXNrRm9ybWF0KHRoaXMuZGF0ZUZvcm1hdFR5cGUsIAogICAgICAgICAgICB0aGlzLnRpbWVGb3JtYXRUeXBlLCB0aGlzLnRpbWVab25lRm9ybWF0VHlwZSk7CiAgICAgICAgdGhpcy5mb3JtYXR0ZXIgPSBuZXcgRGF0ZVRpbWVNYXNrRm9ybWF0dGVyKHRoaXMubWFza0Zvcm1hdCk7CiAgICAgICAgdGhpcy5mb3JtYXR0ZXIuc2V0T3ZlcndyaXRlTW9kZSh0cnVlKTsKICAgICAgICB0aGlzLmZvcm1hdHRlci5zZXRBbGxvd3NJbnZhbGlkKGZhbHNlKTsKICAgICAgICB0aGlzLmZvcm1hdHRlci5zZXRQbGFjZWhvbGRlckNoYXJhY3RlcignICcpOwogICAgICAgIHRoaXMuc2V0Rm9ybWF0dGVyRmFjdG9yeShuZXcgRGVmYXVsdEZvcm1hdHRlckZhY3RvcnkodGhpcy5mb3JtYXR0ZXIpKTsK</text>
@@ -673,9 +673,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assemble</last-search>
+      <last-search>whenSentDateTimeField</last-search>
       <last-offset />
-      <last-pattern>assemble</last-pattern>
+      <last-pattern>whenSentDateTimeField</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -683,7 +683,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fromDate</entry>
         <entry>current</entry>
         <entry>getJavaTime</entry>
         <entry>timeZoneFormat</entry>
@@ -703,6 +702,7 @@
         <entry>TODO</entry>
         <entry>timeZoneFormatType</entry>
         <entry>assemble</entry>
+        <entry>whenSentDateTimeField</entry>
       </history-search>
       <history-cmd>
         <entry>151</entry>
