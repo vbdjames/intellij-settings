@@ -119,8 +119,8 @@
         <mark key="^" line="181" column="41" />
         <mark key="." line="181" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470766374030">
-        <mark key="'" line="383" column="15" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470770905910">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="378" column="0" />
         <mark key="]" line="383" column="15" />
         <mark key="." line="383" column="15" />
@@ -610,10 +610,10 @@
       <jump line="1429" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="637" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="280" column="55" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="383" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="227" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -623,7 +623,7 @@
         <text>selectable</text>
       </register>
       <register name="/" type="4">
-        <text>VK_X</text>
+        <text>attach</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wdXRWYWx1ZShBY3Rpb24uTU5FTU9OSUNfS0VZLCBuZXcgSW50ZWdlcihLZXlFdmVudC5WS19NKSk7Cg==</text>
@@ -660,9 +660,9 @@
       </register>
     </registers>
     <search>
-      <last-search>VK_X</last-search>
+      <last-search>attach</last-search>
       <last-offset />
-      <last-pattern>VK_X</last-pattern>
+      <last-pattern>attach</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -670,7 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setSource</entry>
         <entry>setControls</entry>
         <entry>initialize</entry>
         <entry>setDestinations</entry>
@@ -690,6 +689,7 @@
         <entry>ExportMessagesAction</entry>
         <entry>size()</entry>
         <entry>VK_X</entry>
+        <entry>attach</entry>
       </history-search>
       <history-cmd>
         <entry>1081</entry>
