@@ -190,9 +190,12 @@
         <mark key="." line="975" column="24" />
         <mark key="^" line="975" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" timestamp="1470836678956">
+      <file name="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" timestamp="1470855120515">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="305" column="17" />
+        <mark key="[" line="359" column="1" />
+        <mark key="]" line="359" column="17" />
+        <mark key="^" line="359" column="17" />
+        <mark key="." line="359" column="17" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceOneTimeSchedulePanel.java" timestamp="1468603048699">
         <mark key="'" line="131" column="23" />
@@ -598,43 +601,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wdXRWYWx1ZShBY3Rpb24uTU5FTU9OSUNfS0VZLCBuZXcgSW50ZWdlcihLZXlFdmVudC5WS19NKSk7Cg==</text>
+        <text encoding="base64">CgoKCgoKCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>selectable</text>
+        <text>ECHO.SCHEDULED_SVC_MSG_EXP_DELIVERY</text>
       </register>
       <register name="/" type="4">
         <text>reminder</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wdXRWYWx1ZShBY3Rpb24uTU5FTU9OSUNfS0VZLCBuZXcgSW50ZWdlcihLZXlFdmVudC5WS19NKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>ECHO.SCHEDULED_SVC_MSG_EXP_DEST</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIk5vICIgKwogICAgICAgICAgICAgICAgICAgICJhdmFpbGFibGUgZW1haWwgIiArCiAgICAgICAgICAgICAgICAgICAgImFkZHJlc3NlcyBvciBmYXggbnVtYmVycyIsIG51bGwpOwo=</text>
+        <text encoding="base64">CgoKCgoKCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJnb3QgIiArIGF2YWlsYWJsZUZheGVzXy5zaXplKCkgKyAiIGZheGVzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIk5vICIgKwogICAgICAgICAgICAgICAgICAgICJhdmFpbGFibGUgZW1haWwgIiArCiAgICAgICAgICAgICAgICAgICAgImFkZHJlc3NlcyBvciBmYXggbnVtYmVycyIsIG51bGwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJnb3QgIiArIGF2YWlsYWJsZUZheGVzXy5zaXplKCkgKyAiIGZheGVzIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIHByaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkNhbid0IGV2ZW4iLCBleGNlcHRpb24sICJFeHBvcnQgTWVzc2FnZXMiKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VVdGlsaXRpZXMuZGlzcGxheVdhcm5pbmdEaWFsb2codGhpcywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkNhbid0IGV2ZW4iLCBleGNlcHRpb24sICJFeHBvcnQgTWVzc2FnZXMiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VVdGlsaXRpZXMuZGlzcGxheUVycm9yRGlhbG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VVdGlsaXRpZXMuZGlzcGxheVdhcm5pbmdEaWFsb2codGhpcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoTm90UGVyZm9ybWVkRXhjZXB0aW9uIGV4Y2VwdGlvbikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VVdGlsaXRpZXMuZGlzcGxheUVycm9yRGlhbG9nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
