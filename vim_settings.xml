@@ -105,7 +105,7 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" timestamp="1470688414663">
         <mark key="'" line="153" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" timestamp="1470833663804">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" timestamp="1470835745275">
         <mark key="'" line="130" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="26" column="28" />
@@ -119,12 +119,12 @@
         <mark key="^" line="181" column="41" />
         <mark key="." line="181" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470834436492">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470835069822">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="383" column="15" />
-        <mark key="." line="383" column="15" />
-        <mark key="^" line="383" column="15" />
+        <mark key="[" line="178" column="20" />
+        <mark key="]" line="178" column="20" />
+        <mark key="." line="178" column="20" />
+        <mark key="^" line="178" column="20" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceSchedule.java" timestamp="1470146883751">
         <mark key="'" line="443" column="6" />
@@ -136,6 +136,7 @@
         <mark key="^" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1470835429053" />
       <file name="$USER_HOME$/Code/mapcom/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1465239822881">
         <mark key="'" line="92" column="16" />
         <mark key="[" line="30" column="0" />
@@ -170,6 +171,9 @@
         <mark key="]" line="1094" column="21" />
         <mark key="^" line="1094" column="21" />
         <mark key="." line="1094" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceReminder.java" timestamp="1470835277527">
+        <mark key="'" line="403" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleFrequencyType.java" timestamp="1470759187776">
         <mark key="'" line="0" column="0" />
@@ -421,8 +425,8 @@
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/scheduledservice/ScheduledServiceOneTimeSchedulePanel.java" timestamp="1469022156435">
         <mark key="'" line="147" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceUtilities.java" timestamp="1470244636262">
-        <mark key="'" line="13" column="52" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceUtilities.java" timestamp="1470835117418">
+        <mark key="'" line="896" column="59" />
         <mark key="[" line="55" column="26" />
         <mark key="]" line="57" column="25" />
         <mark key="." line="57" column="25" />
@@ -499,8 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="565" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
-      <jump line="225" column="57" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="66" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="77" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="86" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
@@ -599,6 +601,8 @@
       <jump line="130" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
       <jump line="201" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
+      <jump line="896" column="59" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceUtilities.java" />
+      <jump line="403" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceReminder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -608,7 +612,7 @@
         <text>selectable</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>reminder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wdXRWYWx1ZShBY3Rpb24uTU5FTU9OSUNfS0VZLCBuZXcgSW50ZWdlcihLZXlFdmVudC5WS19NKSk7Cg==</text>
@@ -645,9 +649,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>reminder</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>reminder</last-pattern>
       <last-replace>contentsPanel_</last-replace>
       <last-substitute>inputPanel_</last-substitute>
       <last-dir>1</last-dir>
@@ -655,7 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>initialize</entry>
         <entry>setDestinations</entry>
         <entry>availableEmails</entry>
         <entry>TODO</entry>
@@ -675,6 +678,7 @@
         <entry>VK_X</entry>
         <entry>attach</entry>
         <entry>save</entry>
+        <entry>reminder</entry>
       </history-search>
       <history-cmd>
         <entry>1081</entry>
