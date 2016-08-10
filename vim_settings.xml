@@ -105,8 +105,8 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" timestamp="1470688414663">
         <mark key="'" line="153" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" timestamp="1470667877785">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" timestamp="1470833663804">
+        <mark key="'" line="130" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="26" column="28" />
         <mark key="^" line="26" column="28" />
@@ -119,7 +119,7 @@
         <mark key="^" line="181" column="41" />
         <mark key="." line="181" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470770905910">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470833653005">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="378" column="0" />
         <mark key="]" line="383" column="15" />
@@ -174,9 +174,6 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleFrequencyType.java" timestamp="1470759187776">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="25" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="24" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" timestamp="1466617921104">
         <mark key="'" line="15736" column="0" />
@@ -232,10 +229,6 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleRangeType.java" timestamp="1470759229884">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="146" column="15" />
-        <mark key="]" line="146" column="18" />
-        <mark key="." line="146" column="18" />
-        <mark key="^" line="146" column="18" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCheckBoxSelectionTable.java" timestamp="1470315363099">
         <mark key="'" line="240" column="5" />
@@ -347,7 +340,6 @@
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/scheduledservice/strategy/AbstractSchedulingStrategy.java" timestamp="1469023561967">
         <mark key="'" line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" timestamp="1470758815669" />
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormGroup.java" timestamp="1468264443001">
         <mark key="'" line="220" column="4" />
         <mark key="[" line="563" column="37" />
@@ -415,13 +407,6 @@
         <mark key="]" line="163" column="55" />
         <mark key="^" line="163" column="55" />
         <mark key="." line="163" column="55" />
-      </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceUtilities.java" timestamp="1470759333430">
-        <mark key="'" line="304" column="28" />
-        <mark key="[" line="66" column="14" />
-        <mark key="]" line="66" column="14" />
-        <mark key="." line="66" column="14" />
-        <mark key="^" line="66" column="14" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDateRangePanel.java" timestamp="1466791638708">
         <mark key="'" line="12" column="45" />
@@ -514,7 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/generalui/DateTimePickerDialog.java" />
       <jump line="2225" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="565" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="225" column="57" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
@@ -614,6 +598,7 @@
       <jump line="227" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
+      <jump line="130" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
