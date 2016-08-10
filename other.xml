@@ -63,6 +63,14 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="entitySuffix" value="" />
+    <option name="preferPrimitiveTypes" value="false" />
+    <option name="ENTITY_SUFFIX" value="" />
+    <option name="ADD_TO_UNIT" value="true" />
+    <option name="PREFER_PRIMITIVE_TYPES" value="false" />
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
