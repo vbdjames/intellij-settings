@@ -148,6 +148,12 @@
         <mark key="^" line="2723" column="56" />
         <mark key="." line="2723" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" timestamp="1470856593202">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="23" column="15" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/testui/RemoteAgentTestFrame.java" timestamp="1463661221508">
         <mark key="'" line="234" column="12" />
         <mark key="[" line="42" column="35" />
@@ -169,8 +175,10 @@
         <mark key="^" line="1094" column="21" />
         <mark key="." line="1094" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceReminder.java" timestamp="1470835277527">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceReminder.java" timestamp="1470856510572">
         <mark key="'" line="403" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleFrequencyType.java" timestamp="1470759187776">
         <mark key="'" line="0" column="0" />
@@ -601,7 +609,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCgoKCgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydChMb25nIGlkXykgewogICAgICAgIHRoaXMuaWRfID0gaWRfOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>ECHO.SCHEDULED_SVC_MSG_EXP_DELIVERY</text>
@@ -609,35 +617,35 @@
       <register name="/" type="4">
         <text>reminder</text>
       </register>
-      <register name="0" type="4">
-        <text>ECHO.SCHEDULED_SVC_MSG_EXP_DEST</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneT1HZW5lcmF0aW9uVHlwZS5TRVFVRU5DRSwgCiAgICAgICAgZ2VuZXJhdG9yPSJlY2hvX3NlcXVlbmNlIikKICAgIEBDb2x1bW4obmFtZT0iaWQiKQogICAgcHJpdmF0ZSBMb25nIGlkXzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCgoKCgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydChMb25nIGlkXykgewogICAgICAgIHRoaXMuaWRfID0gaWRfOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIk5vICIgKwogICAgICAgICAgICAgICAgICAgICJhdmFpbGFibGUgZW1haWwgIiArCiAgICAgICAgICAgICAgICAgICAgImFkZHJlc3NlcyBvciBmYXggbnVtYmVycyIsIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgIEBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneT0gR2VuZXJhdGlvblR5cGUuU0VRVUVOQ0UsIAogICAgICAgICAgICBnZW5lcmF0b3I9ImVjaG9fc2VxdWVuY2UiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJnb3QgIiArIGF2YWlsYWJsZUZheGVzXy5zaXplKCkgKyAiIGZheGVzIik7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDgvMTAvMTYuCiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaQo=</text>
+        <text encoding="base64">CgoKCgoKCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIk5vICIgKwogICAgICAgICAgICAgICAgICAgICJhdmFpbGFibGUgZW1haWwgIiArCiAgICAgICAgICAgICAgICAgICAgImFkZHJlc3NlcyBvciBmYXggbnVtYmVycyIsIG51bGwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJnb3QgIiArIGF2YWlsYWJsZUZheGVzXy5zaXplKCkgKyAiIGZheGVzIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkNhbid0IGV2ZW4iLCBleGNlcHRpb24sICJFeHBvcnQgTWVzc2FnZXMiKTsK</text>
+        <text encoding="base64">ICAgIHByaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VVdGlsaXRpZXMuZGlzcGxheVdhcm5pbmdEaWFsb2codGhpcywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VVdGlsaXRpZXMuZGlzcGxheUVycm9yRGlhbG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
