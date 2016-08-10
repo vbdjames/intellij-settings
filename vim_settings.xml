@@ -41,9 +41,6 @@
       <file name="$USER_HOME$/Code/echo/ra_message_details.c" timestamp="1468529319718">
         <mark key="'" line="1119" column="66" />
       </file>
-      <file name="/a.dummy" timestamp="1470252173327">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" timestamp="1468433735539">
         <mark key="'" line="27" column="14" />
         <mark key="[" line="91" column="46" />
@@ -193,6 +190,10 @@
         <mark key="." line="975" column="24" />
         <mark key="^" line="975" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" timestamp="1470836678956">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="305" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceOneTimeSchedulePanel.java" timestamp="1468603048699">
         <mark key="'" line="131" column="23" />
         <mark key="[" line="99" column="59" />
@@ -285,9 +286,6 @@
         <mark key="." line="2785" column="74" />
         <mark key="^" line="2785" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceContentType.java" timestamp="1468854343128">
-        <mark key="[" line="127" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1466793189972">
         <mark key="'" line="532" column="13" />
         <mark key="[" line="566" column="0" />
@@ -377,9 +375,6 @@
         <mark key="]" line="43" column="67" />
         <mark key="." line="43" column="67" />
         <mark key="^" line="43" column="67" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1468849035284">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/DestinationsPanel.java" timestamp="1465592694999">
         <mark key="'" line="315" column="0" />
@@ -492,9 +487,6 @@
         <mark key="^" line="642" column="49" />
         <mark key="." line="660" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1470411767483">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/scheduledservice/OneTimeScheduledServiceEditorFrame.java" timestamp="1469035278567">
         <mark key="'" line="653" column="13" />
       </file>
@@ -503,8 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
-      <jump line="77" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="86" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="87" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="88" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
@@ -603,6 +593,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="896" column="59" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceUtilities.java" />
       <jump line="403" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceReminder.java" />
+      <jump line="354" column="46" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -659,7 +651,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setDestinations</entry>
         <entry>availableEmails</entry>
         <entry>TODO</entry>
         <entry>cancelAction</entry>
@@ -678,6 +669,7 @@
         <entry>VK_X</entry>
         <entry>attach</entry>
         <entry>save</entry>
+        <entry>remionder</entry>
         <entry>reminder</entry>
       </history-search>
       <history-cmd>
