@@ -348,6 +348,13 @@
         <mark key="." line="441" column="7" />
         <mark key="^" line="441" column="7" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/CallCenterInfoService.java" timestamp="1470932615470">
+        <mark key="'" line="31" column="13" />
+        <mark key="[" line="79" column="64" />
+        <mark key="]" line="80" column="54" />
+        <mark key="^" line="80" column="54" />
+        <mark key="." line="80" column="54" />
+      </file>
       <file name="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" timestamp="1470931164388" />
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/strategy/AbstractScheduleRangeStrategy.java" timestamp="1470245176202">
         <mark key="'" line="100" column="8" />
@@ -477,7 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3442" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceLocal.java" />
       <jump line="3462" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceLocal.java" />
       <jump line="3484" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceLocal.java" />
       <jump line="28953" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
@@ -577,6 +583,7 @@
       <jump line="213" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/META-INF/persistence.xml" />
       <jump line="42" column="45" filename="$USER_HOME$/Code/echo/resource/internal/ear/META-INF/persistence.xml" />
+      <jump line="31" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/CallCenterInfoService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -586,7 +593,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>reminder</text>
+        <text>LockServiceLocal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICR7c2NoZWR1bGVkc2VydmljZS5wa2cuZGlyfS9TY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydC5jbGFzcywK</text>
@@ -623,9 +630,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reminder</last-search>
+      <last-search>LockServiceLocal</last-search>
       <last-offset />
-      <last-pattern>reminder</last-pattern>
+      <last-pattern>LockServiceLocal</last-pattern>
       <last-replace>(</last-replace>
       <last-substitute>_(</last-substitute>
       <last-dir>1</last-dir>
@@ -633,7 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remionder</entry>
         <entry encoding="base64">IA==</entry>
         <entry>hashCode</entry>
         <entry>_(</entry>
@@ -653,6 +659,7 @@
         <entry>MessageDeliver</entry>
         <entry>MessageExport</entry>
         <entry>reminder</entry>
+        <entry>LockServiceLocal</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
