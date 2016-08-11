@@ -83,12 +83,12 @@
         <mark key="." line="2599" column="72" />
         <mark key="^" line="2599" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" timestamp="1470939753339">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" timestamp="1470943738723">
         <mark key="'" line="71" column="39" />
-        <mark key="[" line="61" column="33" />
-        <mark key="]" line="61" column="32" />
-        <mark key="." line="61" column="32" />
-        <mark key="^" line="61" column="32" />
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="76" column="48" />
+        <mark key="." line="76" column="48" />
+        <mark key="^" line="76" column="48" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/testui/RemoteAgentTestFrame.java" timestamp="1463661221508">
         <mark key="'" line="234" column="12" />
@@ -120,8 +120,8 @@
         <mark key="^" line="15135" column="57" />
         <mark key="." line="15135" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" timestamp="1470939962262">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" timestamp="1470943619812">
+        <mark key="'" line="379" column="22" />
         <mark key="[" line="359" column="1" />
         <mark key="]" line="359" column="17" />
         <mark key="^" line="359" column="17" />
@@ -484,7 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13029" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="13030" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="13053" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="13072" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
@@ -584,13 +583,14 @@
       <jump line="2616" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="5732" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
+      <jump line="379" column="22" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHVzZXJuYW1lID0gdXNlclNlcnZpY2VMb2NhbF8uZ2V0VXNlcm5hbWUoKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>saveNewMessageExport</text>
