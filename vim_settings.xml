@@ -83,12 +83,12 @@
         <mark key="." line="2599" column="72" />
         <mark key="^" line="2599" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" timestamp="1470943738723">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" timestamp="1470944807496">
         <mark key="'" line="71" column="39" />
-        <mark key="[" line="28" column="30" />
-        <mark key="]" line="76" column="48" />
-        <mark key="." line="76" column="48" />
-        <mark key="^" line="76" column="48" />
+        <mark key="[" line="267" column="5" />
+        <mark key="]" line="260" column="3" />
+        <mark key="." line="260" column="3" />
+        <mark key="^" line="260" column="3" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/testui/RemoteAgentTestFrame.java" timestamp="1463661221508">
         <mark key="'" line="234" column="12" />
@@ -453,10 +453,10 @@
         <mark key="^" line="57" column="46" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" timestamp="1470862445685">
-        <mark key="'" line="156" column="66" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="37" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" timestamp="1470944733256">
+        <mark key="'" line="69" column="50" />
+        <mark key="[" line="552" column="0" />
+        <mark key="]" line="552" column="78" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/call/CallService.java" timestamp="1464796073086">
         <mark key="'" line="0" column="0" />
@@ -484,8 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13030" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
-      <jump line="13053" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="13072" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="13080" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="13090" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
@@ -584,55 +582,57 @@
       <jump line="5732" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="379" column="22" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" />
+      <jump line="69" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldERlc3RpbmF0aW9ucyhMaXN0PERpcmVjdG9yeUNvbnRhY3RNZXRob2RTZWxlY3Rpb24+IAogICAgICAgICAgICBkZXN0aW5hdGlvbnMpIHsKICAgICAgICB0aGlzLmRlc3RpbmF0aW9uc18gPSBuZXcgQXJyYXlMaXN0PERpcmVjdG9yeUNvbnRhY3RNZXRob2RTZWxlY3Rpb24+KCk7CiAgICAgICAgaWYgKGRlc3RpbmF0aW9ucyAhPSBudWxsKSB7CiAgICAgICAgICAgIGRlc3RpbmF0aW9uc18uYWRkQWxsKGRlc3RpbmF0aW9ucyk7CiAgICAgICAgfTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>saveNewMessageExport</text>
+        <text>destinations_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR7c2NoZWR1bGVkc2VydmljZS5wa2cuZGlyfS9TY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUxpc3RGb3JtYXRUeXBlLmNsYXNzLAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRlc3RpbmF0aW9uc18gPSBuZXcgQXJyYXlMaXN0PERpcmVjdG9yeUNvbnRhY3RNZXRob2RTZWxlY3Rpb24+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHVzZXJuYW1lID0gdXNlclNlcnZpY2VMb2NhbF8uZ2V0VXNlcm5hbWUoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldERlc3RpbmF0aW9ucyhMaXN0PERpcmVjdG9yeUNvbnRhY3RNZXRob2RTZWxlY3Rpb24+IAogICAgICAgICAgICBkZXN0aW5hdGlvbnMpIHsKICAgICAgICB0aGlzLmRlc3RpbmF0aW9uc18gPSBuZXcgQXJyYXlMaXN0PERpcmVjdG9yeUNvbnRhY3RNZXRob2RTZWxlY3Rpb24+KCk7CiAgICAgICAgaWYgKGRlc3RpbmF0aW9ucyAhPSBudWxsKSB7CiAgICAgICAgICAgIGRlc3RpbmF0aW9uc18uYWRkQWxsKGRlc3RpbmF0aW9ucyk7CiAgICAgICAgfTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHVzZXJuYW1lID0gdXNlclNlcnZpY2VMb2NhbF8uZ2V0VXNlcm5hbWUoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR7c2NoZWR1bGVkc2VydmljZS5wa2cuZGlyfS9TY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydC5jbGFzcywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICR7c2NoZWR1bGVkc2VydmljZS5wa2cuZGlyfS9TY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydC5jbGFzcywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR7c2NoZWR1bGVkc2VydmljZS5wa2cuZGlyfS9TY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydERlbGl2ZXJ5LmNsYXNzLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLnNjaGVkdWxlZHNlcnZpY2UuU2NoZWR1bGVkU2VydmljZU1lc3NhZ2VFeHBvcnREZWxpdmVyeTwvY2xhc3M+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZW1wb3JhbChUZW1wb3JhbFR5cGUuVElNRVNUQU1QKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICR7c2NoZWR1bGVkc2VydmljZS5wa2cuZGlyfS9TY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydC5jbGFzcywK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR7c2NoZWR1bGVkc2VydmljZS5wa2cuZGlyfS9TY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydERlbGl2ZXJ5LmNsYXNzLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLnNjaGVkdWxlZHNlcnZpY2UuU2NoZWR1bGVkU2VydmljZU1lc3NhZ2VFeHBvcnREZWxpdmVyeTwvY2xhc3M+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBUZW1wb3JhbChUZW1wb3JhbFR5cGUuVElNRVNUQU1QKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR7c2NoZWR1bGVkc2VydmljZS5wa2cuZGlyfS9TY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydC5jbGFzcywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>saveNewMessageExport</last-search>
+      <last-search>destinations_</last-search>
       <last-offset />
-      <last-pattern>saveNewMessageExport</last-pattern>
+      <last-pattern>destinations_</last-pattern>
       <last-replace>(</last-replace>
       <last-substitute>_(</last-substitute>
       <last-dir>1</last-dir>
@@ -640,7 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>adminServiceRef</entry>
         <entry>getRef</entry>
         <entry>saveNewSched</entry>
         <entry>createdTimestamp</entry>
@@ -660,6 +659,7 @@
         <entry>destinations</entry>
         <entry>saveNewScheduledSer</entry>
         <entry>saveNewMessageExport</entry>
+        <entry>destinations_</entry>
       </history-search>
       <history-cmd>
         <entry>2724</entry>
