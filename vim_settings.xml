@@ -282,12 +282,12 @@
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" timestamp="1468951468501">
         <mark key="'" line="55" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1471014709826">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="977" column="42" />
-        <mark key="]" line="977" column="47" />
-        <mark key="." line="977" column="47" />
-        <mark key="^" line="977" column="47" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1471015647868">
+        <mark key="'" line="823" column="19" />
+        <mark key="[" line="1356" column="0" />
+        <mark key="]" line="1356" column="0" />
+        <mark key="^" line="1354" column="55" />
+        <mark key="." line="1356" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Calendar.java" timestamp="1470684057801">
         <mark key="'" line="1461" column="32" />
@@ -547,12 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="45" filename="$USER_HOME$/Code/echo/resource/internal/ear/META-INF/persistence.xml" />
-      <jump line="31" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/CallCenterInfoService.java" />
-      <jump line="57" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExportDelivery.java" />
-      <jump line="34" column="29" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="478" column="12" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="13" column="59" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="16" column="63" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="20" column="13" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
@@ -646,44 +640,50 @@
       <jump line="22" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="48" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExportDelivery.java" />
       <jump line="2330" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="917" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="991" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="1044" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="1046" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="1355" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="823" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>reminder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>reminder</text>
       </register>
       <register name="/" type="4">
-        <text>recordReminderDelivery</text>
+        <text>deliverReminder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBMb2cgQ29tbXVuaWNhdGlvbkV4Y2VwdGlvbiBhbmQgcmVjb3JkIHRlbXBvcmFyeSBkZWxpdmVyeSBmYWlsdXJlLgogICAgICAgIGNhdGNoKGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLkNvbW11bmljYXRpb25FeGNlcHRpb24gZXhjZXB0aW9uKSB7CiAgICAgICAgICAgIExPR0dFUi53YXJuKCJFcnJvciBkZWxpdmVyaW5nIHJlbWluZGVyOiAiICsgZXhjZXB0aW9uLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIHRoaXMucmVjb3JkUmVtaW5kZXJEZWxpdmVyeShyZW1pbmRlci5nZXRJZCgpLCAKICAgICAgICAgICAgICAgIHJlbWluZGVyLmdldE5leHREZWxpdmVyeURhdGVUaW1lKCksIHRoaXMuaG9zdE5hbWVfLCAKICAgICAgICAgICAgICAgIG5ldyBqYXZhLnNxbC5UaW1lc3RhbXAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpLCAKICAgICAgICAgICAgICAgIHJlcXVlc3QsIHJlcGx5LCBleGNlcHRpb24uZ2V0TWVzc2FnZSgpLCB0cnVlKTsKICAgICAgICB9CiAgICAgICAgLy8gTG9nIEVKQkV4Y2VwdGlvbiwgd2hpY2ggcHJvYmFibHkgaW5kaWNhdGVzIGEgSk5ESSBkZXBlbmRlbmN5IAogICAgICAgIC8vIGluamVjdGlvbiBmYWlsdXJlIHRoYXQgb2NjdXJzIHNob3J0bHkgYWZ0ZXIgZWFyIGZpbGUgZGVwbG95bWVudCBhbmQKICAgICAgICAvLyB0aGF0IHJlc29sdmVzIGl0c2VsZi4KICAgICAgICBjYXRjaChqYXZheC5lamIuRUpCRXhjZXB0aW9uIGV4Y2VwdGlvbikgewogICAgICAgICAgICBMT0dHRVIud2FybigiRXJyb3IgZGVsaXZlcmluZyByZW1pbmRlcjogIiArIGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB0aGlzLnJlY29yZFNjaGVkdWxlRGVsaXZlcnkocmVtaW5kZXIuZ2V0SWQoKSwgCiAgICAgICAgICAgICAgICByZW1pbmRlci5nZXROZXh0RGVsaXZlcnlEYXRlVGltZSgpLCB0aGlzLmhvc3ROYW1lXywgCiAgICAgICAgICAgICAgICBuZXcgamF2YS5zcWwuVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSwgCiAgICAgICAgICAgICAgICByZXF1ZXN0LCByZXBseSwgZXhjZXB0aW9uLmdldE1lc3NhZ2UoKSwgdHJ1ZSk7CiAgICAgICAgfQogICAgICAgIC8vIExvZyBhbnkgb3RoZXIgRXhjZXB0aW9uIGFuZCByZWNvcmQgcGVybWFuZW50IGRlbGl2ZXJ5IGZhaWx1cmUuCiAgICAgICAgY2F0Y2goamF2YS5sYW5nLkV4Y2VwdGlvbiBleGNlcHRpb24pIHsKICAgICAgICAgICAgTE9HR0VSLndhcm4oIkVycm9yIGRlbGl2ZXJpbmcgcmVtaW5kZXI6ICIgKyBleGNlcHRpb24uZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgdGhpcy5yZWNvcmRSZW1pbmRlckRlbGl2ZXJ5KHJlbWluZGVyLmdldElkKCksIAogICAgICAgICAgICAgICAgcmVtaW5kZXIuZ2V0TmV4dERlbGl2ZXJ5RGF0ZVRpbWUoKSwgdGhpcy5ob3N0TmFtZV8sIAogICAgICAgICAgICAgICAgbmV3IGphdmEuc3FsLlRpbWVzdGFtcChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSksIAogICAgICAgICAgICAgICAgcmVxdWVzdCwgcmVwbHksIGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCksIAogICAgICAgICAgICAgICAgdGhpcy5pc0V4Y2VwdGlvblJlcG9ydHNUaW1lb3V0KGV4Y2VwdGlvbikpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygiR2V0dGluZyBsaXN0IG9mIHJlbWluZGVycyB0byBkZWxpdmVyLiIpOwogICAgICAgICAgICAgICAgICAgIGZvciAoU2NoZWR1bGVkU2VydmljZVJlbWluZGVyIHJlbWluZGVyIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgOiB0aGlzLnNjaGVkdWxlZFNlcnZpY2VTZXJ2aWNlTG9jYWxfLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldE5leHRSZW1pbmRlcnNUb0RlbGl2ZXIoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygiTmV4dCByZW1pbmRlciBbIiArIHJlbWluZGVyICsgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXSBzY2hlZHVsZWQgYXQgWyIgKyBERUxJVkVSWV9EQVRFVElNRV9GT1JNQVQuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JtYXQocmVtaW5kZXIuZ2V0TmV4dERlbGl2ZXJ5RGF0ZVRpbWUoKSkgKyAiXS4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIERlbGl2ZXIgdGhlIHJlbWluZGVyLgogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmRlbGl2ZXJSZW1pbmRlcihyZW1pbmRlcik7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBvcnQuZ2V0TmV4dERlbGl2ZXJ5RGF0ZVRpbWUoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldEV4cG9ydElkXygpIHsKICAgICAgICByZXR1cm4gZXhwb3J0SWRfOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEV4cG9ydElkXyhMb25nIGV4cG9ydElkXykgewogICAgICAgIHRoaXMuZXhwb3J0SWRfID0gZXhwb3J0SWRfOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXSBhdCBbIiArIERFTElWRVJZX0RBVEVUSU1FX0ZPUk1BVC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBvcnQuZ2V0TmV4dERlbGl2ZXJ5RGF0ZVRpbWUoKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGVsaXZlcnkgaW5jbHVkZXMgYSBmYWlsZWQgZGVsaXZlcnkgbWVzc2FnZSB3aGljaCBpcyBub3QgCiAgICAgICAgICAgIC8vIHRlbXBvcmFyeTsgaW4gb3JkZXIgdG8gc3RvcCBkZWxpdmVyeSB1bnRpbCBhIGZpeCBvY2N1cnMsIHB1dCB0aGUgCiAgICAgICAgICAgIC8vIGZhaWxlZCBkZWxpdmVyeSBtZXNzYWdlIGluIHRoZSBzY2hlZHVsZS4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldEV4cG9ydElkXygpIHsKICAgICAgICByZXR1cm4gZXhwb3J0SWRfOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEV4cG9ydElkXyhMb25nIGV4cG9ydElkXykgewogICAgICAgIHRoaXMuZXhwb3J0SWRfID0gZXhwb3J0SWRfOwogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IHdoYXQgYWJvdXQgZXhwb3J0X2lkPwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRGVsaXZlcnkgaW5jbHVkZXMgYSBmYWlsZWQgZGVsaXZlcnkgbWVzc2FnZSB3aGljaCBpcyBub3QgCiAgICAgICAgICAgIC8vIHRlbXBvcmFyeTsgaW4gb3JkZXIgdG8gc3RvcCBkZWxpdmVyeSB1bnRpbCBhIGZpeCBvY2N1cnMsIHB1dCB0aGUgCiAgICAgICAgICAgIC8vIGZhaWxlZCBkZWxpdmVyeSBtZXNzYWdlIGluIHRoZSBzY2hlZHVsZS4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -693,9 +693,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recordReminderDelivery</last-search>
+      <last-search>deliverReminder</last-search>
       <last-offset />
-      <last-pattern>recordReminderDelivery</last-pattern>
+      <last-pattern>deliverReminder</last-pattern>
       <last-replace />
       <last-substitute>_</last-substitute>
       <last-dir>1</last-dir>
@@ -703,7 +703,6 @@
     </search>
     <history>
       <history-search>
-        <entry>admin</entry>
         <entry>scheduledservice</entry>
         <entry>scheduledserviceschedule</entry>
         <entry>SA</entry>
@@ -723,6 +722,7 @@
         <entry>prepare</entry>
         <entry>_</entry>
         <entry>recordReminderDelivery</entry>
+        <entry>deliverReminder</entry>
       </history-search>
       <history-cmd>
         <entry>410</entry>
