@@ -154,12 +154,11 @@
         <mark key="^" line="364" column="46" />
         <mark key="." line="364" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" timestamp="1471011947594">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" timestamp="1471017310268">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="2299" column="0" />
-        <mark key="]" line="2317" column="31" />
-        <mark key="." line="2302" column="5" />
-        <mark key="^" line="2302" column="5" />
+        <mark key="[" line="1175" column="12" />
+        <mark key="]" line="1175" column="12" />
+        <mark key="." line="1175" column="12" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" timestamp="1470766383770">
         <mark key="'" line="0" column="0" />
@@ -330,12 +329,12 @@
         <mark key="^" line="26" column="28" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceLocal.java" timestamp="1471011996796">
-        <mark key="'" line="344" column="5" />
-        <mark key="[" line="448" column="31" />
-        <mark key="]" line="448" column="41" />
-        <mark key="^" line="448" column="41" />
-        <mark key="." line="448" column="41" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceLocal.java" timestamp="1471016342749">
+        <mark key="'" line="181" column="64" />
+        <mark key="[" line="187" column="49" />
+        <mark key="]" line="187" column="15" />
+        <mark key="^" line="185" column="76" />
+        <mark key="." line="187" column="15" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1470945383141">
         <mark key="'" line="150" column="12" />
@@ -547,9 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="59" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="16" column="63" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="20" column="13" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="22" column="62" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="25" column="56" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="28" column="61" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
@@ -647,55 +643,58 @@
       <jump line="1046" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="1355" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="823" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="270" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceLocal.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceLocal.java" />
+      <jump line="181" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceLocal.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VW5oYW5kbGVkRXhjZXB0aW9uIA==</text>
       </register>
       <register name="-" type="4">
-        <text>reminder</text>
+        <text encoding="base64">VW5oYW5kbGVkRXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text>deliverReminder</text>
+        <text>ToDeliver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygiR2V0dGluZyBsaXN0IG9mIHJlbWluZGVycyB0byBkZWxpdmVyLiIpOwogICAgICAgICAgICAgICAgICAgIGZvciAoU2NoZWR1bGVkU2VydmljZVJlbWluZGVyIHJlbWluZGVyIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgOiB0aGlzLnNjaGVkdWxlZFNlcnZpY2VTZXJ2aWNlTG9jYWxfLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldE5leHRSZW1pbmRlcnNUb0RlbGl2ZXIoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygiTmV4dCByZW1pbmRlciBbIiArIHJlbWluZGVyICsgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXSBzY2hlZHVsZWQgYXQgWyIgKyBERUxJVkVSWV9EQVRFVElNRV9GT1JNQVQuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JtYXQocmVtaW5kZXIuZ2V0TmV4dERlbGl2ZXJ5RGF0ZVRpbWUoKSkgKyAiXS4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIERlbGl2ZXIgdGhlIHJlbWluZGVyLgogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmRlbGl2ZXJSZW1pbmRlcihyZW1pbmRlcik7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTY2hlZHVsZWRTZXJ2aWNlUmVtaW5kZXIgcmVtaW5kZXIgOiByZXN1bHRzKSB7CiAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygicmVtaW5kZXIgIiArIHJlbWluZGVyKTsKICAgICAgICAgICAgICAgIHJlbWluZGVycy5hZGQocmVtaW5kZXIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICBMT0dHRVIuaW5mbygiTmV4dCByZW1pbmRlcnMgWyIgKyByZW1pbmRlcnMgKyAKICAgICAgICAgICAgICAgICJdIHRvIGRlbGl2ZXIgb24gb3IgYmVmb3JlIFsiICsgY2FsZW5kYXIuZ2V0VGltZSgpICsgCiAgICAgICAgICAgICAgICAiXSByZXRyaWV2ZWQuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXSBhdCBbIiArIERFTElWRVJZX0RBVEVUSU1FX0ZPUk1BVC4K</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBvcnQuZ2V0TmV4dERlbGl2ZXJ5RGF0ZVRpbWUoKSwK</text>
+        <text encoding="base64">ICAgICAqIHJlbWluZGVyIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldEV4cG9ydElkXygpIHsKICAgICAgICByZXR1cm4gZXhwb3J0SWRfOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEV4cG9ydElkXyhMb25nIGV4cG9ydElkXykgewogICAgICAgIHRoaXMuZXhwb3J0SWRfID0gZXhwb3J0SWRfOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRVNfTkVXKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXSBhdCBbIiArIERFTElWRVJZX0RBVEVUSU1FX0ZPUk1BVC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGVsaXZlcnkgaW5jbHVkZXMgYSBmYWlsZWQgZGVsaXZlcnkgbWVzc2FnZSB3aGljaCBpcyBub3QgCiAgICAgICAgICAgIC8vIHRlbXBvcmFyeTsgaW4gb3JkZXIgdG8gc3RvcCBkZWxpdmVyeSB1bnRpbCBhIGZpeCBvY2N1cnMsIHB1dCB0aGUgCiAgICAgICAgICAgIC8vIGZhaWxlZCBkZWxpdmVyeSBtZXNzYWdlIGluIHRoZSBzY2hlZHVsZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBvcnQuZ2V0TmV4dERlbGl2ZXJ5RGF0ZVRpbWUoKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldEV4cG9ydElkXygpIHsKICAgICAgICByZXR1cm4gZXhwb3J0SWRfOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEV4cG9ydElkXyhMb25nIGV4cG9ydElkXykgewogICAgICAgIHRoaXMuZXhwb3J0SWRfID0gZXhwb3J0SWRfOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deliverReminder</last-search>
+      <last-search>ToDeliver</last-search>
       <last-offset />
-      <last-pattern>deliverReminder</last-pattern>
+      <last-pattern>ToDeliver</last-pattern>
       <last-replace />
       <last-substitute>_</last-substitute>
       <last-dir>1</last-dir>
@@ -703,8 +702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scheduledservice</entry>
-        <entry>scheduledserviceschedule</entry>
         <entry>SA</entry>
         <entry>user</entry>
         <entry>getUsername</entry>
@@ -723,6 +720,8 @@
         <entry>_</entry>
         <entry>recordReminderDelivery</entry>
         <entry>deliverReminder</entry>
+        <entry>getReminders</entry>
+        <entry>ToDeliver</entry>
       </history-search>
       <history-cmd>
         <entry>410</entry>
