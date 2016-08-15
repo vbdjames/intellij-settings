@@ -235,6 +235,9 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" timestamp="1470752219017">
         <mark key="'" line="6023" column="37" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/EmailAttachmentType.java" timestamp="1471279474292">
+        <mark key="'" line="15" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageListFormatType.java" timestamp="1468882290210">
         <mark key="'" line="156" column="13" />
       </file>
@@ -295,12 +298,12 @@
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" timestamp="1468951468501">
         <mark key="'" line="55" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1471275822405">
-        <mark key="'" line="2646" column="5" />
-        <mark key="[" line="2230" column="50" />
-        <mark key="]" line="2221" column="0" />
-        <mark key="." line="2221" column="0" />
-        <mark key="^" line="2227" column="29" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1471279662870">
+        <mark key="'" line="2652" column="5" />
+        <mark key="[" line="2239" column="0" />
+        <mark key="]" line="2239" column="0" />
+        <mark key="." line="2239" column="0" />
+        <mark key="^" line="2236" column="34" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Calendar.java" timestamp="1470684057801">
         <mark key="'" line="1461" column="32" />
@@ -413,12 +416,6 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCheckBoxSelectionTable.java" timestamp="1470315363099">
         <mark key="'" line="240" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/CallCenterInfoService.java" timestamp="1470932615470">
-        <mark key="'" line="31" column="13" />
-        <mark key="]" line="78" column="54" />
-        <mark key="^" line="78" column="54" />
-        <mark key="." line="78" column="54" />
-      </file>
       <file name="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" timestamp="1470934527972">
         <mark key="'" line="64" column="13" />
         <mark key="[" line="98" column="46" />
@@ -453,6 +450,9 @@
         <mark key="]" line="2785" column="74" />
         <mark key="." line="2785" column="74" />
         <mark key="^" line="2785" column="74" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageListFormatType.java" timestamp="1471279336293">
+        <mark key="'" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1466793189972">
         <mark key="'" line="532" column="13" />
@@ -563,8 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="548" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" />
-      <jump line="516" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" />
       <jump line="69" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" />
       <jump line="160" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" />
@@ -663,10 +661,12 @@
       <jump line="12" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethodTypeType.java" />
       <jump line="2208" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="2606" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="18" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageListFormatType.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/EmailAttachmentType.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmVyaWZ5IHRpbWUgem9uZSBpcyB2YWxpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>list</text>
@@ -675,34 +675,34 @@
         <text>EMAIL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93KG5ldyBWYWxpZGF0aW9uRXhjZXB0aW9uKCJDYW5ub3QgZ2V0IHNjaGVkdWxlZCAiICsKICAgICAgICAgICAgICAgICAgICAic2VydmljZSBtZXNzYWdlIGxpc3QgZGVsaXZlcnkgcmVxdWVzdHM7IHNjaGVkdWxlZCAiICsKICAgICAgICAgICAgICAgICAgICAic2VydmljZSBbIiArIHNjaGVkdWxlZFNlcnZpY2UgKyAiXSB0aW1lIHpvbmUgWyIgKwogICAgICAgICAgICAgICAgICAgIHNjaGVkdWxlZFNlcnZpY2UuZ2V0VGltZVpvbmUoKSArICJdIGlzIG5vdCB2YWxpZC4iKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbWFpbEF0dGFjaG1lbnRUeXBlID0gRW1haWxBdHRhY2htZW50VHlwZS5ERUZBVUxUOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmVyaWZ5IHRpbWUgem9uZSBpcyB2YWxpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZ2V0IHN0YXJ0IGFuZCBlbmQgZGF0ZSBhbmQgdGltZSBvZiBtZXNzYWdlcyB0byBpbmNsdWRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmVyaWZ5IG1lc3NhZ2Ugc2VsZWN0b3JzIGV4aXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmVyaWZ5IG1lc3NhZ2UgbGlzdCBmb3JtYXQgaXMgdmFsaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2NoZWR1bGVkU2VydmljZVR5cGUgc2VydmljZVR5cGUgPSB0aGlzLnNlcnZpY2VUeXBlTWFwXwogICAgICAgICAgICAgICAgICAgIC5nZXQoZGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmVyaWZ5IHRpbWUgem9uZSBpcyB2YWxpZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGV0ZXJtaW5lIG9wZXJhdGlvbnMgZ3JvdXAgb2YgY3VzdG9tZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG9wZXJhdGlvbnNHcm91cCA9IG51bGw7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBvcGVyYXRpb25zR3JvdXAgPSB0aGlzLnNlcnZpY2VJdGVtU2VydmljZUxvY2FsXwogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0U2VydmljZUl0ZW1PcGVyYXRpb25zR3JvdXAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwb3J0LmdldFNlcnZpY2VJdGVtVHlwZSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cG9ydC5nZXRTZXJ2aWNlSXRlbU51bWJlcigpLCAiZWNobyIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNhdGNoIChOb3RQZXJmb3JtZWRFeGNlcHRpb24gZXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBMT0dHRVIud2FybigiRXJyb3IgZ2V0dGluZyBvcGVyYXRpb25zIGdyb3VwIGZvciAiICsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwb3J0LmdldFNlcnZpY2VJdGVtVHlwZSgpICsgIiBbIiArCiAgICAgICAgICAgICAgICAgICAgICAgIGV4cG9ydC5nZXRTZXJ2aWNlSXRlbU51bWJlcigpICsgIl06ICIgKwogICAgICAgICAgICAgICAgICAgICAgICBleGNlcHRpb24uZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgICAgIExPR0dFUi53YXJuKCJTdWJzdGl0dXRpbmcgZGVmYXVsdCBvcGVyYXRpb25zIGdyb3VwIFsiICsKICAgICAgICAgICAgICAgICAgICAgICAgT3BlcmF0aW9uc0dyb3VwVHlwZS5ERUZBVUxUICsgIl0uIik7CiAgICAgICAgICAgICAgICBvcGVyYXRpb25zR3JvdXAgPSBPcGVyYXRpb25zR3JvdXBUeXBlLkRFRkFVTFQuZ2V0VG9rZW4oKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmVyaWZ5IG1lc3NhZ2Ugc2VsZWN0b3JzIGV4aXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2NoZWR1bGVkU2VydmljZVR5cGUgc2VydmljZVR5cGUgPSB0aGlzLnNlcnZpY2VUeXBlTWFwXwogICAgICAgICAgICAgICAgICAgIC5nZXQoZGVzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gd2UncmUgZ29pbmcgdG8gaW4tbGluZSB0aGlzCiAgICAgICAgICAgIGRlbGl2ZXJ5UmVxdWVzdHMgPSB0aGlzCiAgICAgICAgICAgICAgICAgICAgLmdldE1lc3NhZ2VMaXN0RGVsaXZlcnlSZXF1ZXN0c0Zvck1lc3NhZ2VFeHBvcnQoZXhwb3J0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWNjb3VudE51bWJlciwgY3VzdG9tZXJOdW1iZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGV0ZXJtaW5lIG9wZXJhdGlvbnMgZ3JvdXAgb2YgY3VzdG9tZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG9wZXJhdGlvbnNHcm91cCA9IG51bGw7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBvcGVyYXRpb25zR3JvdXAgPSB0aGlzLnNlcnZpY2VJdGVtU2VydmljZUxvY2FsXwogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0U2VydmljZUl0ZW1PcGVyYXRpb25zR3JvdXAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwb3J0LmdldFNlcnZpY2VJdGVtVHlwZSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cG9ydC5nZXRTZXJ2aWNlSXRlbU51bWJlcigpLCAiZWNobyIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNhdGNoIChOb3RQZXJmb3JtZWRFeGNlcHRpb24gZXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBMT0dHRVIud2FybigiRXJyb3IgZ2V0dGluZyBvcGVyYXRpb25zIGdyb3VwIGZvciAiICsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwb3J0LmdldFNlcnZpY2VJdGVtVHlwZSgpICsgIiBbIiArCiAgICAgICAgICAgICAgICAgICAgICAgIGV4cG9ydC5nZXRTZXJ2aWNlSXRlbU51bWJlcigpICsgIl06ICIgKwogICAgICAgICAgICAgICAgICAgICAgICBleGNlcHRpb24uZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgICAgIExPR0dFUi53YXJuKCJTdWJzdGl0dXRpbmcgZGVmYXVsdCBvcGVyYXRpb25zIGdyb3VwIFsiICsKICAgICAgICAgICAgICAgICAgICAgICAgT3BlcmF0aW9uc0dyb3VwVHlwZS5ERUZBVUxUICsgIl0uIik7CiAgICAgICAgICAgICAgICBvcGVyYXRpb25zR3JvdXAgPSBPcGVyYXRpb25zR3JvdXBUeXBlLkRFRkFVTFQuZ2V0VG9rZW4oKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
