@@ -511,9 +511,9 @@
         <mark key="[" line="552" column="0" />
         <mark key="]" line="552" column="78" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1471265724707">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="957" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1471267165118">
+        <mark key="'" line="1771" column="46" />
+        <mark key="[" line="2209" column="0" />
         <mark key="]" line="958" column="32" />
         <mark key="." line="958" column="32" />
         <mark key="^" line="958" column="32" />
@@ -547,8 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2605" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="123" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="209" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="223" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="274" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
@@ -646,7 +644,9 @@
       <jump line="79" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="916" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="1320" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="1227" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="1771" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -656,7 +656,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>deliverMessageExport</text>
+        <text>getReminder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oInJlcXVlc3RzICIgKyBkZWxpdmVyeVJlcXVlc3RzKTsK</text>
@@ -693,9 +693,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deliverMessageExport</last-search>
+      <last-search>getReminder</last-search>
       <last-offset />
-      <last-pattern>deliverMessageExport</last-pattern>
+      <last-pattern>getReminder</last-pattern>
       <last-replace />
       <last-substitute>_</last-substitute>
       <last-dir>1</last-dir>
@@ -703,8 +703,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveNewMessageEx</entry>
-        <entry>prepare</entry>
         <entry>_</entry>
         <entry>recordReminderDelivery</entry>
         <entry>deliverReminder</entry>
@@ -723,6 +721,8 @@
         <entry>deliverSched</entry>
         <entry>delivertExport</entry>
         <entry>deliverMessageExport</entry>
+        <entry>getScheduleDeliveryRequests</entry>
+        <entry>getReminder</entry>
       </history-search>
       <history-cmd>
         <entry>410</entry>
