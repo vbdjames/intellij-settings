@@ -131,12 +131,12 @@
         <mark key="^" line="15135" column="57" />
         <mark key="." line="15135" column="57" />
       </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" timestamp="1471288391573">
-        <mark key="'" line="108" column="16" />
-        <mark key="[" line="321" column="40" />
-        <mark key="]" line="322" column="27" />
+      <file name="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" timestamp="1471369209424">
+        <mark key="'" line="337" column="52" />
+        <mark key="[" line="349" column="39" />
+        <mark key="]" line="349" column="39" />
         <mark key="^" line="322" column="27" />
-        <mark key="." line="322" column="27" />
+        <mark key="." line="349" column="39" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/agentui/MessageDeliveryDetailsDialog.java" timestamp="1462226506391">
         <mark key="'" line="446" column="46" />
@@ -297,12 +297,12 @@
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" timestamp="1468951468501">
         <mark key="'" line="55" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1471367483060">
-        <mark key="'" line="825" column="19" />
-        <mark key="[" line="1005" column="28" />
-        <mark key="]" line="1021" column="8" />
-        <mark key="." line="1021" column="8" />
-        <mark key="^" line="1021" column="8" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1471370437897">
+        <mark key="'" line="2286" column="46" />
+        <mark key="[" line="2393" column="0" />
+        <mark key="]" line="2393" column="46" />
+        <mark key="." line="2393" column="0" />
+        <mark key="^" line="2395" column="15" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Calendar.java" timestamp="1470684057801">
         <mark key="'" line="1461" column="32" />
@@ -565,30 +565,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="1540" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="1632" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="1679" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="156" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageSelector.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageSelector.java" />
-      <jump line="278" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" />
-      <jump line="317" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" />
-      <jump line="172" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="2380" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="2166" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="942" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="61" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="68" column="54" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="69" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="70" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="71" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="72" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="76" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="371" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="826" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="876" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="924" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="943" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="887" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="923" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
@@ -663,59 +640,82 @@
       <jump line="2510" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="2326" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="1395" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="0" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="824" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="142" column="16" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="143" column="16" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="162" column="50" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="163" column="50" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="226" column="16" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="237" column="50" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="253" column="16" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="269" column="54" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="270" column="54" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="290" column="16" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="301" column="54" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="320" column="2" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="321" column="2" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="336" column="52" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="337" column="52" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_scheduled_service_tables.sql" />
+      <jump line="2542" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="924" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="1115" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="1147" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="1470" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="2286" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>package</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvb3QuYWRkKHNlcnZpY2VJdGVtc0VsZW1lbnQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>package</text>
+        <text encoding="base64">IE5PVCBOVUxM</text>
       </register>
       <register name="/" type="4">
-        <text>deliverReminder</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLnNjaGVkdWxlZHNlcnZpY2UuU2NoZWR1bGVkU2VydmljZU1lc3NhZ2VFeHBvcnQ8L2NsYXNzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiByZWNlaXZlck51bWJlcnMgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgICAgICAgICAgICAgIGlmIChleHBvcnQuZ2V0U2VydmljZUl0ZW1UeXBlKCkgPT0gQ3VzdG9tRm9ybUdyb3VwVHlwZQogICAgICAgICAgICAgICAgICAgICAgICAuQUNDT1VOVC5nZXRUb2tlbigpKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzogYnVpbGQgYSBsaXN0IG9mIHJlY2VpdmVycwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgLy8gaXQgbXVzdCBiZSBhIHJlY2VpdmVyCiAgICAgICAgICAgICAgICAgICAgcmVjZWl2ZXJOdW1iZXJzLmFkZChleHBvcnQuZ2V0U2VydmljZUl0ZW1OdW1iZXIoKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IHdoYXQgYWJvdXQgZXhwb3J0X2lkPwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvb3QuYWRkKHNlcnZpY2VJdGVtc0VsZW1lbnQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLnNjaGVkdWxlZHNlcnZpY2UuU2NoZWR1bGVkU2VydmljZU1lc3NhZ2VFeHBvcnREZWxpdmVyeTwvY2xhc3M+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGl0IG11c3QgYmUgYSByZWNlaXZlcgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlY2VpdmVyTnVtYmVycyA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IHdoYXQgYWJvdXQgZXhwb3J0X2lkPwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLnNjaGVkdWxlZHNlcnZpY2UuU2NoZWR1bGVkU2VydmljZU1lc3NhZ2VFeHBvcnREZWxpdmVyeTwvY2xhc3M+Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>null, messageId,
                             deliveryDateTime, delivererName, performedTimestamp,
                             deliveryRequest, deliveryReply, failedDeliveryMessage</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gVmVyaWZ5IHRoYXQgZGVsaXZlcnkgZGF0ZXRpbWUgaXMgbm90IG51bGwuCiAgICAgICAgICAgIGlmIChkZWxpdmVyeURhdGVUaW1lID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRocm93KG5ldyBCYWRBcmd1bWVudEV4Y2VwdGlvbigiQ2Fubm90IHJlY29yZCByZW1pbmRlciAiICsKICAgICAgICAgICAgICAgICAgICAgICAgIm1lc3NhZ2UgZGVsaXZlcnk7IGRlbGl2ZXJ5IGRhdGV0aW1lIGlzIG51bGwuIikpOwogICAgICAgICAgICB9Cgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbywgYm9vbGVhbiBiKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>deliverReminder</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>deliverReminder</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>serviceType_</last-replace>
       <last-substitute>timeZone_</last-substitute>
       <last-dir>1</last-dir>
@@ -723,12 +723,9 @@
     </search>
     <history>
       <history-search>
-        <entry>getDestinationsElements</entry>
-        <entry>type_</entry>
         <entry>include</entry>
         <entry>getInclude</entry>
         <entry>ACCOUNT</entry>
-        <entry>deliverMessageExport</entry>
         <entry>deliverScheduleRequests</entry>
         <entry>deliver</entry>
         <entry>getScheduleService</entry>
@@ -743,6 +740,9 @@
         <entry>exportId</entry>
         <entry>record.*Delivery</entry>
         <entry>deliverReminder</entry>
+        <entry>failed_delivery</entry>
+        <entry>deliverMessageExport</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>412</entry>
