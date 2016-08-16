@@ -91,12 +91,12 @@
         <mark key="." line="37" column="71" />
         <mark key="^" line="102" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1470939077196">
-        <mark key="'" line="2775" column="44" />
-        <mark key="[" line="2599" column="83" />
-        <mark key="]" line="2599" column="72" />
-        <mark key="." line="2599" column="72" />
-        <mark key="^" line="2599" column="72" />
+      <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1471356540615">
+        <mark key="'" line="2601" column="60" />
+        <mark key="[" line="2601" column="75" />
+        <mark key="]" line="2601" column="80" />
+        <mark key="." line="2601" column="80" />
+        <mark key="^" line="2601" column="80" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" timestamp="1471354965431">
         <mark key="'" line="234" column="19" />
@@ -560,11 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethodSelection.java" />
-      <jump line="368" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethodType.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceType.java" />
-      <jump line="12" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethodTypeType.java" />
-      <jump line="2208" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="2606" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="18" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageListFormatType.java" />
       <jump line="1592" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
@@ -660,59 +655,62 @@
       <jump line="1006" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="1009" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="234" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="2204" column="60" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="2205" column="60" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="2600" column="60" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="2601" column="60" filename="$USER_HOME$/Code/echo/build.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null, messageId,
-                            deliveryDateTime, delivererName, performedTimestamp,
-                            deliveryRequest, deliveryReply, failedDeliveryMessage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR7c2NoZWR1bGVkc2VydmljZS5wa2cuZGlyfS9TY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydC5jbGFzcywK</text>
       </register>
       <register name="-" type="4">
         <text>message</text>
       </register>
       <register name="/" type="4">
-        <text>record</text>
+        <text>messageexport</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAvLyBWZXJpZnkgdGhhdCBtZXNzYWdlIElEIGlzIG5vdCBudWxsLgogICAgICAgICAgICBpZiAobWVzc2FnZUlkID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRocm93KG5ldyBCYWRBcmd1bWVudEV4Y2VwdGlvbigiQ2Fubm90IHJlY29yZCByZW1pbmRlciAiICsKICAgICAgICAgICAgICAgICAgICAibWVzc2FnZSBkZWxpdmVyeTsgcmVtaW5kZXIgREJJRCBpcyBudWxsLiIpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgLy8gVmVyaWZ5IHRoYXQgZGVsaXZlcnkgZGF0ZXRpbWUgaXMgbm90IG51bGwuCiAgICAgICAgICAgIGlmIChkZWxpdmVyeURhdGVUaW1lID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRocm93KG5ldyBCYWRBcmd1bWVudEV4Y2VwdGlvbigiQ2Fubm90IHJlY29yZCByZW1pbmRlciAiICsKICAgICAgICAgICAgICAgICAgICAibWVzc2FnZSBkZWxpdmVyeTsgZGVsaXZlcnkgZGF0ZXRpbWUgaXMgbnVsbC4iKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIFZlcmlmeSB0aGF0IGRlbGl2ZXJlciBuYW1lIGlzIG5vdCBudWxsLgogICAgICAgICAgICBpZiAoZGVsaXZlcmVyTmFtZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICB0aHJvdyhuZXcgQmFkQXJndW1lbnRFeGNlcHRpb24oIkNhbm5vdCByZWNvcmQgcmVtaW5kZXIgIiArCiAgICAgICAgICAgICAgICAgICAgIm1lc3NhZ2UgZGVsaXZlcnk7IGRlbGl2ZXJlciBuYW1lIGlzIG51bGwuIikpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICAvLyBWZXJpZnkgdGhhdCBwZXJmb3JtZWQgdGltZXN0YW1wIGlzIG5vdCBudWxsLgogICAgICAgICAgICBpZiAocGVyZm9ybWVkVGltZXN0YW1wID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRocm93KG5ldyBCYWRBcmd1bWVudEV4Y2VwdGlvbigiQ2Fubm90IHJlY29yZCByZW1pbmRlciAiICsKICAgICAgICAgICAgICAgICAgICAibWVzc2FnZSBkZWxpdmVyeTsgcGVyZm9ybWVkIHRpbWVzdGFtcCBpcyBudWxsLiIpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgdGhpcy5zY2hlZHVsZWRTZXJ2aWNlU2VydmljZUxvY2FsXy5yZWNvcmRSZW1pbmRlckRlbGl2ZXJ5KAogICAgICAgICAgICAgICAgbmV3IFNjaGVkdWxlZFNlcnZpY2VSZW1pbmRlckRlbGl2ZXJ5KG51bGwsIG1lc3NhZ2VJZCwgCiAgICAgICAgICAgICAgICAgICAgZGVsaXZlcnlEYXRlVGltZSwgZGVsaXZlcmVyTmFtZSwgcGVyZm9ybWVkVGltZXN0YW1wLCAKICAgICAgICAgICAgICAgICAgICBkZWxpdmVyeVJlcXVlc3QsIGRlbGl2ZXJ5UmVwbHksIGZhaWxlZERlbGl2ZXJ5TWVzc2FnZSksIAogICAgICAgICAgICAgICAgICAgIHRlbXBvcmFyeUZhaWx1cmUpOwogICAgICAgIH0KICAgICAgICAvLyBMb2cgYW55IEV4Y2VwdGlvbiwgYnV0IGRvIG5vdCByZXRocm93LCBzaW5jZSBmYWlsdXJlIHRvIHJlY29yZCBhCiAgICAgICAgLy8gZGVsaXZlcnkgbXVzdCBub3QgaW50ZXJmZXJlIHdpdGggcGVyZm9ybWluZyB0aGUgZGVsaXZlcnkuCiAgICAgICAgY2F0Y2goamF2YS5sYW5nLkV4Y2VwdGlvbiBleGNlcHRpb24pIHsKICAgICAgICAgICAgTE9HR0VSLndhcm4oKCJFcnJvciByZWNvcmRpbmcgcmVtaW5kZXIgZGVsaXZlcnk6ICIgKyAKICAgICAgICAgICAgICAgIGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCkpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR7c2NoZWR1bGVkc2VydmljZS5wa2cuZGlyfS9TY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydC5jbGFzcywK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>null, messageId,
                             deliveryDateTime, delivererName, performedTimestamp,
                             deliveryRequest, deliveryReply, failedDeliveryMessage</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gVmVyaWZ5IHRoYXQgZGVsaXZlcnkgZGF0ZXRpbWUgaXMgbm90IG51bGwuCiAgICAgICAgICAgIGlmIChkZWxpdmVyeURhdGVUaW1lID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRocm93KG5ldyBCYWRBcmd1bWVudEV4Y2VwdGlvbigiQ2Fubm90IHJlY29yZCByZW1pbmRlciAiICsKICAgICAgICAgICAgICAgICAgICAgICAgIm1lc3NhZ2UgZGVsaXZlcnk7IGRlbGl2ZXJ5IGRhdGV0aW1lIGlzIG51bGwuIikpOwogICAgICAgICAgICB9Cgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbywgYm9vbGVhbiBiKSB7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRlbGl2ZXJNZXNzYWdlRXhwb3J0UmVxdWVzdChTdHJpbmcgZGVsaXZlcnlSZXF1ZXN0KSAKICAgICAgICB0aHJvd3MgQ29tbXVuaWNhdGlvbkV4Y2VwdGlvbiB7CiAgICAgICAgU3RyaW5nIGRlbGl2ZXJ5UmVwbHkgPSBudWxsOwogICAgICAgIAogICAgICAgIFN0cmluZyBzY2hlZHVsZVNlcnZpY2VBZGRyZXNzID0gdGhpcy5nZXRTY2hlZHVsZVNlcnZpY2VBZGRyZXNzKCk7CiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgcmV0dXJuIGRlbGl2ZXJ5UmVwbHk7CiAgICB9Cgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiRGVsaXZlciIpCg==</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RpbWVab25lXy9zZXJ2aWNlVHlwZV8vZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>record</last-search>
+      <last-search>messageexport</last-search>
       <last-offset />
-      <last-pattern>record</last-pattern>
+      <last-pattern>messageexport</last-pattern>
       <last-replace>serviceType_</last-replace>
       <last-substitute>timeZone_</last-substitute>
       <last-dir>1</last-dir>
@@ -720,7 +718,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exportType_</entry>
         <entry>save</entry>
         <entry>getSchedul</entry>
         <entry>getService</entry>
@@ -740,6 +737,7 @@
         <entry>deliverMessageExpo</entry>
         <entry>deliverSchedule</entry>
         <entry>record</entry>
+        <entry>messageexport</entry>
       </history-search>
       <history-cmd>
         <entry>282</entry>
@@ -758,10 +756,10 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>5319</entry>
         <entry encoding="base64">JzwsJz5zL18vL2c=</entry>
-        <entry>w</entry>
         <entry>1593</entry>
         <entry>2318</entry>
         <entry encoding="base64">JzwsJz5zL3RpbWVab25lXy9zZXJ2aWNlVHlwZV8vZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
