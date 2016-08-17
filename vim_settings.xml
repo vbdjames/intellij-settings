@@ -331,11 +331,11 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/testing.csv" timestamp="1471466791923">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="37" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/testing.csv" timestamp="1471469326485">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="61" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageSelector.java" timestamp="1471290908280">
         <mark key="'" line="0" column="0" />
@@ -679,11 +679,11 @@
       <jump line="221914" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IjAwMDAwMTAyMDEiLCIyMDE2LTA4LTEwIDAwOjAwOjAxIixkMQoiMDAwMDAxNTE3NCIsIjIwMTYtMDgtMTAgMDA6MDA6MDEiLGQxCiIwMDAwMDIyNTM3IiwiMjAxNi0wOC0xMCAwMDowMDowMSIsZDEKIjAwMDAwMjI1NjAiLCIyMDE2LTA4LTEwIDAwOjAwOjAxIixkMQoiMDAwMDAyNjg2NCIsIjIwMTYtMDgtMTAgMDA6MDA6MDEiLGQxCiIwMDAwMDI5NTY4IiwiMjAxNi0wOC0xMCAwMDowMDowMSIsZDEK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAqIA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\&quot;</text>
