@@ -82,11 +82,7 @@
         <mark key="'" line="153" column="4" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceLocal.java" timestamp="1471619604202">
-        <mark key="'" line="3486" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="78" column="25" />
-        <mark key="." line="81" column="0" />
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceType.java" timestamp="1471267985237">
         <mark key="'" line="50" column="0" />
@@ -98,8 +94,8 @@
         <mark key="." line="37" column="71" />
         <mark key="^" line="102" column="62" />
       </file>
-      <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1471615300364">
-        <mark key="'" line="1769" column="0" />
+      <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1471621112376">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" timestamp="1471463132343">
         <mark key="'" line="100" column="8" />
@@ -261,12 +257,6 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminService.java" timestamp="1471619574212">
-        <mark key="'" line="1362" column="8" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/TimeZoneFormatType.java" timestamp="1470667273564">
         <mark key="'" line="25" column="6" />
       </file>
@@ -323,11 +313,7 @@
         <mark key="'" line="110" column="32" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1471619633504">
-        <mark key="'" line="13324" column="42" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="112" column="32" />
+        <mark key="'" line="13326" column="42" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/testing.csv" timestamp="1471469326485">
         <mark key="[" line="0" column="30" />
@@ -580,7 +566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="184" column="74" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="415" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="238" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
@@ -672,7 +657,6 @@
       <jump line="1684" column="23" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="1834" column="23" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="338" column="20" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="337" column="42" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="342" column="72" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="1614" column="33" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -680,6 +664,8 @@
       <jump line="10773" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="13328" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="2177" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceUtilities.java" />
+      <jump line="336" column="52" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -689,7 +675,7 @@
         <text>Messages ending</text>
       </register>
       <register name="/" type="4">
-        <text>prod5</text>
+        <text>foreach</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IjAwMDAwMTAyMDEiLCIyMDE2LTA4LTEwIDAwOjAwOjAxIixkMQoiMDAwMDAxNTE3NCIsIjIwMTYtMDgtMTAgMDA6MDA6MDEiLGQxCiIwMDAwMDIyNTM3IiwiMjAxNi0wOC0xMCAwMDowMDowMSIsZDEKIjAwMDAwMjI1NjAiLCIyMDE2LTA4LTEwIDAwOjAwOjAxIixkMQoiMDAwMDAyNjg2NCIsIjIwMTYtMDgtMTAgMDA6MDA6MDEiLGQxCiIwMDAwMDI5NTY4IiwiMjAxNi0wOC0xMCAwMDowMDowMSIsZDEK</text>
@@ -726,9 +712,9 @@
       </register>
     </registers>
     <search>
-      <last-search>prod5</last-search>
+      <last-search>foreach</last-search>
       <last-offset />
-      <last-pattern>prod5</last-pattern>
+      <last-pattern>foreach</last-pattern>
       <last-replace />
       <last-substitute>\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -736,7 +722,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hashCode</entry>
         <entry>getMessageExports</entry>
         <entry>ToDeliver</entry>
         <entry>prepareMessageExport</entry>
@@ -756,6 +741,7 @@
         <entry>test2echo</entry>
         <entry>test1echo</entry>
         <entry>prod5</entry>
+        <entry>foreach</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL18oLygvZw==</entry>
