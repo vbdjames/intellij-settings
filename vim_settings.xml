@@ -78,8 +78,8 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/look/FrameLook.java" timestamp="1468264461633">
         <mark key="'" line="388" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" timestamp="1470688414663">
-        <mark key="'" line="153" column="4" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" timestamp="1471886545780">
+        <mark key="'" line="151" column="12" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceLocal.java" timestamp="1471619604202">
         <mark key="'" line="9" column="0" />
@@ -169,8 +169,8 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" timestamp="1471463233411">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" timestamp="1471455185131">
-        <mark key="'" line="1749" column="32" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" timestamp="1471881500839">
+        <mark key="'" line="1117" column="56" />
         <mark key="[" line="103" column="17" />
         <mark key="]" line="104" column="18" />
         <mark key="." line="104" column="18" />
@@ -354,11 +354,12 @@
         <mark key="^" line="24" column="18" />
         <mark key="." line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1471881243189">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1471887956918">
         <mark key="'" line="192" column="6" />
-        <mark key="[" line="511" column="0" />
-        <mark key="]" line="511" column="0" />
-        <mark key="." line="511" column="0" />
+        <mark key="[" line="508" column="73" />
+        <mark key="]" line="508" column="7" />
+        <mark key="." line="508" column="7" />
+        <mark key="^" line="508" column="7" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceSchedule.java" timestamp="1470146883751">
         <mark key="'" line="443" column="6" />
@@ -570,27 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1175" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="1184" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="564" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceLocal.java" />
-      <jump line="836" column="9" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
-      <jump line="87" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="102" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="339" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="482" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="116" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="220" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="239" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="242" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="425" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="432" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="433" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="435" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="437" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="438" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="439" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="441" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="444" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="5414" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="216" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="1558" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
@@ -670,55 +650,76 @@
       <jump line="36" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="74" column="55" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
       <jump line="97" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDateTimeField.java" />
+      <jump line="166" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="1565" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="1566" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="1299" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="21" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="56" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="157" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="158" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="324" column="66" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="331" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="335" column="66" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="342" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="1117" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
+      <jump line="29" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="177" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="167" column="52" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="41" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="149" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="150" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
+      <jump line="151" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYWwuc2V0KHN0YXJ0VGltZS5nZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIHN0YXJ0VGltZSA9IChEYXRlKSBmcm9tRGF0ZVRpbWVGaWVsZF8uZ2V0Q29yZVZhbHVlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">InNhdmUgMSA9PT09PT4gIiArIHN0YXJ0RGF0ZVRpbWU=</text>
       </register>
       <register name="/" type="4">
-        <text>formatter</text>
+        <text>timeZoneType_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygic2F2ZSAxID09PT09PiAiICsgc3RhcnREYXRlVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWwuc2V0KHN0YXJ0VGltZS5nZXQpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBEYXRlIHN0YXJ0VGltZSA9IChEYXRlKSBmcm9tRGF0ZVRpbWVGaWVsZF8uZ2V0Q29yZVZhbHVlKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygic2F2ZSAyID09PT09PiAiICsgc3RhcnREYXRlVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FsLmdldFRpbWUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT0+IFRISVMgSVMgQ1JFQVRJT04gRlJPTSBESUFMT0cgPD09Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhcnRUaW1lLmdldFRpbWUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjYXN0IHRoZSBmcm9tL3RvIGRhdGUgdGltZSBmaWVsZHMgdG8gdGhlIGNvcnJlY3QgdGltZXpvbmUKICAgICAgICAvLyB0aGUgdmFsdWUgZW50ZXJlZCBpcyAxMjowMCBBTSwgRWFzdGVybiAtIHRoYXQncyB3aGF0IHdlIG5lZWQKICAgICAgICAvLyB0byBzZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXIuZ2V0TG9nZ2VyKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYWwuc2V0VGltZShzdGFydFRpbWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>formatter</last-search>
+      <last-search>timeZoneType_</last-search>
       <last-offset />
-      <last-pattern>formatter</last-pattern>
+      <last-pattern>timeZoneType_</last-pattern>
       <last-replace />
       <last-substitute>\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -726,9 +727,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\&quot;</entry>
-        <entry>MScrollPane</entry>
-        <entry>destinationPane</entry>
         <entry>setBackground</entry>
         <entry>prod5echoeadm</entry>
         <entry>prod</entry>
@@ -746,6 +744,9 @@
         <entry>getCoreValue</entry>
         <entry>system.out</entry>
         <entry>formatter</entry>
+        <entry>searchDialog</entry>
+        <entry>TimeZone</entry>
+        <entry>timeZoneType_</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL18oLygvZw==</entry>
