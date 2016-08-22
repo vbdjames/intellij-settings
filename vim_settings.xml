@@ -302,6 +302,9 @@
         <mark key="]" line="2313" column="0" />
         <mark key="." line="2313" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/lock/LockServiceBean.java" timestamp="1471898641207">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Calendar.java" timestamp="1470684057801">
         <mark key="'" line="1461" column="32" />
       </file>
@@ -566,8 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2728" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
-      <jump line="2884" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="3102" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="5426" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="5379" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
@@ -666,6 +667,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="156" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" />
+      <jump line="67" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/lock/LockServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/lock/LockServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -675,7 +678,7 @@
         <text>startTime</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>lockechoentity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBEYXRlIHN0YXJ0VGltZSA9IGNhbGVuZGFyVXRpbGl0aWVzXy5nZXREZWZhdWx0VGltZSgKICAgICAgICAgICAgICAgIChEYXRlKSBmcm9tRGF0ZVRpbWVGaWVsZF8uZ2V0Q29yZVZhbHVlKCksCiAgICAgICAgICAgICAgICB0aW1lWm9uZVR5cGVfLmdldFRva2VuKCkpOwo=</text>
@@ -712,9 +715,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>lockechoentity</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>lockechoentity</last-pattern>
       <last-replace />
       <last-substitute>\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -722,7 +725,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test2echo</entry>
         <entry>test1echo</entry>
         <entry>prod5</entry>
         <entry>foreach</entry>
@@ -742,6 +744,7 @@
         <entry>println</entry>
         <entry>foo</entry>
         <entry>logger</entry>
+        <entry>lockechoentity</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL18oLygvZw==</entry>
