@@ -164,7 +164,7 @@
         <mark key="^" line="364" column="46" />
         <mark key="." line="364" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" timestamp="1471978387439">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" timestamp="1471980740288">
         <mark key="'" line="486" column="71" />
         <mark key="[" line="2385" column="17" />
         <mark key="]" line="2386" column="0" />
@@ -297,8 +297,8 @@
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" timestamp="1468951468501">
         <mark key="'" line="55" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1471980217272">
-        <mark key="'" line="2267" column="61" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1471980686067">
+        <mark key="'" line="312" column="3" />
         <mark key="[" line="103" column="60" />
         <mark key="]" line="103" column="59" />
         <mark key="." line="103" column="59" />
@@ -560,7 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13328" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="2177" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceUtilities.java" />
       <jump line="336" column="52" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -660,6 +659,7 @@
       <jump line="2441" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="103" column="55" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="2267" column="61" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="312" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -669,7 +669,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>chunk</text>
+        <text>record</text>
       </register>
       <register name="0" type="4">
         <text>MESSAGE_EXPORT_MAXIMUM_RECEIVERS</text>
@@ -706,9 +706,9 @@
       </register>
     </registers>
     <search>
-      <last-search>chunk</last-search>
+      <last-search>record</last-search>
       <last-offset />
-      <last-pattern>chunk</last-pattern>
+      <last-pattern>record</last-pattern>
       <last-replace />
       <last-substitute>\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -716,8 +716,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCoreValue</entry>
-        <entry>system.out</entry>
         <entry>formatter</entry>
         <entry>searchDialog</entry>
         <entry>TimeZone</entry>
@@ -736,6 +734,8 @@
         <entry>recording</entry>
         <entry encoding="base64">PT0+</entry>
         <entry>chunk</entry>
+        <entry>recordDelivery</entry>
+        <entry>record</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
