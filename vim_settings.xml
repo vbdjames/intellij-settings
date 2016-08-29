@@ -86,11 +86,11 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceType.java" timestamp="1471267985237">
         <mark key="'" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1472483738398">
-        <mark key="[" line="4328" column="0" />
-        <mark key="]" line="4328" column="0" />
-        <mark key="." line="4328" column="0" />
-        <mark key="^" line="4317" column="53" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1472492280637">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4316" column="0" />
+        <mark key="]" line="4316" column="0" />
+        <mark key="." line="4316" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1465239822881">
         <mark key="'" line="92" column="16" />
@@ -500,7 +500,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1472485813200">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1472492213587">
+        <mark key="'" line="812" column="12" />
         <mark key="[" line="1159" column="29" />
         <mark key="]" line="1159" column="29" />
         <mark key="." line="1159" column="29" />
@@ -611,28 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" />
-      <jump line="49" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" />
-      <jump line="2283" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="824" column="57" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="874" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="877" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="85" column="57" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="92" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
-      <jump line="8973" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
-      <jump line="2969" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
-      <jump line="3658" column="61" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
-      <jump line="3663" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
-      <jump line="2371" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="31" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceLocal.java" />
-      <jump line="82" column="54" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="899" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="1910" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="1911" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="1912" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="1932" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="164" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="159" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="5" column="36" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" />
@@ -671,7 +650,6 @@
       <jump line="213" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="210" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="3745" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1076" column="67" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="159" column="43" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="4206" column="27" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/call/CallServiceBean.java" />
@@ -711,55 +689,78 @@
       <jump line="35" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
       <jump line="142" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
       <jump line="23" column="60" filename="$USER_HOME$/Code/echo/delivery-details.txt" />
+      <jump line="1159" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="110" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="312" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="366" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="401" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="409" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="414" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="420" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="454" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="458" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="486" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="632" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="638" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="644" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="691" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="761" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="768" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="773" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="779" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="812" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="4376" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, destination</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2o6IHRlbXBvcmFyeSBjb2RlIHRvIGluc3BlY3QgT1BzIHJlc3VsdAogICAgICAgICAgICBMT0dHRVIuaW5mbyhyZXN1bHQuZ2V0RG9jdW1lbnQoKS5hc1hNTCgpKTsKCg==</text>
       </register>
       <register name="-" type="4">
         <text>, destination</text>
       </register>
       <register name="/" type="4">
-        <text>persistenceexception</text>
+        <text>TODO-dwj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICJyZWNlaXZlZF9kYXRlID0gPyBhbmQgZGVzdGluYXRpb24gPSA/ICIgKwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVmVyaWZ5IHRoYXQgZGVzdGluYXRpb24gaXMgbm90IG51bGwuCiAgICAgICAgICAgIC8vIFRPRE86IHRoaXMgYXBwZWFycyB0byBiZSBhbGxvd2VkIGluIGN1cnJlbnQgT1BTIGNvZGUKICAgICAgICAgICAgaWYgKGRlc3RpbmF0aW9uID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBCYWRBcmd1bWVudEV4Y2VwdGlvbigiRGVzdGluYXRpb24gaXMgbnVsbC4iLCBjb250ZXh0LAogICAgICAgICAgICAgICAgICAgICAgICBDdXN0b21Gb3JtR3JvdXBUeXBlLlJFQ0VJVkVSLmdldFRva2VuKCksIHJlY2VpdmVySWQpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2o6IHRlbXBvcmFyeSBjb2RlIHRvIGluc3BlY3QgT1BzIHJlc3VsdAogICAgICAgICAgICBMT0dHRVIuaW5mbyhyZXN1bHQuZ2V0RG9jdW1lbnQoKS5hc1hNTCgpKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICJyZWNlaXZlZF9kYXRlID0gPyBhbmQgZGVzdGluYXRpb24gPSA/ICIgKwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVmVyaWZ5IHRoYXQgZGVzdGluYXRpb24gaXMgbm90IG51bGwuCiAgICAgICAgICAgIC8vIFRPRE86IHRoaXMgYXBwZWFycyB0byBiZSBhbGxvd2VkIGluIGN1cnJlbnQgT1BTIGNvZGUKICAgICAgICAgICAgaWYgKGRlc3RpbmF0aW9uID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBCYWRBcmd1bWVudEV4Y2VwdGlvbigiRGVzdGluYXRpb24gaXMgbnVsbC4iLCBjb250ZXh0LAogICAgICAgICAgICAgICAgICAgICAgICBDdXN0b21Gb3JtR3JvdXBUeXBlLlJFQ0VJVkVSLmdldFRva2VuKCksIHJlY2VpdmVySWQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPLWR3ajogaWdub3JlIGRlc3RpbmF0aW9uPz8K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICJyZWNlaXZlZF9kYXRlID0gPyBhbmQgZGVzdGluYXRpb24gPSA/ICIgKwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBxdWVyeS5zZXRQYXJhbWV0ZXIoNCwgZGVzdGluYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPLWR3ajogaWdub3JlIGRlc3RpbmF0aW9uPz8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8ocmVzdWx0Lik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBxdWVyeS5zZXRQYXJhbWV0ZXIoNCwgZGVzdGluYXRpb24pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHNhdmVkRXhwb3J0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8ocmVzdWx0Lik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydCBzYXZlZEV4cG9ydCA9IG51bGw7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHNhdmVkRXhwb3J0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBMb2cgYW4gSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIHRoYXQgdGhlIGVudGl0eSBtYW5hZ2VyIHRocm93cyBhbmQKICAgICAgICAvLyByZXRocm93IGFzIGFuIFVuaGFuZGxlZEV4Y2VwdGlvbi4KICAgICAgICBjYXRjaChqYXZhLmxhbmcuSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGV4Y2VwdGlvbikgewogICAgICAgICAgICBMT0dHRVIud2FybigiRXJyb3Igc2F2aW5nIG5ldyBzY2hlZHVsZWQgc2VydmljZSBtZXNzYWdlIGV4cG9ydDogIiArCiAgICAgICAgICAgICAgICAgICAgZXhjZXB0aW9uLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIHRocm93KG5ldyBVbmhhbmRsZWRFeGNlcHRpb24oZXhjZXB0aW9uLmdldE1lc3NhZ2UoKSkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTY2hlZHVsZWRTZXJ2aWNlTWVzc2FnZUV4cG9ydCBzYXZlZEV4cG9ydCA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBMb2cgYW4gSWxsZWdhbEFydW1lbnRFeGNlcHRpb24gYW5kIHJldGhyb3cgYXMgYW4gVW5oYW5kbGVkRXhjZXB0aW9uOwogICAgICAgIC8vIGhhbmRsZXMgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIHRocm93biBieSBlbnRpdHkgbWFuYWdlci4KICAgICAgICBjYXRjaChqYXZhLmxhbmcuSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGV4Y2VwdGlvbikgewogICAgICAgICAgICBMT0dHRVIud2FybigiRXJyb3IgcmVjb3JkaW5nIHNjaGVkdWxlZCBzZXJ2aWNlIG1lc3NhZ2UgZXhwb3J0ICIgKwogICAgICAgICAgICAgICAgICAgICJkZWxpdmVyeTogIiArIGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB0aHJvdyhuZXcgVW5oYW5kbGVkRXhjZXB0aW9uKGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCkpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBMb2cgYW4gSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIHRoYXQgdGhlIGVudGl0eSBtYW5hZ2VyIHRocm93cyBhbmQKICAgICAgICAvLyByZXRocm93IGFzIGFuIFVuaGFuZGxlZEV4Y2VwdGlvbi4KICAgICAgICBjYXRjaChqYXZhLmxhbmcuSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGV4Y2VwdGlvbikgewogICAgICAgICAgICBMT0dHRVIud2FybigiRXJyb3Igc2F2aW5nIG5ldyBzY2hlZHVsZWQgc2VydmljZSBtZXNzYWdlIGV4cG9ydDogIiArCiAgICAgICAgICAgICAgICAgICAgZXhjZXB0aW9uLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIHRocm93KG5ldyBVbmhhbmRsZWRFeGNlcHRpb24oZXhjZXB0aW9uLmdldE1lc3NhZ2UoKSkpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>1159</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>persistenceexception</last-search>
+      <last-search>TODO-dwj</last-search>
       <last-offset />
-      <last-pattern>persistenceexception</last-pattern>
+      <last-pattern>TODO-dwj</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -767,8 +768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getTakenMessageMe</entry>
-        <entry>email</entry>
         <entry>extractEmailAddressFromMessageText</entry>
         <entry>49453</entry>
         <entry>gettakenmessagemessage</entry>
@@ -787,6 +786,8 @@
         <entry>entitymanager</entry>
         <entry>persistence</entry>
         <entry>persistenceexception</entry>
+        <entry>LOGGER</entry>
+        <entry>TODO-dwj</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
@@ -807,8 +808,8 @@
         <entry>2405</entry>
         <entry>2741</entry>
         <entry>4329</entry>
-        <entry>w</entry>
         <entry>1159</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
