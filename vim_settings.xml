@@ -546,12 +546,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1472649071033">
-        <mark key="'" line="1057" column="48" />
-        <mark key="[" line="6241" column="51" />
-        <mark key="]" line="6198" column="37" />
-        <mark key="^" line="6198" column="37" />
-        <mark key="." line="6198" column="37" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1472679060581">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6546" column="58" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
@@ -658,7 +655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70169" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export-original-prod.csv" />
       <jump line="477" column="32" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export-original-prod.csv" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export-original-prod.csv" />
@@ -756,8 +752,9 @@
       <jump line="4368" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="6198" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1057" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6205" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -767,7 +764,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessage</text>
+        <text>getTakenMessageRoster</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBRdWVyeSBxdWVyeSA9IGVudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoCg==</text>
@@ -804,9 +801,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessage</last-search>
+      <last-search>getTakenMessageRoster</last-search>
       <last-offset />
-      <last-pattern>getTakenMessage</last-pattern>
+      <last-pattern>getTakenMessageRoster</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -814,7 +811,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LOGGER</entry>
         <entry>AmdDetails</entry>
         <entry>GetMessageDeliveryDetails</entry>
         <entry>getNessageDeliveryDetails</entry>
@@ -834,6 +830,7 @@
         <entry>getMessageDetails</entry>
         <entry>Original</entry>
         <entry>getTakenMessage</entry>
+        <entry>getTakenMessageRoster</entry>
       </history-search>
       <history-cmd>
         <entry>2362</entry>
