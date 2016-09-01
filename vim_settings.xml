@@ -552,6 +552,9 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" timestamp="1472739160563">
+        <mark key="'" line="30" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethodTypeType.java" timestamp="1471268120733">
         <mark key="'" line="12" column="13" />
       </file>
@@ -654,8 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="32" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export-original-prod.csv" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export-original-prod.csv" />
       <jump line="848" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="54" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1065" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -754,6 +755,8 @@
       <jump line="6205" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6630" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="17" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" />
+      <jump line="30" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -763,7 +766,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessageRoster</text>
+        <text>mnemonic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBRdWVyeSBxdWVyeSA9IGVudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoCg==</text>
@@ -800,9 +803,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessageRoster</last-search>
+      <last-search>mnemonic</last-search>
       <last-offset />
-      <last-pattern>getTakenMessageRoster</last-pattern>
+      <last-pattern>mnemonic</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -810,7 +813,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AmdDetails</entry>
         <entry>GetMessageDeliveryDetails</entry>
         <entry>getNessageDeliveryDetails</entry>
         <entry>Details</entry>
@@ -830,6 +832,7 @@
         <entry>Original</entry>
         <entry>getTakenMessage</entry>
         <entry>getTakenMessageRoster</entry>
+        <entry>mnemonic</entry>
       </history-search>
       <history-cmd>
         <entry>2362</entry>
