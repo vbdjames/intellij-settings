@@ -446,8 +446,12 @@
         <mark key="^" line="543" column="67" />
         <mark key="." line="543" column="67" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1472734699168">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1472756552908">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="6540" column="47" />
+        <mark key="]" line="6740" column="15" />
+        <mark key="." line="6740" column="15" />
+        <mark key="^" line="6740" column="15" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" timestamp="1472754165490">
         <mark key="'" line="223" column="78" />
@@ -548,8 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1714" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/UserServiceProxy.java" />
-      <jump line="50" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/UserServiceProxy.java" />
       <jump line="941" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/UserServiceProxy.java" />
       <jump line="943" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/UserServiceProxy.java" />
       <jump line="1310" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/UserServiceProxy.java" />
@@ -648,55 +650,57 @@
       <jump line="2932" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="2933" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="2934" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="6740" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBESVMgPSAiRElTIjsK</text>
+      <register name="&quot;" type="4">
+        <text>receiverId</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>receiverId</text>
       </register>
       <register name="/" type="4">
-        <text>\&quot;DIS\&quot;</text>
+        <text>getTakenMessageAmd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBTUQgPSAiQU1EIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBESVMgPSAiRElTIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJpdCdzIHRoZSBvdGhlciBicmFuY2giKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmV4cG9ydE1lc3NhZ2VzQWN0aW9uXy5zZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJpdCdzIHJlZ3VsYXIgbGluZSByb3N0ZXIiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJpdCdzIEFtZCBvciBSb3N0ZXIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2ogbGFzdCBwYXJhbQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBESVMgPSAiRElTIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBtZXNzYWdlRXhwb3J0QXZhaWxhYmxlXzsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmV4cG9ydE1lc3NhZ2VzQWN0aW9uXy5zZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBtZXNzYWdlRXhwb3J0ID0gdGhpcy5tZXNzYWdlUmV0cmlldmFsRnJhbWVfLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBtZXNzYWdlRXhwb3J0QXZhaWxhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2ogbGFzdCBwYXJhbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqICwgd2hpY2ggc3BlY2lmaWVzCiAgICAgKiB0byAKICAgICAqIHBlcmZvcm0gbWVzc2FnZSByZXRyaWV2YWwgYnkgcmVjZWl2ZXIgYnkgZGVmYXVsdCBmb3IgdGhlIHJvbGUgcmVnYXJkbGVzcwogICAgICogb2YgdGhlIG9wZXJhdGlvbnMgZ3JvdXAgZGVmYXVsdC4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBtZXNzYWdlRXhwb3J0QXZhaWxhYmxlXzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNRVNTQUdFX0VYUE9SVCwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBtZXNzYWdlRXhwb3J0ID0gdGhpcy5tZXNzYWdlUmV0cmlldmFsRnJhbWVfLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\&quot;DIS\&quot;</last-search>
+      <last-search>getTakenMessageAmd</last-search>
       <last-offset />
-      <last-pattern>\&quot;DIS\&quot;</last-pattern>
+      <last-pattern>getTakenMessageAmd</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -704,7 +708,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DatabaseException</entry>
         <entry>getMessageDetails</entry>
         <entry>Original</entry>
         <entry>getTakenMessage</entry>
@@ -724,6 +727,7 @@
         <entry>\&quot;CMD\&quot;</entry>
         <entry>\&quot;RMD\&quot;</entry>
         <entry>\&quot;DIS\&quot;</entry>
+        <entry>getTakenMessageAmd</entry>
       </history-search>
       <history-cmd>
         <entry>2362</entry>
