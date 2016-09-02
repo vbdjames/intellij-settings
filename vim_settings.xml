@@ -565,8 +565,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1472839969767">
-        <mark key="'" line="6199" column="34" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1472844807712">
         <mark key="[" line="6608" column="0" />
         <mark key="]" line="6608" column="0" />
         <mark key="." line="6608" column="0" />
@@ -692,7 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1219" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="1220" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="1221" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="1352" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
@@ -792,6 +790,7 @@
       <jump line="125" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="129" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="136" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="3888" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -801,7 +800,7 @@
         <text>pager_num</text>
       </register>
       <register name="/" type="4">
-        <text>AMD</text>
+        <text>===</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFiYXNlRXhjZXB0aW9uKGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCksIGNvbnRleHQsIG51bGwpOwo=</text>
@@ -834,13 +833,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VEZWxpdmVyeURldGFpbHNWZXNzZWwgZGV0YWlsc09yYWNsZSA9IGNhbGxTZXJ2aWNlXwogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0TWVzc2FnZURlbGl2ZXJ5RGV0YWlscyhyZWNlaXZlcklkLCB0YWtlbkRhdGVUaW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc3RpbmF0aW9uQ29kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>6252</text>
       </register>
     </registers>
     <search>
-      <last-search>AMD</last-search>
+      <last-search>===</last-search>
       <last-offset />
-      <last-pattern>AMD</last-pattern>
+      <last-pattern>===</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -848,7 +847,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rolePermissions</entry>
         <entry>getOptionPermissions</entry>
         <entry>newsearch</entry>
         <entry>resend</entry>
@@ -868,9 +866,9 @@
         <entry>&quot;</entry>
         <entry>delivery_type</entry>
         <entry>AMD</entry>
+        <entry>===</entry>
       </history-search>
       <history-cmd>
-        <entry>2362</entry>
         <entry>1594</entry>
         <entry>2361</entry>
         <entry>1013</entry>
@@ -890,6 +888,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry>w</entry>
+        <entry>6252</entry>
       </history-cmd>
       <history-expr />
       <history-input />
