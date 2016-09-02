@@ -316,8 +316,8 @@
         <mark key="^" line="163" column="55" />
         <mark key="." line="163" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormEntityType.java" timestamp="1468264359276">
-        <mark key="'" line="16" column="13" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormEntityType.java" timestamp="1472824210047">
+        <mark key="'" line="239" column="5" />
       </file>
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/scheduledservice/ScheduledServiceOneTimeSchedulePanel.java" timestamp="1469022156435">
         <mark key="'" line="147" column="18" />
@@ -688,10 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
-      <jump line="317" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
-      <jump line="318" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
-      <jump line="612" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="613" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="614" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="615" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
@@ -788,6 +784,10 @@
       <jump line="2075" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="3378" column="52" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="6199" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="700" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormEntityType.java" />
+      <jump line="40" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormEntityType.java" />
+      <jump line="276" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormEntityType.java" />
+      <jump line="239" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormEntityType.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -797,7 +797,7 @@
         <text encoding="base64">ICBSZXF1aXJlcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>gettakenmessagerosterdetails</text>
+        <text>equals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBTUQgPSAiQU1EIjsK</text>
@@ -834,9 +834,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gettakenmessagerosterdetails</last-search>
+      <last-search>equals</last-search>
       <last-offset />
-      <last-pattern>gettakenmessagerosterdetails</last-pattern>
+      <last-pattern>equals</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -844,7 +844,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getTakenMessageRoster</entry>
         <entry>mnemonic</entry>
         <entry>optionPermissions</entry>
         <entry>rolePermissions</entry>
@@ -864,6 +863,7 @@
         <entry>getCustomForm</entry>
         <entry>getcustomform</entry>
         <entry>gettakenmessagerosterdetails</entry>
+        <entry>equals</entry>
       </history-search>
       <history-cmd>
         <entry>2362</entry>
