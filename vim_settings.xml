@@ -561,12 +561,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1472756552908">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6540" column="47" />
-        <mark key="]" line="6740" column="15" />
-        <mark key="." line="6740" column="15" />
-        <mark key="^" line="6740" column="15" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1472823270066">
+        <mark key="'" line="6199" column="34" />
+        <mark key="[" line="6556" column="48" />
+        <mark key="]" line="6553" column="35" />
+        <mark key="^" line="6553" column="35" />
+        <mark key="." line="6553" column="35" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
@@ -688,7 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="299" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="317" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="318" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
@@ -788,55 +787,56 @@
       <jump line="1867" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="2075" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="3378" column="52" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="6199" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>receiverId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIGFuYWx5c2lzIGFuZCBpbXBsZW1lbnRhdGlvbi4K</text>
       </register>
       <register name="-" type="4">
-        <text>receiverId</text>
+        <text encoding="base64">ICBSZXF1aXJlcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>getcustomform</text>
+        <text>gettakenmessagerosterdetails</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBTUQgPSAiQU1EIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJpdCdzIHRoZSBvdGhlciBicmFuY2giKTsK</text>
+        <text encoding="base64">ICAgICAqIGFuYWx5c2lzIGFuZCBpbXBsZW1lbnRhdGlvbi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJpdCdzIHJlZ3VsYXIgbGluZSByb3N0ZXIiKTsK</text>
+        <text encoding="base64">ICAgICAqIGZ1cnRoZXIgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJpdCdzIEFtZCBvciBSb3N0ZXIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJpdCdzIHRoZSBvdGhlciBicmFuY2giKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBESVMgPSAiRElTIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJpdCdzIHJlZ3VsYXIgbGluZSByb3N0ZXIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmV4cG9ydE1lc3NhZ2VzQWN0aW9uXy5zZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJpdCdzIEFtZCBvciBSb3N0ZXIiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBESVMgPSAiRElTIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2ogbGFzdCBwYXJhbQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmV4cG9ydE1lc3NhZ2VzQWN0aW9uXy5zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBtZXNzYWdlRXhwb3J0QXZhaWxhYmxlXzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBtZXNzYWdlRXhwb3J0ID0gdGhpcy5tZXNzYWdlUmV0cmlldmFsRnJhbWVfLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2ogbGFzdCBwYXJhbQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getcustomform</last-search>
+      <last-search>gettakenmessagerosterdetails</last-search>
       <last-offset />
-      <last-pattern>getcustomform</last-pattern>
+      <last-pattern>gettakenmessagerosterdetails</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -844,7 +844,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getTakenMessage</entry>
         <entry>getTakenMessageRoster</entry>
         <entry>mnemonic</entry>
         <entry>optionPermissions</entry>
@@ -864,6 +863,7 @@
         <entry>getTakenMessageAmd</entry>
         <entry>getCustomForm</entry>
         <entry>getcustomform</entry>
+        <entry>gettakenmessagerosterdetails</entry>
       </history-search>
       <history-cmd>
         <entry>2362</entry>
