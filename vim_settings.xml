@@ -67,6 +67,9 @@
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/adminui/EchoEntityEditorFramesHandler.java" timestamp="1468951445510">
         <mark key="'" line="42" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormConstant.java" timestamp="1473184838081">
+        <mark key="'" line="23" column="38" />
+      </file>
       <file name="$USER_HOME$/Code/mapcom/echo3/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" timestamp="1466108357770">
         <mark key="'" line="421" column="17" />
         <mark key="[" line="512" column="67" />
@@ -86,6 +89,12 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/look/FrameLook.java" timestamp="1468264461633">
         <mark key="'" line="388" column="63" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/table/TextTableCellRenderer.java" timestamp="1473185388334">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="43" column="25" />
+        <mark key="^" line="43" column="25" />
+        <mark key="." line="43" column="25" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalSearchDialog.java" timestamp="1471886545780">
         <mark key="'" line="151" column="12" />
@@ -296,10 +305,10 @@
         <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminService.java" timestamp="1472246287952">
-        <mark key="'" line="3881" column="15" />
-        <mark key="[" line="3985" column="11" />
-        <mark key="]" line="3985" column="11" />
-        <mark key="." line="3985" column="11" />
+        <mark key="'" line="3878" column="15" />
+        <mark key="[" line="3982" column="11" />
+        <mark key="]" line="3982" column="11" />
+        <mark key="." line="3982" column="11" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/TimeZoneFormatType.java" timestamp="1470667273564">
         <mark key="'" line="25" column="6" />
@@ -678,7 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="165" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="189" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="289" column="53" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
@@ -778,6 +786,7 @@
       <jump line="1025" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="895" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="23" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormConstant.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -787,7 +796,7 @@
         <text encoding="base64">IGlkZW50aWZpZXMgcmVjZWl2ZXIgZm9yIHdoaWNoIG1lc3NhZ2Ugd2FzIA==</text>
       </register>
       <register name="/" type="4">
-        <text>urlencode</text>
+        <text>ECHO_ENTITY</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogUmV0cmlldmVzIGRlbGl2ZXJ5IGRldGFpbHMgZm9yIHRoZSBtZXNzYWdlIHNwZWNpZmllZCBieSB0aGUgcmVjZWl2ZXIgSUQsCiAgICAgKiBkYXRldGltZSB0YWtlbiBhbmQgZGVzdGluYXRpb24gY2l0eSBvZiBtZXNzYWdlLgogICAgICogCiAgICAgKiBAcGFyYW0gcmVjZWl2ZXJJZCBTdHJpbmcgY29udGFpbmluZyBpZCBvZiBtZXNzYWdlIHJlY2VpdmVyCiAgICAgKiBAcGFyYW0gdGFrZW5EYXRlVGltZSBEYXRlIGNvbnRhaW5pbmcgdGFrZW4gZGF0ZXRpbWUgb2YgbWVzc2FnZQogICAgICogQHBhcmFtIGRlc3RpbmF0aW9uQ29kZSBTdHJpbmcgY29udGFpbmluZyBjb2RlIHRoYXQgaWRlbnRpZmllcyBtZXNzYWdlCiAgICAgKiAgICAgICAgZGVzdGluYXRpb24KICAgICAqIEByZXR1cm4gTWVzc2FnZURlbGl2ZXJ5RGV0YWlsc1Zlc3NlbCBjb250YWluaW5nIHRoZSBzZXQgb2YgZGVsaXZlcnkgCiAgICAgKiAgICAgICAgIGRldGFpbHMgZW50cmllcyB0aGF0IGFwcGx5IHRvIHRoZSBtZXNzYWdlCiAgICAgKiBAdGhyb3dzIGNvbS5tYXBjb21tdW5jYXRpb25zLmxhbmcuTm90Rm91bmRFeGNlcHRpb24gd2hlbiBubyBkZWxpdmVyIGRldGFpbHMKICAgICAqICAgICAgICAgZXhpc3QgZm9yIHRoZSBtZXNzYWdlCiAgICAgKiBAdGhyb3dzIGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLk5vdFBlcmZvcm1lZEV4Y2VwdGlvbiB3aGVuIHRoZSBEQkggcmVwb3J0cwogICAgICogICAgICAgICBhIHZhbGlkYXRpb24gb3IgcGVybWlzc2lvbiBwcm9ibGVtCiAgICAgKiBAdGhyb3dzIGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLlVuaGFuZGxlZEV4Y2VwdGlvbiB3aGVuIHVuYWJsZSB0byBwZXJmb3JtCiAgICAgKiAgICAgICAgIHJlcXVlc3QgZm9yIGFueSBvdGhlciByZWFzb24KICAgICAqLwo=</text>
@@ -824,9 +833,9 @@
       </register>
     </registers>
     <search>
-      <last-search>urlencode</last-search>
+      <last-search>ECHO_ENTITY</last-search>
       <last-offset />
-      <last-pattern>urlencode</last-pattern>
+      <last-pattern>ECHO_ENTITY</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -834,7 +843,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deliveryTypeElement</entry>
         <entry>\&quot;AMD\&quot;</entry>
         <entry>\&quot;CMD\&quot;</entry>
         <entry>\&quot;RMD\&quot;</entry>
@@ -854,6 +862,7 @@
         <entry>getMessageDeliveryDetails</entry>
         <entry>Original</entry>
         <entry>urlencode</entry>
+        <entry>ECHO_ENTITY</entry>
       </history-search>
       <history-cmd>
         <entry>2361</entry>
