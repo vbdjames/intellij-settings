@@ -576,12 +576,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1473255259541">
-        <mark key="'" line="98" column="1" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1473256065182">
+        <mark key="'" line="254" column="12" />
         <mark key="[" line="1113" column="75" />
-        <mark key="]" line="1113" column="67" />
-        <mark key="." line="1113" column="67" />
-        <mark key="^" line="1113" column="67" />
+        <mark key="]" line="1114" column="51" />
+        <mark key="." line="1114" column="51" />
+        <mark key="^" line="1114" column="51" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
@@ -703,10 +703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1635" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="1812" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="1867" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2075" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="3378" column="52" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="6199" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="700" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormEntityType.java" />
@@ -800,9 +796,13 @@
       <jump line="49" column="77" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" />
       <jump line="42" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceLocal.java" />
       <jump line="5802" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1029" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="98" column="1" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1114" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="39" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="40" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="254" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -812,7 +812,7 @@
         <text encoding="base64">ICAgICAqICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>getMessageDeliveryDetails</text>
+        <text>EntityManager</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogUmV0cmlldmVzIGRlbGl2ZXJ5IGRldGFpbHMgZm9yIHRoZSBtZXNzYWdlIHNwZWNpZmllZCBieSB0aGUgcmVjZWl2ZXIgSUQsCiAgICAgKiBkYXRldGltZSB0YWtlbiBhbmQgZGVzdGluYXRpb24gY2l0eSBvZiBtZXNzYWdlLgogICAgICoKICAgICAqIEBwYXJhbSByZWNlaXZlcklkIFN0cmluZyBjb250YWluaW5nIGlkIG9mIG1lc3NhZ2UgcmVjZWl2ZXIKICAgICAqIEBwYXJhbSB0YWtlbkRhdGVUaW1lIERhdGUgY29udGFpbmluZyB0YWtlbiBkYXRldGltZSBvZiBtZXNzYWdlCiAgICAgKiBAcGFyYW0gZGVzdGluYXRpb25Db2RlIFN0cmluZyBjb250YWluaW5nIGNvZGUgdGhhdCBpZGVudGlmaWVzIG1lc3NhZ2UKICAgICAqICAgICAgICBkZXN0aW5hdGlvbgogICAgICogQHJldHVybiBNZXNzYWdlRGVsaXZlcnlEZXRhaWxzVmVzc2VsIGNvbnRhaW5pbmcgdGhlIHNldCBvZiBkZWxpdmVyeSAKICAgICAqICAgICAgICAgZGV0YWlscyBlbnRyaWVzIHRoYXQgYXBwbHkgdG8gdGhlIG1lc3NhZ2UKICAgICAqIEB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb24gd2hlbiBubyBkZWxpdmVyIGRldGFpbHMgZXhpc3QgZm9yIHRoZSBtZXNzYWdlCiAgICAgKiBAdGhyb3dzIE5vdFBlcmZvcm1lZEV4Y2VwdGlvbiB3aGVuIHRoZSBEQkggcmVwb3J0cyBhIHZhbGlkYXRpb24gb3IgCiAgICAgKiAgICAgICAgIHBlcm1pc3Npb24gcHJvYmxlbQogICAgICogQHRocm93cyBVbmhhbmRsZWRFeGNlcHRpb24gd2hlbiB1bmFibGUgdG8gcGVyZm9ybSByZXF1ZXN0IGZvciBhbnkgb3RoZXIgCiAgICAgKiAgICAgICAgIHJlYXNvbgogICAgICovCg==</text>
@@ -849,9 +849,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getMessageDeliveryDetails</last-search>
+      <last-search>EntityManager</last-search>
       <last-offset />
-      <last-pattern>getMessageDeliveryDetails</last-pattern>
+      <last-pattern>EntityManager</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -859,7 +859,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Original</entry>
         <entry>urlencode</entry>
         <entry>ECHO_ENTITY</entry>
         <entry>deliveryDetails</entry>
@@ -879,6 +878,7 @@
         <entry>roster details</entry>
         <entry>getMessageDeliver</entry>
         <entry>getMessageDeliveryDetails</entry>
+        <entry>EntityManager</entry>
       </history-search>
       <history-cmd>
         <entry>1013</entry>
