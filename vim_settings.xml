@@ -105,12 +105,12 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceType.java" timestamp="1471267985237">
         <mark key="'" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1473355736384">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4265" column="33" />
-        <mark key="]" line="4267" column="32" />
-        <mark key="." line="4267" column="32" />
-        <mark key="^" line="4267" column="32" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1473357480565">
+        <mark key="'" line="4321" column="25" />
+        <mark key="[" line="4367" column="51" />
+        <mark key="]" line="4365" column="50" />
+        <mark key="." line="4365" column="50" />
+        <mark key="^" line="4365" column="50" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1465239822881">
         <mark key="'" line="92" column="16" />
@@ -370,7 +370,7 @@
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/scheduledservice/ScheduledServiceOneTimeSchedulePanel.java" timestamp="1469022156435">
         <mark key="'" line="147" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" timestamp="1473194240519">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" timestamp="1473357518408">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3620" column="0" />
         <mark key="]" line="3624" column="6" />
@@ -620,12 +620,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1473351114850">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1473356556428">
         <mark key="'" line="6073" column="12" />
-        <mark key="[" line="6150" column="0" />
-        <mark key="]" line="6150" column="0" />
-        <mark key="." line="6150" column="0" />
-        <mark key="^" line="6126" column="70" />
+        <mark key="[" line="6128" column="0" />
+        <mark key="]" line="6130" column="15" />
+        <mark key="." line="6130" column="15" />
+        <mark key="^" line="6130" column="15" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
@@ -747,12 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="573" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallXmlToObjectConverter.java" />
-      <jump line="1618" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallXmlToObjectConverter.java" />
-      <jump line="1619" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallXmlToObjectConverter.java" />
-      <jump line="113" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
-      <jump line="132" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
-      <jump line="391" column="19" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
       <jump line="200" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
@@ -847,6 +841,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1107" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6073" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="4365" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="4303" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="4321" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="3948" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -856,7 +856,7 @@
         <text>300</text>
       </register>
       <register name="/" type="4">
-        <text>dwj</text>
+        <text>getmessagedeliverydetails</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjYXRjaChqYXZhLmxhbmcuVGhyb3dhYmxlIHQpIHsKICAgICAgICAgICAgdGhpcy5sb2dVbmhhbmRsZWRFeGNlcHRpb24odCk7CiAgICAgICAgICAgIHRoaXMucmV0aHJvd1Rocm93YWJsZSh0KTsKICAgICAgICB9Cg==</text>
@@ -893,9 +893,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dwj</last-search>
+      <last-search>getmessagedeliverydetails</last-search>
       <last-offset />
-      <last-pattern>dwj</last-pattern>
+      <last-pattern>getmessagedeliverydetails</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -903,8 +903,6 @@
     </search>
     <history>
       <history-search>
-        <entry>roster\ details</entry>
-        <entry>roster details</entry>
         <entry>getMessageDeliver</entry>
         <entry>getMessageDeliveryDetails</entry>
         <entry>EntityManager</entry>
@@ -923,6 +921,8 @@
         <entry>tablecolumns</entry>
         <entry>deliveryType</entry>
         <entry>dwj</entry>
+        <entry>message delivery details for</entry>
+        <entry>getmessagedeliverydetails</entry>
       </history-search>
       <history-cmd>
         <entry>913</entry>
