@@ -622,12 +622,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1473436417738">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1086" column="60" />
-        <mark key="]" line="1086" column="40" />
-        <mark key="^" line="1086" column="40" />
-        <mark key="." line="1086" column="40" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1473442031129">
+        <mark key="'" line="6172" column="16" />
+        <mark key="[" line="6160" column="43" />
+        <mark key="]" line="6162" column="64" />
+        <mark key="^" line="6162" column="64" />
+        <mark key="." line="6162" column="64" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
@@ -749,17 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="55" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
-      <jump line="52" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
-      <jump line="108" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
-      <jump line="208" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
-      <jump line="2698" column="76" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="535" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="536" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="537" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="1569" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="1570" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="1571" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="1931" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="1932" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="1933" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
@@ -849,19 +838,30 @@
       <jump line="4480" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="105" column="60" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6162" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6163" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6164" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6165" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6166" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6167" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6168" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6169" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6170" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6171" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6172" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCIgID09PT4gaXMgcmVndWxhciBsaW5lIHJvc3RlciIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Received</text>
       </register>
       <register name="-" type="4">
-        <text>amd or roster</text>
+        <text>Received</text>
       </register>
       <register name="/" type="4">
-        <text>getmessagedeliverydetails</text>
+        <text>dateReceived</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCIgID09PT4gaXMgcmVndWxhciBsaW5lIHJvc3RlciIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCIgICAgICA9PT4gZGF0ZVJlY2VpdmVkOiAiICsgZGF0ZVJlY2VpdmVkKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT0+IGdldCBtZXNzYWdlIGRlbGl2ZXJ5IGRldGFpbHMgbmV3Iik7Cg==</text>
@@ -891,21 +891,20 @@
         <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9kZWxpdmVyeVR5cGUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>getmessagedeliverydetails</last-search>
+      <last-search>dateReceived</last-search>
       <last-offset />
-      <last-pattern>getmessagedeliverydetails</last-pattern>
-      <last-replace />
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>dateReceived</last-pattern>
+      <last-replace>deliveryType</last-replace>
+      <last-substitute>dateReceived</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TakenMessageAmd</entry>
         <entry>AmdDetails</entry>
         <entry>MessageDeliveryAmdDetails</entry>
         <entry>println</entry>
@@ -925,19 +924,9 @@
         <entry>new</entry>
         <entry encoding="base64">PT0+</entry>
         <entry>getmessagedeliverydetails</entry>
+        <entry>dateReceived</entry>
       </history-search>
       <history-cmd>
-        <entry>2373</entry>
-        <entry>6385</entry>
-        <entry>2748</entry>
-        <entry>2405</entry>
-        <entry>2741</entry>
-        <entry>4329</entry>
-        <entry>1159</entry>
-        <entry encoding="base64">JzwsJz42NTAwMA==</entry>
-        <entry>w export-prod.csv</entry>
-        <entry>399</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>6252</entry>
         <entry>3792</entry>
@@ -947,6 +936,17 @@
         <entry>525</entry>
         <entry>6263</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9kYXRlQ2FsbEVuZC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9kZWxpdmVyeVN0YXR1cy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9vcGVyYXRvci9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9tYWNoaW5lSWQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9wb3J0L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9yZXN1bHQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9zZXF1ZW5jZU5yL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9ob2xkZXJOYW1lL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9jb250YWN0TmFtZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9jb250YWN0TWV0aG9kL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9kZWxpdmVyeVR5cGUvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
