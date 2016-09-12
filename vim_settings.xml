@@ -149,8 +149,8 @@
         <mark key="." line="19" column="107" />
         <mark key="^" line="19" column="107" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1473702713770">
-        <mark key="'" line="10254" column="22" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1473703549111">
+        <mark key="'" line="250" column="47" />
         <mark key="[" line="1067" column="16" />
         <mark key="]" line="1067" column="62" />
         <mark key="^" line="156" column="63" />
@@ -682,11 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6170" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6171" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6172" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6119" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6147" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="266" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallService.java" />
       <jump line="972" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallService.java" />
       <jump line="4366" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
@@ -756,7 +751,6 @@
       <jump line="12574" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="13240" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="123" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="435" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="658" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1207" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -782,6 +776,12 @@
       <jump line="10018" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="10168" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="10254" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="123" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="171" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="179" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="199" column="65" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="235" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="250" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -791,7 +791,7 @@
         <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>customFormDS_</text>
+        <text>db</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVsZXRlUXVhcmFudGluZWRMb29rdXBGb3JtTGlzdHMoaW50IGtlZXBEYXlzKSA=</text>
@@ -828,9 +828,9 @@
       </register>
     </registers>
     <search>
-      <last-search>customFormDS_</last-search>
+      <last-search>db</last-search>
       <last-offset />
-      <last-pattern>customFormDS_</last-pattern>
+      <last-pattern>db</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -838,7 +838,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tablecolumns</entry>
         <entry>dwj</entry>
         <entry>message delivery details for</entry>
         <entry>getManualDispatchMessages</entry>
@@ -858,6 +857,7 @@
         <entry>getCustomForm</entry>
         <entry>customFormDS</entry>
         <entry>customFormDS_</entry>
+        <entry>db</entry>
       </history-search>
       <history-cmd>
         <entry>669</entry>
