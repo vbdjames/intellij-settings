@@ -149,8 +149,12 @@
         <mark key="." line="19" column="107" />
         <mark key="^" line="19" column="107" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1472764534455">
-        <mark key="'" line="3378" column="52" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1473687279750">
+        <mark key="'" line="168" column="4" />
+        <mark key="[" line="1067" column="16" />
+        <mark key="]" line="1067" column="62" />
+        <mark key="^" line="156" column="63" />
+        <mark key="." line="156" column="63" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" timestamp="1466617921104">
         <mark key="'" line="15736" column="0" />
@@ -678,8 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/manualdispatch/ManualDispatchMessageDetail.java" />
-      <jump line="48" column="19" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/manualdispatch/ManualDispatchMessageDetail.java" />
       <jump line="111" column="21" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/manualdispatch/ManualDispatchMessageDetail.java" />
       <jump line="112" column="15" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/manualdispatch/ManualDispatchMessageDetail.java" />
       <jump line="359" column="44" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
@@ -778,10 +780,12 @@
       <jump line="155" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="536" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="495" column="65" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="168" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVsZXRlUXVhcmFudGluZWRMb29rdXBGb3JtTGlzdHMoaW50IGtlZXBEYXlzKSA=</text>
       </register>
       <register name="-" type="4">
         <text>w</text>
@@ -789,8 +793,8 @@
       <register name="/" type="4">
         <text>(RMD)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCIgICAgICA9PT4gZGF0ZVJlY2VpdmVkOiAiICsgZGF0ZVJlY2VpdmVkKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVsZXRlUXVhcmFudGluZWRMb29rdXBGb3JtTGlzdHMoaW50IGtlZXBEYXlzKSA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
