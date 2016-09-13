@@ -201,11 +201,6 @@
         <mark key="." line="89" column="68" />
         <mark key="^" line="89" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" timestamp="1473449861640">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1473262518765">
         <mark key="'" line="6205" column="8" />
       </file>
@@ -521,8 +516,9 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/ejb/manualdispatch/ManualDispatchServiceBean.java" timestamp="1473795094535">
-        <mark key="[" line="1258" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/ejb/manualdispatch/ManualDispatchServiceBean.java" timestamp="1473796172193">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2355" column="0" />
         <mark key="]" line="1258" column="0" />
         <mark key="." line="1258" column="0" />
       </file>
@@ -689,8 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11319" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
-      <jump line="11502" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="11687" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="12106" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="12574" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
@@ -789,6 +783,8 @@
       <jump line="5617" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="208" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
       <jump line="113" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ManualDispatchMessageDetail.java" />
+      <jump line="2313" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/ejb/manualdispatch/ManualDispatchServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/ejb/manualdispatch/ManualDispatchServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -798,7 +794,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>DIS</text>
+        <text>WS_GET_NEXT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudCBkZWxpdmVyeVR5cGVFbGVtZW50ID0gbmV3IERlZmF1bHRFbGVtZW50KCJkZWxpdmVyeV90eXBlIik7CiAgICAgICAgICAgIGRlbGl2ZXJ5VHlwZUVsZW1lbnQuc2V0VGV4dChBTUQpOwo=</text>
@@ -835,9 +831,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DIS</last-search>
+      <last-search>WS_GET_NEXT</last-search>
       <last-offset />
-      <last-pattern>DIS</last-pattern>
+      <last-pattern>WS_GET_NEXT</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -845,7 +841,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCustomForm</entry>
         <entry>customFormDS_</entry>
         <entry>db</entry>
         <entry>customFormDS</entry>
@@ -865,6 +860,7 @@
         <entry>messagedetails</entry>
         <entry>deliveryType</entry>
         <entry>DIS</entry>
+        <entry>WS_GET_NEXT</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
