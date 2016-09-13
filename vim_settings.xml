@@ -177,8 +177,12 @@
         <mark key="^" line="102" column="55" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1473793677565">
-        <mark key="'" line="389" column="12" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1473797693068">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="395" column="44" />
+        <mark key="]" line="399" column="8" />
+        <mark key="^" line="399" column="8" />
+        <mark key="." line="399" column="8" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/constant/ReceiverType.java" timestamp="1464788753728">
         <mark key="'" line="353" column="40" />
@@ -355,10 +359,6 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ManualDispatchMessageDetail.java" timestamp="1473795364613">
         <mark key="'" line="113" column="0" />
-        <mark key="[" line="115" column="25" />
-        <mark key="]" line="115" column="22" />
-        <mark key="." line="115" column="22" />
-        <mark key="^" line="115" column="22" />
       </file>
       <file name="$USER_HOME$/Code/udemy-swing/Swing2/src/MainFrame.java" timestamp="1466716295849">
         <mark key="'" line="0" column="0" />
@@ -685,8 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11687" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
-      <jump line="12106" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="12574" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="13240" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -785,6 +783,8 @@
       <jump line="113" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ManualDispatchMessageDetail.java" />
       <jump line="2313" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/ejb/manualdispatch/ManualDispatchServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/ejb/manualdispatch/ManualDispatchServiceBean.java" />
+      <jump line="132" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -794,7 +794,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>WS_GET_NEXT</text>
+        <text>todo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudCBkZWxpdmVyeVR5cGVFbGVtZW50ID0gbmV3IERlZmF1bHRFbGVtZW50KCJkZWxpdmVyeV90eXBlIik7CiAgICAgICAgICAgIGRlbGl2ZXJ5VHlwZUVsZW1lbnQuc2V0VGV4dChBTUQpOwo=</text>
@@ -831,9 +831,9 @@
       </register>
     </registers>
     <search>
-      <last-search>WS_GET_NEXT</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern>WS_GET_NEXT</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -841,7 +841,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customFormDS_</entry>
         <entry>db</entry>
         <entry>customFormDS</entry>
         <entry>databaseReferenceName</entry>
@@ -861,6 +860,7 @@
         <entry>deliveryType</entry>
         <entry>DIS</entry>
         <entry>WS_GET_NEXT</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
