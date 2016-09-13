@@ -250,8 +250,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/net/URLConnection.java" timestamp="1471965201953">
         <mark key="'" line="579" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" timestamp="1473457079703">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" timestamp="1473774832876">
+        <mark key="'" line="125" column="25" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/TimeZoneType.java" timestamp="1470668846316">
         <mark key="'" line="0" column="0" />
@@ -455,7 +455,6 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageRetrievalVessel.java" timestamp="1472226829636">
         <mark key="'" line="179" column="7" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/sql/DataSource.java" timestamp="1473704956173" />
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceContentsPanel.java" timestamp="1467301316671">
         <mark key="'" line="42" column="8" />
         <mark key="[" line="35" column="0" />
@@ -683,11 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="904" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceLocal.java" />
-      <jump line="3690" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
-      <jump line="3574" column="67" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
-      <jump line="3591" column="59" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
       <jump line="6035" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="3279" column="77" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -700,7 +694,6 @@
       <jump line="862" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="155" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="536" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="495" column="65" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="168" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="10156" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -783,6 +776,12 @@
       <jump line="269" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormGroupType.java" />
       <jump line="513" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormGroupType.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormGroupType.java" />
+      <jump line="85" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="99" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="119" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="1711" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="125" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -792,7 +791,7 @@
         <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>databaseReferenceName</text>
+        <text>amd result returned</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVsZXRlUXVhcmFudGluZWRMb29rdXBGb3JtTGlzdHMoaW50IGtlZXBEYXlzKSA=</text>
@@ -829,9 +828,9 @@
       </register>
     </registers>
     <search>
-      <last-search>databaseReferenceName</last-search>
+      <last-search>amd result returned</last-search>
       <last-offset />
-      <last-pattern>databaseReferenceName</last-pattern>
+      <last-pattern>amd result returned</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -839,8 +838,6 @@
     </search>
     <history>
       <history-search>
-        <entry>message delivery details for</entry>
-        <entry>getManualDispatchMessages</entry>
         <entry>getAmd(</entry>
         <entry>new</entry>
         <entry encoding="base64">PT0+</entry>
@@ -859,6 +856,8 @@
         <entry>db</entry>
         <entry>customFormDS</entry>
         <entry>databaseReferenceName</entry>
+        <entry>getAmd</entry>
+        <entry>amd result returned</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
