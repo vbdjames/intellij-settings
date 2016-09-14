@@ -536,10 +536,10 @@
         <mark key="]" line="1258" column="0" />
         <mark key="." line="1258" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" timestamp="1473859093339">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" timestamp="1473859710160">
         <mark key="'" line="182" column="33" />
-        <mark key="[" line="180" column="20" />
-        <mark key="]" line="177" column="6" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="169" column="24" />
         <mark key="." line="163" column="49" />
         <mark key="^" line="163" column="49" />
       </file>
@@ -586,11 +586,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1473859048240">
-        <mark key="'" line="146" column="50" />
-        <mark key="[" line="7084" column="0" />
-        <mark key="]" line="7084" column="0" />
-        <mark key="." line="7084" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1473860023256">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6099" column="58" />
+        <mark key="]" line="6100" column="0" />
+        <mark key="." line="6100" column="0" />
+        <mark key="^" line="6099" column="57" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
@@ -700,8 +701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9507" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="9621" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="9893" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="10018" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="10168" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -793,47 +792,49 @@
       <jump line="16" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryRosterDetails.java" />
       <jump line="28" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ManualDispatchMessageDetail.java" />
       <jump line="5621" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="5728" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="146" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="491" column="70" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/MessageDeliveryDetailsDialog.java" />
       <jump line="79" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryMessageDetails.java" />
       <jump line="71" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryRosterDetails.java" />
       <jump line="182" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" />
+      <jump line="7084" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6073" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIGdldERlc2NyaXB0aW9uKCkgewogICAgICAgICAgICBTdHJpbmcgbXNnID0gIiI7CgogICAgICAgICAgICBpZiAoaXNBbWRPclJvc3RlcigpKSB7CiAgICAgICAgICAgICAgICBtc2cgKz0gImFtZF9vcl9yb3N0ZXIsIHNvIG9ubHkgZ2V0cyBhbWQgZGV0YWlscyI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSBpZiAoaXNSZWd1bGFyTGluZVJvc3RlcigpKSB7CiAgICAgICAgICAgICAgICBtc2cgKz0gInJlZ3VsYXJfbGluZV9yb3N0ZXIsIHNvIGdldHMgZXZlcnl0aGluZyI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSBpZigiTSIuZXF1YWxzKHRyYW5UeXBlKSB8fCAiRiIuZXF1YWxzKHByZXZCb29rZWQpKSB7CiAgICAgICAgICAgICAgICBpZiAocm9zdGVySWQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIG1zZyArPSAidGhlIGxlZnRvdmVyIGNhc2Ugd2l0aG91dCByb3N0ZXIsIHNvIGdldHMgb25seSBtZXNzYWdlIGRldGFpbHMiOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbXNnICs9ICJ0aGUgbGVmdG92ZXIgY2FzZSB3aXRoIHJvc3Rlciwgc28gZ2V0cyBtZXNzYWdlIGFuZCByb3N0ZXIgZGV0YWlscyI7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICBtc2cgKz0gInRoZSBub3RoaW5nIGNhc2UiOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gbXNnOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZWRnZSBjYXNlcyBpbiB0aGUgT1BzIGNvZGUsIGFuZCB0aGVyZSBtYXkgYgo=</text>
       </register>
       <register name="-" type="4">
-        <text>code</text>
+        <text encoding="base64">IFRoZXJlIGFyZSBtYW55IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tempo</text>
+        <text>todo-dwj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGRlc3RpbmF0aW9uQ29kZQogICAgICogICAgICAgICAgICB0aGUgZGVzdGluYXRpb24gY29kZS4KICAgICAqLwogICAgcHVibGljIHZvaWQgc2V0RGVzdGluYXRpb25Db2RlKFN0cmluZyBkZXN0aW5hdGlvbkNvZGUpIHsKICAgICAgICB0aGlzLmRlc3RpbmF0aW9uQ29kZSA9IGRlc3RpbmF0aW9uQ29kZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWNlaXZlcklkIFN0cmluZyBjb250YWluaW5nIGlkIG9mIG1lc3NhZ2UgcmVjZWl2ZXIKICAgICAqIEBwYXJhbSB0YWtlbkRhdGVUaW1lIERhdGUgY29udGFpbmluZyB0YWtlbiBkYXRldGltZSBvZiBtZXNzYWdlCiAgICAgKiBAcGFyYW0gZGVzdGluYXRpb25Db2RlIFN0cmluZyBjb250YWluaW5nIGNvZGUgdGhhdCBpZGVudGlmaWVzIG1lc3NhZ2UKICAgICAqICAgICAgICBkZXN0aW5hdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIGdldERlc2NyaXB0aW9uKCkgewogICAgICAgICAgICBTdHJpbmcgbXNnID0gIiI7CgogICAgICAgICAgICBpZiAoaXNBbWRPclJvc3RlcigpKSB7CiAgICAgICAgICAgICAgICBtc2cgKz0gImFtZF9vcl9yb3N0ZXIsIHNvIG9ubHkgZ2V0cyBhbWQgZGV0YWlscyI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSBpZiAoaXNSZWd1bGFyTGluZVJvc3RlcigpKSB7CiAgICAgICAgICAgICAgICBtc2cgKz0gInJlZ3VsYXJfbGluZV9yb3N0ZXIsIHNvIGdldHMgZXZlcnl0aGluZyI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSBpZigiTSIuZXF1YWxzKHRyYW5UeXBlKSB8fCAiRiIuZXF1YWxzKHByZXZCb29rZWQpKSB7CiAgICAgICAgICAgICAgICBpZiAocm9zdGVySWQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIG1zZyArPSAidGhlIGxlZnRvdmVyIGNhc2Ugd2l0aG91dCByb3N0ZXIsIHNvIGdldHMgb25seSBtZXNzYWdlIGRldGFpbHMiOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbXNnICs9ICJ0aGUgbGVmdG92ZXIgY2FzZSB3aXRoIHJvc3Rlciwgc28gZ2V0cyBtZXNzYWdlIGFuZCByb3N0ZXIgZGV0YWlscyI7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICBtc2cgKz0gInRoZSBub3RoaW5nIGNhc2UiOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gbXNnOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZWRnZSBjYXNlcyBpbiB0aGUgT1BzIGNvZGUsIGFuZCB0aGVyZSBtYXkgYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2o6IHRoaXMgcmVxdWlyZXMgc29tZSBleHBsYW5hdGlvbiEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubWFwY29tbXVuaWNhdGlvbnMudXRpbC5FcXVhbHNVdGlsaXRpZXMubnVsbFNhZmVFcXVhbHM7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByb3N0ZXJJZAogICAgICogQHJldHVybgogICAgICogQHRocm93cyBOb3RQZXJmb3JtZWRFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgVW5oYW5kbGVkRXhjZXB0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkZpZWxkOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWNlaXZlcklkCiAgICAgKiBAcGFyYW0gdGFrZW5EYXRlVGltZQogICAgICogQHJldHVybgogICAgICogQHRocm93cyBOb3RQZXJmb3JtZWRFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgVW5oYW5kbGVkRXhjZXB0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWNlaXZlcklkCiAgICAgKiBAcGFyYW0gdGFrZW5EYXRlVGltZQogICAgICogQHBhcmFtIGRlc3RpbmF0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubWFwY29tbXVuaWNhdGlvbnMudXRpbC5FcXVhbHNVdGlsaXRpZXMubnVsbFNhZmVFcXVhbHM7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVE9ETy1kd2oKICAgICAqIEBwYXJhbSByZWNlaXZlcklkCiAgICAgKiBAcGFyYW0gdGFrZW5EYXRlVGltZQogICAgICogQHBhcmFtIGRlc3RpbmF0aW9uCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIHByaXZhdGUgSGlzdG9yeVJlY29yZCBnZXRUYWtlbk1lc3NhZ2VQcmltYXJ5SGlzdG9yeShTdHJpbmcgcmVjZWl2ZXJJZCwKICAgICAgICAgICAgRGF0ZSB0YWtlbkRhdGVUaW1lLCBTdHJpbmcgZGVzdGluYXRpb24pIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwKICAgICAgICAgICAgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24gewoKICAgICAgICBTdHJpbmcgY29udGV4dCA9ICJnZXQgdGFrZW4gbWVzc2FnZSBwcmltYXJ5IGhpc3RvcnkiOwogICAgICAgIEhpc3RvcnlSZWNvcmQgcHJpbWFyeUhpc3RvcnkgPSBudWxsOwoKICAgICAgICB0cnkgewogICAgICAgICAgICAvLyBWZXJpZnkgdGhhdCByZWNlaXZlciBJRCBpcyBub3QgbnVsbC4KICAgICAgICAgICAgaWYgKHJlY2VpdmVySWQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEJhZEFyZ3VtZW50RXhjZXB0aW9uKCJSZWNlaXZlciBJRCBpcyBudWxsLiIsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQsIG51bGwpOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBWZXJpZnkgdGhhdCB0YWtlbiBkYXRlLXRpbWUgaXMgbm90IG51bGwuCiAgICAgICAgICAgIGlmICh0YWtlbkRhdGVUaW1lID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBCYWRBcmd1bWVudEV4Y2VwdGlvbigiVGFrZW4gZGF0ZS10aW1lIGlzIG51bGwuIiwKICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dCwgbnVsbCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIFZlcmlmeSB0aGF0IGRlc3RpbmF0aW9uIGlzIG5vdCBudWxsLgogICAgICAgICAgICBpZiAoZGVzdGluYXRpb24gPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEJhZEFyZ3VtZW50RXhjZXB0aW9uKCJEZXN0aW5hdGlvbiBpcyBudWxsLiIsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQsIG51bGwpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBFbnRpdHlNYW5hZ2VyIGVudGl0eU1hbmFnZXIgPSB0aGlzLmVudGl0eU1hbmFnZXJGYWN0b3J5Xy5jcmVhdGVFbnRpdHlNYW5hZ2VyKCk7CgoKICAgICAgICAgICAgUXVlcnkgcXVlcnkgPSBlbnRpdHlNYW5hZ2VyLmNyZWF0ZU5hdGl2ZVF1ZXJ5KCJzZWxlY3QgIiArCiAgICAgICAgICAgICAgICAgICAgInRyYW5fdHlwZSwgcHJldl9ib29rZWQsIG9yaWdpbmFsX3BhZ2VyX251bWJlciwgcGFnZXJfbnVtYmVyLCAiICsKICAgICAgICAgICAgICAgICAgICAicm9zdGVyX2lkLCBkZXN0aW5hdGlvbiAiICsKICAgICAgICAgICAgICAgICAgICAiZnJvbSBtZHMuaGlzdG9yeSAiICsKICAgICAgICAgICAgICAgICAgICAid2hlcmUgKHBhZ2VyX251bWJlciA9ID8gb3IgcGFnZXJfbnVtYmVyID0gPykgYW5kICIgKwogICAgICAgICAgICAgICAgICAgICJyZWNlaXZlZF9kYXRlID0gPyBhbmQgIiArCiAgICAgICAgICAgICAgICAgICAgImRlc3RpbmF0aW9uID0gPyBhbmQgIiArCiAgICAgICAgICAgICAgICAgICAgInByaW1hcnlfZmxhZyA9ICdQJyIpOwogICAgICAgICAgICBxdWVyeS5zZXRQYXJhbWV0ZXIoMSwgcmVjZWl2ZXJJZCk7CiAgICAgICAgICAgIHF1ZXJ5LnNldFBhcmFtZXRlcigyLCB0aGlzLnByZXBhcmVNZXNzYWdlUmV0cmlldmFsUmVjZWl2ZXJJZChyZWNlaXZlcklkKSk7CiAgICAgICAgICAgIHF1ZXJ5LnNldFBhcmFtZXRlcigzLCB0YWtlbkRhdGVUaW1lLCBUZW1wb3JhbFR5cGUuVElNRVNUQU1QKTsKICAgICAgICAgICAgcXVlcnkuc2V0UGFyYW1ldGVyKDQsIGRlc3RpbmF0aW9uKTsKCiAgICAgICAgICAgIExpc3Q8T2JqZWN0W10+IHJlc3VsdHMgPSBxdWVyeS5nZXRSZXN1bHRMaXN0KCk7CgogICAgICAgICAgICBpZiAocmVzdWx0cy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEV4Y2VwdGlvbigiTm8gbWVzc2FnZSBoaXN0b3J5IGZvdW5kIiwKICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dCwgbnVsbCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSBpZiAocmVzdWx0cy5zaXplKCkgPiAxKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVW5oYW5kbGVkRXhjZXB0aW9uKCJGb3VuZCBtb3JlIHRoYW4gb25lIHByaW1hcnkgIiArCiAgICAgICAgICAgICAgICAgICAgICAgICJoaXN0b3J5IHJlY29yZC4iLCBjb250ZXh0LCBudWxsKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgT2JqZWN0W10gY29sdW1ucyA9IHJlc3VsdHMuZ2V0KDApOwogICAgICAgICAgICBTdHJpbmcgdHJhbl90eXBlID0gKFN0cmluZykgY29sdW1uc1swXTsKICAgICAgICAgICAgU3RyaW5nIHByZXZfYm9va2VkID0gKFN0cmluZykgY29sdW1uc1sxXTsKICAgICAgICAgICAgU3RyaW5nIG9yaWdpbmFsX3BhZ2VyX251bWJlciA9IChTdHJpbmcpIGNvbHVtbnNbMl07CiAgICAgICAgICAgIFN0cmluZyBwYWdlcl9udW1iZXIgPSAoU3RyaW5nKSBjb2x1bW5zWzNdOwogICAgICAgICAgICBTdHJpbmcgcm9zdGVyX2lkID0gKFN0cmluZykgY29sdW1uc1s0XTsKICAgICAgICAgICAgU3RyaW5nIGRlc3QgPSAoU3RyaW5nKSBjb2x1bW5zWzVdOwogICAgICAgICAgICBwcmltYXJ5SGlzdG9yeSA9IG5ldyBIaXN0b3J5UmVjb3JkKHRyYW5fdHlwZSwgcHJldl9ib29rZWQsCiAgICAgICAgICAgICAgICAgICAgb3JpZ2luYWxfcGFnZXJfbnVtYmVyLCBwYWdlcl9udW1iZXIsIHJvc3Rlcl9pZCwgZGVzdCk7CiAgICAgICAgfQogICAgICAgIGNhdGNoIChQZXJzaXN0ZW5jZUV4Y2VwdGlvbiBleGNlcHRpb24pIHsKICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFiYXNlRXhjZXB0aW9uKGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCksIGNvbnRleHQsIG51bGwpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHByaW1hcnlIaXN0b3J5OwogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkZpZWxkOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIGdldERlc2NyaXB0aW9uKCkgewogICAgICAgICAgICBTdHJpbmcgbXNnID0gIiI7CgogICAgICAgICAgICBpZiAoaXNBbWRPclJvc3RlcigpKSB7CiAgICAgICAgICAgICAgICBtc2cgKz0gImFtZF9vcl9yb3N0ZXIsIHNvIG9ubHkgZ2V0cyBhbWQgZGV0YWlscyI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSBpZiAoaXNSZWd1bGFyTGluZVJvc3RlcigpKSB7CiAgICAgICAgICAgICAgICBtc2cgKz0gInJlZ3VsYXJfbGluZV9yb3N0ZXIsIHNvIGdldHMgZXZlcnl0aGluZyI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSBpZigiTSIuZXF1YWxzKHRyYW5UeXBlKSB8fCAiRiIuZXF1YWxzKHByZXZCb29rZWQpKSB7CiAgICAgICAgICAgICAgICBpZiAocm9zdGVySWQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIG1zZyArPSAidGhlIGxlZnRvdmVyIGNhc2Ugd2l0aG91dCByb3N0ZXIsIHNvIGdldHMgb25seSBtZXNzYWdlIGRldGFpbHMiOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbXNnICs9ICJ0aGUgbGVmdG92ZXIgY2FzZSB3aXRoIHJvc3Rlciwgc28gZ2V0cyBtZXNzYWdlIGFuZCByb3N0ZXIgZGV0YWlscyI7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICBtc2cgKz0gInRoZSBub3RoaW5nIGNhc2UiOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gbXNnOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -842,13 +843,13 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubWFwY29tbXVuaWNhdGlvbnMudXRpbC5FcXVhbHNVdGlsaXRpZXMubnVsbFNhZmVFcXVhbHM7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>6074</text>
       </register>
     </registers>
     <search>
-      <last-search>tempo</last-search>
+      <last-search>todo-dwj</last-search>
       <last-offset />
-      <last-pattern>tempo</last-pattern>
+      <last-pattern>todo-dwj</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -856,8 +857,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PT0+</entry>
-        <entry>getDeliveryScheduleAmd</entry>
         <entry>getAmd</entry>
         <entry>getAmdInstructionElement</entry>
         <entry>delivery type</entry>
@@ -876,9 +875,10 @@
         <entry>temp</entry>
         <entry>temporary</entry>
         <entry>tempo</entry>
+        <entry>gettakenmess</entry>
+        <entry>todo-dwj</entry>
       </history-search>
       <history-cmd>
-        <entry>533</entry>
         <entry>525</entry>
         <entry>6263</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9kYXRlQ2FsbEVuZC9n</entry>
@@ -898,6 +898,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>6074</entry>
       </history-cmd>
       <history-expr />
       <history-input />
