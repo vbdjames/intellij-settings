@@ -675,6 +675,9 @@
         <mark key="." line="211" column="0" />
         <mark key="^" line="210" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1474033669757">
+        <mark key="'" line="63" column="23" />
+      </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" timestamp="1464796084414">
         <mark key="'" line="2545" column="8" />
         <mark key="[" line="3619" column="67" />
@@ -723,7 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="686" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchConsoleFrame.java" />
       <jump line="212" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchConsoleFrame.java" />
       <jump line="56" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1227" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -823,6 +825,7 @@
       <jump line="70" column="12" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
       <jump line="318" column="32" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
       <jump line="99" column="12" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
+      <jump line="63" column="23" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -832,7 +835,7 @@
         <text>OCREC</text>
       </register>
       <register name="/" type="4">
-        <text>more_recs</text>
+        <text>email_attach_method</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG9jLnJvc3Rlcl9pZCA9PSBoaV9vcmlnLnJvc3Rlcl9pZCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9yZV9yZWNzID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkYWlseUhpc3REYXRlID09IGhpX29yaWcuZGF0ZV9yZWN2ZCAmJgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYWlseUhpc3REYXRlLmJlZm9yZSh0b2RheXNfZGF0ZSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXh0RGF0ZShkYWlseUhpc3REYXRlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvY2tleS5wcmlvcml0eSA9ICIiOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtlZXBnb2luZyA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
@@ -872,9 +875,9 @@
       </register>
     </registers>
     <search>
-      <last-search>more_recs</last-search>
+      <last-search>email_attach_method</last-search>
       <last-offset />
-      <last-pattern>more_recs</last-pattern>
+      <last-pattern>email_attach_method</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -882,7 +885,6 @@
     </search>
     <history>
       <history-search>
-        <entry>WS_GET_NEXT</entry>
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">PDw=</entry>
@@ -902,6 +904,7 @@
         <entry>hi_det</entry>
         <entry>olrec</entry>
         <entry>more_recs</entry>
+        <entry>email_attach_method</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9kYXRlQ2FsbEVuZC9n</entry>
