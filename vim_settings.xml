@@ -609,8 +609,8 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1468267016945">
         <mark key="'" line="6214" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormGroupType.java" timestamp="1473706704220">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormGroupType.java" timestamp="1474375233435">
+        <mark key="'" line="310" column="15" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo-master/src/java/com/mapcommunications/constant/ReceiverType.java" timestamp="1465220796104">
         <mark key="'" line="167" column="19" />
@@ -706,8 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="491" column="70" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/MessageDeliveryDetailsDialog.java" />
       <jump line="79" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryMessageDetails.java" />
       <jump line="71" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/MessageDeliveryRosterDetails.java" />
       <jump line="182" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" />
@@ -806,6 +804,8 @@
       <jump line="100" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/report/Report.java" />
       <jump line="339" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/report/Report.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/report/Report.java" />
+      <jump line="62" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormGroupType.java" />
+      <jump line="310" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormGroupType.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -815,7 +815,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>START_DATE</text>
+        <text>account_types</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtZXNzYWdlTGlzdEZvcm1hdFR5cGUgCiAgICAgICAgICAgICAgICAgICAgICAgID09IFNjaGVkdWxlZFNlcnZpY2VNZXNzYWdlTGlzdEZvcm1hdFR5cGUuQ1NWKSB7Cg==</text>
@@ -855,9 +855,9 @@
       </register>
     </registers>
     <search>
-      <last-search>START_DATE</last-search>
+      <last-search>account_types</last-search>
       <last-offset />
-      <last-pattern>START_DATE</last-pattern>
+      <last-pattern>account_types</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -865,7 +865,6 @@
     </search>
     <history>
       <history-search>
-        <entry>temp</entry>
         <entry>temporary</entry>
         <entry>tempo</entry>
         <entry>gettakenmess</entry>
@@ -885,6 +884,7 @@
         <entry>attachmentTypeComboBox</entry>
         <entry>emailAttachmentType</entry>
         <entry>START_DATE</entry>
+        <entry>account_types</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9kZWxpdmVyeVN0YXR1cy9n</entry>
