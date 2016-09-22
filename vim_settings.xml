@@ -600,12 +600,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1474550650736">
-        <mark key="'" line="6293" column="49" />
-        <mark key="[" line="6293" column="55" />
-        <mark key="]" line="6292" column="57" />
-        <mark key="." line="6292" column="57" />
-        <mark key="^" line="6292" column="57" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1474551744495">
+        <mark key="'" line="6138" column="55" />
+        <mark key="[" line="6290" column="54" />
+        <mark key="]" line="6290" column="59" />
+        <mark key="." line="6290" column="59" />
+        <mark key="^" line="6290" column="59" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
@@ -721,25 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="43" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="29" column="8" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="215" column="41" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="24" column="27" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="355" column="4" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="362" column="19" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="283" column="26" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="313" column="27" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="228" column="42" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="224" column="39" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="361" column="11" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="357" column="24" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="57" column="16" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="66" column="15" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="70" column="12" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="318" column="32" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="99" column="12" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="63" column="23" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="130" column="4" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="160" column="19" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="161" column="23" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="327" column="58" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
@@ -816,63 +797,82 @@
       <jump line="6191" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="4290" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="7148" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="5658" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6278" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6289" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6293" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6284" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="5657" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="7080" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="115" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="815" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="831" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="836" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="840" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="841" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="842" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1500" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1504" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1505" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1506" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1507" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1508" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="5398" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="5400" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6138" column="55" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT09PiAiICsgcmVzdWx0cy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBkZXN0ID0gZ2V0U3RyaW5nKSBvYmplY3RzWzE2XTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">KFN0cmluZykg</text>
+        <text>getTakenMessageMessageDetail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VEZXRhaWxzID0gdGhpcy5nZXRUYWtlbk1lc3NhZ2VNZXNzYWdlRGV0YWlscyhyZWNlaXZlcklkLAogICAgICAgICAgICAgICAgICAgICAgICB0YWtlbkRhdGVUaW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2JqZWN0ID09IG51bGwgPyAiIiA6ICgoU3RyaW5nKSBvYmplY3QpLnRyaW0oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT09PiAiICsgcmVzdWx0cy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBkZXN0ID0gZ2V0U3RyaW5nKSBvYmplY3RzWzE2XTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VEZXRhaWxzID0gdGhpcy5nZXRUYWtlbk1lc3NhZ2VNZXNzYWdlRGV0YWlscyhyZWNlaXZlcklkLAogICAgICAgICAgICAgICAgICAgICAgICB0YWtlbkRhdGVUaW1lKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3RyaW5nIG9yZGVyID0gKChTdHJpbmcpIG9iamVjdHNbMTNdKQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5yZXBsYWNlRmlyc3QoIl4wKyg/ISQpIiwgIiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT09PT09PT09PT09PT09PT0iKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2JqZWN0ID09IG51bGwgPyAiIiA6ICgoU3RyaW5nKSBvYmplY3QpLnRyaW0oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzTm9ybWFsTWVzc2FnZSAmJiAoaXNQcmV2Qm9va2VkUGFnZXJSb3N0ZXIgfHwKICAgICAgICAgICAgICAgICAgICBpc1ByZXZCb29rZWRQYWdlclJvc3RlckVzY2FsYXRpb24pKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoaXNQYWdlclJvc3Rlck1lc3NhZ2UgIW9yaWdpbmFsUGFnZXJOdW1iZXIuZXF1YWxzKHBhZ2VyTnVtYmVyKQogICAgICAgICAgICAgICAgICAgICYmIChpc1ByZXZCb29rZWRQYWdlclJvc3RlciB8fAogICAgICAgICAgICAgICAgICAgIGlzUHJldkJvb2tlZFBhZ2VyUm9zdGVyRXNjYWxhdGlvbikpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzT3V0Y2FsbERlc3RpbmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT09PiAiICsgcmVzdWx0cy5zaXplKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VEZXRhaWxzID0gdGhpcy5nZXRUYWtlbk1lc3NhZ2VNZXNzYWdlRGV0YWlscyhyZWNlaXZlcklkLAogICAgICAgICAgICAgICAgICAgICAgICB0YWtlbkRhdGVUaW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT09PT09PT09PT09PT09PT0iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzTm9ybWFsTWVzc2FnZSAmJiAoaXNQcmV2Qm9va2VkUGFnZXJSb3N0ZXIgfHwKICAgICAgICAgICAgICAgICAgICBpc1ByZXZCb29rZWRQYWdlclJvc3RlckVzY2FsYXRpb24pKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoaXNQYWdlclJvc3Rlck1lc3NhZ2UgIW9yaWdpbmFsUGFnZXJOdW1iZXIuZXF1YWxzKHBhZ2VyTnVtYmVyKQogICAgICAgICAgICAgICAgICAgICYmIChpc1ByZXZCb29rZWRQYWdlclJvc3RlciB8fAogICAgICAgICAgICAgICAgICAgIGlzUHJldkJvb2tlZFBhZ2VyUm9zdGVyRXNjYWxhdGlvbikpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFRSQU5TQUNUSU9OX1RZUEVfTk9STUFMX01FU1NBR0UuZXF1YWxzKHRyYW5UeXBlKSAmJgogICAgICAgICAgICAgICAgICAgICgpKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzT3V0Y2FsbERlc3RpbmF0aW9uKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>6153</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">KFN0cmluZykg</last-search>
+      <last-search>getTakenMessageMessageDetail</last-search>
       <last-offset />
-      <last-pattern encoding="base64">KFN0cmluZykg</last-pattern>
+      <last-pattern>getTakenMessageMessageDetail</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -880,9 +880,6 @@
     </search>
     <history>
       <history-search>
-        <entry>attach</entry>
-        <entry>attachmentTypeComboBox</entry>
-        <entry>emailAttachmentType</entry>
         <entry>START_DATE</entry>
         <entry>account_types</entry>
         <entry>get taken amd</entry>
@@ -898,11 +895,13 @@
         <entry>message details</entry>
         <entry>isAmd</entry>
         <entry>message delivery details</entry>
-        <entry>getString</entry>
         <entry encoding="base64">KFN0cmluZykg</entry>
+        <entry>getString</entry>
+        <entry>(String)</entry>
+        <entry>getMessageDetails</entry>
+        <entry>getTakenMessageMessageDetail</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9vcGVyYXRvci9n</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9tYWNoaW5lSWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9wb3J0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9yZXN1bHQvZw==</entry>
@@ -922,6 +921,7 @@
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz5zLyhTdHJpbmcpIC9nZXRTdHJpbmcoL2c=</entry>
         <entry>w</entry>
+        <entry>6153</entry>
       </history-cmd>
       <history-expr />
       <history-input />
