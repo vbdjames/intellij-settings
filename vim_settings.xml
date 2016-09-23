@@ -210,7 +210,7 @@
         <mark key="^" line="89" column="68" />
       </file>
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/form/FormEntityType.java" timestamp="1474392347772">
-        <mark key="'" line="700" column="67" />
+        <mark key="'" line="671" column="67" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" timestamp="1474577076045">
         <mark key="[" line="250" column="0" />
@@ -220,8 +220,8 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/report/Report.java" timestamp="1474317610020">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1473262518765">
-        <mark key="'" line="6205" column="8" />
+      <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1474641256380">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" timestamp="1472482810230">
         <mark key="'" line="1203" column="12" />
@@ -721,8 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1165" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
-      <jump line="1167" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1168" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1169" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1170" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
@@ -821,6 +819,8 @@
       <jump line="16" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="19" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="26" column="32" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" />
+      <jump line="350" column="16" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -830,7 +830,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessageAmd</text>
+        <text>getTakenMessageMessage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicmVjZWl2ZWRfZGF0ZSA9ID8gIiArCg==</text>
@@ -870,9 +870,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessageAmd</last-search>
+      <last-search>getTakenMessageMessage</last-search>
       <last-offset />
-      <last-pattern>getTakenMessageAmd</last-pattern>
+      <last-pattern>getTakenMessageMessage</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -896,10 +896,10 @@
         <entry>(String)</entry>
         <entry>getMessageDetails</entry>
         <entry>getTakenMessageMessageDetail</entry>
-        <entry>getTakenMessageMessage</entry>
         <entry>isAmdOrRoster</entry>
         <entry>Fax No Answer</entry>
         <entry>getTakenMessageAmd</entry>
+        <entry>getTakenMessageMessage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9wb3J0L2c=</entry>
