@@ -603,8 +603,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1474642629017">
-        <mark key="'" line="1029" column="48" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1474649673923">
+        <mark key="'" line="6243" column="37" />
         <mark key="[" line="6257" column="44" />
         <mark key="]" line="6259" column="25" />
         <mark key="." line="6259" column="25" />
@@ -724,7 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1172" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1173" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1174" column="66" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1175" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
@@ -824,6 +823,7 @@
       <jump line="12" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="4284" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
       <jump line="1029" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6243" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -833,7 +833,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessageMessage</text>
+        <text>none shall pass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicmVjZWl2ZWRfZGF0ZSA9ID8gIiArCg==</text>
@@ -869,13 +869,13 @@
         <text encoding="base64">ICAgICAgICAvLyBhc3N1bWUgMSBpcyAzIGVsZW1lbnRzIGFuZCAyIGlzIDUgZWxlbWVudHMsIHdlIHdhbnQgdG8gY29tcGFyZToKICAgICAgICAvLyAgMCA6IDIKICAgICAgICAvLyAgMSA6IDMKICAgICAgICAvLyAgMiA6IDQKICAgICAgICAKICAgICAgICAvLyBhc3N1bWUgdGhleSBhcmUgYm90aCAzOgogICAgICAgIC8vICAwIDogMAogICAgICAgIC8vICAxIDogMQogICAgICAgIC8vICAyIDogMgogICAgICAgIAogICAgICAgIC8vIGFzc3VtZSA1IGFuZCAzOgogICAgICAgIC8vICBub3Qgc3VyZSB3aGF0IHdlIG91Z2hodCB0byBkbyBub3chCiAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>6307</text>
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessageMessage</last-search>
+      <last-search>none shall pass</last-search>
       <last-offset />
-      <last-pattern>getTakenMessageMessage</last-pattern>
+      <last-pattern>none shall pass</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -883,7 +883,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is</entry>
         <entry>logger</entry>
         <entry>LOGGER.info(</entry>
         <entry>message details</entry>
@@ -903,9 +902,9 @@
         <entry>getMessageDeliveryDetails</entry>
         <entry>hack</entry>
         <entry>getTakenMessageMessage</entry>
+        <entry>none shall pass</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9wb3J0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9yZXN1bHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9zZXF1ZW5jZU5yL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9ob2xkZXJOYW1lL2c=</entry>
@@ -925,6 +924,7 @@
         <entry>6153</entry>
         <entry>6305</entry>
         <entry>w</entry>
+        <entry>6307</entry>
       </history-cmd>
       <history-expr />
       <history-input />
