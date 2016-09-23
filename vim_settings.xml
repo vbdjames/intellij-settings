@@ -368,8 +368,8 @@
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details copy.java" timestamp="1473967414762">
         <mark key="[" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" timestamp="1473879912288">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" timestamp="1474642108126">
+        <mark key="'" line="4284" column="0" />
         <mark key="[" line="3665" column="0" />
         <mark key="]" line="3665" column="0" />
         <mark key="^" line="3565" column="28" />
@@ -603,8 +603,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1474578854261">
-        <mark key="'" line="19" column="20" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1474642629017">
+        <mark key="'" line="1029" column="48" />
         <mark key="[" line="6257" column="44" />
         <mark key="]" line="6259" column="25" />
         <mark key="." line="6259" column="25" />
@@ -724,9 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1169" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
-      <jump line="1170" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
-      <jump line="1171" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1172" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1173" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1174" column="66" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
@@ -824,6 +821,9 @@
       <jump line="350" column="16" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="104" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="12" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="4284" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
+      <jump line="1029" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -833,7 +833,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>getTaken</text>
+        <text>getTakenMessageMessage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicmVjZWl2ZWRfZGF0ZSA9ID8gIiArCg==</text>
@@ -873,9 +873,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTaken</last-search>
+      <last-search>getTakenMessageMessage</last-search>
       <last-offset />
-      <last-pattern>getTaken</last-pattern>
+      <last-pattern>getTakenMessageMessage</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -883,10 +883,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getakenmessge</entry>
-        <entry>get taken message AMD</entry>
-        <entry>deliv_</entry>
-        <entry>Amd</entry>
         <entry>is</entry>
         <entry>logger</entry>
         <entry>LOGGER.info(</entry>
@@ -901,8 +897,12 @@
         <entry>isAmdOrRoster</entry>
         <entry>Fax No Answer</entry>
         <entry>getTakenMessageAmd</entry>
-        <entry>getTakenMessageMessage</entry>
         <entry>getTaken</entry>
+        <entry>getTakenMessageDetail</entry>
+        <entry>getTakenMessage</entry>
+        <entry>getMessageDeliveryDetails</entry>
+        <entry>hack</entry>
+        <entry>getTakenMessageMessage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9wb3J0L2c=</entry>
