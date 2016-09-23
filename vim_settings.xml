@@ -362,6 +362,9 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/amd/AmdInstructionType.java" timestamp="1473789176696">
         <mark key="'" line="19" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1474641355209">
+        <mark key="'" line="104" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details copy.java" timestamp="1473967414762">
         <mark key="[" line="7" column="22" />
       </file>
@@ -721,7 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1168" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1169" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1170" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1171" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
@@ -821,6 +823,7 @@
       <jump line="26" column="32" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="350" column="16" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="104" column="13" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -830,7 +833,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessageMessage</text>
+        <text>getTaken</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicmVjZWl2ZWRfZGF0ZSA9ID8gIiArCg==</text>
@@ -870,9 +873,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessageMessage</last-search>
+      <last-search>getTaken</last-search>
       <last-offset />
-      <last-pattern>getTakenMessageMessage</last-pattern>
+      <last-pattern>getTaken</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -880,7 +883,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get taken amd</entry>
         <entry>getakenmessge</entry>
         <entry>get taken message AMD</entry>
         <entry>deliv_</entry>
@@ -900,6 +902,7 @@
         <entry>Fax No Answer</entry>
         <entry>getTakenMessageAmd</entry>
         <entry>getTakenMessageMessage</entry>
+        <entry>getTaken</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9wb3J0L2c=</entry>
