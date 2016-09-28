@@ -609,11 +609,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1474903741418">
-        <mark key="'" line="6586" column="54" />
-        <mark key="[" line="6262" column="42" />
-        <mark key="]" line="6263" column="50" />
-        <mark key="." line="6263" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1475076598709">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5624" column="0" />
+        <mark key="]" line="5624" column="0" />
+        <mark key="." line="5624" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
@@ -729,7 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1306" column="36" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1465" column="31" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="1466" column="22" filename="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
@@ -825,62 +824,63 @@
       <jump line="6307" column="60" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6308" column="63" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6278" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6128" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6567" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6586" column="54" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6231" column="59" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDkvMjYvMTYuCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pagernumber</text>
+        <text>primaryHistory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChPYmplY3RbXSByZXN1bHQgOiByZXN1bHRzKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDkvMjYvMTYuCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFyYW1ldGVyKDEsIGZpcnN0TWRzaGlzdElkKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDkvMjYvMTYuCiAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT0gV1RGID09PSIpOwoKICAgICAgICAgICAgZm9yIChPYmplY3QgcmVzdWx0IDogcmVzdWx0cykgewogICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT09PT09PT4gIiArIHJlc3VsdCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFyYW1ldGVyKDEsIGZpcnN0TWRzaGlzdElkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICgpCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT0gV1RGID09PSIpOwoKICAgICAgICAgICAgZm9yIChPYmplY3QgcmVzdWx0IDogcmVzdWx0cykgewogICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT09PT09PT4gIiArIHJlc3VsdCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoKCgoKCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICJwYWdlZF9kYXRlID0gPyAiICsK</text>
+        <text encoding="base64">CgoKCgoKCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICJwYWdlZF9kYXRlID0gPyAiICsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPLWR3ajogdmVyeSBza2V0Y2ghCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwYWdlcl9udW1iZXJfYmFzZSwgMCwgMSkgYXMgcHJpbWFyeV9tYXRjaCwgIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPLWR3ajogdmVyeSBza2V0Y2ghCg==</text>
       </register>
       <register name=":" type="4">
         <text>6266</text>
       </register>
     </registers>
     <search>
-      <last-search>pagernumber</last-search>
+      <last-search>primaryHistory</last-search>
       <last-offset />
-      <last-pattern>pagernumber</last-pattern>
+      <last-pattern>primaryHistory</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -888,7 +888,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">KFN0cmluZykg</entry>
         <entry>getString</entry>
         <entry>(String)</entry>
         <entry>getMessageDetails</entry>
@@ -908,6 +907,7 @@
         <entry>primary_match</entry>
         <entry>sketch</entry>
         <entry>pagernumber</entry>
+        <entry>primaryHistory</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9jb250YWN0TWV0aG9kL2c=</entry>
