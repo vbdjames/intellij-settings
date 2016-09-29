@@ -610,12 +610,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JScrollPane.java" timestamp="1471613360852">
         <mark key="'" line="170" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1475096910163">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1475098131305">
         <mark key="'" line="1084" column="29" />
-        <mark key="[" line="6305" column="0" />
-        <mark key="]" line="6305" column="10" />
-        <mark key="^" line="6242" column="11" />
-        <mark key="." line="6305" column="0" />
+        <mark key="[" line="6318" column="0" />
+        <mark key="]" line="6318" column="10" />
+        <mark key="^" line="6243" column="9" />
+        <mark key="." line="6318" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
@@ -852,29 +852,29 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PT0+IG1lc3NhZ2UgbWVzc2FnZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MDAwMDE2NTU4NCwyMDE2LTA5LTIwIDAwOjAwOjAxLGQxCg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ODAwNjM3OTY2NCwyMDE2LTA5LTIwIDAwOjAwOjAxLG4xCg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PT0+IG1lc3NhZ2UgbWVzc2FnZSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MDAwMDAzNzgzMiwyMDE2LTA5LTIwIDAwOjAwOjA0LGVtCjAwMDAwNDE5ODEsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwODAwMTk4LDIwMTYtMDktMjAgMDA6MDA6MDQsZDEKMDAwMDgwNDkyNCwyMDE2LTA5LTIwIDAwOjAwOjA0LGVtCjAwMDAwODMyMjAsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwMDgzNjQxLDIwMTYtMDktMjAgMDA6MDA6MDQsZDEK</text>
+        <text encoding="base64">MDAwMDE2NTU4NCwyMDE2LTA5LTIwIDAwOjAwOjAxLGQxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MDAwMDAyNjg2NCwyMDE2LTA5LTIwIDAwOjAwOjA0LGQxCjAwMDAwMjk1NjgsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwMDI5Njc5LDIwMTYtMDktMjAgMDA6MDA6MDQsZDEK</text>
+        <text encoding="base64">ODAwNjM3OTY2NCwyMDE2LTA5LTIwIDAwOjAwOjAxLG4xCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>receiverId,
-                        takenDateTime</text>
+      <register name="7" type="2">
+        <text encoding="base64">MDAwMDAzNzgzMiwyMDE2LTA5LTIwIDAwOjAwOjA0LGVtCjAwMDAwNDE5ODEsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwODAwMTk4LDIwMTYtMDktMjAgMDA6MDA6MDQsZDEKMDAwMDgwNDkyNCwyMDE2LTA5LTIwIDAwOjAwOjA0LGVtCjAwMDAwODMyMjAsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwMDgzNjQxLDIwMTYtMDktMjAgMDA6MDA6MDQsZDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MDAwMDAyNjg2NCwyMDE2LTA5LTIwIDAwOjAwOjA0LGQxCjAwMDAwMjk1NjgsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwMDI5Njc5LDIwMTYtMDktMjAgMDA6MDA6MDQsZDEK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>receiverId,
+                        takenDateTime</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
