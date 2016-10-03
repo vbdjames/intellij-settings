@@ -569,7 +569,11 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/Zip-Codes.com Download Information.txt" timestamp="1475518799036" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/Zip-Codes.com Download Information.txt" timestamp="1475525991124">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="26" column="89" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" timestamp="1473859710160">
         <mark key="'" line="182" column="33" />
         <mark key="[" line="166" column="0" />
@@ -665,12 +669,24 @@
         <mark key="." line="71" column="52" />
         <mark key="^" line="71" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_load.ctl" timestamp="1475525081330">
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+      </file>
       <file name="$USER_HOME$/Code/mapcom/echo3/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDestinationsPanel.java" timestamp="1466108347308">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="^" line="91" column="51" />
         <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_codes_load.ctl" timestamp="1475524788965">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDateRangePanel.java" timestamp="1466791638708">
         <mark key="'" line="12" column="45" />
@@ -838,7 +854,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">VGhlIENhbmFkaWFuIHBvc3RhbCBjb2RlIGRhdGFiYXNlIGlzIG9ubHkgcHJvdmlkZWQgYXMgYSBjb21wbGV0ZSBmaWxlIChub3QganVzdCB1cGRhdGVzKS4K</text>
       </register>
       <register name="-" type="4">
         <text>w</text>
@@ -850,35 +866,34 @@
         <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBnZXRUYWtlbk1lc3NhZ2VBbWREZXRhaWxzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">VGhlIENhbmFkaWFuIHBvc3RhbCBjb2RlIGRhdGFiYXNlIGlzIG9ubHkgcHJvdmlkZWQgYXMgYSBjb21wbGV0ZSBmaWxlIChub3QganVzdCB1cGRhdGVzKS4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PT0+IG1lc3NhZ2UgbWVzc2FnZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MDAwMDE2NTU4NCwyMDE2LTA5LTIwIDAwOjAwOjAxLGQxCg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PT0+IG1lc3NhZ2UgbWVzc2FnZSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ODAwNjM3OTY2NCwyMDE2LTA5LTIwIDAwOjAwOjAxLG4xCg==</text>
+        <text encoding="base64">MDAwMDE2NTU4NCwyMDE2LTA5LTIwIDAwOjAwOjAxLGQxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MDAwMDAzNzgzMiwyMDE2LTA5LTIwIDAwOjAwOjA0LGVtCjAwMDAwNDE5ODEsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwODAwMTk4LDIwMTYtMDktMjAgMDA6MDA6MDQsZDEKMDAwMDgwNDkyNCwyMDE2LTA5LTIwIDAwOjAwOjA0LGVtCjAwMDAwODMyMjAsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwMDgzNjQxLDIwMTYtMDktMjAgMDA6MDA6MDQsZDEK</text>
+        <text encoding="base64">ODAwNjM3OTY2NCwyMDE2LTA5LTIwIDAwOjAwOjAxLG4xCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MDAwMDAyNjg2NCwyMDE2LTA5LTIwIDAwOjAwOjA0LGQxCjAwMDAwMjk1NjgsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwMDI5Njc5LDIwMTYtMDktMjAgMDA6MDA6MDQsZDEK</text>
+        <text encoding="base64">MDAwMDAzNzgzMiwyMDE2LTA5LTIwIDAwOjAwOjA0LGVtCjAwMDAwNDE5ODEsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwODAwMTk4LDIwMTYtMDktMjAgMDA6MDA6MDQsZDEKMDAwMDgwNDkyNCwyMDE2LTA5LTIwIDAwOjAwOjA0LGVtCjAwMDAwODMyMjAsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwMDgzNjQxLDIwMTYtMDktMjAgMDA6MDA6MDQsZDEK</text>
       </register>
-      <register name="9" type="4">
-        <text>receiverId,
-                        takenDateTime</text>
+      <register name="9" type="2">
+        <text encoding="base64">MDAwMDAyNjg2NCwyMDE2LTA5LTIwIDAwOjAwOjA0LGQxCjAwMDAwMjk1NjgsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwMDI5Njc5LDIwMTYtMDktMjAgMDA6MDA6MDQsZDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
