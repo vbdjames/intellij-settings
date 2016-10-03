@@ -569,10 +569,12 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/Zip-Codes.com Download Information.txt" timestamp="1475525991124">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="26" column="89" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/Zip-Codes.com Download Information.txt" timestamp="1475526657487">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" timestamp="1473859710160">
         <mark key="'" line="182" column="33" />
@@ -751,7 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3582" column="0" filename="$USER_HOME$/Code/echo/delivery-details.txt" />
       <jump line="3" column="1" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
       <jump line="23" column="17" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
       <jump line="3929" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -851,13 +852,14 @@
       <jump line="1076" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1084" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="48" column="0" filename="$USER_HOME$/Code/echo/delivery-details.txt" />
+      <jump line="43" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/Zip-Codes.com Download Information.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">VGhlIENhbmFkaWFuIHBvc3RhbCBjb2RlIGRhdGFiYXNlIGlzIG9ubHkgcHJvdmlkZWQgYXMgYSBjb21wbGV0ZSBmaWxlIChub3QganVzdCB1cGRhdGVzKS4K</text>
+        <text encoding="base64">RXh0cmFjdCB0aGUgdGFiIGFuZCB4bHMgZmlsZXMgZnJvbSB0aGUgdXBkYXRlIGZpbGVzLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text encoding="base64">ICBXaXRoIGEgdGV4dCA=</text>
       </register>
       <register name="/" type="4">
         <text>getTakenMessageMessage</text>
@@ -866,34 +868,34 @@
         <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBnZXRUYWtlbk1lc3NhZ2VBbWREZXRhaWxzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGhlIENhbmFkaWFuIHBvc3RhbCBjb2RlIGRhdGFiYXNlIGlzIG9ubHkgcHJvdmlkZWQgYXMgYSBjb21wbGV0ZSBmaWxlIChub3QganVzdCB1cGRhdGVzKS4K</text>
+        <text encoding="base64">RXh0cmFjdCB0aGUgdGFiIGFuZCB4bHMgZmlsZXMgZnJvbSB0aGUgdXBkYXRlIGZpbGVzLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ZWRpdG9yLCByZW1vdmUgdGhlIGZpcnN0IGxpbmUgb2YgdGhlIHRhYiBmaWxlOyB0aGUgZmlyc3QgbGluZSBjb250YWlucyBoZWFkZXJzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">VGhlIENhbmFkaWFuIHBvc3RhbCBjb2RlIGRhdGFiYXNlIGlzIG9ubHkgcHJvdmlkZWQgYXMgYSBjb21wbGV0ZSBmaWxlIChub3QganVzdCB1cGRhdGVzKS4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PT0+IG1lc3NhZ2UgbWVzc2FnZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MDAwMDE2NTU4NCwyMDE2LTA5LTIwIDAwOjAwOjAxLGQxCg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ODAwNjM3OTY2NCwyMDE2LTA5LTIwIDAwOjAwOjAxLG4xCg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PT0+IG1lc3NhZ2UgbWVzc2FnZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MDAwMDAzNzgzMiwyMDE2LTA5LTIwIDAwOjAwOjA0LGVtCjAwMDAwNDE5ODEsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwODAwMTk4LDIwMTYtMDktMjAgMDA6MDA6MDQsZDEKMDAwMDgwNDkyNCwyMDE2LTA5LTIwIDAwOjAwOjA0LGVtCjAwMDAwODMyMjAsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwMDgzNjQxLDIwMTYtMDktMjAgMDA6MDA6MDQsZDEK</text>
+        <text encoding="base64">MDAwMDE2NTU4NCwyMDE2LTA5LTIwIDAwOjAwOjAxLGQxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MDAwMDAyNjg2NCwyMDE2LTA5LTIwIDAwOjAwOjA0LGQxCjAwMDAwMjk1NjgsMjAxNi0wOS0yMCAwMDowMDowNCxkMQowMDAwMDI5Njc5LDIwMTYtMDktMjAgMDA6MDA6MDQsZDEK</text>
+        <text encoding="base64">ODAwNjM3OTY2NCwyMDE2LTA5LTIwIDAwOjAwOjAxLG4xCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
