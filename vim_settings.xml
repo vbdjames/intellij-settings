@@ -122,6 +122,12 @@
       <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1473339897174">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/ca_postal_code_load.sh" timestamp="1475592978440">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="135" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceMessageExport.java" timestamp="1472068517103">
         <mark key="'" line="49" column="4" />
         <mark key="[" line="49" column="4" />
@@ -231,8 +237,10 @@
         <mark key="^" line="1197" column="19" />
         <mark key="." line="1197" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_postal_code_tables.sql" timestamp="1475591103772">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_postal_code_tables.sql" timestamp="1475593385795">
+        <mark key="'" line="45" column="13" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="106" column="1" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/adminui/EchoEntityEditorFramesHandler.java" timestamp="1466537948252">
         <mark key="'" line="67" column="13" />
@@ -377,9 +385,6 @@
       </file>
       <file name="$USER_HOME$/Code/echo-master/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1474641355209">
         <mark key="'" line="104" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details copy.java" timestamp="1473967414762">
-        <mark key="[" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" timestamp="1474642108126">
         <mark key="'" line="4284" column="0" />
@@ -577,6 +582,12 @@
         <mark key="." line="34" column="6" />
         <mark key="^" line="34" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_load.sql" timestamp="1475594052385">
+        <mark key="[" line="68" column="85" />
+        <mark key="]" line="67" column="70" />
+        <mark key="." line="67" column="70" />
+        <mark key="^" line="67" column="70" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" timestamp="1473859710160">
         <mark key="'" line="182" column="33" />
         <mark key="[" line="166" column="0" />
@@ -628,6 +639,12 @@
         <mark key="^" line="6243" column="9" />
         <mark key="." line="6318" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_load.sh" timestamp="1475593000975">
+        <mark key="[" line="0" column="81" />
+        <mark key="]" line="0" column="56" />
+        <mark key="." line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceScheduleEditorPanel.java" timestamp="1470758865469">
         <mark key="'" line="169" column="4" />
       </file>
@@ -656,9 +673,6 @@
         <mark key="]" line="1424" column="28" />
         <mark key="." line="1424" column="28" />
         <mark key="^" line="1424" column="28" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1473972824914">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/DestinationsPanel.java" timestamp="1465592694999">
         <mark key="'" line="315" column="0" />
@@ -744,14 +758,8 @@
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/scheduledservice/OneTimeScheduledServiceEditorFrame.java" timestamp="1469035278567">
         <mark key="'" line="653" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1474482472623">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="17" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
-      <jump line="3929" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6188" column="73" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6258" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="25" column="29" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details.java" />
@@ -849,58 +857,61 @@
       <jump line="48" column="0" filename="$USER_HOME$/Code/echo/delivery-details.txt" />
       <jump line="43" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/Zip-Codes.com Download Information.txt" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_postal_code_tables.sql" />
+      <jump line="44" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_postal_code_tables.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_postal_code_tables.sql" />
+      <jump line="45" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_postal_code_tables.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PT09IEZvciBDYW5hZGlhbiBQb3N0YWwgQ29kZXMKCj09PSBGb3IgVUsgUG9zdGFsIENvZGVzClRCRAoK</text>
+      <register name="&quot;" type="4">
+        <text>CITY_ALIAS_NAME</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRldGVybWluZSB3aGljaCBhcmUgaW5jb3JyZWN0IGFuZCBmaXgg</text>
+        <text>CITY_ALIAS_NAME</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessageMessage</text>
+        <text>TEMP_ZIP_CODE_UPDATE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBnZXRUYWtlbk1lc3NhZ2VBbWREZXRhaWxzIik7Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgRUNITy5URU1QX1pJUF9DT0RFX1VQREFURSBBREQgQ09OU1RSQUlOVCBDSEVDSyhDSVRZX0FMSUFTX05BTUUgSVMgTk9UIE5VTEwpIEVOQUJMRTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09IEZvciBDYW5hZGlhbiBQb3N0YWwgQ29kZXMKCj09PSBGb3IgVUsgUG9zdGFsIENvZGVzClRCRAoK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgRUNITy5URU1QX1pJUF9DT0RFX1VQREFURSBBREQgQ09OU1RSQUlOVCBDSEVDSyhDSVRZX0FMSUFTX05BTUUgSVMgTk9UIE5VTEwpIEVOQUJMRTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhlIHNjcmlwdCBjcmVhdGVfcG9zdGFsX2NvZGVfdGFibGVzLnNxbCBjb250YWlucyB0aGUgc3RhdGVtZW50IHRoYXQgY3JlYXRlcwp0aGUgdGVtcF96aXBfY29kZV91cGRhdGUgdGFibGUgaWYgdGhlIHRhYmxlIGlzIG1pc3NpbmcgZnJvbSBhbnkgZGF0YWJhc2UgCmluc3RhbmNlLgoK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgRUNITy5URU1QX1pJUF9DT0RFX1VQREFURSBBREQgQ09OU1RSQUlOVCBDSEVDSyhDSVRZX0FMSUFTX05BTUUgSVMgTk9UIE5VTEwpIEVOQUJMRTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGhlc2UuCg==</text>
+        <text encoding="base64">PT09IEZvciBDYW5hZGlhbiBQb3N0YWwgQ29kZXMKCj09PSBGb3IgVUsgUG9zdGFsIENvZGVzClRCRAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCBjb3VudCgqKSBmcm9tIHBvc3RhbF9jb2RlOwo=</text>
+        <text encoding="base64">VGhlIHNjcmlwdCBjcmVhdGVfcG9zdGFsX2NvZGVfdGFibGVzLnNxbCBjb250YWlucyB0aGUgc3RhdGVtZW50IHRoYXQgY3JlYXRlcwp0aGUgdGVtcF96aXBfY29kZV91cGRhdGUgdGFibGUgaWYgdGhlIHRhYmxlIGlzIG1pc3NpbmcgZnJvbSBhbnkgZGF0YWJhc2UgCmluc3RhbmNlLgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGhlc2UuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MS4gRGV0ZXJtaW5lIHRoZSBjdXJyZW50IHBvc3RhbCBjb2RlIGNvdW50IHN5c3RlbXM6Cg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdCBjb3VudCgqKSBmcm9tIHBvc3RhbF9jb2RlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2hlczEudGVzdDIuZGIgYW5kIGNoZXMxLnRlc3QzLmRiLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyBkYXRhYmFzZSBpbnN0YW5jZTsgY3VycmVudGx5LCB0aGVzZSBhcmUgY2hlczEucHJvZC5kYiwgY2hlczEudGVzdDEuZGIsIAo=</text>
+        <text encoding="base64">MS4gRGV0ZXJtaW5lIHRoZSBjdXJyZW50IHBvc3RhbCBjb2RlIGNvdW50IHN5c3RlbXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IEluIHR1cm4sIHBlcmZvcm0gdGhlIHNhbWUgc3RlcHMgZm9yIGVhY2ggT3JhY2xlCg==</text>
+        <text encoding="base64">Y2hlczEudGVzdDIuZGIgYW5kIGNoZXMxLnRlc3QzLmRiLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessageMessage</last-search>
+      <last-search>TEMP_ZIP_CODE_UPDATE</last-search>
       <last-offset />
-      <last-pattern>getTakenMessageMessage</last-pattern>
+      <last-pattern>TEMP_ZIP_CODE_UPDATE</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -908,7 +919,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isAmdOrRoster</entry>
         <entry>Fax No Answer</entry>
         <entry>getTaken</entry>
         <entry>getTakenMessageDetail</entry>
@@ -928,6 +938,7 @@
         <entry>primaryhistory</entry>
         <entry>getTakenMessageAmd</entry>
         <entry>getTakenMessageMessage</entry>
+        <entry>TEMP_ZIP_CODE_UPDATE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9jb250YWN0TWV0aG9kL2c=</entry>
