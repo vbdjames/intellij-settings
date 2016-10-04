@@ -60,6 +60,13 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageDeliveryType.java" timestamp="1473345786256">
         <mark key="'" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_code_update_ca.sql" timestamp="1475615824076">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="29" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1475094165038">
         <mark key="[" line="70" column="55" />
         <mark key="]" line="72" column="49" />
@@ -101,6 +108,12 @@
         <mark key="]" line="3499" column="14" />
         <mark key="." line="3499" column="14" />
         <mark key="^" line="3499" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_code_update_load_ca.sh" timestamp="1475614281451">
+        <mark key="[" line="0" column="98" />
+        <mark key="]" line="0" column="106" />
+        <mark key="^" line="0" column="106" />
+        <mark key="." line="0" column="106" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details_refactor.java" timestamp="1473967609267">
         <mark key="[" line="78" column="47" />
@@ -151,12 +164,12 @@
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export-original-test.csv" timestamp="1473198687673">
         <mark key="'" line="413" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_us.sql" timestamp="1475611625320">
-        <mark key="'" line="58" column="68" />
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="86" column="11" />
-        <mark key="." line="86" column="11" />
-        <mark key="^" line="86" column="11" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_us.sql" timestamp="1475615867416">
+        <mark key="'" line="63" column="25" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/scheduledservice/ScheduledServiceContentsPanel.java" timestamp="1468950921779">
         <mark key="'" line="53" column="23" />
@@ -230,12 +243,6 @@
       </file>
       <file name="$USER_HOME$/Code/echo-2/src/java/com/mapcommunications/form/FormEntityType.java" timestamp="1474392347772">
         <mark key="'" line="671" column="67" />
-      </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/export.csv" timestamp="1475096027584">
-        <mark key="'" line="7" column="32" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/report/Report.java" timestamp="1474317610020">
         <mark key="'" line="0" column="0" />
@@ -734,9 +741,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_code_update_load_ca.ctl" timestamp="1475602645954">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="51" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_code_update_load_ca.ctl" timestamp="1475613542006">
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Code/mapcom/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDateRangePanel.java" timestamp="1466791638708">
         <mark key="'" line="12" column="45" />
@@ -798,9 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="111" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="312" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="401" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="486" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="632" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -898,66 +904,68 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_load_us.ctl" />
       <jump line="14" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_load_us.ctl" />
       <jump line="62" column="68" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_us.sql" />
+      <jump line="63" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_us.sql" />
+      <jump line="46" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_code_update_ca.sql" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_code_update_ca.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TEMP_ZIP_CODE_UPDATE_US</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>COUNTRY</text>
-      </register>
-      <register name="0" type="4">
         <text>TEMP_ZIP_CODE_UPDATE_US</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">LS0gLi4ub3IgaW4gdGhlIGRhdGFiYXNlIGZpbGUgZnJvbSB6aXAtY29kZXMuY29tLgpTRUxFQ1QgVEVNUF9aSVBfQ09ERV9VUERBVEVfVVMuKiwgVEVNUF9aSVBfQ09ERV9VUERBVEVfVVMuUk9XSUQgRlJPTSBURU1QX1pJUF9DT0RFX1VQREFURV9VUywKICAoU0VMRUNUIFpJUF9DT0RFLCBDSVRZX0FMSUFTX05BTUUsIFNUQVRFLCBDT1VOVCgqKQogICBGUk9NIFRFTVBfWklQX0NPREVfVVBEQVRFX1VTIEdST1VQIEJZIFpJUF9DT0RFLCBDSVRZX0FMSUFTX05BTUUsIFNUQVRFIEhBVklORyBDT1VOVCgqKSA+IDEpIERVUExJQ0FURQpXSEVSRSBURU1QX1pJUF9DT0RFX1VQREFURV9VUy5aSVBfQ09ERSA9IERVUExJQ0FURS5aSVBfQ09ERQogICAgICBBTkQgVEVNUF9aSVBfQ09ERV9VUERBVEVfVVMuQ0lUWV9BTElBU19OQU1FID0gRFVQTElDQVRFLkNJVFlfQUxJQVNfTkFNRQogICAgICBBTkQgVEVNUF9aSVBfQ09ERV9VUERBVEVfVVMuU1RBVEUgPSBEVVBMSUNBVEUuU1RBVEU7CgotLSB3aGljaCBjYW4gYmUgcmVtb3ZlZCB3aXRoOgpERUxFVEUgRlJPTSBURU1QX1pJUF9DT0RFX1VQREFURV9VUyBXSEVSRSBST1dJRD0neHh4eHh4eHh4eHh4eHh4eHh4JzsK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIFRFTVBfWklQX0NPREVfVVBEQVRFX1VTX1JPV0lEIEFTCiAgU0VMRUNUIFRFTVBfWklQX0NPREVfVVBEQVRFX1VTLlJPV0lECiAgRlJPTSBURU1QX1pJUF9DT0RFX1VQREFURV9VUywKICAgIChTRUxFQ1QgWklQX0NPREUsIENJVFlfQUxJQVNfTkFNRSwgU1RBVEUsIENPVU5UKCopCiAgICAgRlJPTSBURU1QX1pJUF9DT0RFX1VQREFURV9VUyBHUk9VUCBCWSBaSVBfQ09ERSwgQ0lUWV9BTElBU19OQU1FLCBTVEFURSBIQVZJTkcgQ09VTlQoKikgPiAxKSBEVVBMSUNBVEUKICBXSEVSRSBURU1QX1pJUF9DT0RFX1VQREFURV9VUy5aSVBfQ09ERSA9IERVUExJQ0FURS5aSVBfQ09ERQogICAgICAgIEFORCBURU1QX1pJUF9DT0RFX1VQREFURV9VUy5DSVRZX0FMSUFTX05BTUUgPSBEVVBMSUNBVEUuQ0lUWV9BTElBU19OQU1FCiAgICAgICAgQU5EIFRFTVBfWklQX0NPREVfVVBEQVRFX1VTLlNUQVRFID0gRFVQTElDQVRFLlNUQVRFOwoKREVMRVRFIEZST00gUE9TVEFMX0NPREUgV0hFUkUgRVhJU1RTCihTRUxFQ1QgKiBGUk9NIFBPU1RBTF9DT0RFX0lEIFdIRVJFIFBPU1RBTF9DT0RFX0lELklEID0gUE9TVEFMX0NPREUuSUQpOwoKRFJPUCBUQUJMRSBQT1NUQUxfQ09ERV9JRDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gd2hpY2ggY2FuIGJlIHJlbW92ZWQgd2l0aDoKQ1JFQVRFIFRBQkxFIFBPU1RBTF9DT0RFX0lEIEFTCiAgU0VMRUNUIFBPU1RBTF9DT0RFLklECiAgRlJPTSBQT1NUQUxfQ09ERSwKICAgIChTRUxFQ1QgQ09ERSwgQ0lUWV9OQU1FLCBTVEFURV9QUk9WSU5DRV9DT0RFLCBDT1VOVCgqKSBGUk9NIFBPU1RBTF9DT0RFCiAgICBHUk9VUCBCWSBDT0RFLCBDSVRZX05BTUUsIFNUQVRFX1BST1ZJTkNFX0NPREUgSEFWSU5HIENPVU5UKCopID4gMSkgRFVQTElDQVRFCiAgV0hFUkUgUE9TVEFMX0NPREUuQ09ERSA9IERVUExJQ0FURS5DT0RFCiAgICAgIEFORCBQT1NUQUxfQ09ERS5DSVRZX05BTUUgPSBEVVBMSUNBVEUuQ0lUWV9OQU1FCiAgICAgIEFORCBQT1NUQUxfQ09ERS5TVEFURV9QUk9WSU5DRV9DT0RFID0gRFVQTElDQVRFLlNUQVRFX1BST1ZJTkNFX0NPREU7CgpERUxFVEUgRlJPTSBQT1NUQUxfQ09ERSBXSEVSRSBFWElTVFMKKFNFTEVDVCAqIEZST00gUE9TVEFMX0NPREVfSUQgV0hFUkUgUE9TVEFMX0NPREVfSUQuSUQgPSBQT1NUQUxfQ09ERS5JRCk7CgpEUk9QIFRBQkxFIFBPU1RBTF9DT0RFX0lEOwo=</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIChTRUxFQ1QgQ09ERSwgQ0lUWV9OQU1FLCBTVEFURV9QUk9WSU5DRV9DT0RFLCBDT1VOVCgqKSBGUk9NIFBPU1RBTF9DT0RFCiAgICBHUk9VUCBCWSBDT0RFLCBDSVRZX05BTUUsIFNUQVRFX1BST1ZJTkNFX0NPREUgSEFWSU5HIENPVU5UKCopID4gMSkgRFVQTElDQVRFCiAgV0hFUkUgUE9TVEFMX0NPREUuQ09ERSA9IERVUExJQ0FURS5DT0RFCiAgICAgICAgQU5EIFBPU1RBTF9DT0RFLkNJVFlfTkFNRSA9IERVUExJQ0FURS5DSVRZX05BTUUKICAgICAgICBBTkQgUE9TVEFMX0NPREUuU1RBVEVfUFJPVklOQ0VfQ09ERSA9IERVUExJQ0FURS5TVEFURV9QUk9WSU5DRV9DT0RFOwo=</text>
+        <text encoding="base64">LS0gaWYgbm90LCAuLi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENBU0UgV0hFTiBNQUlMSU5HX05BTUU9J1knIFRIRU4gMSBFTFNFIDAgRU5ELCBTVEFURSwgJ1VTJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UmVtb3ZlIHRoZSB0ZW1wb3JhcnkgdGFibGUgdXBvbiBjb21wbGV0aW9uOgo=</text>
+        <text encoding="base64">ICAgIENBU0UgV0hFTiBQUklNQVJZX1JFQ09SRD0nUCcgVEhFTiAxIEVMU0UgMCBFTkQsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gCg==</text>
+        <text encoding="base64">ICBQUklNQVJZX1JFQ09SRCBDSEFSKDEpIE5PVCBOVUxMLAogIE1BSUxJTkdfTkFNRSBDSEFSKDEpIE5PVCBOVUxMLAogIFNUQVRFIENIQVIoMikgTk9UIE5VTEwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gCg==</text>
+        <text encoding="base64">ICBUWVBFIENIQVIoMSkgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gLi4ub3IgaW4gdGhlIGRhdGFiYXNlIGZpbGUgZnJvbSB6aXAtY29kZXMuY29tLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>COUNTRY</last-search>
+      <last-search>TEMP_ZIP_CODE_UPDATE_US</last-search>
       <last-offset />
-      <last-pattern>COUNTRY</last-pattern>
-      <last-replace>getString(</last-replace>
-      <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
+      <last-pattern>TEMP_ZIP_CODE_UPDATE_US</last-pattern>
+      <last-replace>TEMP_POSTAL_CODE_UPDATE_CA</last-replace>
+      <last-substitute>TEMP_ZIP_CODE_UPDATE_US</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getTakenMessage</entry>
         <entry>getMessageDeliveryDetails</entry>
         <entry>hack</entry>
         <entry>none shall pass</entry>
@@ -977,9 +985,9 @@
         <entry>MAILING</entry>
         <entry>state</entry>
         <entry>COUNTRY</entry>
+        <entry>TEMP_ZIP_CODE_UPDATE_US</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9jb250YWN0TWV0aG9kL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVSZWNlaXZlZC9kZWxpdmVyeVR5cGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
         <entry encoding="base64">JzwsJz42NDcy</entry>
@@ -998,6 +1006,7 @@
         <entry>6294</entry>
         <entry>6280</entry>
         <entry>6266</entry>
+        <entry encoding="base64">JzwsJz5zL1RFTVBfWklQX0NPREVfVVBEQVRFX1VTL1RFTVBfUE9TVEFMX0NPREVfVVBEQVRFX0NBL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
