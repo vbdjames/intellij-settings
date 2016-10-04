@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="JRebel non-sticky" displayType="NONE" />
     <notification groupId="Maven: non-managed pom.xml" displayType="NONE" shouldLog="false" />
   </component>
 </application>
