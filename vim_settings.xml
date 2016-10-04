@@ -575,18 +575,18 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/Zip-Codes.com Download Information.txt" timestamp="1475591690551">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/Zip-Codes.com Download Information.txt" timestamp="1475595555091">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="33" column="3" />
         <mark key="]" line="34" column="6" />
         <mark key="." line="34" column="6" />
         <mark key="^" line="34" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_load.sql" timestamp="1475594052385">
-        <mark key="[" line="68" column="85" />
-        <mark key="]" line="67" column="70" />
-        <mark key="." line="67" column="70" />
-        <mark key="^" line="67" column="70" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_load.sql" timestamp="1475595735748">
+        <mark key="[" line="94" column="50" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" timestamp="1473859710160">
         <mark key="'" line="182" column="33" />
@@ -862,8 +862,8 @@
       <jump line="45" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_postal_code_tables.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CITY_ALIAS_NAME</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UAo=</text>
       </register>
       <register name="-" type="4">
         <text>CITY_ALIAS_NAME</text>
@@ -872,10 +872,10 @@
         <text>TEMP_ZIP_CODE_UPDATE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgRUNITy5URU1QX1pJUF9DT0RFX1VQREFURSBBREQgQ09OU1RSQUlOVCBDSEVDSyhDSVRZX0FMSUFTX05BTUUgSVMgTk9UIE5VTEwpIEVOQUJMRTsK</text>
+        <text encoding="base64">ICAoU0VMRUNUIENPVU5UKCopIEZST00gRUNITy5QT1NUQUxfQ09ERSkgQVMgTl9DVVJSLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgRUNITy5URU1QX1pJUF9DT0RFX1VQREFURSBBREQgQ09OU1RSQUlOVCBDSEVDSyhDSVRZX0FMSUFTX05BTUUgSVMgTk9UIE5VTEwpIEVOQUJMRTsK</text>
+        <text encoding="base64">UAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -884,25 +884,25 @@
         <text encoding="base64">QUxURVIgVEFCTEUgRUNITy5URU1QX1pJUF9DT0RFX1VQREFURSBBREQgQ09OU1RSQUlOVCBDSEVDSyhDSVRZX0FMSUFTX05BTUUgSVMgTk9UIE5VTEwpIEVOQUJMRTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09IEZvciBDYW5hZGlhbiBQb3N0YWwgQ29kZXMKCj09PSBGb3IgVUsgUG9zdGFsIENvZGVzClRCRAoK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgRUNITy5URU1QX1pJUF9DT0RFX1VQREFURSBBREQgQ09OU1RSQUlOVCBDSEVDSyhDSVRZX0FMSUFTX05BTUUgSVMgTk9UIE5VTEwpIEVOQUJMRTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VGhlIHNjcmlwdCBjcmVhdGVfcG9zdGFsX2NvZGVfdGFibGVzLnNxbCBjb250YWlucyB0aGUgc3RhdGVtZW50IHRoYXQgY3JlYXRlcwp0aGUgdGVtcF96aXBfY29kZV91cGRhdGUgdGFibGUgaWYgdGhlIHRhYmxlIGlzIG1pc3NpbmcgZnJvbSBhbnkgZGF0YWJhc2UgCmluc3RhbmNlLgoK</text>
+        <text encoding="base64">PT09IEZvciBDYW5hZGlhbiBQb3N0YWwgQ29kZXMKCj09PSBGb3IgVUsgUG9zdGFsIENvZGVzClRCRAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGhlc2UuCg==</text>
+        <text encoding="base64">VGhlIHNjcmlwdCBjcmVhdGVfcG9zdGFsX2NvZGVfdGFibGVzLnNxbCBjb250YWlucyB0aGUgc3RhdGVtZW50IHRoYXQgY3JlYXRlcwp0aGUgdGVtcF96aXBfY29kZV91cGRhdGUgdGFibGUgaWYgdGhlIHRhYmxlIGlzIG1pc3NpbmcgZnJvbSBhbnkgZGF0YWJhc2UgCmluc3RhbmNlLgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCBjb3VudCgqKSBmcm9tIHBvc3RhbF9jb2RlOwo=</text>
+        <text encoding="base64">dGhlc2UuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdCBjb3VudCgqKSBmcm9tIHBvc3RhbF9jb2RlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MS4gRGV0ZXJtaW5lIHRoZSBjdXJyZW50IHBvc3RhbCBjb2RlIGNvdW50IHN5c3RlbXM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2hlczEudGVzdDIuZGIgYW5kIGNoZXMxLnRlc3QzLmRiLgo=</text>
+        <text encoding="base64">MS4gRGV0ZXJtaW5lIHRoZSBjdXJyZW50IHBvc3RhbCBjb2RlIGNvdW50IHN5c3RlbXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
