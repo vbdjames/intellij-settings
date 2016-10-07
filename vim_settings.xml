@@ -118,12 +118,12 @@
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" timestamp="1475862071319">
         <mark key="'" line="517" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1475867360454">
-        <mark key="'" line="665" column="29" />
-        <mark key="[" line="617" column="0" />
-        <mark key="]" line="617" column="0" />
-        <mark key="^" line="617" column="34" />
-        <mark key="." line="617" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1475868746475">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="198" column="26" />
+        <mark key="]" line="198" column="21" />
+        <mark key="^" line="198" column="21" />
+        <mark key="." line="198" column="21" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_load.sh" timestamp="1475596748316">
         <mark key="[" line="0" column="81" />
@@ -183,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="2" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
       <jump line="109" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
       <jump line="792" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
       <jump line="813" column="69" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
@@ -274,7 +273,6 @@
       <jump line="478" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceLocal.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceLocal.java" />
       <jump line="513" column="48" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="17" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="33" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="115" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
@@ -283,58 +281,60 @@
       <jump line="294" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="505" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="665" column="29" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
+      <jump line="607" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT4iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uZ2V0SW5mbygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uaXNJbmNsdWRlRjEwRGV0YWlscygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw9PT0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGV4Y2VwdGlvbk1zZyA9ICJDYW5ub3QgZGV0ZXJtaW5lIG9wZXJhdGlvbnMgIiArICJncm91cCBvZiAiICsgCiAgICAgICAgICAgICAgICAgICAgdHlwZSArICIgWyIgKyBzZXJ2aWNlSXRlbU51bWJlciArICJdLiI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>&quot;Cannot determine operations &quot; + &quot;group of &quot; + type + &quot; [&quot; + serviceItemNumber + &quot;].&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>setControls</text>
+        <text>TODO-dwj</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlRGVsaXZlcnlEZXRhaWxzQ2hlY2tCb3hfLnNldFNlbGVjdGVkKAogICAgICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25zR3JvdXBBdHRyaWJ1dGVzXy5pc0luY2x1ZGVGMTBEZXRhaWxzKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>&quot;Cannot determine operations &quot; + &quot;group of &quot; + type + &quot; [&quot; + serviceItemNumber + &quot;].&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT4iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uZ2V0SW5mbygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uaXNJbmNsdWRlRjEwRGV0YWlscygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw9PT0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGV4Y2VwdGlvbk1zZyA9ICJDYW5ub3QgZGV0ZXJtaW5lIG9wZXJhdGlvbnMgIiArICJncm91cCBvZiAiICsgCiAgICAgICAgICAgICAgICAgICAgdHlwZSArICIgWyIgKyBzZXJ2aWNlSXRlbU51bWJlciArICJdLiI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlRGVsaXZlcnlEZXRhaWxzQ2hlY2tCb3hfLnNldFNlbGVjdGVkKAogICAgICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25zR3JvdXBBdHRyaWJ1dGVzXy5pc0luY2x1ZGVGMTBEZXRhaWxzKCkpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPLWR3ago=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">77u/bgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPLWR3ago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlRGVsaXZlcnlEZXRhaWxzQ2hlY2tCb3hfLnNldFNlbGVjdGVkKAogICAgICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25zR3JvdXBBdHRyaWJ1dGVzXy5pc0luY2x1ZGVGMTBEZXRhaWxzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT4iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uZ2V0SW5mbygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uaXNJbmNsdWRlRjEwRGV0YWlscygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw9PT0iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uaXNJbmNsdWRlRjEwRGV0YWlscygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMub3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uaXNJbmNsdWRlRjEwRGV0YWlscygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlRGVsaXZlcnlEZXRhaWxzQ2hlY2tCb3hfLnNldFNlbGVjdGVkKAogICAgICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25zR3JvdXBBdHRyaWJ1dGVzXy5pc0luY2x1ZGVGMTBEZXRhaWxzKCkpOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">77u/bgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlRGVsaXZlcnlEZXRhaWxzQ2hlY2tCb3hfLnNldFNlbGVjdGVkKAogICAgICAgICAgICAgICAgdGhpcy5vcGVyYXRpb25zR3JvdXBBdHRyaWJ1dGVzXy5pc0luY2x1ZGVGMTBEZXRhaWxzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setControls</last-search>
+      <last-search>TODO-dwj</last-search>
       <last-offset />
-      <last-pattern>setControls</last-pattern>
+      <last-pattern>TODO-dwj</last-pattern>
       <last-replace>TEMP_POSTAL_CODE_UPDATE_CA</last-replace>
       <last-substitute>TEMP_ZIP_CODE_UPDATE_US</last-substitute>
       <last-dir>1</last-dir>
@@ -342,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry>manualDispatchConsoleAction_</entry>
         <entry>f12</entry>
         <entry>patchcallaction</entry>
         <entry>callScreen_</entry>
@@ -362,6 +361,7 @@
         <entry>operationsGroup</entry>
         <entry>this.clear</entry>
         <entry>setControls</entry>
+        <entry>TODO-dwj</entry>
       </history-search>
       <history-cmd>
         <entry>6074</entry>
