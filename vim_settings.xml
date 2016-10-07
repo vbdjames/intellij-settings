@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceLocal.java" timestamp="1475863589582">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceLocal.java" timestamp="1475872506285">
+        <mark key="'" line="467" column="15" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_full_load_us.sh" timestamp="1475603329013">
         <mark key="[" line="0" column="55" />
@@ -26,6 +26,9 @@
         <mark key="]" line="3" column="44" />
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" timestamp="1475873000223">
+        <mark key="'" line="331" column="33" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" timestamp="1475862071319">
         <mark key="'" line="517" column="22" />
@@ -97,8 +100,8 @@
         <mark key="^" line="324" column="14" />
         <mark key="." line="324" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1475869549397">
-        <mark key="'" line="1079" column="49" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1475873354142">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" timestamp="1475763673431">
         <mark key="'" line="9262" column="64" />
@@ -162,6 +165,13 @@
         <mark key="]" line="1303" column="0" />
         <mark key="." line="1303" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/GeneralMessageCallScreen.java" timestamp="1475873748833">
+        <mark key="'" line="65" column="13" />
+        <mark key="[" line="277" column="33" />
+        <mark key="]" line="278" column="35" />
+        <mark key="^" line="278" column="35" />
+        <mark key="." line="278" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/djames-sandbox/src/test/java/com/mapcommunications/djames/EnumSetTest.java" timestamp="1475761754246">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="2" column="0" />
@@ -185,44 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="232" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="125" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="256" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="682" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="779" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="878" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="994" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="1077" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="1403" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="1972" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2081" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2860" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2950" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="3025" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="3987" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="4132" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="126" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="425" column="61" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="392" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="127" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="593" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="54" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="100" column="64" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="86" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="107" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="108" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="245" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="246" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="312" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="338" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="339" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="510" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="512" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="514" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
-      <jump line="516" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
       <jump line="517" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServicePanel.java" />
       <jump line="174" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
       <jump line="183" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceEditorFrame.java" />
@@ -265,10 +237,6 @@
       <jump line="665" column="29" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="607" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" />
-      <jump line="205" column="68" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="1728" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="203" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1630" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1631" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1633" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
@@ -285,6 +253,48 @@
       <jump line="252" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="63" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="60" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
+      <jump line="467" column="15" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceLocal.java" />
+      <jump line="320" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="12" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="128" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="129" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="131" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="132" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="133" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="135" column="48" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="136" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="65" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/GeneralMessageCallScreen.java" />
+      <jump line="279" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="240" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="330" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="331" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="1728" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="203" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="204" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="205" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="206" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="287" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="289" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="294" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="295" column="55" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="296" column="51" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="312" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="360" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="841" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="871" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="876" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="878" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="880" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="6365" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="6364" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="6333" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="6332" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="6331" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="6330" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="6303" column="29" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="6297" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -294,7 +304,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>supportsOther</text>
+        <text>PATCH_CALL</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Cannot determine operations &quot; + &quot;group of &quot; + type + &quot; [&quot; + serviceItemNumber + &quot;].&quot;</text>
@@ -334,9 +344,9 @@
       </register>
     </registers>
     <search>
-      <last-search>supportsOther</last-search>
+      <last-search>PATCH_CALL</last-search>
       <last-offset />
-      <last-pattern>supportsOther</last-pattern>
+      <last-pattern>PATCH_CALL</last-pattern>
       <last-replace>TEMP_POSTAL_CODE_UPDATE_CA</last-replace>
       <last-substitute>TEMP_ZIP_CODE_UPDATE_US</last-substitute>
       <last-dir>1</last-dir>
@@ -344,10 +354,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customFormDS</entry>
-        <entry>f10</entry>
-        <entry>includeCallDetailsCheckbox</entry>
-        <entry>clear()</entry>
         <entry>operationGroupAttributes</entry>
         <entry>operationsGroupAttributes</entry>
         <entry>admin</entry>
@@ -358,15 +364,18 @@
         <entry>this.clear</entry>
         <entry>setControls</entry>
         <entry>TODO-dwj</entry>
-        <entry>callScreen_</entry>
         <entry>receiverSupports</entry>
-        <entry>f12</entry>
         <entry>patchcallaction</entry>
-        <entry>PATCH_CALL</entry>
         <entry>supportsOther</entry>
+        <entry>hierarch</entry>
+        <entry>f12</entry>
+        <entry>patch</entry>
+        <entry>supportsOption</entry>
+        <entry>callScreen_</entry>
+        <entry>callScreen</entry>
+        <entry>PATCH_CALL</entry>
       </history-search>
       <history-cmd>
-        <entry>6074</entry>
         <entry>6190</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry>q!</entry>
@@ -385,6 +394,7 @@
         <entry>585</entry>
         <entry>94</entry>
         <entry>680</entry>
+        <entry>callScreen</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
