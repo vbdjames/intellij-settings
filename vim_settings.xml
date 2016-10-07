@@ -100,8 +100,12 @@
         <mark key="^" line="324" column="14" />
         <mark key="." line="324" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1475873354142">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1475874637825">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="1135" column="42" />
+        <mark key="]" line="1135" column="41" />
+        <mark key="^" line="1135" column="41" />
+        <mark key="." line="1135" column="41" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" timestamp="1475763673431">
         <mark key="'" line="9262" column="64" />
@@ -165,12 +169,11 @@
         <mark key="]" line="1303" column="0" />
         <mark key="." line="1303" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/GeneralMessageCallScreen.java" timestamp="1475873748833">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/GeneralMessageCallScreen.java" timestamp="1475874274511">
         <mark key="'" line="65" column="13" />
-        <mark key="[" line="277" column="33" />
-        <mark key="]" line="278" column="35" />
-        <mark key="^" line="278" column="35" />
-        <mark key="." line="278" column="35" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="0" />
+        <mark key="." line="278" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/djames-sandbox/src/test/java/com/mapcommunications/djames/EnumSetTest.java" timestamp="1475761754246">
         <mark key="[" line="7" column="1" />
@@ -297,8 +300,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT4gd3RmIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -310,7 +313,7 @@
         <text>&quot;Cannot determine operations &quot; + &quot;group of &quot; + type + &quot; [&quot; + serviceItemNumber + &quot;].&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8tZHdqCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT4gd3RmIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -322,22 +325,22 @@
         <text encoding="base64">ICAgIC8vIFRPRE8tZHdqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGV4Y2VwdGlvbk1zZyA9ICJDYW5ub3QgZGV0ZXJtaW5lIG9wZXJhdGlvbnMgIiArICJncm91cCBvZiAiICsgCiAgICAgICAgICAgICAgICAgICAgdHlwZSArICIgWyIgKyBzZXJ2aWNlSXRlbU51bWJlciArICJdLiI7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8tZHdqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGV4Y2VwdGlvbk1zZyA9ICJDYW5ub3QgZGV0ZXJtaW5lIG9wZXJhdGlvbnMgIiArICJncm91cCBvZiAiICsgCiAgICAgICAgICAgICAgICAgICAgdHlwZSArICIgWyIgKyBzZXJ2aWNlSXRlbU51bWJlciArICJdLiI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPLWR3ago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPLWR3ago=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT4iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uZ2V0SW5mbygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uaXNJbmNsdWRlRjEwRGV0YWlscygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw9PT0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPLWR3ago=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT4iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uZ2V0SW5mbygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3BlcmF0aW9uc0dyb3VwQXR0cmlidXRlc18uaXNJbmNsdWRlRjEwRGV0YWlscygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw9PT0iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
