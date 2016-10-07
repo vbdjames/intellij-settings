@@ -36,7 +36,7 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" timestamp="1475869692060">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" timestamp="1475870347625">
         <mark key="'" line="512" column="26" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1475869350553">
@@ -181,11 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="899" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
-      <jump line="3751" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
-      <jump line="621" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
-      <jump line="102" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="1732" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1734" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="157" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="232" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -280,6 +275,11 @@
       <jump line="693" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="694" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1079" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
+      <jump line="40" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
+      <jump line="60" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
+      <jump line="81" column="29" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
+      <jump line="252" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="512" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
     </jumps>
     <registers>
@@ -290,7 +290,7 @@
         <text>&quot;Cannot determine operations &quot; + &quot;group of &quot; + type + &quot; [&quot; + serviceItemNumber + &quot;].&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>PATCH_CALL</text>
+        <text>supportsOther</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Cannot determine operations &quot; + &quot;group of &quot; + type + &quot; [&quot; + serviceItemNumber + &quot;].&quot;</text>
@@ -330,9 +330,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PATCH_CALL</last-search>
+      <last-search>supportsOther</last-search>
       <last-offset />
-      <last-pattern>PATCH_CALL</last-pattern>
+      <last-pattern>supportsOther</last-pattern>
       <last-replace>TEMP_POSTAL_CODE_UPDATE_CA</last-replace>
       <last-substitute>TEMP_ZIP_CODE_UPDATE_US</last-substitute>
       <last-dir>1</last-dir>
@@ -340,7 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>attachReferenceCustomForm</entry>
         <entry>customFormDS</entry>
         <entry>f10</entry>
         <entry>includeCallDetailsCheckbox</entry>
@@ -360,6 +359,7 @@
         <entry>f12</entry>
         <entry>patchcallaction</entry>
         <entry>PATCH_CALL</entry>
+        <entry>supportsOther</entry>
       </history-search>
       <history-cmd>
         <entry>6074</entry>
