@@ -46,6 +46,7 @@
         <mark key="^" line="0" column="106" />
         <mark key="." line="0" column="106" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/lock/LockServiceBean.java" timestamp="1476293599898" />
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/call/ra_message_details_refactor.java" timestamp="1473967609267">
         <mark key="[" line="78" column="47" />
         <mark key="]" line="324" column="14" />
@@ -103,9 +104,13 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" timestamp="1476217185181">
-        <mark key="[" line="1761" column="0" />
-        <mark key="]" line="1761" column="0" />
-        <mark key="." line="1761" column="0" />
+        <mark key="[" line="1766" column="0" />
+        <mark key="]" line="1766" column="0" />
+        <mark key="." line="1766" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1476293738169">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1986" column="40" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1476211197107">
         <mark key="'" line="131" column="0" />
@@ -140,17 +145,6 @@
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" timestamp="1475871343016">
         <mark key="'" line="60" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageRetrievalExportDialog.java" timestamp="1476217132876">
-        <mark key="[" line="248" column="9" />
-        <mark key="]" line="197" column="31" />
-        <mark key="." line="197" column="31" />
-        <mark key="^" line="197" column="31" />
-      </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/AboutRemoteAgentDialog.java" timestamp="1476106024654">
-        <mark key="'" line="441" column="32" />
-        <mark key="[" line="441" column="0" />
-        <mark key="]" line="442" column="66" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_load.sh" timestamp="1475596748316">
         <mark key="[" line="0" column="81" />
@@ -239,9 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="59" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/PostgresCustomFormDao.java" />
-      <jump line="454" column="3" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/PostgresCustomFormDao.java" />
       <jump line="8787" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="116" column="3" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -339,6 +330,9 @@
       <jump line="113" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/user/UserAccountService.java" />
       <jump line="28659" column="53" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="212" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="122" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="1951" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -348,7 +342,7 @@
         <text>email</text>
       </register>
       <register name="/" type="4">
-        <text>service</text>
+        <text>getContactScheduledServiceUses</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLndhcm5pbmcoIlVuYWJsZSB0byByZXRyaWV2ZSBlbWFpbCBkaXJlY3RvcnkgY29udGFjdCAiICsKICAgICAgICAgICAgICAgICAgICAibWV0aG9kIHNlbGVjdGlvbnMgZm9yICIgKyB0eXBlICsgIiBbIiArIAogICAgICAgICAgICAgICAgICAgIHNlcnZpY2VJdGVtTnVtYmVyICsgIl06IiArIGV4Y2VwdGlvbi5nZXRNZXNzYWdlKCkpOwo=</text>
@@ -388,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>service</last-search>
+      <last-search>getContactScheduledServiceUses</last-search>
       <last-offset />
-      <last-pattern>service</last-pattern>
+      <last-pattern>getContactScheduledServiceUses</last-pattern>
       <last-replace>TEMP_POSTAL_CODE_UPDATE_CA</last-replace>
       <last-substitute>TEMP_ZIP_CODE_UPDATE_US</last-substitute>
       <last-dir>1</last-dir>
@@ -398,8 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PATCH_CALL</entry>
-        <entry>operationsGroupAttributes</entry>
         <entry>NotFound</entry>
         <entry>operationsGroupAtt</entry>
         <entry>operations</entry>
@@ -418,6 +410,8 @@
         <entry>Service</entry>
         <entry>echoentity</entry>
         <entry>service</entry>
+        <entry>getContactUses</entry>
+        <entry>getContactScheduledServiceUses</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
