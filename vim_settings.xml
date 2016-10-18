@@ -386,12 +386,6 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1476798924646">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6268" column="0" />
-        <mark key="]" line="6268" column="0" />
-        <mark key="." line="6268" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1475764709415">
         <mark key="'" line="621" column="13" />
       </file>
@@ -465,11 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="48" filename="$USER_HOME$/Code/vbdjames@github.com/clean-core/src/main/java/com/mapcommunications/clean/services/domain/CustomFormService.java" />
-      <jump line="138" column="35" filename="$USER_HOME$/Code/vbdjames@github.com/clean-core/src/main/java/com/mapcommunications/clean/services/domain/CustomFormService.java" />
-      <jump line="29" column="4" filename="$USER_HOME$/Code/vbdjames@github.com/clean-core/src/main/java/com/mapcommunications/clean/services/domain/CustomFormService.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/Code/vbdjames@github.com/clean-core/src/main/java/com/mapcommunications/clean/services/domain/CustomFormService.java" />
-      <jump line="4204" column="3" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="147" column="0" filename="$USER_HOME$/Code/vbdjames@github.com/clean-core/src/main/java/com/mapcommunications/clean/services/domain/CustomFormService.java" />
       <jump line="33" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="196" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -565,58 +554,63 @@
       <jump line="410" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-clean/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="590" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-clean/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="435" column="11" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-clean/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
+      <jump line="6210" column="55" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6236" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>attachCompleted</text>
+        <text>===</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgCiAgICAgICAgPSBMb2dnZXIuZ2V0TG9nZ2VyKEN1c3RvbUZvcm1TZXJ2aWNlQmVhbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBRdWVyeSBxdWVyeSA9IGVudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoInNlbGVjdCAiICsKLy8gICAgICAgICAgICAgICAgICAgICJoaXN0b3J5X3R5cGUsIHByZXZfYm9va2VkLCB0cmFuX3R5cGUsIGRlc3RpbmF0aW9uLCAiICsKLy8gICAgICAgICAgICAgICAgICAgICJkZWxpdmVyeV9zdGF0dXMsIHJlY2VpdmVkX2RhdGUsIHNlbnRfZGF0ZSwgb3BlcmF0b3JfbmFtZSwgIiArCi8vICAgICAgICAgICAgICAgICAgICAibWFjaGluZV9jb2RlLCBwb3J0LCBzZXF1ZW5jZV9udW1iZXIsIG1lc3NhZ2VfdHh0LCByb3N0ZXJfaWQgIiArCi8vICAgICAgICAgICAgICAgICAgICAiZnJvbSBtZHMuaGlzdG9yeSAiICsKLy8gICAgICAgICAgICAgICAgICAgICJ3aGVyZSAiICsKLy8gICAgICAgICAgICAgICAgICAgICJpZCA+PSA/IGFuZCBpZCA8IChzZWxlY3QgbWluKGlkKSBmcm9tIG1kcy5oaXN0b3J5IHdoZXJlICIgKwovLyAgICAgICAgICAgICAgICAgICAgImlkID4gPyBhbmQgKHBhZ2VyX251bWJlcl9iYXNlICE9ID8gb3IgcHJpbWFyeV9mbGFnICE9ICIgKwovLyAgICAgICAgICAgICAgICAgICAgIidTJykpIik7Ci8vICAgICAgICAgICAgcXVlcnkuc2V0UGFyYW1ldGVyKDEsIHByaW1hcnlIaXN0b3J5LmlkKTsKLy8gICAgICAgICAgICBxdWVyeS5zZXRQYXJhbWV0ZXIoMiwgcHJpbWFyeUhpc3RvcnkuaWQpOwovLyAgICAgICAgICAgIHF1ZXJ5LnNldFBhcmFtZXRlcigzLCBwcmltYXJ5SGlzdG9yeS5wYWdlck51bWJlckJhc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8tZHdqOiBhZGQgZGVsaXZlcnkgdHlwZSEKICAgICAgICAgICAgICAgIGFtZERldGFpbHMuYWRkKG5ldyBNZXNzYWdlRGVsaXZlcnlBbWREZXRhaWxzKGRhdGVSZWNlaXZlZCwKICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZVB1bGxlZCwgZGF0ZUNhbGxTdGFydCwgZGF0ZUNhbGxFbmQsCiAgICAgICAgICAgICAgICAgICAgICAgIGRlbGl2ZXJ5U3RhdHVzLCBvcGVyYXRvciwgbWFjaGluZUlkLCBwb3J0LCByZXN1bHQsCiAgICAgICAgICAgICAgICAgICAgICAgIHNlcXVlbmNlTnIsIGhvbGRlck5hbWUsIGNvbnRhY3ROYW1lLCBjb250YWN0TWV0aG9kLCBvcmRlcikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8tZHdqIGlzIHRoaXMgcHJvYmxlbWF0aWM/CiAgICAgICAgICAgICAgICAvLyBvciBqdXN0IGFuIGluZGljYXRvciB0aGF0IHRoZXJlIGlzIG5vIHNlY29uZGFyeSBoaXN0b3J5IHRvCiAgICAgICAgICAgICAgICAvLyBiZSBmb3VuZCwgb3Igc29tZXRoaW5nIGVsc2U/Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICBhbWREZXRhaWxzLmFkZChuZXcgTWVzc2FnZURlbGl2ZXJ5QW1kRGV0YWlscyhkYXRlUmVjZWl2ZWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGVQdWxsZWQsIGRhdGVDYWxsU3RhcnQsIGRhdGVDYWxsRW5kLAogICAgICAgICAgICAgICAgICAgICAgICBkZWxpdmVyeVN0YXR1cywgb3BlcmF0b3IsIG1hY2hpbmVJZCwgcG9ydCwgcmVzdWx0LAogICAgICAgICAgICAgICAgICAgICAgICBzZXF1ZW5jZU5yLCBob2xkZXJOYW1lLCBjb250YWN0TmFtZSwgY29udGFjdE1ldGhvZCwKICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXIsIGRlbGl2ZXJ5VHlwZSkpOwo9PT09PT09Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubWFwY29tbXVuaWNhdGlvbnMuZm9ybTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiA0ZWE2YWY4Li4uIGFkZCBuZXcgbWV0aG9kcyB0byBtZXNzYWdlIHNlcnZpY2UgdG8gZ2V0IGRlbGl2ZXJ5IGRldGFpbHMgYW5kIHRlc3QgdGhvcm91Z2hseQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA0ZWE2YWY4Li4uIGFkZCBuZXcgbWV0aG9kcyB0byBtZXNzYWdlIHNlcnZpY2UgdG8gZ2V0IGRlbGl2ZXJ5IGRldGFpbHMgYW5kIHRlc3QgdGhvcm91Z2hseQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICBTdHJpbmcgZGVsaXZlcnlUeXBlID0gKFN0cmluZykgb2JqZWN0c1sxNF07Cj09PT09PT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiA0ZWE2YWY4Li4uIGFkZCBuZXcgbWV0aG9kcyB0byBtZXNzYWdlIHNlcnZpY2UgdG8gZ2V0IGRlbGl2ZXJ5IGRldGFpbHMgYW5kIHRlc3QgdGhvcm91Z2hseQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBzdGF0ZW1lbnQgPSBudWxsOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIC8vIFRPRE8tZHdqOiB0aGlzIHJlcXVpcmVzIHNvbWUgZXhwbGFuYXRpb24hCiAgICAgICAgICAgIFF1ZXJ5IHF1ZXJ5ID0gZW50aXR5TWFuYWdlci5jcmVhdGVOYXRpdmVRdWVyeSgKICAgICAgICAgICAgICAgICAgICAic2VsZWN0ICogZnJvbSAoc2VsZWN0IGR0X3JlY3ZkLCBkdF9wdWxsZWQsICIgKwogICAgICAgICAgICAgICAgICAgICJkdF9jYWxsX3N0YXJ0LCBkdF9jYWxsX2VuZCwgZGVsaXZlcnlfc3RhdHVzLCBvcGVyYXRvciwgIiArCiAgICAgICAgICAgICAgICAgICAgIm9jLm1hY2hpbmVfaWQsIG9jLnBvcnQsIHJlc3VsdCwgaGkuc2VxdWVuY2VfbnVtYmVyLCAiICsKICAgICAgICAgICAgICAgICAgICAiaG9sZGVyX25hbWUsIGRpcmVjdG9yeV9uYW1lLCBkaXJlY3RvcnlfdHlwZSwgcHJpb3JpdHksICIgKwogICAgICAgICAgICAgICAgICAgICJkZWxpdmVyeV90eXBlLCBoaS5zZW50X2RhdGUsIGRlc3QsIHJvd19udW1iZXIoKSBvdmVyICIgKwogICAgICAgICAgICAgICAgICAgICIocGFydGl0aW9uIGJ5IG9jLnByaW9yaXR5IG9yZGVyIGJ5IGRlc3RpbmF0aW9uKSBhcyBybiAiICsKICAgICAgICAgICAgICAgICAgICAiZnJvbSBtZHMubWRzb2Nsb2cgb2MgbGVmdCBvdXRlciBqb2luIG1kcy5oaXN0b3J5IGhpIG9uICIgKwogICAgICAgICAgICAgICAgICAgICIocGFnZXJfbnVtYmVyX2Jhc2UgPSBwYWdlcl9udW0gIiArCiAgICAgICAgICAgICAgICAgICAgIm9yIG9yaWdpbmFsX3BhZ2VyX251bWJlciA9IHBhZ2VyX251bSkgYW5kICIgKwogICAgICAgICAgICAgICAgICAgICJyZWNlaXZlZF9kYXRlID49IHRvX2RhdGUoZHRfcmVjdmQsICdZWVlZTU1EREhIMjRNSVNTJykgIiArCiAgICAgICAgICAgICAgICAgICAgImFuZCAoZGVzdCBpcyBudWxsIG9yIGRlc3RpbmF0aW9uID49IGRlc3QpICIgKwogICAgICAgICAgICAgICAgICAgICJhbmQgKHNlbmRfcGFnZXJfbnVtYmVyIGlzIG51bGwgIiArCiAgICAgICAgICAgICAgICAgICAgIm9yIHNlbmRfcGFnZXJfbnVtYmVyID0gb3JpZ2luYWxfcGFnZXJfbnVtYmVyICIgKwogICAgICAgICAgICAgICAgICAgICJvciBzZW5kX3BhZ2VyX251bWJlciA9IHBhZ2VyX251bWJlcl9iYXNlKSAiICsKICAgICAgICAgICAgICAgICAgICAid2hlcmUgb2Mucm9zdGVyX2lkID0gPykgIiArCiAgICAgICAgICAgICAgICAgICAgIndoZXJlIHJuID0gMSIKICAgICAgICAgICAgKTsKCj09PT09PT0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>attachCompleted</last-search>
+      <last-search>===</last-search>
       <last-offset />
-      <last-pattern>attachCompleted</last-pattern>
+      <last-pattern>===</last-pattern>
       <last-replace>TEMP_POSTAL_CODE_UPDATE_CA</last-replace>
       <last-substitute>TEMP_ZIP_CODE_UPDATE_US</last-substitute>
       <last-dir>1</last-dir>
@@ -624,7 +618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>throws</entry>
         <entry>saveNewMessageExport</entry>
         <entry>getmessagedeliverydetails</entry>
         <entry>HistoryRecord</entry>
@@ -644,6 +637,7 @@
         <entry>getAttachedReferenceFormIds</entry>
         <entry>customFormDS</entry>
         <entry>attachCompleted</entry>
+        <entry>===</entry>
       </history-search>
       <history-cmd>
         <entry>6153</entry>
@@ -663,8 +657,8 @@
         <entry>216</entry>
         <entry>356</entry>
         <entry>5850</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
