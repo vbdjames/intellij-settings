@@ -284,8 +284,11 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1476893461414">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1477406533689">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="6362" column="44" />
+        <mark key="]" line="6362" column="44" />
+        <mark key="." line="6362" column="44" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1476813084484">
         <mark key="'" line="564" column="36" />
@@ -426,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4622" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="4230" column="3" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="234" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -523,22 +525,23 @@
       <jump line="296" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="107" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="5764" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="292" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="223" column="11" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="5959" column="5" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQb3N0KCkgewogICAgfQoKICAgIHB1YmxpYyBQb3N0KGxvbmcgaWQpIHsKICAgIAogICAgICAgIHRoaXMuaWQgPSBpZDsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessageMessage</text>
+        <text>getTakenMessage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgCiAgICAgICAgPSBMb2dnZXIuZ2V0TG9nZ2VyKEN1c3RvbUZvcm1TZXJ2aWNlQmVhbi5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZnJvbSBtZHMuaGlzdG9yeSB3aGVyZSBwcmltYXJ5X2ZsYWcgPSAnUycgYW5kICI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBQb3N0KCkgewogICAgfQoKICAgIHB1YmxpYyBQb3N0KGxvbmcgaWQpIHsKICAgIAogICAgICAgIHRoaXMuaWQgPSBpZDsKICAgIH0K</text>
@@ -575,9 +578,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessageMessage</last-search>
+      <last-search>getTakenMessage</last-search>
       <last-offset />
-      <last-pattern>getTakenMessageMessage</last-pattern>
+      <last-pattern>getTakenMessage</last-pattern>
       <last-replace>TEMP_POSTAL_CODE_UPDATE_CA</last-replace>
       <last-substitute>TEMP_ZIP_CODE_UPDATE_US</last-substitute>
       <last-dir>1</last-dir>
@@ -585,8 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getLookupFormList</entry>
-        <entry>log4j</entry>
         <entry>LOGGER</entry>
         <entry>LookupList</entry>
         <entry>getLookupFormLists</entry>
@@ -605,6 +606,8 @@
         <entry>callOriginationType</entry>
         <entry>dbhServerConnector</entry>
         <entry>getTakenMessageMessage</entry>
+        <entry>getTakenMessageDe</entry>
+        <entry>getTakenMessage</entry>
       </history-search>
       <history-cmd>
         <entry>6305</entry>
