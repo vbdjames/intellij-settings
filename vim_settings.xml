@@ -218,8 +218,8 @@
         <mark key="^" line="63" column="38" />
         <mark key="." line="63" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" timestamp="1477513458915">
-        <mark key="'" line="2808" column="35" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" timestamp="1477514596044">
+        <mark key="'" line="903" column="37" />
       </file>
       <file name="$USER_HOME$/Code/sandbox/src/Foo.java" timestamp="1474908226912">
         <mark key="[" line="1" column="44" />
@@ -450,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="15" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6172" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6344" column="9" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6109" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -550,6 +549,7 @@
       <jump line="2806" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="2807" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="2808" column="35" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="903" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -559,7 +559,7 @@
         <text>temporarily handle these by just using the primary</text>
       </register>
       <register name="/" type="4">
-        <text>deliveryType</text>
+        <text>includeDeliveryScheduleDispatchInstructions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VEZXRhaWxzLmFkZChuZXcgTWVzc2FnZURlbGl2ZXJ5TWVzc2FnZURldGFpbHMoCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZ2V0TWVzc2FnZVR5cGVEZXNjcmlwdGlvbihoaXN0b3J5VHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuVHlwZSwgcHJldkJvb2tlZCwgZGVzdCksCiAgICAgICAgICAgICAgICAgICAgICAgIGRlbGl2ZXJ5U3RhdHVzLCBkZXN0LCByZWNlaXZlZERhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbnREYXRlLCBvcGVyYXRvck5hbWUsIG1hY2hpbmVDb2RlLAogICAgICAgICAgICAgICAgICAgICAgICBwb3J0LCBJbnRlZ2VyLnRvU3RyaW5nKG9yZGVyKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmYyLmZvcm1hdChzZXF1ZW5jZU51bWJlciksCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZXh0cmFjdEVtYWlsQWRkcmVzc0Zyb21NZXNzYWdlVGV4dCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlVGV4dCksIHJvc3RlcklkKSk7Cg==</text>
@@ -599,9 +599,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deliveryType</last-search>
+      <last-search>includeDeliveryScheduleDispatchInstructions</last-search>
       <last-offset />
-      <last-pattern>deliveryType</last-pattern>
+      <last-pattern>includeDeliveryScheduleDispatchInstructions</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -609,7 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry>takenDate</entry>
         <entry>getDestination</entry>
         <entry>getContactMethod</entry>
         <entry>Contact Method</entry>
@@ -629,6 +628,7 @@
         <entry>get taken message AMD</entry>
         <entry>AMD</entry>
         <entry>deliveryType</entry>
+        <entry>includeDeliveryScheduleDispatchInstructions</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RFTVBfWklQX0NPREVfVVBEQVRFX1VTL1RFTVBfUE9TVEFMX0NPREVfVVBEQVRFX0NBL2c=</entry>
