@@ -205,12 +205,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1477487223095">
-        <mark key="'" line="4287" column="33" />
-        <mark key="[" line="7166" column="47" />
-        <mark key="]" line="7166" column="53" />
-        <mark key="." line="7166" column="53" />
-        <mark key="^" line="7166" column="53" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1477488577473">
+        <mark key="'" line="7164" column="30" />
+        <mark key="[" line="4287" column="0" />
+        <mark key="]" line="4287" column="0" />
+        <mark key="^" line="7165" column="41" />
+        <mark key="." line="4287" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/net/DbhServerConnector.java" timestamp="1476814784376">
         <mark key="[" line="63" column="39" />
@@ -457,11 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6397" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6113" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6175" column="52" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6241" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6418" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6107" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6346" column="15" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6348" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -548,19 +543,24 @@
       <jump line="4294" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
       <jump line="4294" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="7165" column="60" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="1039" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="2775" column="66" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="2970" column="58" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="3075" column="66" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="3298" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="3393" column="50" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="4287" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="4288" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="7171" column="63" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="7168" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="4286" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="4287" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="7165" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="7166" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPLWR3ajoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oImdldCBpdCBmcm9tIG9wcywgdGFrZW4gYXQ6ICIgKyB0YWtlbkRhdGVUaW1lKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICA=</text>
@@ -569,37 +569,37 @@
         <text>MESSAGE_DELIVERY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxpdmVyeVN0YXR1cyA9IHRoaXMuZ2V0RGVsaXZlcnlTdGF0dXNEZXNjcmlwdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldFN0cmluZyhvYmplY3RzWzE3XSkpOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8tZHdqOiByZW1vdmUgb25jZSB3ZSBubyBsb25nZXIgbmVlZCBkZXRhaWxzIHNvIG9sZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPLWR3ajoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oImdldCBpdCBmcm9tIG9wcywgdGFrZW4gYXQ6ICIgKyB0YWtlbkRhdGVUaW1lKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5QYXJzZVBvc2l0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oImN1dG92ZXIgd2FzOiAiICsgTUVTU0FHRV9ERUxJVkVSWV9ERVRBSUxTX0NVVE9WRVIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2oKICAgICAgICAgICAgLy8gaWYgY2FsbExvZ0lkIGlzIG51bGwsIGFuZCByb3N0ZXJJZCBpcyBudWxsLCB0aGVuIGVjaG8gY2Fubm90CiAgICAgICAgICAgIC8vIGdldCBtZXNzYWdlIGRldGFpbHMK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPLWR3ajoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1c3RvbUZvcm1Hcm91cFR5cGUuUkVDRUlWRVIuZ2V0VG9rZW4oKSwgcmVjZWl2ZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiB0YWtlbkRhdGVUaW1lIGlzIGJlZm9yZSB0aGUgT1BzIGNoYW5nZSwgY2FsbCB0aGUgb2xkIG1ldGhvZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oImdldCBpdCBmcm9tIG9wcywgdGFrZW4gYXQ6ICIgKyB0YWtlbkRhdGVUaW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUXVlcnkgcXVlcnkgPSBlbnRpdHlNYW5hZ2VyLmNyZWF0ZU5hdGl2ZVF1ZXJ5KCJzZWxlY3QgIiArCiAgICAgICAgICAgICAgICAgICAgImhpc3RvcnlfdHlwZSwgcHJldl9ib29rZWQsIHRyYW5fdHlwZSwgZGVzdGluYXRpb24sICIgKwogICAgICAgICAgICAgICAgICAgICJkZWxpdmVyeV9zdGF0dXMsIHJlY2VpdmVkX2RhdGUsIHNlbnRfZGF0ZSwgb3BlcmF0b3JfbmFtZSwgIiArCiAgICAgICAgICAgICAgICAgICAgIm1hY2hpbmVfY29kZSwgcG9ydCwgc2VxdWVuY2VfbnVtYmVyLCBtZXNzYWdlX3R4dCwgcm9zdGVyX2lkICIgKwogICAgICAgICAgICAgICAgICAgICJmcm9tIG1kcy5oaXN0b3J5ICIgKwogICAgICAgICAgICAgICAgICAgICJ3aGVyZSAiICsKICAgICAgICAgICAgICAgICAgICAiIChwYWdlcl9udW1iZXIgPSA/IG9yIHBhZ2VyX251bWJlciA9ID8pIGFuZCAiICsKICAgICAgICAgICAgICAgICAgICAicmVjZWl2ZWRfZGF0ZSA9ID8gIiArCiAgICAgICAgICAgICAgICAgICAgIm9yZGVyIGJ5IHByaW1hcnlfZmxhZyIpOwogICAgICAgICAgICBxdWVyeS5zZXRQYXJhbWV0ZXIoMSwgcmVjZWl2ZXJJZCk7CiAgICAgICAgICAgIHF1ZXJ5LnNldFBhcmFtZXRlcigyLCB0aGlzLnByZXBhcmVNZXNzYWdlUmV0cmlldmFsUmVjZWl2ZXJJZAogICAgICAgICAgICAgICAgICAgIChyZWNlaXZlcklkKSk7CiAgICAgICAgICAgIHF1ZXJ5LnNldFBhcmFtZXRlcigzLCB0YWtlbkRhdGVUaW1lLCBUZW1wb3JhbFR5cGUuVElNRVNUQU1QKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oImN1dG92ZXIgd2FzOiAiICsgTUVTU0FHRV9ERUxJVkVSWV9ERVRBSUxTX0NVVE9WRVIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHEgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oImN1dG92ZXIgd2FzOiAiICsgTUVTU0FHRV9ERUxJVkVSWV9ERVRBSUxTX0NVVE9WRVIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVmVyaWZ5IHRoYXQgdGFrZW4gZGF0ZS10aW1lIGlzIG5vdCBudWxsLgogICAgICAgICAgICBpZiAodGFrZW5EYXRlVGltZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQmFkQXJndW1lbnRFeGNlcHRpb24oIk1lc3NhZ2UgdGFrZW4gZGF0ZS10aW1lIGlzICIgKwogICAgICAgICAgICAgICAgICAgICJudWxsLiIsIGNvbnRleHQsIAogICAgICAgICAgICAgICAgICAgIEN1c3RvbUZvcm1Hcm91cFR5cGUuUkVDRUlWRVIuZ2V0VG9rZW4oKSwgcmVjZWl2ZXJJZCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPLWR3ajoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5QYXJzZVBvc2l0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
