@@ -205,12 +205,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1477488577473">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1477508139849">
         <mark key="'" line="7164" column="30" />
-        <mark key="[" line="4287" column="0" />
-        <mark key="]" line="4287" column="0" />
-        <mark key="^" line="7165" column="41" />
-        <mark key="." line="4287" column="0" />
+        <mark key="[" line="7165" column="47" />
+        <mark key="]" line="7165" column="53" />
+        <mark key="^" line="7165" column="53" />
+        <mark key="." line="7165" column="53" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/net/DbhServerConnector.java" timestamp="1476814784376">
         <mark key="[" line="63" column="39" />
@@ -296,12 +296,12 @@
         <mark key="^" line="977" column="55" />
         <mark key="." line="977" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1477496445238">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6295" column="29" />
-        <mark key="]" line="6295" column="60" />
-        <mark key="." line="6295" column="60" />
-        <mark key="^" line="6295" column="60" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1477508226821">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="6164" column="37" />
+        <mark key="]" line="6164" column="52" />
+        <mark key="." line="6164" column="52" />
+        <mark key="^" line="6164" column="52" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1476813084484">
         <mark key="'" line="564" column="36" />
@@ -461,9 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5718" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6178" column="48" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="102" column="9" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6160" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6166" column="52" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6157" column="61" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -561,6 +558,9 @@
       <jump line="122" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="7287" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6295" column="60" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="233" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -570,7 +570,7 @@
         <text>temporarily handle these by just using the primary</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessagePrimar</text>
+        <text>get taken message AMD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VEZXRhaWxzLmFkZChuZXcgTWVzc2FnZURlbGl2ZXJ5TWVzc2FnZURldGFpbHMoCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZ2V0TWVzc2FnZVR5cGVEZXNjcmlwdGlvbihoaXN0b3J5VHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuVHlwZSwgcHJldkJvb2tlZCwgZGVzdCksCiAgICAgICAgICAgICAgICAgICAgICAgIGRlbGl2ZXJ5U3RhdHVzLCBkZXN0LCByZWNlaXZlZERhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbnREYXRlLCBvcGVyYXRvck5hbWUsIG1hY2hpbmVDb2RlLAogICAgICAgICAgICAgICAgICAgICAgICBwb3J0LCBJbnRlZ2VyLnRvU3RyaW5nKG9yZGVyKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmYyLmZvcm1hdChzZXF1ZW5jZU51bWJlciksCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZXh0cmFjdEVtYWlsQWRkcmVzc0Zyb21NZXNzYWdlVGV4dCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlVGV4dCksIHJvc3RlcklkKSk7Cg==</text>
@@ -610,9 +610,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessagePrimar</last-search>
+      <last-search>get taken message AMD</last-search>
       <last-offset />
-      <last-pattern>getTakenMessagePrimar</last-pattern>
+      <last-pattern>get taken message AMD</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -620,9 +620,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sendDateTime</entry>
-        <entry>builder.append</entry>
-        <entry>getDelivery</entry>
         <entry>Fourth column</entry>
         <entry>COLUMNS</entry>
         <entry>takenDate</entry>
@@ -640,6 +637,9 @@
         <entry>tranType</entry>
         <entry>getPrimary</entry>
         <entry>getTakenMessagePrimar</entry>
+        <entry>CUTOVER</entry>
+        <entry>cutover</entry>
+        <entry>get taken message AMD</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RFTVBfWklQX0NPREVfVVBEQVRFX1VTL1RFTVBfUE9TVEFMX0NPREVfVVBEQVRFX0NBL2c=</entry>
