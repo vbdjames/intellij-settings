@@ -205,10 +205,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/export.csv" timestamp="1477574864434">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/export.csv" timestamp="1477583532722">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1477513252842">
         <mark key="'" line="7202" column="0" />
@@ -298,12 +299,12 @@
         <mark key="^" line="977" column="55" />
         <mark key="." line="977" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1477582439053">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1477584265225">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6285" column="63" />
-        <mark key="]" line="6289" column="43" />
-        <mark key="." line="6289" column="43" />
-        <mark key="^" line="6289" column="43" />
+        <mark key="[" line="6341" column="62" />
+        <mark key="]" line="6343" column="35" />
+        <mark key="." line="6343" column="35" />
+        <mark key="^" line="6343" column="35" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1476813084484">
         <mark key="'" line="564" column="36" />
@@ -469,10 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="573" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallXmlToObjectConverter.java" />
-      <jump line="1618" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallXmlToObjectConverter.java" />
-      <jump line="6236" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="7091" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="35" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
       <jump line="520" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
@@ -568,59 +565,63 @@
       <jump line="3709" column="57" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6320" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6154" column="71" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6280" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="7262" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6454" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/export.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MDAwMDA0NzMyMSwyMDE2LTEwLTI3IDA1OjU5OjA4LGQxCg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessageMessage</text>
+        <text>47321</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGVjb2RlIChwYWdlcl9udW0sIHBhZ2VyX251bWJlcl9iYXNlLCAwLCAxKSwgIiArCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAiZGVjb2RlIChwYWdlcl9udW0sIHBhZ2VyX251bWJlcl9iYXNlLCAwLCAxKSwgIiArCg==</text>
+        <text encoding="base64">MDAwMDA0NzMyMSwyMDE2LTEwLTI3IDA1OjU5OjA4LGQxCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VFYgICAgICAgICwyMDE2LTEwLTI3IDA4OjE0OjE1LGVtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAiZGVjb2RlIChwYWdlcl9udW0sIHBhZ2VyX251bWJlcl9iYXNlLCAwLCAxKSwgIiArCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGUgc2VudERhdGUgPSBuZXcgRGF0ZShzZW50X2RhdGUuZ2V0VGltZSgpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQmlnRGVjaW1hbCBzZXF1ZW5jZU51bWJlciA9IChCaWdEZWNpbWFsKSByZXN1bHRbMTBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGUgc2VudERhdGUgPSBuZXcgRGF0ZShzZW50X2RhdGUuZ2V0VGltZSgpKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQmlnRGVjaW1hbCBzZXF1ZW5jZU51bWJlciA9IChCaWdEZWNpbWFsKSByZXN1bHRbMTBdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessageMessage</last-search>
+      <last-search>47321</last-search>
       <last-offset />
-      <last-pattern>getTakenMessageMessage</last-pattern>
+      <last-pattern>47321</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -628,8 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prev_booked</entry>
-        <entry>'V'</entry>
         <entry>tranType</entry>
         <entry>getPrimary</entry>
         <entry>getTakenMessagePrimar</entry>
@@ -647,7 +646,9 @@
         <entry>Hangup</entry>
         <entry>sequenceNumber</entry>
         <entry>getTakenMessageAmd</entry>
+        <entry>HistoryRecord</entry>
         <entry>getTakenMessageMessage</entry>
+        <entry>47321</entry>
       </history-search>
       <history-cmd>
         <entry>94</entry>
