@@ -293,12 +293,12 @@
         <mark key="^" line="977" column="55" />
         <mark key="." line="977" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1477589907355">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1477592197605">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6287" column="12" />
-        <mark key="]" line="6287" column="11" />
-        <mark key="." line="6287" column="11" />
-        <mark key="^" line="6287" column="11" />
+        <mark key="[" line="6182" column="60" />
+        <mark key="]" line="6178" column="51" />
+        <mark key="." line="6178" column="51" />
+        <mark key="^" line="6178" column="51" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1476813084484">
         <mark key="'" line="564" column="36" />
@@ -423,7 +423,6 @@
         <mark key="." line="21" column="30" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/delivery-details.txt" timestamp="1477590489031" />
       <file name="$USER_HOME$/Code/vbdjames@github.com/clean-core/pom.xml" timestamp="1476818261168">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="18" />
@@ -464,8 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
-      <jump line="520" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
       <jump line="413" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
       <jump line="17" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/DispatcherTasksTable.java" />
       <jump line="56" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/DispatcherTasksTable.java" />
@@ -563,23 +560,25 @@
       <jump line="6454" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="24" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="6343" column="35" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6279" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6186" column="58" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHEgKz0gImFuZCBtYXN0ZXJfZmxhZyA9ICciICsgcHJpbWFyeUhpc3RvcnkubWFzdGVyRmxhZyArICInIjsK</text>
+      <register name="&quot;" type="4">
+        <text>rosterId</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>rosterId</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessageMessage</text>
+        <text>primaryHistory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHEgKz0gImFuZCBtYXN0ZXJfZmxhZyA9ICciICsgcHJpbWFyeUhpc3RvcnkubWFzdGVyRmxhZyArICInIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHEgKz0gImFuZCBtYXN0ZXJfZmxhZyA9ICciICsgcHJpbWFyeUhpc3RvcnkubWFzdGVyRmxhZyArICInIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBzZGYgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eU1NZGRISG1tc3MiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -588,34 +587,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHEgKz0gImFuZCBtYXN0ZXJfZmxhZyA9ICciICsgcHJpbWFyeUhpc3RvcnkubWFzdGVyRmxhZyArICInIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibWFzdGVyX2ZsYWcgPSAnIiArIHByaW1hcnlIaXN0b3J5Lm1hc3RlckZsYWcgKyAiJyBhbmQgIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHEgKz0gImFuZCBtYXN0ZXJfZmxhZyA9ICciICsgcHJpbWFyeUhpc3RvcnkubWFzdGVyRmxhZyArICInIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MDAwMDA0NzMyMSwyMDE2LTEwLTI3IDA1OjU5OjA4LGQxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibWFzdGVyX2ZsYWcgPSAnIiArIHByaW1hcnlIaXN0b3J5Lm1hc3RlckZsYWcgKyAiJyBhbmQgIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VFYgICAgICAgICwyMDE2LTEwLTI3IDA4OjE0OjE1LGVtCg==</text>
+        <text encoding="base64">MDAwMDA0NzMyMSwyMDE2LTEwLTI3IDA1OjU5OjA4LGQxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAiZGVjb2RlIChwYWdlcl9udW0sIHBhZ2VyX251bWJlcl9iYXNlLCAwLCAxKSwgIiArCg==</text>
+        <text encoding="base64">VFYgICAgICAgICwyMDE2LTEwLTI3IDA4OjE0OjE1LGVtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAiZGVjb2RlIChwYWdlcl9udW0sIHBhZ2VyX251bWJlcl9iYXNlLCAwLCAxKSwgIiArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGUgc2VudERhdGUgPSBuZXcgRGF0ZShzZW50X2RhdGUuZ2V0VGltZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessageMessage</last-search>
+      <last-search>primaryHistory</last-search>
       <last-offset />
-      <last-pattern>getTakenMessageMessage</last-pattern>
+      <last-pattern>primaryHistory</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -623,7 +622,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tranType</entry>
         <entry>getPrimary</entry>
         <entry>getTakenMessagePrimar</entry>
         <entry>CUTOVER</entry>
@@ -639,10 +637,11 @@
         <entry>80621</entry>
         <entry>Hangup</entry>
         <entry>sequenceNumber</entry>
-        <entry>getTakenMessageAmd</entry>
         <entry>HistoryRecord</entry>
         <entry>47321</entry>
         <entry>getTakenMessageMessage</entry>
+        <entry>getTakenMessageAmd</entry>
+        <entry>primaryHistory</entry>
       </history-search>
       <history-cmd>
         <entry>680</entry>
