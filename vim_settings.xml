@@ -293,8 +293,8 @@
         <mark key="^" line="977" column="55" />
         <mark key="." line="977" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1477603245379">
-        <mark key="'" line="5769" column="65" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1477660205769">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="3873" column="54" />
         <mark key="]" line="3873" column="57" />
         <mark key="." line="3873" column="57" />
@@ -464,7 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="977" column="55" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallService.java" />
       <jump line="3551" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
       <jump line="4294" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" />
@@ -562,8 +561,9 @@
       <jump line="6130" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1107" column="82" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1092" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="5769" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="3873" column="57" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -573,7 +573,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Call Forward</text>
+        <text>takenMessageAmd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBzZGYgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eU1NZGRISG1tc3MiKTsK</text>
@@ -613,9 +613,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Call Forward</last-search>
+      <last-search>takenMessageAmd</last-search>
       <last-offset />
-      <last-pattern>Call Forward</last-pattern>
+      <last-pattern>takenMessageAmd</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -623,8 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get taken message AMD</entry>
-        <entry>deliveryType</entry>
         <entry>includeDeliveryScheduleDispatchInstructions</entry>
         <entry>AMD</entry>
         <entry>'AMD'</entry>
@@ -643,6 +641,8 @@
         <entry>getTakenMessageAmd</entry>
         <entry>Numeric</entry>
         <entry>Call Forward</entry>
+        <entry>getTakenMessaheAmd</entry>
+        <entry>takenMessageAmd</entry>
       </history-search>
       <history-cmd>
         <entry>680</entry>
