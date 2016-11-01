@@ -173,6 +173,9 @@
         <mark key="." line="246" column="16" />
         <mark key="^" line="247" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1478006552787">
+        <mark key="'" line="88" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1477941371815">
         <mark key="'" line="180" column="25" />
         <mark key="[" line="201" column="59" />
@@ -480,7 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6130" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1107" column="82" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1092" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="5769" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -580,6 +582,7 @@
       <jump line="157" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="248" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/MessageDeliveryAmdDetails.java" />
       <jump line="180" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" />
+      <jump line="88" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -589,7 +592,7 @@
         <text>ination</text>
       </register>
       <register name="/" type="4">
-        <text>at index</text>
+        <text>getContactAmdUses</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFyYW1ldGVyKDIsIGZvby5mb3JtYXQodGFrZW5EYXRlVGltZSkgKyAiMDAwMDAwIik7Cg==</text>
@@ -629,9 +632,9 @@
       </register>
     </registers>
     <search>
-      <last-search>at index</last-search>
+      <last-search>getContactAmdUses</last-search>
       <last-offset />
-      <last-pattern>at index</last-pattern>
+      <last-pattern>getContactAmdUses</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -639,7 +642,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getTakenMessageMessage</entry>
         <entry>167333</entry>
         <entry>164715</entry>
         <entry>164175</entry>
@@ -659,6 +661,7 @@
         <entry>atIndex</entry>
         <entry>index</entry>
         <entry>at index</entry>
+        <entry>getContactAmdUses</entry>
       </history-search>
       <history-cmd>
         <entry>680</entry>
