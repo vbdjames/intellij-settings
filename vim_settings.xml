@@ -16,6 +16,9 @@
         <mark key="]" line="1843" column="0" />
         <mark key="." line="1843" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" timestamp="1478631491296">
+        <mark key="'" line="29" column="49" />
+      </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/clean-core/src/main/java/com/mapcommunications/clean/foo.java" timestamp="1476724329738">
         <mark key="'" line="1036" column="0" />
         <mark key="[" line="33" column="17" />
@@ -45,12 +48,7 @@
         <mark key="^" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1478537785390">
-        <mark key="e" line="5774" column="66" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1132" column="85" />
-        <mark key="]" line="1133" column="25" />
-        <mark key="." line="1133" column="25" />
-        <mark key="^" line="1133" column="25" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1476813084484">
         <mark key="'" line="564" column="36" />
@@ -184,10 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="864" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="1523" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="1524" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="1974" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="11" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="23" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="17" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/export.csv" />
@@ -284,6 +278,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="929" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/export.csv" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/export.csv" />
+      <jump line="258" column="24" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
+      <jump line="460" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
+      <jump line="646" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
+      <jump line="29" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -293,7 +291,7 @@
         <text encoding="base64">UHJpbWFyeSBoaXN0b3J5IHJlY29yZCBpcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>getMessageDeliveryDetails</text>
+        <text>date(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLndhcm4oIkVycm9yIGdldHRpbmcgbWVzc2FnZSBkZWxpdmVyeSBkZXRhaWxzOiAiICsgCiAgICAgICAgICAgICAgICBleGNlcHRpb24uZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgdGhyb3cgZXhjZXB0aW9uOwo=</text>
@@ -333,9 +331,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getMessageDeliveryDetails</last-search>
+      <last-search>date(</last-search>
       <last-offset />
-      <last-pattern>getMessageDeliveryDetails</last-pattern>
+      <last-pattern>date(</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -343,7 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>804652</entry>
         <entry>72049</entry>
         <entry>isMapPage</entry>
         <entry>[ALT</entry>
@@ -363,6 +360,7 @@
         <entry>getTakenMessageAmd</entry>
         <entry>TODO</entry>
         <entry>getMessageDeliveryDetails</entry>
+        <entry>date(</entry>
       </history-search>
       <history-cmd>
         <entry>356</entry>
