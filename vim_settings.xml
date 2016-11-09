@@ -18,11 +18,11 @@
         <mark key="." line="3056" column="10" />
         <mark key="^" line="3056" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1478703858352">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1478705896117">
         <mark key="[" line="395" column="44" />
-        <mark key="]" line="396" column="8" />
-        <mark key="^" line="396" column="8" />
-        <mark key="." line="396" column="8" />
+        <mark key="]" line="395" column="43" />
+        <mark key="^" line="395" column="43" />
+        <mark key="." line="395" column="43" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" timestamp="1478640312680">
         <mark key="'" line="31" column="49" />
@@ -66,6 +66,9 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
         <mark key="^" line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" timestamp="1478705635554">
+        <mark key="'" line="491" column="31" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1478642168635">
         <mark key="'" line="0" column="0" />
@@ -210,10 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6289" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6136" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6139" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="6192" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6270" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6276" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6291" column="51" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -310,16 +309,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="226" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/MessageDeliveryMessageDetails.java" />
       <jump line="96" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/MessageDeliveryRosterDetails.java" />
+      <jump line="912" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="582" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="491" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>FOO</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>FOO</text>
       </register>
       <register name="/" type="4">
-        <text>Ops</text>
+        <text>recordResult</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSTUQgPSAiUk1EIjsK</text>
@@ -355,13 +358,13 @@
         <text encoding="base64">ICAgICAgICBjYWwuc2V0VGltZUluTWlsbGlzKDApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>395</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ops</last-search>
+      <last-search>recordResult</last-search>
       <last-offset />
-      <last-pattern>Ops</last-pattern>
+      <last-pattern>recordResult</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TODO-dwj</entry>
         <entry>getTakenMessageAmd</entry>
         <entry>TODO</entry>
         <entry>destination city</entry>
@@ -389,13 +391,13 @@
         <entry>Automatic Manual</entry>
         <entry>dataModel</entry>
         <entry>Ops</entry>
+        <entry>recordResult</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5k</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>171</entry>
         <entry>4267</entry>
-        <entry>w</entry>
         <entry>477</entry>
         <entry>447</entry>
         <entry>q</entry>
@@ -411,6 +413,7 @@
         <entry>1099</entry>
         <entry>396</entry>
         <entry>395</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
