@@ -88,7 +88,7 @@
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" timestamp="1478709571289">
         <mark key="'" line="497" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1478726968135">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1478728134880">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1292" column="12" />
         <mark key="]" line="1292" column="12" />
@@ -234,8 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JTable.java" />
-      <jump line="75" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JTable.java" />
       <jump line="80" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JTable.java" />
       <jump line="279" column="32" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JTable.java" />
       <jump line="554" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/javax/swing/JTable.java" />
@@ -333,6 +331,8 @@
       <jump line="4452" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="4758" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="4967" column="5" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1280" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="1292" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
@@ -343,7 +343,7 @@
         <text>H</text>
       </register>
       <register name="/" type="4">
-        <text>getTakenMessage</text>
+        <text>dt_call_end</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3ROb25lVG9TdHJpbmcoKSB7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCIiLE1lc3NhZ2VEZWxpdmVyeVR5cGVDb2RlLk5PTkUudG9TdHJpbmcoKSk7CiAgICB9Cg==</text>
@@ -383,9 +383,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTakenMessage</last-search>
+      <last-search>dt_call_end</last-search>
       <last-offset />
-      <last-pattern>getTakenMessage</last-pattern>
+      <last-pattern>dt_call_end</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -393,7 +393,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Override</entry>
         <entry>getManualDispatchAmd</entry>
         <entry>Automatic Manual Dispatch</entry>
         <entry>deliveryType_</entry>
@@ -410,9 +409,10 @@
         <entry>prepare and execute</entry>
         <entry>getString</entry>
         <entry>getPrimary</entry>
-        <entry>HistoryRecord</entry>
         <entry>TransactionAttribute</entry>
         <entry>getTakenMessage</entry>
+        <entry>HistoryRecord</entry>
+        <entry>dt_call_end</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
