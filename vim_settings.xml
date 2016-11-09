@@ -18,11 +18,12 @@
         <mark key="." line="3056" column="10" />
         <mark key="^" line="3056" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1478705896117">
-        <mark key="[" line="395" column="44" />
-        <mark key="]" line="395" column="43" />
-        <mark key="^" line="395" column="43" />
-        <mark key="." line="395" column="43" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1478707356086">
+        <mark key="'" line="518" column="9" />
+        <mark key="[" line="397" column="53" />
+        <mark key="]" line="397" column="56" />
+        <mark key="." line="397" column="56" />
+        <mark key="^" line="397" column="56" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" timestamp="1478640312680">
         <mark key="'" line="31" column="49" />
@@ -213,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6270" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6276" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6291" column="51" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6292" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -313,37 +313,38 @@
       <jump line="582" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
       <jump line="491" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="516" column="9" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FOO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT0+IG1ha2luZyBhIHRhc2siKTsK</text>
       </register>
       <register name="-" type="4">
         <text>FOO</text>
       </register>
       <register name="/" type="4">
-        <text>recordResult</text>
+        <text>DIS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSTUQgPSAiUk1EIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLmxhbmcuTWF0aC5tYXg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT0+IG1ha2luZyBhIHRhc2siKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSTUQgPSAiUk1EIjsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLmxhbmcuTWF0aC5tYXg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgiQXV0b21hdGljIE1hbnVhbCBEaXNwYXRjaCIuZXF1YWxzKGFtZC5nZXRUaXRsZSgpKSkgewogICAgICAgICAgICAgICAgICAgIGFtZEluc3RydWN0aW9uRWxlbWVudC5lbGVtZW50KCJkZWxpdmVyeV90eXBlIikuc2V0VGV4dCgiIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSTUQgPSAiUk1EIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIE5vdGUgdGhpcyBpcyAyMDE2LTExLTAxIDAwOjAwOjAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgiQXV0b21hdGljIE1hbnVhbCBEaXNwYXRjaCIuZXF1YWxzKGFtZC5nZXRUaXRsZSgpKSkgewogICAgICAgICAgICAgICAgICAgIGFtZEluc3RydWN0aW9uRWxlbWVudC5lbGVtZW50KCJkZWxpdmVyeV90eXBlIikuc2V0VGV4dCgiIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubWFwY29tbXVuaWNhdGlvbnMudXRpbC5FcXVhbHNVdGlsaXRpZXMubnVsbFNhZmVFcXVhbHM7Cg==</text>
+        <text encoding="base64">ICAgIC8vIE5vdGUgdGhpcyBpcyAyMDE2LTExLTAxIDAwOjAwOjAwCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubWFwY29tbXVuaWNhdGlvbnMudXRpbC5FcXVhbHNVdGlsaXRpZXMubnVsbFNhZmVFcXVhbHM7Cg==</text>
@@ -355,16 +356,16 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubWFwY29tbXVuaWNhdGlvbnMudXRpbC5FcXVhbHNVdGlsaXRpZXMubnVsbFNhZmVFcXVhbHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYWwuc2V0VGltZUluTWlsbGlzKDApOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubWFwY29tbXVuaWNhdGlvbnMudXRpbC5FcXVhbHNVdGlsaXRpZXMubnVsbFNhZmVFcXVhbHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>recordResult</last-search>
+      <last-search>DIS</last-search>
       <last-offset />
-      <last-pattern>recordResult</last-pattern>
+      <last-pattern>DIS</last-pattern>
       <last-replace>getString(</last-replace>
       <last-substitute encoding="base64">KFN0cmluZykg</last-substitute>
       <last-dir>1</last-dir>
@@ -372,7 +373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getTakenMessageAmd</entry>
         <entry>TODO</entry>
         <entry>destination city</entry>
         <entry>destination</entry>
@@ -392,6 +392,7 @@
         <entry>dataModel</entry>
         <entry>Ops</entry>
         <entry>recordResult</entry>
+        <entry>DIS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5k</entry>
