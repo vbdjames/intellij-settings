@@ -24,6 +24,11 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/data/entities/User.java" timestamp="1479306262018">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageDeliveryTypeCode.java" timestamp="1479219725364">
         <mark key="'" line="22" column="8" />
         <mark key="[" line="6" column="18" />
@@ -45,6 +50,18 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/data/dao/interfaces/Dao.java" timestamp="1479306401358">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/data/dao/AbstractDao.java" timestamp="1479306773678">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" timestamp="1479220268234">
         <mark key="'" line="171" column="7" />
         <mark key="[" line="27" column="21" />
@@ -57,6 +74,11 @@
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/amd/AmdServiceBean.java" timestamp="1479226314191">
         <mark key="'" line="74" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/Dao.java" timestamp="1479305980861">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallService.java" timestamp="1479220432189">
         <mark key="'" line="1159" column="0" />
@@ -89,12 +111,22 @@
         <mark key="^" line="2677" column="6" />
         <mark key="." line="2677" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/AbstractDao.java" timestamp="1479305972962">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1475874637825">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1135" column="42" />
         <mark key="]" line="1135" column="41" />
         <mark key="^" line="1135" column="41" />
         <mark key="." line="1135" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/data/dao/UserHibernateDao.java" timestamp="1479306241777">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallXmlToObjectConverter.java" timestamp="1479219896238">
         <mark key="'" line="0" column="0" />
@@ -169,6 +201,11 @@
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/export.csv" timestamp="1478789471438">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/data/dao/interfaces/UserDao.java" timestamp="1479306202368">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/MessageDeliveryRosterDetails.java" timestamp="1479220040318">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="10" column="16" />
@@ -203,6 +240,12 @@
         <mark key="]" line="10" column="30" />
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/data/AbstractDao.java" timestamp="1479306167728">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -308,8 +351,8 @@
       <jump line="74" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/amd/AmdServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDExLzE2LzE2LgogKi8K</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -321,37 +364,37 @@
         <text encoding="base64">ICogQGF1dGhvciAgRG91ZyBKYW1lcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModHJ1ZSwgdGhyb3duKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDExLzE2LzE2LgogKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRjaCAoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGV4Y3BldGlvbikgewogICAgICAgICAgICB0aHJvd24gPSB0cnVlOwogICAgICAgIH0K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDExLzE2LzE2LgogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDExLzE2LzE2LgogKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDExLzE2LzE2LgogKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHRocm93biA9IGZhbHNlOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDExLzE2LzE2LgogKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModHJ1ZSwgdGhyb3duKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYXRjaCAoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGV4Y3BldGlvbikgewogICAgICAgICAgICB0aHJvd24gPSB0cnVlOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXIuZ2V0TG9nZ2VyKAogICAgICAgICAgICBNZXNzYWdlRGVsaXZlcnlUeXBlQ29kZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8K</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -404,9 +447,9 @@
         <entry>6360</entry>
         <entry>395</entry>
         <entry>396</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
