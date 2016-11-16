@@ -86,11 +86,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/pom.xml" timestamp="1479326949865">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/pom.xml" timestamp="1479329533492">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallService.java" timestamp="1479220432189">
         <mark key="'" line="1159" column="0" />
@@ -162,6 +161,11 @@
         <mark key="^" line="38" column="15" />
         <mark key="." line="38" column="15" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/src/main/java/com/mapcommunications/App.java" timestamp="1479328789995">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/TestMessageDeliveryAmdDetails.java" timestamp="1479219928155">
         <mark key="'" line="191" column="28" />
         <mark key="[" line="12" column="25" />
@@ -204,6 +208,9 @@
         <mark key="^" line="298" column="53" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Hibernate and Java Persistence API (JPA) Fundamentals - Working Files/Chapter 9/Building a Persistence Layer/pom.xml" timestamp="1479329459642">
+        <mark key="'" line="0" column="97" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" timestamp="1479220485609">
         <mark key="'" line="98" column="32" />
         <mark key="[" line="69" column="18" />
@@ -216,6 +223,12 @@
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/export.csv" timestamp="1478789471438">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/src/main/java/com/mapcommunications/daopoc/App.java" timestamp="1479329312994">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/data/dao/interfaces/UserDao.java" timestamp="1479308375843">
         <mark key="[" line="2" column="26" />
@@ -271,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2052" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="2057" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="2062" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="2064" column="53" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
@@ -371,10 +383,11 @@
       <jump line="74" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/amd/AmdServiceBean.java" />
       <jump line="80" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="18" column="48" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="0" column="97" filename="$USER_HOME$/Downloads/Hibernate and Java Persistence API (JPA) Fundamentals - Working Files/Chapter 9/Building a Persistence Layer/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDExLzE2LzE2LgogKi8K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20ub3JhY2xlLmpkYmM8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPm9qZGJjNzwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MTIuMS4wLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -383,37 +396,37 @@
         <text>NONE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQGF1dGhvciAgRG91ZyBKYW1lcwo=</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+MTIuMS4wLjI8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDExLzE2LzE2LgogKi8K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20ub3JhY2xlLmpkYmM8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPm9qZGJjNzwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MTIuMS4wLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdHggPSBzZXNzaW9uLmJlZ2luVHJhbnNhY3Rpb24oKTsK</text>
+        <text encoding="base64">PHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcvbWF2ZW4tdjRfMF8wLnhzZCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZW50aXR5VHJhbnNhY3Rpb24uYmVnaW4oKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlvcmcuaGliZXJuYXRlLlRyYW5zYWN0aW9uIHR4ID0gbnVsbDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlTZXNzaW9uIHNlc3Npb24gPSBudWxsOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlTZXNzaW9uRmFjdG9yeSBzZXNzaW9uRmFjdG9yeSA9IG51bGw7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkVudGl0eU1hbmFnZXJGYWN0b3J5Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20ub3JhY2xlLmpkYmM8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnVjcDwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MTIuMS4wLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5wZXJzaXN0ZW5jZTwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+cGVyc2lzdGVuY2UtYXBpPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjA8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oICJIZWxsbyBXb3JsZCEiICk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJc2Vzc2lvbiA9IHNlc3Npb25GYWN0b3J5Lm9wZW5TZXNzaW9uKCk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJc2Vzc2lvbkZhY3RvcnkgPSBIaWJlcm5hdGVVdGlsLmdldFNlc3Npb25GYWN0b3J5KCk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGphbWVzIG9uIDExLzE2LzE2LgogKi8K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
