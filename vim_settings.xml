@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1479933350807">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1479934609975">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="66" />
         <mark key="." line="27" column="0" />
@@ -54,6 +54,10 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1479934509647">
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="31" column="33" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1478007398321">
         <mark key="'" line="88" column="13" />
@@ -143,11 +147,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1479929619691">
-        <mark key="[" line="2467" column="31" />
-        <mark key="]" line="2467" column="30" />
-        <mark key="^" line="2467" column="30" />
-        <mark key="." line="2467" column="30" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1479934597037">
+        <mark key="[" line="2310" column="22" />
+        <mark key="]" line="2310" column="168" />
+        <mark key="^" line="2310" column="168" />
+        <mark key="." line="2310" column="168" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminService.java" timestamp="1479852486195">
         <mark key="[" line="3716" column="22" />
@@ -311,8 +315,10 @@
       <jump line="10362" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIllPRExFLUFMTENBTEwgVEVNUC9TQ1JJUFQiLGZvcm0uZ2V0VGl0bGUoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null, null, null, null, null, (short) 0, new Dimension(0, 0), 
+            new Dimension(0, 0), null, null, null, false, null, false, false, 
+            null, null, null, null</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -320,8 +326,10 @@
       <register name="/" type="4">
         <text>savenewcustom</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIllPRExFLUFMTENBTEwgVEVNUC9TQ1JJUFQiLGZvcm0uZ2V0VGl0bGUoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>null, null, null, null, null, (short) 0, new Dimension(0, 0), 
+            new Dimension(0, 0), null, null, null, false, null, false, false, 
+            null, null, null, null</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoKQo=</text>
@@ -354,7 +362,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -408,8 +416,8 @@
         <entry encoding="base64">JzwsJz5zL29yYWNsZS9wb3N0Z3Jlcy9n</entry>
         <entry>7204</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
