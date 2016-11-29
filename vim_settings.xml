@@ -166,12 +166,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1480369706001">
-        <mark key="'" line="3527" column="55" />
-        <mark key="[" line="3532" column="11" />
-        <mark key="]" line="3525" column="47" />
-        <mark key="." line="3525" column="47" />
-        <mark key="^" line="3525" column="47" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1480428229218">
+        <mark key="'" line="3530" column="58" />
+        <mark key="[" line="3525" column="48" />
+        <mark key="]" line="3530" column="58" />
+        <mark key="." line="3530" column="58" />
+        <mark key="^" line="3530" column="58" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/foo.xml" timestamp="1480353047387">
         <mark key="[" line="3" column="132" />
@@ -236,11 +236,11 @@
         <mark key="]" line="4" column="27" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/AbstractDao.java" timestamp="1479938790629">
-        <mark key="[" line="47" column="63" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="39" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/AbstractDao.java" timestamp="1480428342732">
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="48" />
+        <mark key="^" line="36" column="48" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/src/main/java/com/mapcommunications/daopoc/dao/FooOracleDao.java" timestamp="1479842223382">
         <mark key="'" line="0" column="0" />
@@ -327,6 +327,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" timestamp="1480428209699">
+        <mark key="'" line="38" column="3" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallXmlToObjectConverter.java" timestamp="1479219896238">
         <mark key="'" line="0" column="0" />
@@ -429,8 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1285" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="39" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="2714" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="8018" column="67" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="124" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -529,6 +530,8 @@
       <jump line="24" column="6" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="73" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="35" column="6" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="38" column="3" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" />
+      <jump line="3530" column="58" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -538,7 +541,7 @@
         <text encoding="base64">PT09PiBtYWtpbmcgYSBjdXN0b20gZm9ybSBieSBoYW5k</text>
       </register>
       <register name="/" type="4">
-        <text>LOGGER\.fine</text>
+        <text>LOGGER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
@@ -578,9 +581,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LOGGER\.fine</last-search>
+      <last-search>LOGGER</last-search>
       <last-offset />
-      <last-pattern>LOGGER\.fine</last-pattern>
+      <last-pattern>LOGGER</last-pattern>
       <last-replace>LOGGER.info</last-replace>
       <last-substitute>LOGGER\.fine</last-substitute>
       <last-dir>1</last-dir>
@@ -588,7 +591,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createEntity</entry>
         <entry>oracle</entry>
         <entry>saveCustom</entry>
         <entry>this is</entry>
@@ -608,6 +610,7 @@
         <entry>saveNewCustomFormOracle</entry>
         <entry>orm.xml</entry>
         <entry>LOGGER\.fine</entry>
+        <entry>LOGGER</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
