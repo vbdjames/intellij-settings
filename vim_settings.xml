@@ -24,8 +24,8 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1480448103285">
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1480453475472">
+        <mark key="[" line="20" column="66" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
@@ -46,11 +46,11 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1480446109479">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="52" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1480453584934">
+        <mark key="[" line="10" column="76" />
+        <mark key="]" line="98" column="61" />
+        <mark key="." line="98" column="61" />
+        <mark key="^" line="98" column="61" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" timestamp="1478709571289">
         <mark key="'" line="497" column="0" />
@@ -110,11 +110,12 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1480451861786">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1480453079857">
         <mark key="'" line="945" column="0" />
-        <mark key="[" line="83" column="33" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="20" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="83" column="32" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/OracleCustomFormDao.java" timestamp="1476194220659">
         <mark key="'" line="24" column="8" />
@@ -534,7 +535,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>cascade = CascadeType.ALL) //TODO-dwj: DELETE_ORPHAN</text>
@@ -546,34 +547,34 @@
         <text encoding="base64">ICAgIEBJZAogICAgQFNlcXVlbmNlR2VuZXJhdG9yKG5hbWU9ImVjaG9fc2VxdWVuY2UiLCBzZXF1ZW5jZU5hbWU9ImVjaG9fc2VxdWVuY2UiKQogICAgQEdlbmVyYXRlZFZhbHVlKHN0cmF0ZWd5PSBHZW5lcmF0aW9uVHlwZS5TRVFVRU5DRSwKICAgICAgICAgICAgZ2VuZXJhdG9yPSJlY2hvX3NlcXVlbmNlIikKICAgIEBDb2x1bW4obmFtZT0iaWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWU9ImZvcm1faWQiKQo=</text>
+        <text encoding="base64">Ly8gICAgQFRyYW5zaWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBMb25nIGlkOwo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEV4cGxpY2l0IGRlY2xhcmF0aW9uIG9mIHNlcmlhbFZlcnNpb25VSUQgZ3VhcmFudGVlcyBjb25zaXN0ZW50IHZhbHVlIGFjcm9zcyAKICAgIC8vIGRpZmZlcmVudCBqYXZhIGNvbXBpbGVyIGltcGxlbWVudGF0aW9uczsgc2VlIAogICAgLy8gaHR0cDovL2phdmEuc3VuLmNvbS9qMnNlLzEuNS4wL2RvY3MvYXBpL2phdmEvaW8vU2VyaWFsaXphYmxlLmh0bWwuCiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSAxTDsKCiAgICBwcm90ZWN0ZWQgYm9vbGVhbiBlbmFibGVkOwogICAgcHJvdGVjdGVkIExvbmcgZ3JvdXBJZDsKICAgIHByb3RlY3RlZCBTdHJpbmcgZ3JvdXBSb2xlOwogICAgcHJvdGVjdGVkIFN0cmluZyBncm91cFR5cGU7CiAgICBwcm90ZWN0ZWQgYm9vbGVhbiBoaWRkZW47CiAgICBwcm90ZWN0ZWQgTG9uZyBpZDsKICAgIHByb3RlY3RlZCBFbGVtZW50TGF5b3V0IGxheW91dDsKICAgIHByb3RlY3RlZCBTdHJpbmcgbmFtZTsK</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWU9ImZvcm1faWQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9ybS5nZXRFbGVtZW50cygpKTsK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBMb25nIGlkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGNsYXNzPmNvbS5tYXBjb21tdW5pY2F0aW9ucy5mb3JtLkVsZW1lbnQ8L2NsYXNzPi0tPgo=</text>
+        <text encoding="base64">ICAgIC8vIEV4cGxpY2l0IGRlY2xhcmF0aW9uIG9mIHNlcmlhbFZlcnNpb25VSUQgZ3VhcmFudGVlcyBjb25zaXN0ZW50IHZhbHVlIGFjcm9zcyAKICAgIC8vIGRpZmZlcmVudCBqYXZhIGNvbXBpbGVyIGltcGxlbWVudGF0aW9uczsgc2VlIAogICAgLy8gaHR0cDovL2phdmEuc3VuLmNvbS9qMnNlLzEuNS4wL2RvY3MvYXBpL2phdmEvaW8vU2VyaWFsaXphYmxlLmh0bWwuCiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSAxTDsKCiAgICBwcm90ZWN0ZWQgYm9vbGVhbiBlbmFibGVkOwogICAgcHJvdGVjdGVkIExvbmcgZ3JvdXBJZDsKICAgIHByb3RlY3RlZCBTdHJpbmcgZ3JvdXBSb2xlOwogICAgcHJvdGVjdGVkIFN0cmluZyBncm91cFR5cGU7CiAgICBwcm90ZWN0ZWQgYm9vbGVhbiBoaWRkZW47CiAgICBwcm90ZWN0ZWQgTG9uZyBpZDsKICAgIHByb3RlY3RlZCBFbGVtZW50TGF5b3V0IGxheW91dDsKICAgIHByb3RlY3RlZCBTdHJpbmcgbmFtZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9AVGFibGUobmFtZT0iZm9ybV9lbGVtZW50Iiwgc2NoZW1hPSJlY2hvIikK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9ybS5nZXRFbGVtZW50cygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9ARW50aXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGNsYXNzPmNvbS5tYXBjb21tdW5pY2F0aW9ucy5mb3JtLkVsZW1lbnQ8L2NsYXNzPi0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9AVGFibGUobmFtZT0iZm9ybV9lbGVtZW50Iiwgc2NoZW1hPSJlY2hvIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
