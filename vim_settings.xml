@@ -170,11 +170,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1480610650775">
-        <mark key="'" line="1007" column="60" />
-        <mark key="[" line="3557" column="0" />
-        <mark key="]" line="3557" column="0" />
-        <mark key="." line="3557" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1480620263607">
+        <mark key="'" line="264" column="59" />
+        <mark key="[" line="3544" column="0" />
+        <mark key="]" line="3544" column="0" />
+        <mark key="." line="3544" column="0" />
+        <mark key="^" line="114" column="57" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/foo.xml" timestamp="1480353047387">
         <mark key="[" line="3" column="132" />
@@ -446,26 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1773" column="55" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1842" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="336" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/orm.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/orm.xml" />
-      <jump line="3527" column="55" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2322" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
-      <jump line="25" column="6" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="876" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="24" column="6" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="73" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="35" column="6" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="38" column="3" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/scheduledservice/ScheduledService.java" />
-      <jump line="3530" column="58" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="160" column="5" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="15142" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
-      <jump line="880" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="279" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/Element.java" />
-      <jump line="24" column="29" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/Element.java" />
-      <jump line="280" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/Element.java" />
       <jump line="1961" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="583" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="644" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -536,7 +517,6 @@
       <jump line="127" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="3546" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="80" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="3545" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="504" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="2078" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="2220" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -544,60 +524,81 @@
       <jump line="153" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="2716" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="5810" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1001" column="60" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="3545" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="134" column="5" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="5799" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="62" column="24" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="130" column="5" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="132" column="5" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="3551" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="114" column="57" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="342" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="384" column="64" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="635" column="64" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="750" column="64" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="914" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="915" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="946" column="64" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="1027" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="1057" column="64" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="1344" column="64" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="3556" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="264" column="59" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBwZXJzaXN0ZW5jZVVuaXROYW1lID0gIkVjaG9QZXJzaXN0ZW5jZSI7IC8vVE9ETy1kd2oKLy8gICAgICAgIEVudGl0eU1hbmFnZXJGYWN0b3J5IGZhY3RvcnkgPSBQZXJzaXN0ZW5jZQovLyAgICAgICAgICAgICAgICAuY3JlYXRlRW50aXR5TWFuYWdlckZhY3RvcnkocGVyc2lzdGVuY2VVbml0TmFtZSk7Ci8vICAgICAgICBFbnRpdHlNYW5hZ2VyIG1hbmFnZXIgPSBmYWN0b3J5LmNyZWF0ZUVudGl0eU1hbmFnZXIoKTsKLy8gICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgbWFuYWdlci5wZXJzaXN0KGN1c3RvbUZvcm0pOwovLyAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKLy8gICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwovLyAgICAgICAgfSBmaW5hbGx5IHsKLy8gICAgICAgICAgICBtYW5hZ2VyLmNsb3NlKCk7Ci8vICAgICAgICAgICAgZmFjdG9yeS5jbG9zZSgpOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIG51bGw7Ci8vCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhyb3dzIE5vdFBlcmZvcm1lZEV4Y2VwdGlvbiwgVW5oYW5kbGVkRXhjZXB0aW9uLCBIZXVyaXN0aWNSb2xsYmFja0V4Y2VwdGlvbiwgUm9sbGJhY2tFeGNlcHRpb24sIEhldXJpc3RpY01peGVkRXhjZXB0aW9uLCBTeXN0ZW1FeGNlcHRpb24sIE5vdFN1cHBvcnRlZEV4Y2VwdGlvbiA=</text>
+        <text>CONTAINER</text>
       </register>
       <register name="/" type="4">
-        <text>saveCustomFormOracle</text>
+        <text>commit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmYWN0b3J5XyA9IFBlcnNpc3RlbmNlLmNyZWF0ZUVudGl0eU1hbmFnZXJGYWN0b3J5KHBlcnNpc3RlbmNlVW5pdE5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBwZXJzaXN0ZW5jZVVuaXROYW1lID0gIkVjaG9QZXJzaXN0ZW5jZSI7IC8vVE9ETy1kd2oKLy8gICAgICAgIEVudGl0eU1hbmFnZXJGYWN0b3J5IGZhY3RvcnkgPSBQZXJzaXN0ZW5jZQovLyAgICAgICAgICAgICAgICAuY3JlYXRlRW50aXR5TWFuYWdlckZhY3RvcnkocGVyc2lzdGVuY2VVbml0TmFtZSk7Ci8vICAgICAgICBFbnRpdHlNYW5hZ2VyIG1hbmFnZXIgPSBmYWN0b3J5LmNyZWF0ZUVudGl0eU1hbmFnZXIoKTsKLy8gICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgbWFuYWdlci5wZXJzaXN0KGN1c3RvbUZvcm0pOwovLyAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKLy8gICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwovLyAgICAgICAgfSBmaW5hbGx5IHsKLy8gICAgICAgICAgICBtYW5hZ2VyLmNsb3NlKCk7Ci8vICAgICAgICAgICAgZmFjdG9yeS5jbG9zZSgpOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIG51bGw7Ci8vCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChIZXVyaXN0aWNSb2xsYmFja0V4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGFvLmZsdXNoKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW50aXR5VHJhbnNhY3Rpb24gZW0gPSBkYW9GYWN0b3J5LmdldFRyYW5zYWN0aW9uKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChIZXVyaXN0aWNNaXhlZEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBVc2VyVHJhbnNhY3Rpb24gdHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHguYmVnaW4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChSb2xsYmFja0V4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHguY29tbWl0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhbnNhY3Rpb24uY29tbWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFuYWdlci5mbHVzaCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChOb3RTdXBwb3J0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKFN5c3RlbUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoUm9sbGJhY2tFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKEhldXJpc3RpY01peGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChIZXVyaXN0aWNSb2xsYmFja0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyVHJhbnNhY3Rpb24gdHJhbnNhY3Rpb24gPSBzZXNzaW9uQ29udGV4dF8uZ2V0VXNlclRyYW5zYWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChOb3RTdXBwb3J0ZWRFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>saveCustomFormOracle</last-search>
+      <last-search>commit</last-search>
       <last-offset />
-      <last-pattern>saveCustomFormOracle</last-pattern>
+      <last-pattern>commit</last-pattern>
       <last-replace>LOGGER.info</last-replace>
       <last-substitute>LOGGER\.fine</last-substitute>
       <last-dir>1</last-dir>
@@ -605,17 +606,12 @@
     </search>
     <history>
       <history-search>
-        <entry>LOGGER</entry>
-        <entry>entering</entry>
-        <entry>saveCustomForm</entry>
-        <entry>saveNewCustomForm</entry>
         <entry>saveNewCust</entry>
         <entry>findCustomForm</entry>
         <entry>saveNewCustom</entry>
         <entry>getCustomFormOracle</entry>
         <entry>save</entry>
         <entry>oracle</entry>
-        <entry>transaction</entry>
         <entry>saveNewCustomFormOracle</entry>
         <entry>saveNew</entry>
         <entry>Oracle</entry>
@@ -625,6 +621,11 @@
         <entry>getCustomForm(</entry>
         <entry>sessionFactory</entry>
         <entry>saveCustomFormOracle</entry>
+        <entry>UserTransaction</entry>
+        <entry>resource</entry>
+        <entry>transaction</entry>
+        <entry>begin</entry>
+        <entry>commit</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
