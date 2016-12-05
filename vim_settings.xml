@@ -24,6 +24,13 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_code_update_ca.sql" timestamp="1480954927326">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="67" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1480948351018">
         <mark key="'" line="70" column="8" />
         <mark key="[" line="70" column="0" />
@@ -74,6 +81,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="20" column="4" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/zip_code_update_us.sql" timestamp="1480954982521">
+        <mark key="[" line="15" column="56" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracleDao.java" timestamp="1479940042751">
         <mark key="[" line="2" column="36" />
@@ -440,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7412" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1598" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="242" column="56" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="115" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -540,10 +552,11 @@
       <jump line="187" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_search_data_tables.sql" />
       <jump line="213" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_search_data_tables.sql" />
       <jump line="234" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_search_data_tables.sql" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_code_update_ca.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">LS0gQWZ0ZXIgbG9hZGluZyB0aGUgZGF0YSAodmlhIHNxbGxkcik6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>CreatedTimestamp</text>
@@ -552,40 +565,40 @@
         <text>constraint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZm9ybS5nZXRWZXJzaW9uKCksIHNhdmVkRm9ybS5nZXRWZXJzaW9uKCkpOwo=</text>
+        <text encoding="base64">LS0gQWZ0ZXIgbG9hZGluZyB0aGUgZGF0YSAodmlhIHNxbGxkcik6ClNFTEVDVCAqIEZST00gVEVNUF9QT1NUQUxfQ09ERV9VUERBVEVfQ0EgUEMgV0hFUkUgTk9UIEVYSVNUUwogIChTRUxFQ1QgKiBGUk9NIFNUQVRFX1BST1ZJTkNFIFNQIFdIRVJFIFNQLkNPREUgPSBQQy5QUk9WSU5DRSBBTkQgU1AuQ09VTlRSWV9DT0RFID0gJ0NBJyk7CgotLSBWZXJpZnkgdGhhdCBubyByZWNvcmRzIGFyZSByZXR1cm5lZCAtIGFueSByZWNvcmRzIGluZGljYXRlIHRoZQotLSBuZXcgbG9hZCBpbmNsdWRlcyBwcm92aW5jZSBjb2RlcyBub3QgaW4gb3VyIHN0YXRlX3Byb3ZpbmNlIHRhYmxlLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">LS0gQWZ0ZXIgbG9hZGluZyB0aGUgZGF0YSAodmlhIHNxbGxkcik6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZm9ybS5nZXRDcmVhdGVkVGltZXN0YW1wKCksIHNhdmVkRm9ybS5nZXRDcmVhdGVkVGltZXN0YW1wKCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2F2ZWRGb3JtLmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZm9ybS5nZXRDcmVhdGVkVGltZXN0YW1wKCksIHNhdmVkRm9ybS5nZXRDcmVhdGVkVGltZXN0YW1wKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0aW9uLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2F2ZWRGb3JtLmdldElkKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChSb2xsYmFja0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoSGV1cmlzdGljTWl4ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKFN5c3RlbUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoTm90U3VwcG9ydGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0aW9uLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChIZXVyaXN0aWNSb2xsYmFja0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChSb2xsYmFja0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoSGV1cmlzdGljTWl4ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKFN5c3RlbUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoTm90U3VwcG9ydGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIHNhdmVkRm9ybSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChIZXVyaXN0aWNSb2xsYmFja0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChIZXVyaXN0aWNSb2xsYmFja0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoUm9sbGJhY2tFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKEhldXJpc3RpY01peGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChTeXN0ZW1FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKE5vdFN1cHBvcnRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIHNhdmVkRm9ybSA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2dldFZlcnNpb24vZ2V0TW9kaWZpZWRCeU5hbWUvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -621,7 +634,6 @@
         <entry>constraint</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2dldFZlcnNpb24vZ2V0VGl0bGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2dldFZlcnNpb24vZ2V0Rm9ybVR5cGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2dldFZlcnNpb24vZ2V0Rm9ybUNsYXNzL2c=</entry>
@@ -641,6 +653,7 @@
         <entry encoding="base64">JzwsJz5zL2dldFZlcnNpb24vZ2V0Q3JlYXRlZEJ5TmFtZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2dldFZlcnNpb24vZ2V0TW9kaWZpZWRUaW1lc3RhbXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2dldFZlcnNpb24vZ2V0TW9kaWZpZWRCeU5hbWUvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
