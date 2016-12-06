@@ -72,12 +72,12 @@
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" timestamp="1478709571289">
         <mark key="'" line="497" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1480966306933">
-        <mark key="'" line="1669" column="43" />
-        <mark key="[" line="1135" column="42" />
-        <mark key="]" line="1135" column="41" />
-        <mark key="^" line="1135" column="41" />
-        <mark key="." line="1135" column="41" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1481032497616">
+        <mark key="'" line="1167" column="59" />
+        <mark key="[" line="1733" column="45" />
+        <mark key="]" line="1734" column="18" />
+        <mark key="." line="1734" column="18" />
+        <mark key="^" line="1734" column="18" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/CustomFormDao.java" timestamp="1479912758216">
         <mark key="[" line="4" column="62" />
@@ -153,6 +153,12 @@
         <mark key="]" line="12" column="30" />
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallScreen.java" timestamp="1481032030975">
+        <mark key="[" line="1025" column="3" />
+        <mark key="]" line="1025" column="3" />
+        <mark key="." line="1025" column="3" />
+        <mark key="^" line="1025" column="3" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1478007398321">
         <mark key="'" line="88" column="13" />
@@ -462,10 +468,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/TriLevelCallScreen.java" timestamp="1480976541300">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="206" column="9" />
-        <mark key="." line="204" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/TriLevelCallScreen.java" timestamp="1481031713876">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/MessageDeliveryRosterDetails.java" timestamp="1479220040318">
         <mark key="'" line="87" column="0" />
@@ -500,8 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2716" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="5810" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1001" column="60" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="3545" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="134" column="5" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -600,19 +604,21 @@
       <jump line="64" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="367" column="5" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="35" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
+      <jump line="6299" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="1167" column="59" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmICh0eXBlID09IENhbGxTY3JlZW5PcHRpb25UeXBlLlBBVENIX0NBTEwpIHsKICAgICAgICAgICAgc3VwcG9ydHMgPSB0cnVlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>screenSupports</text>
       </register>
       <register name="/" type="4">
-        <text>PATCH</text>
+        <text>PATCH_CALL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmICh0eXBlID09IENhbGxTY3JlZW5PcHRpb25UeXBlLlBBVENIX0NBTEwpIHsKICAgICAgICAgICAgc3VwcG9ydHMgPSB0cnVlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9wdGlvbk5vdEF2YWlsYWJsZUhhbmRsZXIuc2V0VXBBY3Rpb24odGhpcy5wYXRjaENhbGxBY3Rpb25fLAogICAgICAgICAgICBzY3JlZW5TdXBwb3J0cywgcmVjZWl2ZXJTdXBwb3J0cyAmJiBmb3JtU3VwcG9ydHMsIHRydWUsIAogICAgICAgICAgICBDYWxsU2NyZWVuT3B0aW9uVHlwZS5QQVRDSF9DQUxMKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -621,37 +627,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFJlY2VpdmVyVHlwZSB0eXBlIDogUmVjZWl2ZXJUeXBlLmdldFR5cGVzKCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHR5cGUuZ2V0TmFtZSgpICsgIiAiICsgdHlwZS5zdXBwb3J0c09wdGlvbgogICAgICAgICAgICAgICAgICAgIChDYWxsU2NyZWVuT3B0aW9uVHlwZS5QQVRDSF9DQUxMKSk7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBhdGNoQ2FsbEFjdGlvbl8uc2V0RW5hYmxlZCh0cnVlKTsKICAgICAgICB0aGlzLm9wdGlvbk5vdEF2YWlsYWJsZUhhbmRsZXIuc2V0VXBBY3Rpb24odGhpcy5wYXRjaENhbGxBY3Rpb25fLAogICAgICAgICAgICB0cnVlLCByZWNlaXZlclN1cHBvcnRzICYmIGZvcm1TdXBwb3J0cywgdHJ1ZSwgCiAgICAgICAgICAgIENhbGxTY3JlZW5PcHRpb25UeXBlLlBBVENIX0NBTEwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QUNRVUlTSVRJT05fRFVNTVkK</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMub3B0aW9uTm90QXZhaWxhYmxlSGFuZGxlci5zZXRVcEFjdGlvbih0aGlzLnBhdGNoQ2FsbEFjdGlvbl8sCi8vICAgICAgICAgICAgICAgIHNjcmVlblN1cHBvcnRzLCByZWNlaXZlclN1cHBvcnRzICYmIGZvcm1TdXBwb3J0cywgdHJ1ZSwKLy8gICAgICAgICAgICAgICAgQ2FsbFNjcmVlbk9wdGlvblR5cGUuUEFUQ0hfQ0FMTCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwIG9wdGlvbk1hcCA9IG5ldyBIYXNoTWFwPENhbGxTY3JlZW5PcHRpb25UeXBlLCBCb29sZWFuPigpOwogICAgICAgIG9wdGlvbk1hcC5wdXQoQ2FsbFNjcmVlbk9wdGlvblR5cGUuQUNDT1VOVF9JTkZPUk1BVElPTiwgdHJ1ZSk7CiAgICAgICAgb3B0aW9uTWFwLnB1dChDYWxsU2NyZWVuT3B0aW9uVHlwZS5DQUxMX0RFVEFJTFMsIHRydWUpOwogICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShSZWNlaXZlclR5cGUuQVUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFJlY2VpdmVyVHlwZSB0eXBlIDogUmVjZWl2ZXJUeXBlLmdldFR5cGVzKCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHR5cGUuZ2V0TmFtZSgpICsgIiAiICsgdHlwZS5zdXBwb3J0c09wdGlvbgogICAgICAgICAgICAgICAgICAgIChDYWxsU2NyZWVuT3B0aW9uVHlwZS5QQVRDSF9DQUxMKSk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">QUNRVUlTSVRJT05fRFVNTVkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzdXBwb3J0c1BhdGNoQ2FsbF87Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PATCH</last-search>
+      <last-search>PATCH_CALL</last-search>
       <last-offset />
-      <last-pattern>PATCH</last-pattern>
+      <last-pattern>PATCH_CALL</last-pattern>
       <last-replace>getModifiedByName</last-replace>
       <last-substitute>getVersion</last-substitute>
       <last-dir>1</last-dir>
@@ -673,12 +679,12 @@
         <entry>PatchCallAction</entry>
         <entry>patchCallAction</entry>
         <entry>formSupports</entry>
-        <entry>PATCH_CALL</entry>
         <entry>receiverSupportsOption</entry>
         <entry>supportsOption</entry>
         <entry>master</entry>
         <entry>MASTER</entry>
         <entry>PATCH</entry>
+        <entry>PATCH_CALL</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dldFZlcnNpb24vZ2V0VGl0bGUvZw==</entry>
