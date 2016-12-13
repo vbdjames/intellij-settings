@@ -17,8 +17,8 @@
         <mark key="." line="34" column="43" />
         <mark key="^" line="34" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/orm.xml" timestamp="1480450717916">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/orm.xml" timestamp="1481647259957">
+        <mark key="'" line="83" column="0" />
         <mark key="[" line="338" column="29" />
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
@@ -58,6 +58,9 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
         <mark key="^" line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1481647843251">
+        <mark key="'" line="79" column="67" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElement.java" timestamp="1481576193670">
         <mark key="'" line="383" column="0" />
@@ -145,20 +148,6 @@
         <mark key="^" line="1843" column="39" />
         <mark key="." line="1843" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ElementLayout.java" timestamp="1481571398829">
-        <mark key="'" line="223" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/LabelElement.java" timestamp="1481572612207">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="66" />
-      </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/Element.java" timestamp="1481571187754">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="24" />
-      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/UrlButtonElement.java" timestamp="1481579672129">
         <mark key="'" line="302" column="0" />
         <mark key="[" line="28" column="0" />
@@ -166,8 +155,8 @@
         <mark key="." line="18" column="2" />
         <mark key="^" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1481056519839">
-        <mark key="'" line="405" column="32" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1481646786033">
+        <mark key="'" line="511" column="46" />
         <mark key="[" line="3549" column="48" />
         <mark key="]" line="3550" column="61" />
         <mark key="^" line="3550" column="61" />
@@ -371,10 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" />
-      <jump line="119" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" />
-      <jump line="120" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" />
-      <jump line="121" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" />
       <jump line="122" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" />
       <jump line="123" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" />
       <jump line="125" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" />
@@ -471,6 +456,10 @@
       <jump line="281" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SelectionListElementItem.java" />
       <jump line="18" column="72" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SelectionListElement.java" />
       <jump line="376" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SelectionListElement.java" />
+      <jump line="122" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="511" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/orm.xml" />
+      <jump line="79" column="67" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -480,7 +469,7 @@
         <text encoding="base64">Ym9Cb3hFbGVtZW50SXRlbT4gaXRlbXM7</text>
       </register>
       <register name="/" type="4">
-        <text>getForm</text>
+        <text>getCustomFormOracle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QEVudGl0eQpAVGFibGUobmFtZT0iY3VzdG9tX2Zvcm0iLCBzY2hlbWE9ImVjaG8iKQo=</text>
@@ -520,9 +509,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getForm</last-search>
+      <last-search>getCustomFormOracle</last-search>
       <last-offset />
-      <last-pattern>getForm</last-pattern>
+      <last-pattern>getCustomFormOracle</last-pattern>
       <last-replace>getId</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -530,8 +519,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PATCH</entry>
-        <entry>PATCH_CALL</entry>
         <entry>deliveryType</entry>
         <entry>deliveryType_</entry>
         <entry>RMD</entry>
@@ -550,6 +537,8 @@
         <entry>isLegacy</entry>
         <entry>formClass</entry>
         <entry>getForm</entry>
+        <entry>getCustomForm</entry>
+        <entry>getCustomFormOracle</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NhdmVkRm9ybS9mb3JtT3JhY2xlL2c=</entry>
