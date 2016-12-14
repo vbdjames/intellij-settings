@@ -139,11 +139,11 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1481749380446">
-        <mark key="'" line="428" column="26" />
-        <mark key="[" line="478" column="46" />
-        <mark key="]" line="478" column="46" />
-        <mark key="." line="478" column="46" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1481752869357">
+        <mark key="'" line="80" column="19" />
+        <mark key="[" line="159" column="62" />
+        <mark key="]" line="159" column="62" />
+        <mark key="." line="159" column="62" />
         <mark key="^" line="429" column="57" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1479846844431">
@@ -433,8 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2724" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="250" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="277" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="292" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="329" column="44" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
@@ -461,7 +459,6 @@
       <jump line="114" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="117" column="48" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="528" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="112" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="142" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="1976" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -533,16 +530,19 @@
       <jump line="2273" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="2303" column="24" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="465" column="67" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="80" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJ0cmFuc2FjdGlvbi5mYWN0b3J5X2NsYXNzIj4KICAgICAgICAgICAgb3JnLmhpYmVybmF0ZS50cmFuc2FjdGlvbi5KVEFUcmFuc2FjdGlvbkZhY3RvcnkKICAgICAgICA8L3Byb3BlcnR5PgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJqdGEuVXNlclRyYW5zYWN0aW9uIj5qYXZhOmNvbXAvVXNlclRyYW5zYWN0aW9uPC9wcm9wZXJ0eS0tPgoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDwhLS0gbmFtZT0iamF2YTpjb21wL2Vudi9oaWJlcm5hdGUvU2Vzc2lvbkZhY3RvcnkiLS0+</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>getScheduledMessageDelivery</text>
+        <text>message_sequence</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8Y29weSB0b2Rpcj0iJHtlYXIuYnVpbGQuZGlyfS8ke21ldGEtaW5mLmRpcn0iCiAgICAgICAgICAgICAgcHJlc2VydmVsYXN0bW9kaWZpZWQ9InRydWUiIG92ZXJ3cml0ZT0idHJ1ZSI+CiAgICAgICAgICAgIDxmaWxlc2V0IGRpcj0iJHtlYXIuTUVUQS1JTkYuZGlyfSI+CiAgICAgICAgICAgICAgICA8aW5jbHVkZSBuYW1lPSIqKi8qLmNmZy54bWwiLz4KICAgICAgICAgICAgPC9maWxlc2V0PgogICAgICAgIDwvY29weT4K</text>
@@ -582,9 +582,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getScheduledMessageDelivery</last-search>
+      <last-search>message_sequence</last-search>
       <last-offset />
-      <last-pattern>getScheduledMessageDelivery</last-pattern>
+      <last-pattern>message_sequence</last-pattern>
       <last-replace>getId</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -592,8 +592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectionlistele</entry>
-        <entry>lookupfield</entry>
         <entry>searchdata</entry>
         <entry>getCustomFormOracle(</entry>
         <entry>getCustomForm</entry>
@@ -612,6 +610,8 @@
         <entry>form_data_search_</entry>
         <entry>searchdatalayoutitem</entry>
         <entry>getScheduledMessageDelivery</entry>
+        <entry>alignment</entry>
+        <entry>message_sequence</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzRW5hYmxlZC9pc0hpZGRlbi9n</entry>
