@@ -160,12 +160,11 @@
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" timestamp="1481741899296">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" timestamp="1481743170317">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="739" column="26" />
-        <mark key="]" line="739" column="25" />
-        <mark key="." line="739" column="25" />
-        <mark key="^" line="739" column="25" />
+        <mark key="[" line="739" column="0" />
+        <mark key="]" line="739" column="0" />
+        <mark key="." line="739" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ElementLayout.java" timestamp="1481571398829">
         <mark key="'" line="223" column="0" />
@@ -425,11 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1748" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="1877" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2723" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="5818" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="55" column="11" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="10" column="81" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/persistence/postgres.cfg.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/persistence/postgres.cfg.xml" />
       <jump line="735" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -524,59 +518,64 @@
       <jump line="1727" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="740" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1438" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="741" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="143" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="144" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="739" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1442" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmNvbmZpZ3VyZSgiY29tL21hcGNvbW11bmljYXRpb25zL2Zvcm0vcG9zdGdyZXMuY2ZnLnhtbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b2ZpbGU9IiR7ZWFyLmJ1aWxkLmRpcn0vJHttZXRhLWluZi5kaXJ9L2FwcGxpY2F0aW9uLnhtbCIgCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>all</text>
+        <text>cfg.xml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29weSBmaWxlPSIke3NyYy5kaXJ9L3JlYmVsLXJlbW90ZS1lamIueG1sIgogICAgICAgICAgICAgICAgICAgdG9maWxlPSIke2NsYXNzLmJ1aWxkLmRpcn0vcmViZWwtcmVtb3RlLnhtbCIKICAgICAgICAgICAgICAgICAgIG92ZXJ3cml0ZT0idHJ1ZSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9maWxlPSIke2Vhci5idWlsZC5kaXJ9LyR7bWV0YS1pbmYuZGlyfS9hcHBsaWNhdGlvbi54bWwiIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmNvbmZpZ3VyZSgiY29tL21hcGNvbW11bmljYXRpb25zL2Zvcm0vcG9zdGdyZXMuY2ZnLnhtbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b2ZpbGU9IiR7ZWFyLmJ1aWxkLmRpcn0vJHttZXRhLWluZi5kaXJ9L2FwcGxpY2F0aW9uLnhtbCIgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPLWR3ajogbW92ZSBjb25maWcgZmlsZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmNvbmZpZ3VyZSgiY29tL21hcGNvbW11bmljYXRpb25zL2Zvcm0vcG9zdGdyZXMuY2ZnLnhtbCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmNvbmZpZ3VyZSgiY29tL21hcGNvbW11bmljYXRpb25zL2Zvcm0vb3JhY2xlLmNmZy54bWwiKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPLWR3ajogbW92ZSBjb25maWcgZmlsZQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmNvbmZpZ3VyZSgiY29tL21hcGNvbW11bmljYXRpb25zL2Zvcm0vb3JhY2xlLmNmZy54bWwiKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPLWR3ajogbW92ZSBjb25maWcgZmlsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29weSB0b2Rpcj0iJHtlYXIuYnVpbGQuZGlyfS8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8Y29weSB0b2Rpcj0iJHtlYXIuYnVpbGQuZGlyfS8K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29weSBmaWxlPSIke3NyYy5kaXJ9L3JlYmVsLXJlbW90ZS1lamIueG1sIgogICAgICAgICAgICAgIHRvZmlsZT0iJHtjbGFzcy5idWlsZC5kaXJ9L3JlYmVsLXJlbW90ZS54bWwiCiAgICAgICAgICAgICAgb3ZlcndyaXRlPSJ0cnVlIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIG1hcHBpbmcgcmVzb3VyY2U9ImNvbS9tYXBjb21tdW5pY2F0aW9ucy9mb3JtL0N1c3RvbUZvcm1PcmFjbGUuaGJtLnhtbCIvIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICA8Y29weSBmaWxlPSIke3NyYy5kaXJ9L3JlYmVsLXJlbW90ZS1lamIueG1sIgogICAgICAgICAgICAgIHRvZmlsZT0iJHtjbGFzcy5idWlsZC5kaXJ9L3JlYmVsLXJlbW90ZS54bWwiCiAgICAgICAgICAgICAgb3ZlcndyaXRlPSJ0cnVlIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>all</last-search>
+      <last-search>cfg.xml</last-search>
       <last-offset />
-      <last-pattern>all</last-pattern>
+      <last-pattern>cfg.xml</last-pattern>
       <last-replace>getId</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -584,8 +583,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tableElementCol</entry>
-        <entry>TextPaneElementVar</entry>
         <entry>junit</entry>
         <entry>test</entry>
         <entry>urlbuttonelement</entry>
@@ -601,9 +598,11 @@
         <entry>buildHibernateSessionFactory</entry>
         <entry>form.pkg</entry>
         <entry>rebel-remote</entry>
-        <entry>cfg.xml</entry>
         <entry>jar</entry>
         <entry>all</entry>
+        <entry>ear.META-</entry>
+        <entry>application.xml</entry>
+        <entry>cfg.xml</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NhdmVkRm9ybS9mb3JtT3JhY2xlL2c=</entry>
