@@ -284,8 +284,8 @@
         <mark key="]" line="2305" column="0" />
         <mark key="." line="2305" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1479220232378">
-        <mark key="'" line="6459" column="54" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1481750541198">
+        <mark key="'" line="109" column="13" />
         <mark key="[" line="100" column="25" />
         <mark key="]" line="100" column="25" />
         <mark key="^" line="100" column="25" />
@@ -433,7 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5899" column="76" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="56" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="160" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="161" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -533,6 +532,7 @@
       <jump line="427" column="63" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="428" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="29" column="54" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/oracle.cfg.xml" />
+      <jump line="109" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -542,7 +542,7 @@
         <text encoding="base64">IDwhLS0gbmFtZT0iamF2YTpjb21wL2Vudi9oaWJlcm5hdGUvU2Vzc2lvbkZhY3RvcnkiLS0+</text>
       </register>
       <register name="/" type="4">
-        <text>searchdatalayoutitem</text>
+        <text>getScheduledMessageDelivery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8Y29weSB0b2Rpcj0iJHtlYXIuYnVpbGQuZGlyfS8ke21ldGEtaW5mLmRpcn0iCiAgICAgICAgICAgICAgcHJlc2VydmVsYXN0bW9kaWZpZWQ9InRydWUiIG92ZXJ3cml0ZT0idHJ1ZSI+CiAgICAgICAgICAgIDxmaWxlc2V0IGRpcj0iJHtlYXIuTUVUQS1JTkYuZGlyfSI+CiAgICAgICAgICAgICAgICA8aW5jbHVkZSBuYW1lPSIqKi8qLmNmZy54bWwiLz4KICAgICAgICAgICAgPC9maWxlc2V0PgogICAgICAgIDwvY29weT4K</text>
@@ -582,9 +582,9 @@
       </register>
     </registers>
     <search>
-      <last-search>searchdatalayoutitem</last-search>
+      <last-search>getScheduledMessageDelivery</last-search>
       <last-offset />
-      <last-pattern>searchdatalayoutitem</last-pattern>
+      <last-pattern>getScheduledMessageDelivery</last-pattern>
       <last-replace>getId</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -592,7 +592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oncalldisp</entry>
         <entry>selectionlistele</entry>
         <entry>lookupfield</entry>
         <entry>searchdata</entry>
@@ -612,6 +611,7 @@
         <entry>cfg.xml</entry>
         <entry>form_data_search_</entry>
         <entry>searchdatalayoutitem</entry>
+        <entry>getScheduledMessageDelivery</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzRW5hYmxlZC9pc0hpZGRlbi9n</entry>
