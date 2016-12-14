@@ -162,11 +162,12 @@
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" timestamp="1481731674280">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="745" column="0" />
-        <mark key="]" line="745" column="0" />
-        <mark key="." line="745" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" timestamp="1481734465610">
+        <mark key="'" line="740" column="49" />
+        <mark key="[" line="1463" column="77" />
+        <mark key="]" line="1464" column="49" />
+        <mark key="." line="1464" column="49" />
+        <mark key="^" line="1464" column="49" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ElementLayout.java" timestamp="1481571398829">
         <mark key="'" line="223" column="0" />
@@ -426,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1294" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1645" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1748" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1877" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -526,6 +526,7 @@
       <jump line="725" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1727" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="740" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -535,7 +536,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>cfg.xml</text>
+        <text>jar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8Y29weSBmaWxlPSIke3NyYy5kaXJ9L3JlYmVsLXJlbW90ZS1lamIueG1sIgogICAgICAgICAgICAgICAgICAgdG9maWxlPSIke2NsYXNzLmJ1aWxkLmRpcn0vcmViZWwtcmVtb3RlLnhtbCIKICAgICAgICAgICAgICAgICAgIG92ZXJ3cml0ZT0idHJ1ZSIgLz4K</text>
@@ -575,9 +576,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cfg.xml</last-search>
+      <last-search>jar</last-search>
       <last-offset />
-      <last-pattern>cfg.xml</last-pattern>
+      <last-pattern>jar</last-pattern>
       <last-replace>getId</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -585,7 +586,6 @@
     </search>
     <history>
       <history-search>
-        <entry>INDEX</entry>
         <entry>Datum</entry>
         <entry>tableElementCol</entry>
         <entry>TextPaneElementVar</entry>
@@ -605,6 +605,7 @@
         <entry>form.pkg</entry>
         <entry>rebel-remote</entry>
         <entry>cfg.xml</entry>
+        <entry>jar</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NhdmVkRm9ybS9mb3JtT3JhY2xlL2c=</entry>
