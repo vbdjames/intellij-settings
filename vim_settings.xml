@@ -133,12 +133,12 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1481665172702">
-        <mark key="'" line="318" column="58" />
-        <mark key="[" line="146" column="68" />
-        <mark key="]" line="158" column="57" />
-        <mark key="." line="158" column="57" />
-        <mark key="^" line="158" column="57" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1481667726310">
+        <mark key="'" line="443" column="30" />
+        <mark key="[" line="390" column="56" />
+        <mark key="]" line="404" column="0" />
+        <mark key="." line="404" column="0" />
+        <mark key="^" line="404" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/MessageDeliveryDetailsIT.java" timestamp="1479846844431">
         <mark key="'" line="118" column="23" />
@@ -408,13 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/UrlButtonElement.java" />
-      <jump line="286" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/UrlButtonElement.java" />
-      <jump line="12" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/UrlButtonElementParameter.java" />
-      <jump line="185" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/UrlButtonElementParameter.java" />
-      <jump line="11" column="6" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CheckBoxElement.java" />
-      <jump line="18" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CheckBoxElement.java" />
-      <jump line="226" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CheckBoxElement.java" />
       <jump line="17" column="72" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ComboBoxElement.java" />
       <jump line="302" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ComboBoxElement.java" />
       <jump line="25" column="52" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ComboBoxElementItem.java" />
@@ -508,6 +501,13 @@
       <jump line="576" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="233" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="318" column="58" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="311" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="328" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="360" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="420" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="436" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="431" column="53" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="443" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -517,7 +517,7 @@
         <text>INDEX</text>
       </register>
       <register name="/" type="4">
-        <text>comboboxelementitem</text>
+        <text>searchdata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIEN1c3RvbUZvcm0gZ2V0Q3VzdG9tRm9ybShMb25nIGlkLCBib29sZWFuIGxvY2ssIFN0cmluZyB1c2VybmFtZSkgCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCAKICAgICAgICAgICAgVW5oYW5kbGVkRXhjZXB0aW9uIHsKICAgICAgICBDdXN0b21Gb3JtIGN1c3RvbUZvcm0gPSBudWxsOwogICAgICAgIFNlc3Npb24gc2Vzc2lvbiA9IG51bGw7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vIFZlcmlmeSB0aGF0IGZvcm0gaWQgaXMgbm90IG51bGwuCiAgICAgICAgICAgIGlmIChpZCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICB0aHJvdyhuZXcgQmFkQXJndW1lbnRFeGNlcHRpb24oIkNhbm5vdCBnZXQgZm9ybTsgREJJRCBwcm92aWRlZCAiCiAgICAgICAgICAgICAgICAgICAgKyAiaXMgbnVsbC4iKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIExPR0dFUi5pbmZvKCJDdXN0b20gZm9ybSB3aXRoIERCSUQgWyIgKyBpZCArICJdIHJlcXVlc3RlZCBieSBbIiAKICAgICAgICAgICAgICAgICsgdXNlcm5hbWUgKyAiXS4iKTsKCiAgICAgICAgICAgIC8vIElmIHJlcXVlc3RlZCwgbG9jayB0aGUgZm9ybS4KICAgICAgICAgICAgaWYgKGxvY2spIHsKICAgICAgICAgICAgICAgIHRoaXMubG9ja1NlcnZpY2VMb2NhbF8ubG9ja0VjaG9FbnRpdHkoCiAgICAgICAgICAgICAgICAgICAgRm9ybUVudGl0eVR5cGUuQ1VTVE9NX0ZPUk0uZ2V0VG9rZW4oKSwgbnVsbCwgaWQsIGZhbHNlKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJPcGVuaW5nIEhpYmVybmF0ZSBzZXNzaW9uIik7CiAgICAgICAgICAgIHNlc3Npb24gPSB0aGlzLnNlc3Npb25GYWN0b3J5Lm9wZW5TZXNzaW9uKCk7CgogICAgICAgICAgICAvLyBHZXQgZm9ybSBmcm9tIGRhdGFiYXNlLiAgTnVsbCByZXR1cm4gdmFsdWUgaW5kaWNhdGVzIHRoYXQgaXQgZG9lcwogICAgICAgICAgICAvLyBub3QgZXhpc3QuCiAgICAgICAgICAgIExPR0dFUi5kZWJ1ZygiR2V0dGluZyBmb3JtIGZyb20gZGF0YWJhc2UiKTsKICAgICAgICAgICAgQ3VzdG9tRm9ybSBsb2FkZWRGb3JtID0gKEN1c3RvbUZvcm0pIHNlc3Npb24uZ2V0KEN1c3RvbUZvcm0uY2xhc3MsIAogICAgICAgICAgICAgICAgaWQpOwogICAgICAgICAgICBpZiAobG9hZGVkRm9ybSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICB0aHJvdyhuZXcgTm90Rm91bmRFeGNlcHRpb24oIk5vIEN1c3RvbSBGb3JtIGV4aXN0cyBmb3IgREJJRCBbIiAKICAgICAgICAgICAgICAgICAgICArIGlkICsgIl0uIikpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICAvLyBQcmVwIHRoZSBmb3JtIHRvIHJlcGxhY2UgY2xhc3NlcyBzcGVjaWZpYyB0byBIaWJlcm5hdGUgd2l0aAogICAgICAgICAgICAvLyBKYXZhIGVxdWl2YWxlbnRzIGFuZCBtYWtlIGl0IHVzYWJsZSB0byBhbnkgY2xpZW50LgogICAgICAgICAgICBjdXN0b21Gb3JtID0gdGhpcy5wcmVwQ3VzdG9tRm9ybUZvckNsaWVudChsb2FkZWRGb3JtLCAKICAgICAgICAgICAgICAgIHRoaXMuaXNHZW5lcmljRm9ybShpZCkpOwogICAgICAgICAgICAKICAgICAgICAgICAgTE9HR0VSLmluZm8oIkN1c3RvbSBmb3JtIHdpdGggREJJRCBbIiArIGlkICsgIl0gcmV0cmlldmVkIGZvciBbIiAKICAgICAgICAgICAgICAgICsgdXNlcm5hbWUgKyAiXS4iKTsKICAgICAgICB9CiAgICAgICAgLy8gTG9nIGFuZCByZXRocm93IGEgTm90Rm91bmRFeGNlcHRpb24uCiAgICAgICAgY2F0Y2goY29tLm1hcGNvbW11bmljYXRpb25zLmxhbmcuTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMT0dHRVIud2FybigiRXJyb3IgZ2V0dGluZyBjdXN0b20gZm9ybTogIiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgdGhyb3coZSk7CiAgICAgICAgfQogICAgICAgIC8vIExvZyBhbmQgcmV0aHJvdyBhIE5vdFBlcmZvcm1lZEV4Y2VwdGlvbjsgYSBOb3RQZXJmb3JtZWRFeGNlcHRpb24sIAogICAgICAgIC8vIHdoaWNoIGluY2x1ZGVzIEJhZEFyZ3VtZW50RXhjZXB0aW9uLCB1c3VhbGx5IGluZGljYXRlcyBhbiBpbnZhbGlkIAogICAgICAgIC8vIGFyZ3VtZW50LgogICAgICAgIGNhdGNoKGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLk5vdFBlcmZvcm1lZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIExPR0dFUi53YXJuKCJFcnJvciBnZXR0aW5nIGN1c3RvbSBmb3JtOiAiICsgZS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB0aHJvdyhlKTsKICAgICAgICB9CiAgICAgICAgLy8gTG9nIGEgSGliZXJuYXRlRXhjZXB0aW9uIGFuZCByZXRocm93IGFzIGEgRGF0YWJhc2VFeGNlcHRpb24uCiAgICAgICAgY2F0Y2gob3JnLmhpYmVybmF0ZS5IaWJlcm5hdGVFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMT0dHRVIud2FybigiRXJyb3IgZ2V0dGluZyBjdXN0b20gZm9ybTogIiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgdGhyb3cobmV3IERhdGFiYXNlRXhjZXB0aW9uKGUuZ2V0TWVzc2FnZSgpKSk7CiAgICAgICAgfQogICAgICAgIC8vIExvZyBhbmQgcmV0aHJvdyBhbiBVbmhhbmRsZWRFeGNlcHRpb24uCiAgICAgICAgY2F0Y2goY29tLm1hcGNvbW11bmljYXRpb25zLmxhbmcuVW5oYW5kbGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HR0VSLndhcm4oIkVycm9yIGdldHRpbmcgY3VzdG9tIGZvcm06ICIgKyBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIHRocm93KGUpOwogICAgICAgIH0KICAgICAgICBmaW5hbGx5IHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmIChzZXNzaW9uICE9IG51bGwpIHNlc3Npb24uY2xvc2UoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAvLyBMb2cgZXhjZXB0aW9uIHdoZW4gdW5hYmxlIHRvIGNsb3NlIGRhdGFiYXNlIHNlc3Npb24uCiAgICAgICAgICAgIGNhdGNoKG9yZy5oaWJlcm5hdGUuSGliZXJuYXRlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIExPR0dFUi53YXJuKCJFcnJvciBjbG9zaW5nIEhpYmVybmF0ZSBzZXNzaW9uOiAiIAogICAgICAgICAgICAgICAgICAgICsgZS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gY3VzdG9tRm9ybTsKICAgIH0K</text>
@@ -557,9 +557,9 @@
       </register>
     </registers>
     <search>
-      <last-search>comboboxelementitem</last-search>
+      <last-search>searchdata</last-search>
       <last-offset />
-      <last-pattern>comboboxelementitem</last-pattern>
+      <last-pattern>searchdata</last-pattern>
       <last-replace>getId</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -567,10 +567,6 @@
     </search>
     <history>
       <history-search>
-        <entry>formClass</entry>
-        <entry>getForm</entry>
-        <entry>fetch</entry>
-        <entry>customFormDS</entry>
         <entry>getCustomForm</entry>
         <entry>hbm</entry>
         <entry>Oracle</entry>
@@ -587,6 +583,10 @@
         <entry>test</entry>
         <entry>urlbuttonelement</entry>
         <entry>comboboxelementitem</entry>
+        <entry>oncalldisp</entry>
+        <entry>selectionlistele</entry>
+        <entry>lookupfield</entry>
+        <entry>searchdata</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NhdmVkRm9ybS9mb3JtT3JhY2xlL2c=</entry>
