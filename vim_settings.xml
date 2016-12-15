@@ -74,6 +74,9 @@
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1481647843251">
         <mark key="'" line="79" column="67" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1481829622828">
+        <mark key="'" line="63" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElement.java" timestamp="1481576193670">
         <mark key="'" line="383" column="0" />
         <mark key="[" line="36" column="16" />
@@ -94,6 +97,9 @@
         <mark key="]" line="1734" column="18" />
         <mark key="." line="1734" column="18" />
         <mark key="^" line="1734" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/FormAttachEventType.java" timestamp="1481829703620">
+        <mark key="'" line="122" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SelectionListElementItem.java" timestamp="1481645145218">
         <mark key="'" line="287" column="0" />
@@ -253,8 +259,8 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1481749070866">
-        <mark key="'" line="427" column="63" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1481830081474">
+        <mark key="'" line="425" column="17" />
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="41" />
         <mark key="^" line="14" column="42" />
@@ -442,10 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="112" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="142" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="1976" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1568" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="2621" column="58" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="106" column="50" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -542,6 +544,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" />
       <jump line="153" column="15" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" />
       <jump line="166" column="56" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" />
+      <jump line="63" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="13" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/FormAttachEventType.java" />
+      <jump line="122" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/FormAttachEventType.java" />
+      <jump line="425" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -551,7 +557,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>ALL_TYPES</text>
+        <text>customer_attached_form</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8Y29weSB0b2Rpcj0iJHtlYXIuYnVpbGQuZGlyfS8ke21ldGEtaW5mLmRpcn0iCiAgICAgICAgICAgICAgcHJlc2VydmVsYXN0bW9kaWZpZWQ9InRydWUiIG92ZXJ3cml0ZT0idHJ1ZSI+CiAgICAgICAgICAgIDxmaWxlc2V0IGRpcj0iJHtlYXIuTUVUQS1JTkYuZGlyfSI+CiAgICAgICAgICAgICAgICA8aW5jbHVkZSBuYW1lPSIqKi8qLmNmZy54bWwiLz4KICAgICAgICAgICAgPC9maWxlc2V0PgogICAgICAgIDwvY29weT4K</text>
@@ -591,9 +597,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ALL_TYPES</last-search>
+      <last-search>customer_attached_form</last-search>
       <last-offset />
-      <last-pattern>ALL_TYPES</last-pattern>
+      <last-pattern>customer_attached_form</last-pattern>
       <last-replace>getId</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -601,8 +607,6 @@
     </search>
     <history>
       <history-search>
-        <entry>form.pkg</entry>
-        <entry>rebel-remote</entry>
         <entry>jar</entry>
         <entry>all</entry>
         <entry>ear.META-</entry>
@@ -621,6 +625,8 @@
         <entry>Dispatch type [</entry>
         <entry>dispatchTypeMap_</entry>
         <entry>ALL_TYPES</entry>
+        <entry>recordAttachment</entry>
+        <entry>customer_attached_form</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzRW5hYmxlZC9pc0hpZGRlbi9n</entry>
