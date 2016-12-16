@@ -93,12 +93,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1481905391359">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1481906582097">
         <mark key="'" line="11" column="82" />
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="91" column="86" />
-        <mark key="^" line="91" column="86" />
-        <mark key="." line="91" column="86" />
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1481829622828">
         <mark key="'" line="63" column="13" />
@@ -579,11 +579,11 @@
       <jump line="52" column="9" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmNvbm5lY3Rpb24udXJsIiB2YWx1ZT0iamRiYzpoc3FsZGI6bWVtOnVuaXQtdGVzdGluZy1qcGEiLz4KLy8gICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmNvbm5lY3Rpb24uZHJpdmVyX2NsYXNzIiB2YWx1ZT0ib3JnLmhzcWxkYi5qZGJjRHJpdmVyIi8+Ci8vICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5kaWFsZWN0IiB2YWx1ZT0ib3JnLmhpYmVybmF0ZS5kaWFsZWN0LkhTUUxEaWFsZWN0Ii8+Ci8vICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5oYm0yZGRsLmF1dG8iIHZhbHVlPSJjcmVhdGUtZHJvcCIvPgovLyAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuY29ubmVjdGlvbi51c2VybmFtZSIgdmFsdWU9InNhIi8+Ci8vICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5jb25uZWN0aW9uLnBhc3N3b3JkIiB2YWx1ZT0iIi8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>jdbc:hsqldb:mem:unit-testing-jpa</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>entityManagerFactory</text>
