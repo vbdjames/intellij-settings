@@ -215,8 +215,8 @@
         <mark key="." line="18" column="2" />
         <mark key="^" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1481831842666">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1481921710780">
+        <mark key="'" line="2079" column="62" />
         <mark key="[" line="8090" column="21" />
         <mark key="]" line="8090" column="27" />
         <mark key="^" line="8090" column="27" />
@@ -477,16 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="725" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1727" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="740" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1438" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="741" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="143" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="144" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1442" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="749" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1448" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1449" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1450" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -542,7 +532,6 @@
       <jump line="10656" column="44" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
       <jump line="7306" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
       <jump line="8079" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="39" column="5" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/directory/DirectoryContactMethodTypeTest.java" />
       <jump line="135" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/directory/DirectoryContactMethodTypeTest.java" />
       <jump line="77" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/specialinstructions/SpecialInstructionsServiceBean.java" />
@@ -577,6 +566,17 @@
       <jump line="11" column="82" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" />
       <jump line="52" column="9" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" />
       <jump line="342" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/orm.xml" />
+      <jump line="510" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="152" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="584" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="645" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="647" column="72" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="653" column="51" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="673" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="687" column="15" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="1298" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="2079" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -586,7 +586,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>entityManagerFactory</text>
+        <text>getCustomFormOracle(</text>
       </register>
       <register name="0" type="4">
         <text>org.hsqldb.jdbcDriver</text>
@@ -626,9 +626,9 @@
       </register>
     </registers>
     <search>
-      <last-search>entityManagerFactory</last-search>
+      <last-search>getCustomFormOracle(</last-search>
       <last-offset />
-      <last-pattern>entityManagerFactory</last-pattern>
+      <last-pattern>getCustomFormOracle(</last-pattern>
       <last-replace>getId</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -636,8 +636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oracle.cfg.xml</entry>
-        <entry>cfg.xml</entry>
         <entry>form_data_search_</entry>
         <entry>searchdatalayoutitem</entry>
         <entry>getScheduledMessageDelivery</entry>
@@ -656,6 +654,8 @@
         <entry>EntityManager</entry>
         <entry>EntityManagerFactory</entry>
         <entry>entityManagerFactory</entry>
+        <entry>Oracle</entry>
+        <entry>getCustomFormOracle(</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzRW5hYmxlZC9pc0hpZGRlbi9n</entry>
