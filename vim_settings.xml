@@ -35,6 +35,12 @@
         <mark key="^" line="31" column="30" />
         <mark key="." line="31" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/java/com/mapcommunications/TestSchema.java" timestamp="1482244014959">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_code_update_ca.sql" timestamp="1480954927326">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="10" column="0" />
@@ -122,6 +128,11 @@
         <mark key="]" line="1734" column="18" />
         <mark key="." line="1734" column="18" />
         <mark key="^" line="1734" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/java/com/mapcommunications/HibernateUtil.java" timestamp="1482243605896">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageDeliveryDetailsDialog.java" timestamp="1479219761726">
         <mark key="'" line="448" column="4" />
@@ -241,11 +252,11 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/main/java/com/mapcommunications/User.java" timestamp="1482182699645">
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="12" column="75" />
-        <mark key="^" line="12" column="75" />
-        <mark key="." line="12" column="75" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/main/java/com/mapcommunications/User.java" timestamp="1482246614267">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageDeliveryTypeCode.java" timestamp="1479312139870">
         <mark key="'" line="22" column="8" />
@@ -320,11 +331,11 @@
         <mark key="^" line="2677" column="6" />
         <mark key="." line="2677" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/java/com/mapcommunications/AppTest.java" timestamp="1482182942010">
-        <mark key="[" line="30" column="67" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/java/com/mapcommunications/AppTest.java" timestamp="1482246844104">
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+        <mark key="." line="31" column="37" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ButtonElement.java" timestamp="1481580114989">
         <mark key="'" line="203" column="0" />
@@ -564,47 +575,47 @@
       <jump line="114" column="54" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, generator=&quot;app_sequence&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW0gPSBlbUZhY3RvcnkuY3JlYXRlRW50aXR5TWFuYWdlcigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>, generator=&quot;app_sequence&quot;</text>
+        <text>APP_SEQUENCE</text>
       </register>
       <register name="/" type="4">
         <text>master</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTZXF1ZW5jZUdlbmVyYXRvcihuYW1lPSJlY2hvX3NlcXVlbmNlIiwgc2VxdWVuY2VOYW1lPSJlY2hvX3NlcXVlbmNlIikKICAgIEBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneT1HZW5lcmF0aW9uVHlwZS5TRVFVRU5DRSwgCiAgICAgICAgZ2VuZXJhdG9yPSJlY2hvX3NlcXVlbmNlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGdldF9zZXEgPSAiY2FsbCBuZXh0IHZhbHVlIGZvciBBUFBfU0VRVUVOQ0UiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTZXF1ZW5jZUdlbmVyYXRvcihuYW1lPSJhcHBfc2VxdWVuY2UiLCBzZXF1ZW5jZU5hbWU9ImFwcF9zZXF1ZW5jZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW0gPSBlbUZhY3RvcnkuY3JlYXRlRW50aXR5TWFuYWdlcigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5kaWFsZWN0IiB2YWx1ZT0ib3JnLmhpYmVybmF0ZS5kaWFsZWN0LkhTUUxEaWFsZWN0Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5oCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoImRqYW1lcyIsIHVzZXIuZ2V0VXNlcm5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iaWQiKWAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGdldF91c2VyID0gInNlbGVjdCAqIGZyb20gdXNlcnMiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0U2V0ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KGdldF91c2VyKS5leGVjdXRlUXVlcnkoKTsKICAgICAgICAgICAgaW50IG51bWJlck9mQ29sdW1ucyA9IHJlc3VsdFNldC5nZXRNZXRhRGF0YSgpLmdldENvbHVtbkNvdW50KCk7CiAgICAgICAgICAgIHdoaWxlIChyZXN1bHRTZXQubmV4dCgpKSB7CiAgICAgICAgICAgICAgICBpbnQgaSA9IDE7CiAgICAgICAgICAgICAgICB3aGlsZSAoaSA8IG51bWJlck9mQ29sdW1ucykgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHRTZXQuZ2V0U3RyaW5nKGkrKykpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElkKExvbmcgaWQpIHsKICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBJZAogICAgQENvbHVtbihuYW1lPSJzZXJ2aWNlX2l0ZW1fdHlwZSIpCiAgICBwcml2YXRlIFN0cmluZyBzZXJ2aWNlSXRlbVR5cGVfOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvbyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwIG1hcCA9IG5ldyBIYXNoTWFwKCk7CiAgICAgICAgICAgIG1hcC5wdXQoIkFwcFBlcnNpc3RlbmNlLmNvbm5lY3Rpb24udXJsIiwgImpkYmM6aHNxbGRiOm1lbTp1bml0LXRlc3RpbmctanBhIik7CiAgICAgICAgICAgIG1hcC5wdXQoIkFwcFBlcnNpc3RlbmNlLmNvbm5lY3Rpb24uZHJpdmVyX2NsYXNzIiwgIm9yZy5oc3FsZGIuamRiY0RyaXZlciIpOwogICAgICAgICAgICBtYXAucHV0KCJBcHBQZXJzaXN0ZW5jZS5oYm0yZGRsLmF1dG8iLCAiY3JlYXRlLWRyb3AiKTsKICAgICAgICAgICAgbWFwLnB1dCgiQXBwUGVyc2lzdGVuY2UuY29ubmVjdGlvbi51c2VybmFtZSIsICJzYSIpOwogICAgICAgICAgICBtYXAucHV0KCJBcHBQZXJzaXN0ZW5jZS5jb25uZWN0aW9uLnBhc3N3b3JkIiwgIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
