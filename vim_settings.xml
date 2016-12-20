@@ -81,11 +81,10 @@
         <mark key="." line="64" column="47" />
         <mark key="^" line="64" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" timestamp="1482176807901">
-        <mark key="'" line="64" column="9" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="67" column="8" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" timestamp="1482265629274">
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/pom.xml" timestamp="1482179688582">
         <mark key="'" line="0" column="0" />
@@ -101,12 +100,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1482263387234">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="56" />
-        <mark key="." line="8" column="56" />
-        <mark key="^" line="8" column="56" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1482265200470">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="9" column="63" />
+        <mark key="]" line="9" column="99" />
+        <mark key="^" line="19" column="50" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElement.java" timestamp="1481576193670">
         <mark key="'" line="383" column="0" />
@@ -147,10 +146,10 @@
         <mark key="^" line="91" column="86" />
         <mark key="." line="91" column="86" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/main/resources/META-INF/persistence.xml" timestamp="1482263352806">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/main/resources/META-INF/persistence.xml" timestamp="1482264550947">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="49" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="27" column="58" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="8" column="40" />
       </file>
@@ -474,8 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1247" column="48" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build/class/com/mapcommunications/deliveryschedule/DeliveryScheduleServiceBean.class" />
-      <jump line="1298" column="48" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build/class/com/mapcommunications/deliveryschedule/DeliveryScheduleServiceBean.class" />
       <jump line="2168" column="48" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build/class/com/mapcommunications/deliveryschedule/DeliveryScheduleServiceBean.class" />
       <jump line="2170" column="95" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build/class/com/mapcommunications/deliveryschedule/DeliveryScheduleServiceBean.class" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleOneTimeInterval.java" />
@@ -574,49 +571,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="104" column="69" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="114" column="54" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLlVzZXI8L2NsYXNzPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRW50aXR5TWFuYWdlckZhY3RvcnkgZW50aXR5TWFuYWdlckZhY3Rvcnk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>master</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLlVzZXI8L2NsYXNzPgo=</text>
+      <register name="0" type="4">
+        <text>jdbc:hsqldb:mem:echo-persistence-test</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRW50aXR5TWFuYWdlckZhY3RvcnkgZW50aXR5TWFuYWdlckZhY3Rvcnk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2F2ZWRVc2VyLmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIuZ2V0TG9nZ2VyKEVjaG9FbnRpdHlBdHRhY2htZW50VGVzdAogICAgICAgICAgICAuY2xhc3MuZ2V0TmFtZSgpKTsKICAgIHByaXZhdGUgRW50aXR5TWFuYWdlckZhY3RvcnkgZW1GYWN0b3J5OwogICAgcHJpdmF0ZSBFbnRpdHlNYW5hZ2VyIGVtOwogICAgcHJpdmF0ZSBDb25uZWN0aW9uIGNvbm5lY3Rpb247CgogICAgcHVibGljIEVjaG9FbnRpdHlBdHRhY2htZW50VGVzdChTdHJpbmcgdGVzdE5hbWUpIHsKICAgICAgICBzdXBlcih0ZXN0TmFtZSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgdGVzdEdldEVjaG9FbnRpdHlBdHRhY2htZW50KCkgdGhyb3dzIENsYXNzTm90Rm91bmRFeGNlcHRpb24gewogICAgICAgIC8vIHRyeSBnZXR0aW5nIHRoZSBkYXRhIG1hZGUgaW4gc2V0dXAKLy8gICAgICAgIEVudGl0eU1hbmFnZXJGYWN0b3J5IGVtZiA9IG51bGw7Ci8vICAgICAgICBFbnRpdHlNYW5hZ2VyIGVtID0gZW1mLmNyZWF0ZUVudGl0eU1hbmFnZXIoKTsKLy8gICAgICAgIEVjaG9FbnRpdHlBdHRhY2htZW50SWQgaWQgPSBuZXcgRWNob0VudGl0eUF0dGFjaG1lbnRJZCgic2NoZWRzZXJ2IiwKLy8gICAgICAgICAgICAgICAgNTM2ODgzNjU1MEwsICJhY2NvdW50IiwgIjEyMzQ2Mjc0MzEiKTsKLy8gICAgICAgIEVjaG9FbnRpdHlBdHRhY2htZW50IGVlYSA9IGVtLmZpbmQoRWNob0VudGl0eUF0dGFjaG1lbnQuY2xhc3MsIGlkKTsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihlZWEuZ2V0Q2xhc3MoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ3b29ob28iKTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgdm9pZCBzZXRVcCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHN1cGVyLnNldFVwKCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlN0YXJ0aW5nIGluLW1lbW9yeSBIU1FMIGRhdGFiYXNlIGZvciB1bml0IHRlc3RzIik7CiAgICAgICAgICAgIENsYXNzLmZvck5hbWUoIm9yZy5oc3FsZGIuamRiY0RyaXZlciIpOwogICAgICAgICAgICBjb25uZWN0aW9uID0gRHJpdmVyTWFuYWdlci5nZXRDb25uZWN0aW9uKCJqZGJjOmhzcWxkYjptZW06dW5pdC10ZXN0aW5nLWpwYSIsICJzYSIsICIiKTsKCiAgICAgICAgfQogICAgICAgIGNhdGNoIChFeGNlcHRpb24gZXgpIHsKICAgICAgICAgICAgZXgucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIGZhaWwoIkV4Y2VwdGlvbiBkdXJpbmcgSFNRTCBkYXRhYmFzZSBzdGFydHVwIik7CiAgICAgICAgfQoKICAgICAgICB0cnkgewogICAgICAgICAgICBsb2dnZXIuaW5mbygiQnVpbGRpbmcgRW50aXR5TWFuYWdlciBmb3IgdW5pdCB0ZXN0cyIpOwoKCiAgICAgICAgICAgIE1hcCBtYXAgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgICAgICBtYXAucHV0KCJFY2hvUGVyc2lzdGVuY2UuY29ubmVjdGlvbi51cmwiLCAiamRiYzpoc3FsZGI6bWVtOnVuaXQtdGVzdGluZy1qcGEiKTsKICAgICAgICAgICAgbWFwLnB1dCgiRWNob1BlcnNpc3RlbmNlLmNvbm5lY3Rpb24uZHJpdmVyX2NsYXNzIiwgIm9yZy5oc3FsZGIuamRiY0RyaXZlciIpOwogICAgICAgICAgICBtYXAucHV0KCJFY2hvUGVyc2lzdGVuY2UuaGliZXJuYXRlLmRpYWxlY3QiLCAib3JnLmhpYmVybmF0ZS5kaWFsZWN0LkhTUUxEaWFsZWN0Iik7CiAgICAgICAgICAgIG1hcC5wdXQoIkVjaG9QZXJzaXN0ZW5jZS5oYm0yZGRsLmF1dG8iLCAiY3JlYXRlLWRyb3AiKTsKICAgICAgICAgICAgbWFwLnB1dCgiRWNob1BlcnNpc3RlbmNlLmNvbm5lY3Rpb24udXNlcm5hbWUiLCAic2EiKTsKICAgICAgICAgICAgbWFwLnB1dCgiRWNob1BlcnNpc3RlbmNlLmNvbm5lY3Rpb24ucGFzc3dvcmQiLCAiIik7CgogICAgICAgICAgICBlbUZhY3RvcnkgPSBQZXJzaXN0ZW5jZS5jcmVhdGVFbnRpdHlNYW5hZ2VyRmFjdG9yeQogICAgICAgICAgICAgICAgICAgICgiRWNob1BlcnNpc3RlbmNlIiwgbWFwKTsKICAgICAgICAgICAgZW0gPSBlbUZhY3RvcnkuY3JlYXRlRW50aXR5TWFuYWdlcigpOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgIGV4LnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICBmYWlsKCJFeGNlcHRpb24gZHVyaW5nIEpQQSBFbnRpdHlNYW5hZ2VyIGluc3RhbnRpYXRpb24iKTsKICAgICAgICB9CiAgICB9CgogICAgcHJvdGVjdGVkIHZvaWQgdGVhckRvd24oKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBzdXBlci50ZWFyRG93bigpOwogICAgICAgIGxvZ2dlci5pbmZvKCJTaHV0dGluZyBkb3duIEhpYmVybmF0ZSBKUEEgbGF5ZXIiKTsKICAgICAgICBpZiAoZW0gIT0gbnVsbCkgewogICAgICAgICAgICBlbS5jbG9zZSgpOwogICAgICAgIH0KICAgICAgICBpZiAoZW1GYWN0b3J5ICE9IG51bGwpIHsKICAgICAgICAgICAgZW1GYWN0b3J5LmNsb3NlKCk7CiAgICAgICAgfQogICAgICAgIGxvZ2dlci5pbmZvKCJTdG9wcGluZyBpbi1tZW1vcnkgSFNRTCBkYXRhYmFzZSIpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNvbm5lY3Rpb24uY3JlYXRlU3RhdGVtZW50KCkuZXhlY3V0ZSgiU0hVVERPV04iKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBleCkgewoKICAgICAgICB9CgogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImNvbm5lY3Rpb24uZHJpdmVyX2NsYXNzIiB2YWx1ZT0ib3JnLmhzcWxkYi5qZGJjRHJpdmVyIi8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHVzZXIuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGlkID0gdXNlci5nZXRJZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgU3RyaW5nIGdldF91c2VyID0gInNlbGVjdCAqIGZyb20gdXplcnMiOwovLwovLyAgICAgICAgICAgIFJlc3VsdFNldCByZXN1bHRTZXQgPSBjb25uZWN0aW9uLnByZXBhcmVTdGF0ZW1lbnQoZ2V0X3VzZXIpLmV4ZWN1dGVRdWVyeSgpOwovLyAgICAgICAgICAgIGludCBudW1iZXJPZkNvbHVtbnMgPSByZXN1bHRTZXQuZ2V0TWV0YURhdGEoKS5nZXRDb2x1bW5Db3VudCgpOwovLyAgICAgICAgICAgIHdoaWxlIChyZXN1bHRTZXQubmV4dCgpKSB7Ci8vICAgICAgICAgICAgICAgIGludCBpID0gMTsKLy8gICAgICAgICAgICAgICAgd2hpbGUgKGkgPCBudW1iZXJPZkNvbHVtbnMpIHsKLy8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHRTZXQuZ2V0U3RyaW5nKGkrKykpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJvcmcuaGliZXJuYXRlLnRyYW5zYWN0aW9uLkpCb3NzVHJhbnNhY3Rpb25NYW5hZ2VyTG9va3VwIi8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS50cmFuc2FjdGlvbi5tYW5hZ2VyX2xvb2t1cF9jbGFzcyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5kaWFsZWN0IiB2YWx1ZT0ib3JnLmhpYmVybmF0ZS5kaWFsZWN0Lk9yYWNsZTlpRGlhbGVjdCIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
