@@ -81,10 +81,10 @@
         <mark key="." line="64" column="47" />
         <mark key="^" line="64" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" timestamp="1482267439719">
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="12" column="54" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" timestamp="1482333227935">
+        <mark key="[" line="28" column="62" />
+        <mark key="]" line="13" column="54" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/pom.xml" timestamp="1482179688582">
         <mark key="'" line="0" column="0" />
@@ -100,9 +100,9 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1482265200470">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1482333354671">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="9" column="63" />
+        <mark key="[" line="6" column="36" />
         <mark key="]" line="9" column="99" />
         <mark key="^" line="19" column="50" />
         <mark key="." line="20" column="0" />
@@ -132,6 +132,9 @@
         <mark key="[" line="7" column="42" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/testing/hsqldb.jar!/META-INF/MANIFEST.MF" timestamp="1482333752401">
+        <mark key="'" line="7" column="67" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/MessageDeliveryDetailsDialog.java" timestamp="1479219761726">
         <mark key="'" line="448" column="4" />
@@ -473,7 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2170" column="95" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build/class/com/mapcommunications/deliveryschedule/DeliveryScheduleServiceBean.class" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleOneTimeInterval.java" />
       <jump line="90" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleOneTimeInterval.java" />
       <jump line="100" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleOneTimeInterval.java" />
@@ -573,6 +575,7 @@
       <jump line="87" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" />
       <jump line="43" column="57" filename="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/java/com/mapcommunications/AppTest.java" />
+      <jump line="7" column="67" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/testing/hsqldb.jar!/META-INF/MANIFEST.MF" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -582,7 +585,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>master</text>
+        <text>cglib</text>
       </register>
       <register name="0" type="4">
         <text>jdbc:hsqldb:mem:echo-persistence-test</text>
@@ -622,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>master</last-search>
+      <last-search>cglib</last-search>
       <last-offset />
-      <last-pattern>master</last-pattern>
+      <last-pattern>cglib</last-pattern>
       <last-replace>AppPer</last-replace>
       <last-substitute>EchoPer</last-substitute>
       <last-dir>1</last-dir>
@@ -632,8 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alignment</entry>
-        <entry>message_sequence</entry>
         <entry>Dispatch type</entry>
         <entry>dispatchType</entry>
         <entry>Dispatch type [</entry>
@@ -652,6 +653,8 @@
         <entry>deliveryType</entry>
         <entry>NONE</entry>
         <entry>master</entry>
+        <entry>org.object</entry>
+        <entry>cglib</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzRW5hYmxlZC9nZXRHcm91cElkL2c=</entry>
