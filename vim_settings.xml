@@ -91,9 +91,10 @@
         <mark key="." line="118" column="51" />
         <mark key="^" line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" timestamp="1482436901382">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="52" column="41" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" timestamp="1482442393095">
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/pom.xml" timestamp="1482349005299">
         <mark key="'" line="0" column="0" />
@@ -435,12 +436,12 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1482183400662">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1482442590200">
         <mark key="'" line="1832" column="36" />
-        <mark key="[" line="3031" column="16" />
-        <mark key="]" line="3031" column="17" />
-        <mark key="." line="3031" column="17" />
-        <mark key="^" line="3031" column="17" />
+        <mark key="[" line="3036" column="44" />
+        <mark key="]" line="3036" column="46" />
+        <mark key="." line="3036" column="46" />
+        <mark key="^" line="3036" column="46" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1481577715765">
         <mark key="'" line="456" column="0" />
@@ -609,55 +610,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>println</text>
+        <text>recordAttachmentAnd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBFY2hvRW50aXR5QXR0YWNobWVudCBhdHRhY2htZW50ID0KICAgICAgICAgICAgICAgIG5ldyBFY2hvRW50aXR5QXR0YWNobWVudEJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAud2l0aEF0dGFjaG1lbnRUeXBlKCJzY2hlZHVsZSIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpOwogICAgICAgIEVjaG9FbnRpdHlBdHRhY2htZW50IHNhdmVkID0gcGVyc2lzdEF0dGFjaG1lbnQoYXR0YWNobWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbl8gPSBlbnRpdHlNYW5hZ2VyXy5nZXRUcmFuc2FjdGlvbigpOwogICAgICAgIHRyYW5zYWN0aW9uXy5iZWdpbigpOwogICAgICAgIGVudGl0eU1hbmFnZXJfLnBlcnNpc3QoYXR0KTsKICAgICAgICB0cmFuc2FjdGlvbl8uY29tbWl0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFY2hvRW50aXR5QXR0YWNobWVudCBzYXZlZCA9IHBlcnNpc3RBdHRhY2htZW50KGF0dGFjaG1lbnRfKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLndpdGhBdHRhY2htZW50VHlwZSgic2NoZWR1bGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGaWVsZHNFcXVhbChhdHRhY2htZW50LCBmb3VuZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3VuZC5zZXRBdHRhY2hlZEJ5TmFtZSgic2RmZ2RmZyIpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBFY2hvRW50aXR5QXR0YWNobWVudCBlZWEgPSBuZXcgRWNob0VudGl0eUF0dGFjaG1lbnQoCiAgICAgICAgICAgICAgICBhdHRhY2htZW50Xy5nZXRFbnRpdHlUeXBlKCksIGF0dGFjaG1lbnRfLmdldEVudGl0eUlkKCksCiAgICAgICAgICAgICAgICBhdHRhY2htZW50Xy5nZXRTZXJ2aWNlSXRlbVR5cGUoKSwKICAgICAgICAgICAgICAgIGF0dGFjaG1lbnRfLmdldFNlcnZpY2VJdGVtTnVtYmVyKCksCiAgICAgICAgICAgICAgICBhdHRhY2htZW50Xy5nZXRBdHRhY2hlZFRpbWVzdGFtcCgpLAogICAgICAgICAgICAgICAgYXR0YWNobWVudF8uZ2V0QXR0YWNoZWRCeU5hbWUoKSwgInNjaGVkdWxlIiwKICAgICAgICAgICAgICAgIGF0dGFjaG1lbnRfLmdldERldGFjaGVkVGltZXN0YW1wKCksCiAgICAgICAgICAgICAgICBhdHRhY2htZW50Xy5nZXREZXRhY2hlZEJ5TmFtZSgpKTsKICAgICAgICBFY2hvRW50aXR5QXR0YWNobWVudCBzYXZlZCA9IHBlcnNpc3RBdHRhY2htZW50KGVlYSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJzY2hlZHVsZSIsIHNhdmVkLmdldEF0dGFjaG1lbnRUeXBlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3VuZC5zZXRBdHRhY2hlZEJ5TmFtZSgic2RmZ2RmZyIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBFY2hvRW50aXR5QXR0YWNobWVudElkIGlkID0gbmV3IEVjaG9FbnRpdHlBdHRhY2htZW50SWQoYXR0YWNobWVudAogICAgICAgICAgICAgICAgLmdldEVudGl0eVR5cGUoKSwgYXR0YWNobWVudC5nZXRFbnRpdHlJZCgpLCBhdHRhY2htZW50CiAgICAgICAgICAgICAgICAuZ2V0U2VydmljZUl0ZW1UeXBlKCksIGF0dGFjaG1lbnQuZ2V0U2VydmljZUl0ZW1OdW1iZXIoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgcGVyc2lzdEF0dGFjaG1lbnQoYXR0YWNobWVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGaWVsZHNFcXVhbChhdHRhY2htZW50LCBzYXZlZCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>println</last-search>
+      <last-search>recordAttachmentAnd</last-search>
       <last-offset />
-      <last-pattern>println</last-pattern>
+      <last-pattern>recordAttachmentAnd</last-pattern>
       <last-replace>AppPer</last-replace>
       <last-substitute>EchoPer</last-substitute>
       <last-dir>1</last-dir>
@@ -665,7 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dispatchType</entry>
         <entry>Dispatch type [</entry>
         <entry>dispatchTypeMap_</entry>
         <entry>ALL_TYPES</entry>
@@ -685,6 +685,7 @@
         <entry>org.object</entry>
         <entry>cglib</entry>
         <entry>println</entry>
+        <entry>recordAttachmentAnd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzRW5hYmxlZC9nZXRHcm91cElkL2c=</entry>
@@ -703,10 +704,10 @@
         <entry encoding="base64">JzwsJz46cy9pc0VuYWJsZWQvZ2V0SWQvZw==</entry>
         <entry>wqa</entry>
         <entry>1445</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0VjaG9QZXIvQXBwUGVyL2c=</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
