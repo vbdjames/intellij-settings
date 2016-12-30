@@ -84,12 +84,13 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" timestamp="1483040353443">
-        <mark key="'" line="65" column="47" />
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="67" column="27" />
-        <mark key="." line="67" column="27" />
-        <mark key="^" line="67" column="27" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" timestamp="1483126912565" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" timestamp="1483127678342">
+        <mark key="'" line="63" column="47" />
+        <mark key="[" line="115" column="43" />
+        <mark key="]" line="115" column="50" />
+        <mark key="^" line="115" column="50" />
+        <mark key="." line="115" column="50" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/pom.xml" timestamp="1482349005299">
         <mark key="'" line="0" column="0" />
@@ -272,8 +273,8 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/testing/create-db.sql" timestamp="1483041022775">
-        <mark key="[" line="11" column="43" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/testing/create-db.sql" timestamp="1483126863530">
+        <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="30" />
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
@@ -610,10 +611,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q09NTUVOVCBPTiBDT0xVTU4gRUNITy5FQ0hPX0VOVElUWV9BVFRBQ0hNRU5ULkFUVEFDSE1FTlRfVFlQRSBJUyAnVHlwZSBvZiBhdHRhY2htZW50IChBVFRBQ0gsIEZPUk1HUk9VUCwgU0NIRURVTEUpLic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>EchoEntityAttachment.</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
@@ -622,34 +623,34 @@
         <text encoding="base64">Q09NTUVOVCBPTiBDT0xVTU4gRUNITy5FQ0hPX0VOVElUWV9BVFRBQ0hNRU5ULkFUVEFDSE1FTlRfVFlQRSBJUyAnVHlwZSBvZiBhdHRhY2htZW50IChBVFRBQ0gsIEZPUk1HUk9VUCwgU0NIRURVTEUpLic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0TGlzdC5nZXQoMCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFY2hvRW50aXR5QXR0YWNobWVudElkIGlkID0gbmV3IEVjaG9FbnRpdHlBdHRhY2htZW50SWQoYXR0YWNobWVudAogICAgICAgICAgICAgICAgLmdldEVudGl0eVR5cGUoKSwgYXR0YWNobWVudC5nZXRFbnRpdHlJZCgpLCBhdHRhY2htZW50CiAgICAgICAgICAgICAgICAuZ2V0U2VydmljZUl0ZW1UeXBlKCksIGF0dGFjaG1lbnQuZ2V0U2VydmljZUl0ZW1OdW1iZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RBdHRhY2htZW50VHlwZSgpIHsKICAgICAgICBFY2hvRW50aXR5QXR0YWNobWVudCBhdHRhY2htZW50ID0KICAgICAgICAgICAgICAgIG5ldyBFY2hvRW50aXR5QXR0YWNobWVudEJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAud2l0aEF0dGFjaG1lbnRUeXBlKEFUVEFDSE1FTlRfVFlQRS5TQ0hFRFVMRSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKEFUVEFDSE1FTlRfVFlQRS5TQ0hFRFVMRSwgYXR0YWNobWVudC5nZXRBdHRhY2htZW50VHlwZSgpKTsKICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IAogCiAKIAogCiAKRA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHh0ZXN0QW5ub3RhdGlvbldpdGhvdXRDb2x1bW4oKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKHJlc3VsdCA6IHJlc3VsdExpc3QpIHsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0TGlzdC5nZXQoMCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDb2x1bW5XaXRob3V0QW5ub3RhdGlvbigpIHsKICAgICAgICAKICAgIH0KICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
