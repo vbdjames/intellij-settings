@@ -84,11 +84,6 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" timestamp="1483038847839">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" timestamp="1483040353443">
         <mark key="'" line="65" column="47" />
         <mark key="[" line="67" column="28" />
@@ -457,6 +452,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_attachment_tables.sql" timestamp="1483125338529">
+        <mark key="]" line="12" column="125" />
+        <mark key="^" line="12" column="125" />
+        <mark key="." line="12" column="125" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ComboBoxElementItem.java" timestamp="1481637831421">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="25" column="54" />
@@ -507,7 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="56" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" />
       <jump line="63" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="13" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/FormAttachEventType.java" />
       <jump line="122" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/FormAttachEventType.java" />
@@ -598,28 +597,29 @@
       <jump line="55" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" />
       <jump line="97" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" />
       <jump line="235" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
       <jump line="47" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
       <jump line="79" column="61" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
       <jump line="88" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
-      <jump line="97" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
       <jump line="98" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
       <jump line="134" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
-      <jump line="135" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
       <jump line="61" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/echoentity/EchoEntityAttachmentTest.java" />
+      <jump line="135" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
+      <jump line="260" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
+      <jump line="97" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0TGlzdC5nZXQoMCkpOwo=</text>
+        <text encoding="base64">Q09NTUVOVCBPTiBDT0xVTU4gRUNITy5FQ0hPX0VOVElUWV9BVFRBQ0hNRU5ULkFUVEFDSE1FTlRfVFlQRSBJUyAnVHlwZSBvZiBhdHRhY2htZW50IChBVFRBQ0gsIEZPUk1HUk9VUCwgU0NIRURVTEUpLic7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>EchoEntityAttachment.</text>
       </register>
       <register name="/" type="4">
-        <text>attachmentType</text>
+        <text>==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeS5zZXRQYXJhbWV0ZXIoMSwgYXR0YWNobWVudC5nZXRFbnRpdHlJZCgpKTsK</text>
+        <text encoding="base64">Q09NTUVOVCBPTiBDT0xVTU4gRUNITy5FQ0hPX0VOVElUWV9BVFRBQ0hNRU5ULkFUVEFDSE1FTlRfVFlQRSBJUyAnVHlwZSBvZiBhdHRhY2htZW50IChBVFRBQ0gsIEZPUk1HUk9VUCwgU0NIRURVTEUpLic7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0TGlzdC5nZXQoMCkpOwo=</text>
@@ -656,9 +656,9 @@
       </register>
     </registers>
     <search>
-      <last-search>attachmentType</last-search>
+      <last-search>==</last-search>
       <last-offset />
-      <last-pattern>attachmentType</last-pattern>
+      <last-pattern>==</last-pattern>
       <last-replace>AppPer</last-replace>
       <last-substitute>EchoPer</last-substitute>
       <last-dir>1</last-dir>
@@ -666,7 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dispatchTypeMap_</entry>
         <entry>ALL_TYPES</entry>
         <entry>recordAttachment</entry>
         <entry>customer_attached_form</entry>
@@ -686,6 +685,7 @@
         <entry>println</entry>
         <entry>recordAttachmentAnd</entry>
         <entry>attachmentType</entry>
+        <entry>==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzRW5hYmxlZC9nZXRHcm91cElkL2c=</entry>
