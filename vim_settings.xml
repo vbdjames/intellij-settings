@@ -264,9 +264,9 @@
         <mark key="^" line="143" column="25" />
         <mark key="." line="143" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" timestamp="1483560845406">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2026" column="58" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" timestamp="1483562290417">
+        <mark key="'" line="1873" column="40" />
+        <mark key="[" line="2292" column="63" />
         <mark key="]" line="2028" column="50" />
         <mark key="." line="2028" column="50" />
         <mark key="^" line="2028" column="50" />
@@ -512,9 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1211" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/specialinstructions/SpecialInstructionsServiceBean.java" />
-      <jump line="1346" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/specialinstructions/SpecialInstructionsServiceBean.java" />
-      <jump line="1499" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/specialinstructions/SpecialInstructionsServiceBean.java" />
       <jump line="1607" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/specialinstructions/SpecialInstructionsServiceBean.java" />
       <jump line="1757" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/specialinstructions/SpecialInstructionsServiceBean.java" />
       <jump line="2134" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/specialinstructions/SpecialInstructionsServiceBean.java" />
@@ -611,7 +608,10 @@
       <jump line="2287" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="1238" column="29" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="2306" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="1071" column="70" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="779" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="1873" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -621,7 +621,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>getManualDispatch</text>
+        <text>MessageDeliveryTypeCode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZXRhaWxzT3BzLmdldEFtZERldGFpbHMoKS5nZXQoMSkKICAgICAgICAgICAgICAgICAgICAgICAgLmdldENvbnRhY3ROYW1lKCkpOwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRldGFpbHNPcHMuZ2V0QW1kRGV0YWlscygpLmdldCgxKQogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0U2VxdWVuY2VOdW1iZXIoKSk7Cg==</text>
@@ -661,9 +661,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getManualDispatch</last-search>
+      <last-search>MessageDeliveryTypeCode</last-search>
       <last-offset />
-      <last-pattern>getManualDispatch</last-pattern>
+      <last-pattern>MessageDeliveryTypeCode</last-pattern>
       <last-replace>AppPer</last-replace>
       <last-substitute>EchoPer</last-substitute>
       <last-dir>1</last-dir>
@@ -671,8 +671,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Oracle</entry>
-        <entry>getCustomFormOracle(</entry>
         <entry>EchoPer</entry>
         <entry>NONE</entry>
         <entry>master</entry>
@@ -691,6 +689,8 @@
         <entry>MessageDeliveryTypeCode.DIS</entry>
         <entry>MessageDeliveryTypeCode.NONE</entry>
         <entry>getManualDispatch</entry>
+        <entry>DIS</entry>
+        <entry>MessageDeliveryTypeCode</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzRW5hYmxlZC9nZXRHcm91cFR5cGUvZw==</entry>
