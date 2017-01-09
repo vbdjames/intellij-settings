@@ -24,11 +24,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/util/PersistenceHelper.java" timestamp="1483996813051">
-        <mark key="[" line="3" column="69" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/util/PersistenceHelper.java" timestamp="1483997781764">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CheckBoxElement.java" timestamp="1481581002084">
         <mark key="'" line="239" column="0" />
@@ -101,9 +101,9 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1483733984982">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="5" column="33" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1483998024608">
+        <mark key="'" line="5" column="37" />
+        <mark key="[" line="97" column="22" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1483560379791">
         <mark key="'" line="875" column="19" />
@@ -164,8 +164,11 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/util/FooTest.java" timestamp="1483993472019">
-        <mark key="[" line="2" column="21" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/util/FooTest.java" timestamp="1483997953069">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/call/TestMessageDeliveryAmdDetails.java" timestamp="1479219928155">
         <mark key="'" line="191" column="28" />
@@ -252,9 +255,9 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/SAVEPOINT/echo/src/test/com/mapcommunications/util/PersistenceHelper.java" timestamp="1483996765985">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="69" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/SAVEPOINT/echo/src/test/com/mapcommunications/util/PersistenceHelper.java" timestamp="1483997719854">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="72" column="17" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/UrlButtonElementParameter.java" timestamp="1481580815712">
         <mark key="'" line="211" column="0" />
@@ -524,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6487" column="51" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1382" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6442" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -624,10 +626,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="25" column="44" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="132" column="3" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachment.java" />
+      <jump line="5" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuamRiYy5kYXRhc291cmNlLmVtYmVkZGVkLkVtYmVkZGVkRGF0YWJhc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGMgPSAoKFNlc3Npb25JbXBsKSBlbnRpdHlNYW5hZ2VyLmdldERlbGVnYXRlKCkpLmNvbm5lY3Rpb24oKTsKICAgICAgICBTdGF0ZW1lbnQgcyA9IGMuY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgU2V0PFN0cmluZz4gdGFibGVzID0gbmV3IEhhc2hTZXQ8U3RyaW5nPigpOwoKICAgICAgICBSZXN1bHRTZXQgcnMgPSBzLmV4ZWN1dGVRdWVyeSgic2VsZWN0IHRhYmxlX25hbWUgZnJvbSAiICsKICAgICAgICAgICAgICAgICJJTkZPUk1BVElPTl9TQ0hFTUEudGFibGVzICIgKwogICAgICAgICAgICAgICAgIndoZXJlIHRhYmxlX3R5cGU9J1RBQkxFJyBhbmQgdGFibGVfc2NoZW1hPSdFQ0hPJyIpOwogICAgICAgIHdoaWxlIChycy5uZXh0KCkpIHsKICAgICAgICAgICAgaWYgKCFycy5nZXRTdHJpbmcoMSkuc3RhcnRzV2l0aCgiRFVBTF8iKSkgewogICAgICAgICAgICAgICAgdGFibGVzLmFkZChycy5nZXRTdHJpbmcoMSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJzLmNsb3NlKCk7CgogICAgICAgIHMuZXhlY3V0ZSgiU0VUIFJFRkVSRU5USUFMX0lOVEVHUklUWSBGQUxTRSIpOwogICAgICAgIGZvciAoU3RyaW5nIHRhYmxlIDogdGFibGVzKSB7CiAgICAgICAgICAgIHMuZXhlY3V0ZVVwZGF0ZSgiREVMRVRFIEZST00gRUNITy4iICsgdGFibGUpOwogICAgICAgIH0KICAgICAgICBzLmV4ZWN1dGUoIlNFVCBSRUZFUkVOVElBTF9JTlRFR1JJVFkgVFJVRSIpOwoKICAgICAgICBzLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -636,7 +639,7 @@
         <text>deliveryType</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuamRiYy5kYXRhc291cmNlLmVtYmVkZGVkLkVtYmVkZGVkRGF0YWJhc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGMgPSAoKFNlc3Npb25JbXBsKSBlbnRpdHlNYW5hZ2VyLmdldERlbGVnYXRlKCkpLmNvbm5lY3Rpb24oKTsKICAgICAgICBTdGF0ZW1lbnQgcyA9IGMuY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgU2V0PFN0cmluZz4gdGFibGVzID0gbmV3IEhhc2hTZXQ8U3RyaW5nPigpOwoKICAgICAgICBSZXN1bHRTZXQgcnMgPSBzLmV4ZWN1dGVRdWVyeSgic2VsZWN0IHRhYmxlX25hbWUgZnJvbSAiICsKICAgICAgICAgICAgICAgICJJTkZPUk1BVElPTl9TQ0hFTUEudGFibGVzICIgKwogICAgICAgICAgICAgICAgIndoZXJlIHRhYmxlX3R5cGU9J1RBQkxFJyBhbmQgdGFibGVfc2NoZW1hPSdFQ0hPJyIpOwogICAgICAgIHdoaWxlIChycy5uZXh0KCkpIHsKICAgICAgICAgICAgaWYgKCFycy5nZXRTdHJpbmcoMSkuc3RhcnRzV2l0aCgiRFVBTF8iKSkgewogICAgICAgICAgICAgICAgdGFibGVzLmFkZChycy5nZXRTdHJpbmcoMSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJzLmNsb3NlKCk7CgogICAgICAgIHMuZXhlY3V0ZSgiU0VUIFJFRkVSRU5USUFMX0lOVEVHUklUWSBGQUxTRSIpOwogICAgICAgIGZvciAoU3RyaW5nIHRhYmxlIDogdGFibGVzKSB7CiAgICAgICAgICAgIHMuZXhlY3V0ZVVwZGF0ZSgiREVMRVRFIEZST00gRUNITy4iICsgdGFibGUpOwogICAgICAgIH0KICAgICAgICBzLmV4ZWN1dGUoIlNFVCBSRUZFUkVOVElBTF9JTlRFR1JJVFkgVFJVRSIpOwoKICAgICAgICBzLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3RpbmciKTsK</text>
