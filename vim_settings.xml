@@ -380,12 +380,12 @@
         <mark key="^" line="42" column="17" />
         <mark key="." line="42" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1484082399259">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1484084995718">
         <mark key="'" line="2466" column="12" />
-        <mark key="[" line="2570" column="28" />
-        <mark key="]" line="2570" column="27" />
-        <mark key="." line="2570" column="27" />
-        <mark key="^" line="2570" column="27" />
+        <mark key="[" line="2607" column="48" />
+        <mark key="]" line="2609" column="42" />
+        <mark key="." line="2609" column="42" />
+        <mark key="^" line="2609" column="42" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1476813084484">
         <mark key="'" line="564" column="36" />
@@ -503,6 +503,9 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" timestamp="1484084896441">
+        <mark key="'" line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/java/com/mapcommunications/PersistenceHelper.java" timestamp="1482354991984">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="58" column="4" />
@@ -546,9 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2087" column="52" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="1873" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="2292" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="2337" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="2646" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="3086" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
@@ -646,58 +646,61 @@
       <jump line="2457" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="2466" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" />
+      <jump line="253" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9uZXRpbWVJbikK</text>
+      <register name="&quot;" type="4">
+        <text>onetime</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>onetime</text>
       </register>
       <register name="/" type="4">
-        <text>getScheduledMessageDelivery</text>
+        <text>noactiv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyB0eXBlXyA9ICJGT08iOwogICAgICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkVGltZXN0YW1wXyA9IG5ldyBEYXRlKCk7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgY3JlYXRlZEJ5TmFtZV8gPSAiZGphbWVzIjsKICAgICAgICBwcml2YXRlIERhdGUgbW9kaWZpZWRUaW1lc3RhbXBfID0gbnVsbDsKICAgICAgICBwcml2YXRlIFN0cmluZyBtb2RpZmllZEJ5TmFtZV8gPSBudWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9uZXRpbWVJbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYGlzcGF0Y2hUeXBlID0gb25ldGltZUludGVydmFsLmdldERpc3BhdGNoVHlwZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGRpc3BhdGNoVHlwZSA9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9uZXRpbWVJbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGluc2VydGVkSWQgPSBmb28uZ2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9vLmdldElkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VHlwZSgpIHsKICAgICAgICByZXR1cm4gdHlwZV87CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBMb25nIGluc2VydGVkSWQgPSBmb28uZ2V0SWQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9vLmdldElkKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlNlcXVlbmNlR2VuZXJhdG9yOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VHlwZSgpIHsKICAgICAgICByZXR1cm4gdHlwZV87CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLklkOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRhYmxlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getScheduledMessageDelivery</last-search>
+      <last-search>noactiv</last-search>
       <last-offset />
-      <last-pattern>getScheduledMessageDelivery</last-pattern>
+      <last-pattern>noactiv</last-pattern>
       <last-replace>AppPer</last-replace>
       <last-substitute>EchoPer</last-substitute>
       <last-dir>1</last-dir>
@@ -723,8 +726,8 @@
         <entry>cutover</entry>
         <entry>getscheduledmessagedelivery</entry>
         <entry>deliveryId</entry>
-        <entry>noactiv</entry>
         <entry>getScheduledMessageDelivery</entry>
+        <entry>noactiv</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1dpZHRoL1Jvdy9n</entry>
