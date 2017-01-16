@@ -380,8 +380,8 @@
         <mark key="^" line="42" column="17" />
         <mark key="." line="42" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1484318983422">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1484584985339">
+        <mark key="'" line="6421" column="33" />
         <mark key="[" line="2607" column="48" />
         <mark key="]" line="2609" column="42" />
         <mark key="." line="2609" column="42" />
@@ -502,7 +502,7 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" timestamp="1484577890986">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/deliveryschedule/DeliveryScheduleDispatchType.java" timestamp="1484584933804">
         <mark key="'" line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/java/com/mapcommunications/PersistenceHelper.java" timestamp="1482354991984">
@@ -548,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3086" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="196" column="29" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="240" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="1060" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
@@ -648,6 +647,7 @@
       <jump line="6486" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="1293" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6421" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -657,7 +657,7 @@
         <text>onetime</text>
       </register>
       <register name="/" type="4">
-        <text>get taken message AMD details</text>
+        <text>getscheduledmessagedelivery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyB0eXBlXyA9ICJGT08iOwogICAgICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkVGltZXN0YW1wXyA9IG5ldyBEYXRlKCk7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgY3JlYXRlZEJ5TmFtZV8gPSAiZGphbWVzIjsKICAgICAgICBwcml2YXRlIERhdGUgbW9kaWZpZWRUaW1lc3RhbXBfID0gbnVsbDsKICAgICAgICBwcml2YXRlIFN0cmluZyBtb2RpZmllZEJ5TmFtZV8gPSBudWxsOwo=</text>
@@ -697,9 +697,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get taken message AMD details</last-search>
+      <last-search>getscheduledmessagedelivery</last-search>
       <last-offset />
-      <last-pattern>get taken message AMD details</last-pattern>
+      <last-pattern>getscheduledmessagedelivery</last-pattern>
       <last-replace>AppPer</last-replace>
       <last-substitute>EchoPer</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getManualDispatchAmd</entry>
         <entry>.NONE</entry>
         <entry>getAmdResult</entry>
         <entry>DIS</entry>
@@ -721,12 +720,13 @@
         <entry>INT</entry>
         <entry>deliveryType</entry>
         <entry>cutover</entry>
-        <entry>getscheduledmessagedelivery</entry>
         <entry>deliveryId</entry>
         <entry>getScheduledMessageDelivery</entry>
         <entry>noactiv</entry>
         <entry>error getting message delivery details</entry>
         <entry>get taken message AMD details</entry>
+        <entry>getscheduledservicedelivery</entry>
+        <entry>getscheduledmessagedelivery</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1dpZHRoL1Jvdy9n</entry>
