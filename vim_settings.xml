@@ -189,8 +189,8 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="106" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1484861111995">
-        <mark key="'" line="90" column="8" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1484862674513">
+        <mark key="'" line="370" column="37" />
         <mark key="[" line="878" column="0" />
         <mark key="]" line="899" column="26" />
         <mark key="." line="85" column="33" />
@@ -201,11 +201,11 @@
         <mark key="]" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormOracleDao.java" timestamp="1484861480986">
-        <mark key="[" line="40" column="30" />
-        <mark key="]" line="39" column="29" />
-        <mark key="." line="39" column="29" />
-        <mark key="^" line="39" column="29" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormOracleDao.java" timestamp="1484862911172">
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="67" column="34" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/OracleCustomFormDao.java" timestamp="1476194220659">
         <mark key="'" line="24" column="8" />
@@ -548,15 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2295" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="2296" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="2340" column="35" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="2648" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="2649" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="2650" column="35" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="3087" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="3088" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
-      <jump line="3089" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="600" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="601" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="602" column="35" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
@@ -648,58 +639,67 @@
       <jump line="876" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="83" column="29" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="90" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="43" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="70" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="82" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="114" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="132" column="69" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="138" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="370" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPLWR3ajogZXRjLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBwcmVmZXJyZWRXaWR0aCA9IDExMTA7CiAgICAgICAgcHJpdmF0ZSBpbnQgcHJlZmVycmVkSGVpZ2h0ID0gMTYyMDsKICAgICAgICBwcml2YXRlIGludCBncmlkQ2VsbFdpZHRoID0gMzA7CiAgICAgICAgcHJpdmF0ZSBpbnQgZ3JpZENlbGxIZWlnaHQgPSAzMDsK</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>CustomFormOracle</text>
+        <text>formClass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGZvcm1UeXBlOwogICAgcHJpdmF0ZSBTdHJpbmcgZm9ybUNsYXNzOwogICAgcHJpdmF0ZSBzaG9ydCByZXZpc2lvbjsKICAgIHByaXZhdGUgaW50IHByZWZlcnJlZFdpZHRoOwogICAgcHJpdmF0ZSBpbnQgcHJlZmVycmVkSGVpZ2h0OwogICAgcHJpdmF0ZSBpbnQgZ3JpZENlbGxXaWR0aDsKICAgIHByaXZhdGUgaW50IGdyaWRDZWxsSGVpZ2h0OwogICAgcHJpdmF0ZSBTdHJpbmcgZGVmYXVsdEl0ZW1TZXBhcmF0b3I7CiAgICBwcml2YXRlIFN0cmluZyBkZWZhdWx0TWVzc2FnZVRhZ1NlcGFyYXRvcjsKICAgIHByaXZhdGUgU3RyaW5nIGRlZmF1bHRUZXh0VHJhbnNmb3JtOwogICAgcHJpdmF0ZSBib29sZWFuIGZvcm1hdEZvckNzdjsKICAgIHByaXZhdGUgU3RyaW5nIGNzdlByZWZpeDsKICAgIHByaXZhdGUgYm9vbGVhbiBhbWRDb250cm9sU2VsZWN0YWJsZTsKICAgIHByaXZhdGUgYm9vbGVhbiB2YWxpZDsKICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkVGltZXN0YW1wOwogICAgcHJpdmF0ZSBTdHJpbmcgY3JlYXRlZEJ5TmFtZTsKICAgIHByaXZhdGUgRGF0ZSBtb2RpZmllZFRpbWVzdGFtcDsKICAgIHByaXZhdGUgU3RyaW5nIG1vZGlmaWVkQnlOYW1lOwogICAgcHJpdmF0ZSBTZXQ8RWxlbWVudD4gZWxlbWVudHM7CiAgICBwcml2YXRlIFNldDxPbkNhbGxEaXNwYXRjaENvbWJvQm94RWxlbWVudD4gb25DYWxsRGlzcGF0Y2hDb21ib0JveEVsZW1lbnRzXzsKICAgIHByaXZhdGUgU2V0PFRhYmxlRWxlbWVudD4gd2hvc09uQ2FsbFRhYmxlRWxlbWVudHNfOwogICAgcHJpdmF0ZSBib29sZWFuIGxlZ2FjeTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPLWR3ajogZXRjLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBwcmVmZXJyZWRXaWR0aCA9IDExMTA7CiAgICAgICAgcHJpdmF0ZSBpbnQgcHJlZmVycmVkSGVpZ2h0ID0gMTYyMDsKICAgICAgICBwcml2YXRlIGludCBncmlkQ2VsbFdpZHRoID0gMzA7CiAgICAgICAgcHJpdmF0ZSBpbnQgZ3JpZENlbGxIZWlnaHQgPSAzMDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRW50aXR5VHJhbnNhY3Rpb24gdHJhbnNhY3Rpb25fOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGltZW5zaW9uIHByZWZlcnJlZFNpemUgPQogICAgICAgICAgICAgICAgICAgIG5ldyBEaW1lbnNpb24ocHJlZmVycmVkV2lkdGgsIHByZWZlcnJlZEhlaWdodCk7CiAgICAgICAgICAgIERpbWVuc2lvbiBncmlkQ2VsbFNpemUgPQogICAgICAgICAgICAgICAgICAgIG5ldyBEaW1lbnNpb24oZ3JpZENlbGxXaWR0aCwgZ3JpZENlbGxIZWlnaHQpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPLWR3ajogZXRjLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIENvcHkgSGliZXJuYXRlIGNvbmZpZyBmaWxlcyB0byBidWlsZCBkaXJlY3RvcnkuIC0tPgogICAgICAgIDxjb3B5IHRvZGlyPSIke2Vhci5idWlsZC5kaXJ9LyR7bWV0YS1pbmYuZGlyfSIKICAgICAgICAgICAgICBwcmVzZXJ2ZWxhc3Rtb2RpZmllZD0idHJ1ZSIgb3ZlcndyaXRlPSJ0cnVlIj4KICAgICAgICAgICAgPGZpbGVzZXQgZGlyPSIke2Vhci5NRVRBLUlORi5kaXJ9Ij4KICAgICAgICAgICAgICAgIDxpbmNsdWRlIG5hbWU9IioqLyouY2ZnLnhtbCIvPgogICAgICAgICAgICA8L2ZpbGVzZXQ+CiAgICAgICAgPC9jb3B5Pgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRW50aXR5VHJhbnNhY3Rpb24gdHJhbnNhY3Rpb25fOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoIkVudGVyaW5nIGdldEN1c3RvbUZvcm1PcmFjbGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIENvcHkgSGliZXJuYXRlIGNvbmZpZyBmaWxlcyB0byBidWlsZCBkaXJlY3RvcnkuIC0tPgogICAgICAgIDxjb3B5IHRvZGlyPSIke2Vhci5idWlsZC5kaXJ9LyR7bWV0YS1pbmYuZGlyfSIKICAgICAgICAgICAgICBwcmVzZXJ2ZWxhc3Rtb2RpZmllZD0idHJ1ZSIgb3ZlcndyaXRlPSJ0cnVlIj4KICAgICAgICAgICAgPGZpbGVzZXQgZGlyPSIke2Vhci5NRVRBLUlORi5kaXJ9Ij4KICAgICAgICAgICAgICAgIDxpbmNsdWRlIG5hbWU9IioqLyouY2ZnLnhtbCIvPgogICAgICAgICAgICA8L2ZpbGVzZXQ+CiAgICAgICAgPC9jb3B5Pgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGN1c3RvbUZvcm0gPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoIkVudGVyaW5nIGdldEN1c3RvbUZvcm1PcmFjbGUiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGN1c3RvbUZvcm07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>CustomFormOracle</last-search>
+      <last-search>formClass</last-search>
       <last-offset />
-      <last-pattern>CustomFormOracle</last-pattern>
+      <last-pattern>formClass</last-pattern>
       <last-replace>AppPer</last-replace>
       <last-substitute>EchoPer</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delivery_type</entry>
         <entry>deliveryType_</entry>
         <entry>591</entry>
         <entry>INT</entry>
@@ -727,6 +726,7 @@
         <entry>Oracle</entry>
         <entry>saveCustomFormOracle</entry>
         <entry>CustomFormOracle</entry>
+        <entry>formClass</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1dpZHRoL0NvbHVtbi9n</entry>
