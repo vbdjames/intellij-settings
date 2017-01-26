@@ -34,8 +34,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1485463472888">
-        <mark key="[" line="16" column="24" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1485469183778">
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/Dao.java" timestamp="1485378681597">
         <mark key="[" line="2" column="22" />
@@ -442,12 +444,18 @@
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" timestamp="1485465722825">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="190" column="71" />
-        <mark key="]" line="416" column="71" />
-        <mark key="." line="416" column="71" />
-        <mark key="^" line="416" column="71" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" timestamp="1485468033760">
+        <mark key="'" line="190" column="26" />
+        <mark key="[" line="191" column="59" />
+        <mark key="]" line="191" column="60" />
+        <mark key="." line="191" column="60" />
+        <mark key="^" line="191" column="60" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1485468886373">
+        <mark key="[" line="2828" column="53" />
+        <mark key="]" line="2828" column="52" />
+        <mark key="." line="2828" column="52" />
+        <mark key="^" line="2828" column="52" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/resources/app.sql" timestamp="1482349580446">
         <mark key="[" line="6" column="38" />
@@ -602,19 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="673" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="687" column="15" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="1298" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2133" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="146" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="48" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2798" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2778" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="26" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="39" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="40" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="123" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="152" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="2799" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="8122" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="5856" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -669,13 +664,10 @@
       <jump line="720" column="66" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="723" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="724" column="53" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="732" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="734" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="751" column="66" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="753" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="756" column="53" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="764" column="63" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="766" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="767" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="770" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="771" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -684,76 +676,92 @@
       <jump line="784" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1245" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1479" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1530" column="66" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1557" column="66" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1593" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1638" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1689" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1724" column="73" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1810" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1811" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1812" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1825" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1870" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1871" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1878" column="55" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1884" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1885" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1886" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1898" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="728" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="732" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="734" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="766" column="66" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="792" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1257" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1480" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1530" column="66" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1557" column="66" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1593" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1638" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1689" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1724" column="73" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1878" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1883" column="52" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1885" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1892" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1899" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1963" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="1964" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="2191" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="2406" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="2407" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="190" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb247Cgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIllPRExFLUFMTENBTEwgVEVNUC9TQ1JJUFQiLGZvcm0uZ2V0VGl0bGUoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDEsIGZvcm0uZ2V0RWxlbWVudHMoKS5zaXplKCkpOwogICAgICAgIGZvcihFbGVtZW50IGUgOiBmb3JtLmdldEVsZW1lbnRzKCkpIHsKICAgICAgICAgICAgTGFiZWxFbGVtZW50IGxlID0gKExhYmVsRWxlbWVudCkgZTsKICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKCJDYWxsZXIncyBOYW1lIiwgbGUuZ2V0VGV4dCgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>CustomForm\.</text>
+        <text>:193</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlKExvbmcgaWQpCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RHZXRDdXN0b21Gb3JtT3JhY2xlU2ltcGxlKCkgdGhyb3dzIE5vdFBlcmZvcm1lZEV4Y2VwdGlvbiwKICAgICAgICAgICAgTm90Rm91bmRFeGNlcHRpb24sIFVuaGFuZGxlZEV4Y2VwdGlvbiB7CiAgICAgICAgTG9uZyBpZCA9IExvbmcudmFsdWVPZigyMDAwNzU1Mik7CiAgICAgICAgQ3VzdG9tRm9ybSBmb3JtID0gYWRtaW5TZXJ2aWNlXy5nZXRDdXN0b21Gb3JtT3JhY2xlKGlkKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIllPRExFLUFMTENBTEwgVEVNUC9TQ1JJUFQiLGZvcm0uZ2V0VGl0bGUoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDEsIGZvcm0uZ2V0RWxlbWVudHMoKS5zaXplKCkpOwogICAgICAgIGZvcihFbGVtZW50IGUgOiBmb3JtLmdldEVsZW1lbnRzKCkpIHsKICAgICAgICAgICAgTGFiZWxFbGVtZW50IGxlID0gKExhYmVsRWxlbWVudCkgZTsKICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKCJDYWxsZXIncyBOYW1lIiwgbGUuZ2V0VGV4dCgpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb247Cgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIllPRExFLUFMTENBTEwgVEVNUC9TQ1JJUFQiLGZvcm0uZ2V0VGl0bGUoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDEsIGZvcm0uZ2V0RWxlbWVudHMoKS5zaXplKCkpOwogICAgICAgIGZvcihFbGVtZW50IGUgOiBmb3JtLmdldEVsZW1lbnRzKCkpIHsKICAgICAgICAgICAgTGFiZWxFbGVtZW50IGxlID0gKExhYmVsRWxlbWVudCkgZTsKICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKCJDYWxsZXIncyBOYW1lIiwgbGUuZ2V0VGV4dCgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLAogICAgICAgICAgICBVbmhhbmRsZWRFeGNlcHRpb24gewogICAgICAgIHJldHVybiB0aGlzLmN1c3RvbUZvcm1TZXJ2aWNlTG9jYWxfLmdldEN1c3RvbUZvcm1PcmFjbGUoaWQpOwogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHZvaWQgdGVzdEdldEN1c3RvbUZvcm1PcmFjbGVEYW8oKSB0aHJvd3MgTm90UGVyZm9ybWVkRXhjZXB0aW9uLAovLyAgICAgICAgICAgIE5vdEZvdW5kRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24gewovLyAgICAgICAgTG9uZyBpZCA9IExvbmcudmFsdWVPZigyMDAwNzU1Mik7Ci8vICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBhZG1pblNlcnZpY2VfLmdldEN1c3RvbUZvcm1PcmFjbGVEYW8oaWQpOwovLyAgICAgICAgYXNzZXJ0RXF1YWxzKCJZT0RMRS1BTExDQUxMIFRFTVAvU0NSSVBUIixmb3JtLmdldFRpdGxlKCkpOwovLyAgICAgICAgYXNzZXJ0RXF1YWxzKDEsIGZvcm0uZ2V0RWxlbWVudHMoKS5zaXplKCkpOwovLyAgICAgICAgZm9yKEVsZW1lbnQgZSA6IGZvcm0uZ2V0RWxlbWVudHMoKSkgewovLyAgICAgICAgICAgIExhYmVsRWxlbWVudCBsZSA9IChMYWJlbEVsZW1lbnQpIGU7Ci8vICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKCJDYWxsZXIncyBOYW1lIiwgbGUuZ2V0VGV4dCgpKTsKLy8gICAgICAgIH0KLy8KLy8gICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24sCiAgICAgICAgICAgIFJlbW90ZUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbiA9IEhpYmVybmF0ZVV0aWwuZ2V0U2Vzc2lvbkZhY3RvcnlPcmFjbGUoKS5kZG9wZW5TZXNzaW9uKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3QgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwKICAgICAgICAgICAgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24gewogICAgICAgIEN1c3RvbUZvcm0gY3VzdG9tRm9ybSA9IG51bGw7CiAgICAgICAgQWRtaW5TZXJ2aWNlIHJlZiA9IG51bGw7CiAgICAgICAgaW50IGF0dGVtcHRDb3VudCA9IDA7CiAgICAgICAgYm9vbGVhbiByZXRyeSA9IHRydWU7CgogICAgICAgIExPR0dFUi5pbmZvKCJFbnRlcmluZyBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvIik7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHdoaWxlKHJldHJ5KSB7CiAgICAgICAgICAgICAgICArK2F0dGVtcHRDb3VudDsKICAgICAgICAgICAgICAgIExPR0dFUi5maW5lKCJBdHRlbXB0ICIgKyBJbnRlZ2VyLnRvU3RyaW5nKGF0dGVtcHRDb3VudCkpOwoKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmZpbmUoIkdldHRpbmcgYWRtaW5TZXJ2aWNlUmVmIik7CiAgICAgICAgICAgICAgICAgICAgcmVmID0gdGhpcy5hZG1pblNlcnZpY2VSZWYuZ2V0UmVmKCk7CiAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmZpbmUoIkludm9raW5nIGdldEN1c3RvbUZvcm1PcmFjbGVEYW8iKTsKICAgICAgICAgICAgICAgICAgICBjdXN0b21Gb3JtID0gcmVmLmdldEN1c3RvbUZvcm1PcmFjbGVEYW8oaWQpOwogICAgICAgICAgICAgICAgICAgIExPR0dFUi5maW5lKCJDb21wbGV0ZWQgZ2V0Q3VzdG9tRm9ybU9yYWNsZURhbyIpOwogICAgICAgICAgICAgICAgICAgIHJldHJ5ID0gZmFsc2U7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaChqYXZhLmxhbmcuRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICByZXRyeSA9IGF0dGVtcHRDb3VudCA8IG1heEF0dGVtcHRDb3VudAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgdGhpcy5yZXN0b3JlQWRtaW5TZXJ2aWNlUmVmKGUpOwogICAgICAgICAgICAgICAgICAgIGlmICghcmV0cnkpIHRoaXMuaGFuZGxlUmVtb3RlRXhjZXB0aW9uKGUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIC8vIENhdGNoIGFuZCByZXRocm93IGFuIGV4cGVjdGVkIGV4Y2VwdGlvbiwgYW5kIHJldGhyb3cgYW4gdW5leHBlY3RlZAogICAgICAgIC8vIGV4Y2VwdGlvbiBhcyBhbiBVbmhhbmRsZWRFeGNlcHRpb24uCiAgICAgICAgY2F0Y2goY29tLm1hcGNvbW11bmljYXRpb25zLmxhbmcuTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyhlKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2goY29tLm1hcGNvbW11bmljYXRpb25zLmxhbmcuTm90UGVyZm9ybWVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgdGhyb3coZSk7CiAgICAgICAgfQogICAgICAgIGNhdGNoKGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLlVuaGFuZGxlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93KGUpOwogICAgICAgIH0KICAgICAgICBjYXRjaChqYXZhLmxhbmcuVGhyb3dhYmxlIHQpIHsKICAgICAgICAgICAgdGhyb3cobmV3IFVuaGFuZGxlZEV4Y2VwdGlvbih0KSk7CiAgICAgICAgfQoKICAgICAgICBMT0dHRVIuaW5mbygiTGVhdmluZyBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvIik7CgogICAgICAgIHJldHVybiBjdXN0b21Gb3JtOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb247Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24sCiAgICAgICAgICAgIFJlbW90ZUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLAogICAgICAgICAgICBVbmhhbmRsZWRFeGNlcHRpb24gewogICAgICAgIHJldHVybiB0aGlzLmN1c3RvbUZvcm1TZXJ2aWNlTG9jYWxfLmdldEN1c3RvbUZvcm1PcmFjbGUoaWQpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGN1c3RvbUZvcm07Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24sCiAgICAgICAgICAgIFJlbW90ZUV4Y2VwdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHguY29tbWl0KCk7CiAgICAgICAgICAgIHJldHVybiBjdXN0b21Gb3JtOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3QgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwKICAgICAgICAgICAgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24gewogICAgICAgIEN1c3RvbUZvcm0gY3VzdG9tRm9ybSA9IG51bGw7CiAgICAgICAgQWRtaW5TZXJ2aWNlIHJlZiA9IG51bGw7CiAgICAgICAgaW50IGF0dGVtcHRDb3VudCA9IDA7CiAgICAgICAgYm9vbGVhbiByZXRyeSA9IHRydWU7CgogICAgICAgIExPR0dFUi5pbmZvKCJFbnRlcmluZyBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvIik7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHdoaWxlKHJldHJ5KSB7CiAgICAgICAgICAgICAgICArK2F0dGVtcHRDb3VudDsKICAgICAgICAgICAgICAgIExPR0dFUi5maW5lKCJBdHRlbXB0ICIgKyBJbnRlZ2VyLnRvU3RyaW5nKGF0dGVtcHRDb3VudCkpOwoKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmZpbmUoIkdldHRpbmcgYWRtaW5TZXJ2aWNlUmVmIik7CiAgICAgICAgICAgICAgICAgICAgcmVmID0gdGhpcy5hZG1pblNlcnZpY2VSZWYuZ2V0UmVmKCk7CiAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmZpbmUoIkludm9raW5nIGdldEN1c3RvbUZvcm1PcmFjbGVEYW8iKTsKICAgICAgICAgICAgICAgICAgICBjdXN0b21Gb3JtID0gcmVmLmdldEN1c3RvbUZvcm1PcmFjbGVEYW8oaWQpOwogICAgICAgICAgICAgICAgICAgIExPR0dFUi5maW5lKCJDb21wbGV0ZWQgZ2V0Q3VzdG9tRm9ybU9yYWNsZURhbyIpOwogICAgICAgICAgICAgICAgICAgIHJldHJ5ID0gZmFsc2U7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaChqYXZhLmxhbmcuRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICByZXRyeSA9IGF0dGVtcHRDb3VudCA8IG1heEF0dGVtcHRDb3VudAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgdGhpcy5yZXN0b3JlQWRtaW5TZXJ2aWNlUmVmKGUpOwogICAgICAgICAgICAgICAgICAgIGlmICghcmV0cnkpIHRoaXMuaGFuZGxlUmVtb3RlRXhjZXB0aW9uKGUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIC8vIENhdGNoIGFuZCByZXRocm93IGFuIGV4cGVjdGVkIGV4Y2VwdGlvbiwgYW5kIHJldGhyb3cgYW4gdW5leHBlY3RlZAogICAgICAgIC8vIGV4Y2VwdGlvbiBhcyBhbiBVbmhhbmRsZWRFeGNlcHRpb24uCiAgICAgICAgY2F0Y2goY29tLm1hcGNvbW11bmljYXRpb25zLmxhbmcuTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyhlKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2goY29tLm1hcGNvbW11bmljYXRpb25zLmxhbmcuTm90UGVyZm9ybWVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgdGhyb3coZSk7CiAgICAgICAgfQogICAgICAgIGNhdGNoKGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLlVuaGFuZGxlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93KGUpOwogICAgICAgIH0KICAgICAgICBjYXRjaChqYXZhLmxhbmcuVGhyb3dhYmxlIHQpIHsKICAgICAgICAgICAgdGhyb3cobmV3IFVuaGFuZGxlZEV4Y2VwdGlvbih0KSk7CiAgICAgICAgfQoKICAgICAgICBMT0dHRVIuaW5mbygiTGVhdmluZyBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvIik7CgogICAgICAgIHJldHVybiBjdXN0b21Gb3JtOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5mb3JtLkN1c3RvbUZvcm07Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBnZXRDdXN0b21Gb3JtT3JhY2xlRGFvKExvbmcgaWQpCiAgICAgICAgICAgIHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiwgTm90UGVyZm9ybWVkRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24sCiAgICAgICAgICAgIFJlbW90ZUV4Y2VwdGlvbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gSGliZXJuYXRlVXRpbC5nZXRTZXNzaW9uRmFjdG9yeSgpLm9wZW5TZXNzaW9uKCk7CiAgICAgICAgCgogICAgICAgIEN1c3RvbUZvcm0gZm9ybSA9IGRhby5maW5kQnlJZChpZCk7CiAgICAgICAgcmV0dXJuIGZvcm07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGN1c3RvbUZvcm07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>CustomForm\.</last-search>
+      <last-search>:193</last-search>
       <last-offset />
-      <last-pattern>CustomForm\.</last-pattern>
+      <last-pattern>:193</last-pattern>
       <last-replace>AppPer</last-replace>
       <last-substitute>EchoPer</last-substitute>
       <last-dir>1</last-dir>
@@ -761,8 +769,6 @@
     </search>
     <history>
       <history-search>
-        <entry>formClass</entry>
-        <entry>elements</entry>
         <entry>hibernateSession</entry>
         <entry>oracle.cfg</entry>
         <entry>getCustomFormOracle</entry>
@@ -778,12 +784,13 @@
         <entry>Hibernate</entry>
         <entry>Oracle</entry>
         <entry>dao</entry>
-        <entry>form</entry>
         <entry>CustomForm.</entry>
         <entry>CustomForm\.</entry>
+        <entry>form</entry>
+        <entry>dbh</entry>
+        <entry>:193</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1dpZHRoL0NvbHVtbi9n</entry>
         <entry encoding="base64">JzwsJz5zL1dpZHRoL0hlaWdodC9n</entry>
         <entry encoding="base64">JzwsJz46cy9pc0VuYWJsZS9nZXRUZXh0L2c=</entry>
         <entry encoding="base64">JzwsJz46cy9pc0VuYWJsZS9nZXRTdHlsZS9n</entry>
@@ -802,6 +809,7 @@
         <entry>591</entry>
         <entry>911</entry>
         <entry>4109</entry>
+        <entry>193</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
