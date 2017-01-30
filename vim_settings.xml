@@ -421,11 +421,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormOracleDao.java" timestamp="1485812332175">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="16" />
-        <mark key="." line="25" column="16" />
-        <mark key="^" line="108" column="22" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormOracleDao.java" timestamp="1485814894615">
+        <mark key="'" line="76" column="31" />
+        <mark key="[" line="173" column="63" />
+        <mark key="]" line="174" column="71" />
+        <mark key="." line="174" column="71" />
+        <mark key="^" line="174" column="71" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1485802981096">
         <mark key="'" line="82" column="19" />
@@ -603,8 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1899" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="1963" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1964" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="2191" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="2406" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -703,13 +702,15 @@
       <jump line="57" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormOracleDao.java" />
       <jump line="77" column="9" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/jboss/server/lib/hibernate3.jar!/org/hibernate/Session.class" />
       <jump line="2827" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="47" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormOracleDao.java" />
+      <jump line="74" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormOracleDao.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>FORM_EDITABLE_ELEMENT</text>
@@ -718,34 +719,34 @@
         <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvbiB0cmFuc2FjdGlvbiA9IHNlc3Npb25fLmdldFRyYW5zYWN0aW9uKCk7CiAgICAgICAgdHJhbnNhY3Rpb24uYmVnaW4oKTsKICAgICAgICBkYW8uc2F2ZShmb3JtKTsKICAgICAgICB0cmFuc2FjdGlvbi5jb21taXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyYW5zYWN0aW9uID0gc2Vzc2lvbl8uZ2V0VHJhbnNhY3Rpb24oKTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYW8uc2F2ZShmb3JtKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5kYW8uRGFvOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkVudGl0eVRyYW5zYWN0aW9uOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRyYW5zYWN0aW9uID0gc2Vzc2lvbl8uZ2V0VHJhbnNhY3Rpb24oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5kYW8uQ3VzdG9tRm9ybURhbzsK</text>
+        <text encoding="base64">ICAgICAgICBkYW8uc2F2ZShmb3JtKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkVudGl0eVRyYW5zYWN0aW9uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvLyBjcmVhdGUgYSBDdXN0b21Gb3JtIGZpeHR1cmUKICAgIC8vIHNhdmUgdGhlIGZvcm0gdG8gSDIgc3RhbmRpbmcgaW4gZm9yIE9yYWNsZQogICAgLy8gdmVyaWZ5IHdlIGdldCBhbiBpZF8gYmFjawogICAgLy8gZG8gYSBjbGVhbiBxdWVyeSBhbmQgdmVyaWZ5IGl0IGV4aXN0cyBpbiBIMgoKICAgIC8vIGluc2VydCBhIGN1c3RvbSBmb3JtIHRoYXQgYWxyZWFkeSBoYXMgYW4gSUQKICAgIC8vIHVwZGF0ZSBhIGN1c3RvbSBmb3JtIHRoYXQgYWxyZWFkeSBleGlzdHMKICAgIC8vIGluc2VydCBhIG5ldyBjdXN0b20gZm9ybSB0aGF0IGhhcyBubyBpZF8KCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5kYW8uQ3VzdG9tRm9ybURhbzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8KLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">CiAgICAvLyBjcmVhdGUgYSBDdXN0b21Gb3JtIGZpeHR1cmUKICAgIC8vIHNhdmUgdGhlIGZvcm0gdG8gSDIgc3RhbmRpbmcgaW4gZm9yIE9yYWNsZQogICAgLy8gdmVyaWZ5IHdlIGdldCBhbiBpZF8gYmFjawogICAgLy8gZG8gYSBjbGVhbiBxdWVyeSBhbmQgdmVyaWZ5IGl0IGV4aXN0cyBpbiBIMgoKICAgIC8vIGluc2VydCBhIGN1c3RvbSBmb3JtIHRoYXQgYWxyZWFkeSBoYXMgYW4gSUQKICAgIC8vIHVwZGF0ZSBhIGN1c3RvbSBmb3JtIHRoYXQgYWxyZWFkeSBleGlzdHMKICAgIC8vIGluc2VydCBhIG5ldyBjdXN0b20gZm9ybSB0aGF0IGhhcyBubyBpZF8KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHZvaWQgdGVzdEluc2VydFdpdGhJZCgpIHsKLy8gICAgICAgIExvbmcgZm9ybUlkID0gMTIzNDU2TDsKLy8gICAgICAgIEN1c3RvbUZvcm0gZm9ybSA9IG5ldyBDdXN0b21Gb3JtQnVpbGRlcigpCi8vICAgICAgICAgICAgICAgIC53aXRoSWQoZm9ybUlkKQovLyAgICAgICAgICAgICAgICAuYnVpbGQoKTsKLy8KLy8gICAgICAgIEVudGl0eVRyYW5zYWN0aW9uIHRyYW5zYWN0aW9uID0gbWFuYWdlcl8uZ2V0VHJhbnNhY3Rpb24oKTsKLy8gICAgICAgIHRyYW5zYWN0aW9uLmJlZ2luKCk7Ci8vICAgICAgICBtYW5hZ2VyXy5wZXJzaXN0KGZvcm0pOwovLyAgICAgICAgdHJhbnNhY3Rpb24uY29tbWl0KCk7Ci8vICAgICAgICBtYW5hZ2VyXy5jbGVhcigpOwovLwovLyAgICAgICAgQ3VzdG9tRm9ybSBmb3VuZCA9IChDdXN0b21Gb3JtKSBtYW5hZ2VyXy5jcmVhdGVRdWVyeSgKLy8gICAgICAgICAgICAgICAgInNlbGVjdCBmIGZyb20gQ3VzdG9tRm9ybSB3aGVyZSBmLmlkID0gOmlkIikKLy8gICAgICAgICAgICAgICAgLnNldFBhcmFtZXRlcigiaWQiLCBmb3JtSWQpCi8vICAgICAgICAgICAgICAgIC5nZXRTaW5nbGVSZXN1bHQoKTsKLy8KLy8gICAgICAgIGFzc2VydEVxdWFscyhmb3JtLmdldElkKCksIGZvdW5kLmdldElkKCkpOwovLwovLyAgICB9Cg==</text>
+        <text encoding="base64">Ly8KLy8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
