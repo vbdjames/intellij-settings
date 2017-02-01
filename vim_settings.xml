@@ -171,11 +171,11 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/AbstractDao.java" timestamp="1485983130042">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/AbstractDao.java" timestamp="1485988329438">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="45" />
+        <mark key="^" line="34" column="45" />
+        <mark key="." line="34" column="45" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" timestamp="1479220268234">
         <mark key="'" line="171" column="7" />
@@ -377,11 +377,11 @@
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1483560379791">
         <mark key="'" line="875" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1485984645939">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1485988064485">
         <mark key="[" line="10" column="61" />
-        <mark key="]" line="55" column="15" />
-        <mark key="." line="55" column="15" />
-        <mark key="^" line="55" column="15" />
+        <mark key="]" line="97" column="61" />
+        <mark key="." line="97" column="61" />
+        <mark key="^" line="97" column="61" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/AbstractDao.java" timestamp="1485981947611">
         <mark key="[" line="33" column="0" />
@@ -469,12 +469,12 @@
         <mark key="." line="191" column="60" />
         <mark key="^" line="191" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1485986635428">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1485987687726">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10458" column="33" />
-        <mark key="]" line="10458" column="28" />
-        <mark key="." line="10458" column="28" />
-        <mark key="^" line="10458" column="28" />
+        <mark key="[" line="14916" column="66" />
+        <mark key="]" line="14916" column="62" />
+        <mark key="." line="14916" column="62" />
+        <mark key="^" line="14916" column="62" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/resources/app.sql" timestamp="1482349580446">
         <mark key="[" line="6" column="38" />
@@ -727,47 +727,47 @@
       <jump line="744" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/build.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgQ3VzdG9tRm9ybSBmaW5kQnlJZChMb25nIGFMb25nKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBzZXRFbnRpdHlNYW5hZ2VyKEVudGl0eU1hbmFnZXIgZW50aXR5TWFuYWdlcikgewoKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBDdXN0b21Gb3JtIHNhdmUoQ3VzdG9tRm9ybSBlbnRpdHkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>| UnhandledException exception</text>
       </register>
       <register name="-" type="4">
-        <text>Logger.getLogger(this.getClass().getName());</text>
+        <text>| UnhandledException exception</text>
       </register>
       <register name="/" type="4">
         <text>customform</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8tZHdqOiBkZWZpbmUgYW55IGN1c3RvbSBtZXRob2RzIGhlcmUK</text>
+        <text encoding="base64">ICAgIAljYXRjaChOb3RQZXJmb3JtZWRFeGNlcHRpb24gfCBVbmhhbmRsZWRFeGNlcHRpb24gZXhjZXB0aW9uKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgQ3VzdG9tRm9ybSBmaW5kQnlJZChMb25nIGFMb25nKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBzZXRFbnRpdHlNYW5hZ2VyKEVudGl0eU1hbmFnZXIgZW50aXR5TWFuYWdlcikgewoKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBDdXN0b21Gb3JtIHNhdmUoQ3VzdG9tRm9ybSBlbnRpdHkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAkJLy8gVE9ETyBDaGFuZ2UgdG8gSlBBIHF1ZXJ5IHdoZW4gQ3VzdG9tRm9ybSBjbGFzcyBzdXBwb3J0cy4KLy8gICAgCQlRdWVyeSBxdWVyeSA9IGVudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoInNlbGVjdCAqICIgKwovLyAgICAJCSAgICAiZnJvbSBjdXN0b21fZm9ybSB3aGVyZSBpZCA9ID8iKTsKLy8gICAgCQlxdWVyeS5zZXRQYXJhbWV0ZXIoMSwgZm9ybUlkKTsKLy8KLy8gICAgCQlMaXN0PE9iamVjdFtdPiBmb3JtID0gcXVlcnkuZ2V0UmVzdWx0TGlzdCgpOwovLwovLyAgICAJCWlmIChmb3JtLmlzRW1wdHkoKSkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8tZHdqOiBkZWZpbmUgYW55IGN1c3RvbSBtZXRob2RzIGhlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oZm9ybSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgQ3VzdG9tRm9ybSBmaW5kQnlJZChMb25nIGFMb25nKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBzZXRFbnRpdHlNYW5hZ2VyKEVudGl0eU1hbmFnZXIgZW50aXR5TWFuYWdlcikgewoKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBDdXN0b21Gb3JtIHNhdmUoQ3VzdG9tRm9ybSBlbnRpdHkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLm9uY2FsbHNjaGVkdWxlLk9uQ2FsbFJvdGF0aW9uU2hpZnRBc3NpZ25tZW50PC9jbGFzcz4K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8tZHdqOiBkZWZpbmUgYW55IGN1c3RvbSBtZXRob2RzIGhlcmUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLm9uY2FsbHNjaGVkdWxlLk9uQ2FsbFJvdGF0aW9uU2hpZnRBc3NpZ25tZW50PC9jbGFzcz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlBlcnNpc3RlbmNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlBlcnNpc3RlbmNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
