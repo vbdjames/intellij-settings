@@ -193,11 +193,10 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/AbstractDao.java" timestamp="1485895660495">
-        <mark key="[" line="46" column="35" />
-        <mark key="]" line="46" column="35" />
-        <mark key="." line="46" column="35" />
-        <mark key="^" line="46" column="35" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/AbstractDao.java" timestamp="1485974133541">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/java/com/mapcommunications/AppTest.java" timestamp="1482352755756">
         <mark key="'" line="26" column="0" />
@@ -370,9 +369,9 @@
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1483560379791">
         <mark key="'" line="875" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1485967940573">
-        <mark key="[" line="118" column="23" />
-        <mark key="]" line="118" column="23" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1485974220690">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="63" />
         <mark key="." line="118" column="23" />
         <mark key="^" line="118" column="23" />
       </file>
@@ -383,12 +382,12 @@
         <mark key="." line="36" column="13" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/oracle.cfg.xml" timestamp="1485787768086">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/oracle.cfg.xml" timestamp="1485974262806">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="26" column="60" />
-        <mark key="^" line="26" column="60" />
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-custom-form-table.sql" timestamp="1485807531242">
         <mark key="'" line="0" column="0" />
@@ -453,12 +452,12 @@
         <mark key="." line="191" column="60" />
         <mark key="^" line="191" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1485961106485">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1485974437578">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15088" column="36" />
-        <mark key="]" line="15088" column="36" />
-        <mark key="^" line="15082" column="8" />
-        <mark key="." line="15088" column="36" />
+        <mark key="[" line="15081" column="36" />
+        <mark key="]" line="15081" column="37" />
+        <mark key="^" line="15081" column="37" />
+        <mark key="." line="15081" column="37" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/resources/app.sql" timestamp="1482349580446">
         <mark key="[" line="6" column="38" />
@@ -713,7 +712,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBoYm0yZmZsLmF1dG8gd2lsbCBjYXVzZSBoaWJlcm5hdGUgdG8gc2V0IHVwIHRoZSBkYXRhIHNjaGVtYSBmb3IgdXMgLQogICAgICAgICAgICAgICAgIHNpbmNlIHRoZSBzY2hlbWEvbWFwcGluZyBhbGlnbm1lbnQgaXMgcGFydCBvZiB3aGF0IHdlJ3JlIHRlc3RpbmcsIHdlCiAgICAgICAgICAgICAgICAgd2FudCB0byBkaXNhYmxlIGl0IGZvciB0aGVzZSB0ZXN0cyAtLT4KICAgICAgICAgICAgPCEtLXByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5oYm0yZGRsLmF1dG8iIHZhbHVlPSJjcmVhdGUtZHJvcCIvLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5zaG93X3NxbCIgdmFsdWU9InRydWUiIC8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -722,37 +721,37 @@
         <text>Copy PostgreSQL form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdlbmVyYXRvciBjbGFzcz0ic2VxdWVuY2UiPgogICAgICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJzZXF1ZW5jZSI+RUNIT19TRVFVRU5DRTwvcGFyYW0+CiAgICAgICAgICAgIDwvZ2VuZXJhdG9yPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5zaG93X3NxbCIgdmFsdWU9InRydWUiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBoYm0yZmZsLmF1dG8gd2lsbCBjYXVzZSBoaWJlcm5hdGUgdG8gc2V0IHVwIHRoZSBkYXRhIHNjaGVtYSBmb3IgdXMgLQogICAgICAgICAgICAgICAgIHNpbmNlIHRoZSBzY2hlbWEvbWFwcGluZyBhbGlnbm1lbnQgaXMgcGFydCBvZiB3aGF0IHdlJ3JlIHRlc3RpbmcsIHdlCiAgICAgICAgICAgICAgICAgd2FudCB0byBkaXNhYmxlIGl0IGZvciB0aGVzZSB0ZXN0cyAtLT4KICAgICAgICAgICAgPCEtLXByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5oYm0yZGRsLmF1dG8iIHZhbHVlPSJjcmVhdGUtZHJvcCIvLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uIHNlc3Npb24gPSBmYWN0b3J5Xy5nZXRDdXJyZW50U2Vzc2lvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBoYm0yZmZsLmF1dG8gd2lsbCBjYXVzZSBoaWJlcm5hdGUgdG8gc2V0IHVwIHRoZSBkYXRhIHNjaGVtYSBmb3IgdXMgLQogICAgICAgICAgICAgICAgIHNpbmNlIHRoZSBzY2hlbWEvbWFwcGluZyBhbGlnbm1lbnQgaXMgcGFydCBvZiB3aGF0IHdlJ3JlIHRlc3RpbmcsIHdlCiAgICAgICAgICAgICAgICAgd2FudCB0byBkaXNhYmxlIGl0IGZvciB0aGVzZSB0ZXN0cyAtLT4KICAgICAgICAgICAgPCEtLXByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5oYm0yZGRsLmF1dG8iIHZhbHVlPSJjcmVhdGUtZHJvcCIvLS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2Vzc2lvbkZhY3RvcnkgZmFjdG9yeV87Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXNzaW9uIHNlc3Npb24gPSBmYWN0b3J5Xy5nZXRDdXJyZW50U2Vzc2lvbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5XyA9IEhpYmVybmF0ZVV0aWwuZ2V0U2Vzc2lvbkZhY3RvcnlPcmFjbGUoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2Vzc2lvbkZhY3RvcnkgZmFjdG9yeV87Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzLgo=</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5XyA9IEhpYmVybmF0ZVV0aWwuZ2V0U2Vzc2lvbkZhY3RvcnlPcmFjbGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uIHMgPSB0aGlzLmdldFNlc3Npb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZXNzaW9uIGdldFNlc3Npb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTZXNzaW9uIHMgPSB0aGlzLmdldFNlc3Npb24oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBUcmFuc2FjdGlvbiBnZXRUcmFuc2FjdGlvbigpIHsKICAgICAgICByZXR1cm4gZ2V0U2Vzc2lvbigpLmdldFRyYW5zYWN0aW9uKCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXNzaW9uIGdldFNlc3Npb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRyYW5zYWN0aW9uIGdldFRyYW5zYWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBUcmFuc2FjdGlvbiBnZXRUcmFuc2FjdGlvbigpIHsKICAgICAgICByZXR1cm4gZ2V0U2Vzc2lvbigpLmdldFRyYW5zYWN0aW9uKCk7CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
