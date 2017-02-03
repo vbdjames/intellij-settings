@@ -469,12 +469,11 @@
         <mark key="." line="191" column="60" />
         <mark key="^" line="191" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1486067412811">
-        <mark key="'" line="168" column="4" />
-        <mark key="[" line="14940" column="31" />
-        <mark key="]" line="14918" column="59" />
-        <mark key="." line="14918" column="59" />
-        <mark key="^" line="14918" column="59" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1486148040695">
+        <mark key="'" line="14936" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/resources/app.sql" timestamp="1482349580446">
         <mark key="[" line="6" column="38" />
@@ -542,7 +541,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" timestamp="1486053673255" />
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallService.java" timestamp="1479220432189">
         <mark key="'" line="1159" column="0" />
         <mark key="[" line="43" column="23" />
@@ -624,9 +622,11 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
+      <file name="/fragment.java" timestamp="1486147972295">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
       <jump line="493" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
       <jump line="48" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-custom-form-table.sql" />
@@ -726,10 +726,11 @@
       <jump line="141" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="169" column="24" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="168" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="14935" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oY3VzdG9tRm9ybS4pCg==</text>
+        <text encoding="base64">ICAgIEBQZXJzaXN0ZW5jZUNvbnRleHQodW5pdE5hbWUgPSAiRWNob1BlcnNpc3RlbmNlIikKICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyXzsK</text>
       </register>
       <register name="-" type="4">
         <text>| UnhandledException exception</text>
@@ -741,34 +742,34 @@
         <text encoding="base64">ICAgIAljYXRjaChOb3RQZXJmb3JtZWRFeGNlcHRpb24gfCBVbmhhbmRsZWRFeGNlcHRpb24gZXhjZXB0aW9uKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oY3VzdG9tRm9ybS4pCg==</text>
+        <text encoding="base64">ICAgIEBQZXJzaXN0ZW5jZUNvbnRleHQodW5pdE5hbWUgPSAiRWNob1BlcnNpc3RlbmNlIikKICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyXzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAkJLy8gVE9ETyBDaGFuZ2UgdG8gSlBBIHF1ZXJ5IHdoZW4gQ3VzdG9tRm9ybSBjbGFzcyBzdXBwb3J0cy4KLy8gICAgCQlRdWVyeSBxdWVyeSA9IGVudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoInNlbGVjdCAqICIgKwovLyAgICAJCSAgICAiZnJvbSBjdXN0b21fZm9ybSB3aGVyZSBpZCA9ID8iKTsKLy8gICAgCQlxdWVyeS5zZXRQYXJhbWV0ZXIoMSwgZm9ybUlkKTsKLy8KLy8gICAgCQlMaXN0PE9iamVjdFtdPiBmb3JtID0gcXVlcnkuZ2V0UmVzdWx0TGlzdCgpOwovLwovLyAgICAJCWlmIChmb3JtLmlzRW1wdHkoKSkgewo=</text>
+        <text encoding="base64">ICAgIEBQZXJzaXN0ZW5jZUNvbnRleHQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oZm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oY3VzdG9tRm9ybS4pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgQ3VzdG9tRm9ybSBmaW5kQnlJZChMb25nIGFMb25nKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBzZXRFbnRpdHlNYW5hZ2VyKEVudGl0eU1hbmFnZXIgZW50aXR5TWFuYWdlcikgewoKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBDdXN0b21Gb3JtIHNhdmUoQ3VzdG9tRm9ybSBlbnRpdHkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAkJLy8gVE9ETyBDaGFuZ2UgdG8gSlBBIHF1ZXJ5IHdoZW4gQ3VzdG9tRm9ybSBjbGFzcyBzdXBwb3J0cy4KLy8gICAgCQlRdWVyeSBxdWVyeSA9IGVudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoInNlbGVjdCAqICIgKwovLyAgICAJCSAgICAiZnJvbSBjdXN0b21fZm9ybSB3aGVyZSBpZCA9ID8iKTsKLy8gICAgCQlxdWVyeS5zZXRQYXJhbWV0ZXIoMSwgZm9ybUlkKTsKLy8KLy8gICAgCQlMaXN0PE9iamVjdFtdPiBmb3JtID0gcXVlcnkuZ2V0UmVzdWx0TGlzdCgpOwovLwovLyAgICAJCWlmIChmb3JtLmlzRW1wdHkoKSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8tZHdqOiBkZWZpbmUgYW55IGN1c3RvbSBtZXRob2RzIGhlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oZm9ybSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgQ3VzdG9tRm9ybSBmaW5kQnlJZChMb25nIGFMb25nKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBzZXRFbnRpdHlNYW5hZ2VyKEVudGl0eU1hbmFnZXIgZW50aXR5TWFuYWdlcikgewoKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBDdXN0b21Gb3JtIHNhdmUoQ3VzdG9tRm9ybSBlbnRpdHkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLm9uY2FsbHNjaGVkdWxlLk9uQ2FsbFJvdGF0aW9uU2hpZnRBc3NpZ25tZW50PC9jbGFzcz4K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8tZHdqOiBkZWZpbmUgYW55IGN1c3RvbSBtZXRob2RzIGhlcmUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLm9uY2FsbHNjaGVkdWxlLk9uQ2FsbFJvdGF0aW9uU2hpZnRBc3NpZ25tZW50PC9jbGFzcz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
