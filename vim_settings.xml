@@ -469,11 +469,11 @@
         <mark key="." line="191" column="60" />
         <mark key="^" line="191" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1486148040695">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1486477232411">
         <mark key="'" line="14936" column="0" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+        <mark key="[" line="148" column="13" />
+        <mark key="]" line="148" column="13" />
+        <mark key="." line="148" column="13" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/resources/app.sql" timestamp="1482349580446">
         <mark key="[" line="6" column="38" />
@@ -520,12 +520,12 @@
         <mark key="." line="419" column="70" />
         <mark key="^" line="419" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1485199975871">
-        <mark key="'" line="425" column="17" />
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="41" />
-        <mark key="^" line="14" column="42" />
-        <mark key="." line="14" column="41" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1486477504612">
+        <mark key="'" line="11" column="36" />
+        <mark key="[" line="127" column="57" />
+        <mark key="]" line="130" column="45" />
+        <mark key="^" line="130" column="45" />
+        <mark key="." line="130" column="45" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/src/main/java/com/mapcommunications/daopoc/dao/FooOracleDao.java" timestamp="1479842223382">
         <mark key="'" line="0" column="0" />
@@ -627,7 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="493" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
       <jump line="48" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-custom-form-table.sql" />
       <jump line="883" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-custom-form-table.sql" />
@@ -727,16 +726,17 @@
       <jump line="169" column="24" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="168" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="14935" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="11" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBQZXJzaXN0ZW5jZUNvbnRleHQodW5pdE5hbWUgPSAiRWNob1BlcnNpc3RlbmNlIikKICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyXzsK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>| UnhandledException exception</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>saveCustomFormOracle</text>
+        <text>ROWS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAljYXRjaChOb3RQZXJmb3JtZWRFeGNlcHRpb24gfCBVbmhhbmRsZWRFeGNlcHRpb24gZXhjZXB0aW9uKSB7Cg==</text>
@@ -776,9 +776,9 @@
       </register>
     </registers>
     <search>
-      <last-search>saveCustomFormOracle</last-search>
+      <last-search>ROWS</last-search>
       <last-offset />
-      <last-pattern>saveCustomFormOracle</last-pattern>
+      <last-pattern>ROWS</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute encoding="base64">XC8+</last-substitute>
       <last-dir>1</last-dir>
@@ -786,7 +786,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FORM_TABLE</entry>
         <entry>PROMPT</entry>
         <entry>elements</entry>
         <entry>ELEMENT</entry>
@@ -806,6 +805,7 @@
         <entry>replicate</entry>
         <entry>customform</entry>
         <entry>saveCustomFormOracle</entry>
+        <entry>ROWS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz46cy9pc0VuYWJsZWQvZ2V0U3R5bGUvZw==</entry>
