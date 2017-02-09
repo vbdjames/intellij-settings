@@ -476,8 +476,8 @@
         <mark key="." line="191" column="60" />
         <mark key="^" line="191" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1486580516453">
-        <mark key="'" line="819" column="38" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1486664327587">
+        <mark key="'" line="2790" column="27" />
         <mark key="[" line="14941" column="19" />
         <mark key="]" line="14941" column="19" />
         <mark key="^" line="14941" column="19" />
@@ -635,9 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1788" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/build.xml" />
-      <jump line="1789" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/build.xml" />
-      <jump line="1790" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/build.xml" />
       <jump line="1849" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/build.xml" />
       <jump line="2508" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/build.xml" />
       <jump line="2578" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/build.xml" />
@@ -720,7 +717,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="577" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="589" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="56" column="35" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="162" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="606" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -735,6 +731,10 @@
       <jump line="808" column="52" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="816" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="819" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="107" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="152" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="2790" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -744,7 +744,7 @@
         <text>INDEX</text>
       </register>
       <register name="/" type="4">
-        <text>Oracle</text>
+        <text>sessionFactoryOracle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGdlbmVyYXRvciBjbGFzcz0ic2VxdWVuY2UiPgogICAgICAgICAgICAgICAgPHBhcmFtIG5hbWU9InNlcXVlbmNlIj5lY2hvX3NlcXVlbmNlPC9wYXJhbT4KICAgICAgICAgICAgPC9nZW5lcmF0b3I+Cg==</text>
@@ -784,9 +784,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Oracle</last-search>
+      <last-search>sessionFactoryOracle</last-search>
       <last-offset />
-      <last-pattern>Oracle</last-pattern>
+      <last-pattern>sessionFactoryOracle</last-pattern>
       <last-replace encoding="base64">InNlcXVlbmNlIj5ccjxwYXJhbSBuYW1lPSJzZXF1ZW5jZSI+ZWNob19zZXF1ZW5jZTxcL3BhcmFtPlxyPFwvZ2VuZXJhdG9yPg==</last-replace>
       <last-substitute encoding="base64">Im5hdGl2ZSJcLz4=</last-substitute>
       <last-dir>1</last-dir>
@@ -794,7 +794,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FORM_LAYOUT</entry>
         <entry>FORM_EDITABLE_ELEMENT</entry>
         <entry>FORM_ELEMENT</entry>
         <entry>==</entry>
@@ -814,6 +813,7 @@
         <entry>native</entry>
         <entry encoding="base64">Im5hdGl2ZSJcLz4=</entry>
         <entry>Oracle</entry>
+        <entry>sessionFactoryOracle</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2VcLi9kc3QuL2c=</entry>
