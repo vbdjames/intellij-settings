@@ -10,10 +10,10 @@
         <mark key="^" line="437" column="22" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/util/PersistenceHelper.java" timestamp="1487087016548">
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="16" />
-        <mark key="." line="36" column="16" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/util/PersistenceHelper.java" timestamp="1487088601088">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
         <mark key="^" line="36" column="16" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/zip-codes.com/postal_code_update_ca.sql" timestamp="1480954927326">
@@ -432,10 +432,12 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="18" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-db.sql" timestamp="1486763971651">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-db.sql" timestamp="1487088324606">
+        <mark key="'" line="125" column="67" />
+        <mark key="[" line="150" column="34" />
+        <mark key="]" line="125" column="67" />
+        <mark key="." line="125" column="67" />
+        <mark key="^" line="125" column="67" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1487022325991">
         <mark key="'" line="590" column="12" />
@@ -483,10 +485,11 @@
         <mark key="^" line="7168" column="60" />
         <mark key="." line="7168" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1487017250574">
-        <mark key="[" line="66" column="39" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1487088357221">
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/external/testing/create-db.sql" timestamp="1483458742946">
         <mark key="[" line="18" column="17" />
@@ -624,7 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="24" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="168" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="14935" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="11266" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -724,58 +726,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/persistence.xml" />
       <jump line="5" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/persistence.xml" />
       <jump line="419" column="15" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" />
+      <jump line="125" column="67" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-db.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0YWJsZU5hbWUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGNvbQ==</text>
       </register>
       <register name="/" type="4">
-        <text>getId</text>
+        <text>editable_element</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbmZpZ3VyZShUeXBlIHR5cGUsIFByb3BlcnRpZXMgcGFyYW1zLCBEaWFsZWN0IGRpYWxlY3QpIHRocm93cyBNYXBwaW5nRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKS5idWlsZCgpOwogICAgICAgIEVudGl0eVRyYW5zYWN0aW9uIHRyYW5zYWN0aW9uID0gbWFuYWdlcl8uZ2V0VHJhbnNhY3Rpb24oKTsKCiAgICAgICAgQ3VzdG9tRm9ybURhbyBkYW8gPSBuZXcgQ3VzdG9tRm9ybU9yYWNsZURhbygpOwogICAgICAgIGRhby5zZXRFbnRpdHlNYW5hZ2VyKG1hbmFnZXJfKTsKCiAgICAgICAgdHJhbnNhY3Rpb24uYmVnaW4oKTsKICAgICAgICBkYW8uc2F2ZShmb3JtKTsKICAgICAgICB0cmFuc2FjdGlvbi5jb21taXQoKTsKICAgICAgICBtYW5hZ2VyXy5jbGVhcigpOwoKICAgICAgICBDdXN0b21Gb3JtIGZvdW5kID0gKEN1c3RvbUZvcm0pIG1hbmFnZXJfCiAgICAgICAgICAgICAgICAuY3JlYXRlUXVlcnkoInNlbGVjdCBmIGZyb20gQ3VzdG9tRm9ybSBmIHdoZXJlIGYuaWQgPSA6aWQiKQogICAgICAgICAgICAgICAgLnNldFBhcmFtZXRlcigiaWQiLCBmb3JtLmdldElkKCkpCiAgICAgICAgICAgICAgICAuZ2V0U2luZ2xlUmVzdWx0KCk7CgogICAgICAgIGFzc2VydEVxdWFscyhmb3JtLmdldFRpdGxlKCksIGZvdW5kLmdldFRpdGxlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0YWJsZU5hbWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxnZW5lcmF0b3IgY2xhc3M9InNlcXVlbmNlIj4tLT4K</text>
+        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbmZpZ3VyZShUeXBlIHR5cGUsIFByb3BlcnRpZXMgcGFyYW1zLCBEaWFsZWN0IGRpYWxlY3QpIHRocm93cyBNYXBwaW5nRXhjZXB0aW9uIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGFyYW1zKTsKICAgICAgICBzdXBlci5jb25maWd1cmUodHlwZSwgcGFyYW1zLCBkaWFsZWN0KTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxnZW5lcmF0b3IgY2xhc3M9InNlcXVlbmNlIj4tLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS08cGVyc2lzdGVuY2UtdW5pdCBuYW1lPSJFY2hvUGVyc2lzdGVuY2VUZXN0Ij4tLT4KICAgICAgICA8IS0tPHByb3ZpZGVyPm9yZy5oaWJlcm5hdGUuZWpiLkhpYmVybmF0ZVBlcnNpc3RlbmNlPC9wcm92aWRlcj4tLT4KICAgICAgICA8IS0tPGNsYXNzPmNvbS5tYXBjb21tdW5pY2F0aW9ucy5mb3JtLkN1c3RvbUZvcm08L2NsYXNzPi0tPgogICAgICAgIDwhLS08cHJvcGVydGllcz4tLT4KICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJqYXZheC5wZXJzaXN0ZW5jZS5qZGJjLmRyaXZlciIgdmFsdWU9Im9yZy5oMi5Ecml2ZXIiIC8+LS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iamF2YXgucGVyc2lzdGVuY2UuamRiYy51cmwiIHZhbHVlPSJqZGJjOmgyOm1lbTp0ZXN0ZGIiIC8+LS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iamF2YXgucGVyc2lzdGVuY2UuamRiYy51c2VyIiB2YWx1ZT0ic2EiIC8+LS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iamF2YXgucGVyc2lzdGVuY2UuamRiYy5wYXNzd29yZCIgdmFsdWU9IiIgLz4tLT4KICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuc2hvd19zcWwiIHZhbHVlPSJ0cnVlIiAvPi0tPgogICAgICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5jb25uZWN0aW9uLnNodXRkb3duIiB2YWx1ZT0idHJ1ZSIvPi0tPgogICAgICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5kaWFsZWN0IiB2YWx1ZT0ib3JnLmhpYmVybmF0ZS5kaWFsZWN0LkgyRGlhbGVjdCIvPi0tPgogICAgICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5kZWZhdWx0X3NjaGVtYSIgdmFsdWU9ImVjaG8iLz4tLT4KICAgICAgICAgICAgPCEtLSBoYm0yZmZsLmF1dG8gd2lsbCBjYXVzZSBoaWJlcm5hdGUgdG8gc2V0IHVwIHRoZSBkYXRhIHNjaGVtYSBmb3IgdXMgLQogICAgICAgICAgICAgICAgIHNpbmNlIHRoZSBzY2hlbWEvbWFwcGluZyBhbGlnbm1lbnQgaXMgcGFydCBvZiB3aGF0IHdlJ3JlIHRlc3RpbmcsIHdlCiAgICAgICAgICAgICAgICAgd2FudCB0byBkaXNhYmxlIGl0IGZvciB0aGVzZSB0ZXN0cyAtLT4KICAgICAgICAgICAgPCEtLXByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5oYm0yZGRsLmF1dG8iIHZhbHVlPSJjcmVhdGUtZHJvcCIvLS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmNvbm5lY3Rpb24udXJsIiB2YWx1ZT0iamRiYzpoMjptZW06dGVzdGRiIi8+LS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmNvbm5lY3Rpb24uZHJpdmVyX2NsYXNzIiB2YWx1ZT0ib3JnLmgyLkRyaXZlciIgLz4tLT4KICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuY29ubmVjdGlvbi51c2VybmFtZSIgdmFsdWU9InNhIi8+LS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmNvbm5lY3Rpb24ucGFzc3dvcmQiIHZhbHVlPSIiLz4tLT4KICAgICAgICA8IS0tPC9wcm9wZXJ0aWVzPi0tPgogICAgPCEtLTwvcGVyc2lzdGVuY2UtdW5pdD4tLT4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbmZpZ3VyZShUeXBlIHR5cGUsIFByb3BlcnRpZXMgcGFyYW1zLCBEaWFsZWN0IGRpYWxlY3QpIHRocm93cyBNYXBwaW5nRXhjZXB0aW9uIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGFyYW1zKTsKICAgICAgICBzdXBlci5jb25maWd1cmUodHlwZSwgcGFyYW1zLCBkaWFsZWN0KTsKICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLS0tPgo=</text>
+        <text encoding="base64">ICAgIDwhLS08cGVyc2lzdGVuY2UtdW5pdCBuYW1lPSJFY2hvUGVyc2lzdGVuY2VUZXN0Ij4tLT4KICAgICAgICA8IS0tPHByb3ZpZGVyPm9yZy5oaWJlcm5hdGUuZWpiLkhpYmVybmF0ZVBlcnNpc3RlbmNlPC9wcm92aWRlcj4tLT4KICAgICAgICA8IS0tPGNsYXNzPmNvbS5tYXBjb21tdW5pY2F0aW9ucy5mb3JtLkN1c3RvbUZvcm08L2NsYXNzPi0tPgogICAgICAgIDwhLS08cHJvcGVydGllcz4tLT4KICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJqYXZheC5wZXJzaXN0ZW5jZS5qZGJjLmRyaXZlciIgdmFsdWU9Im9yZy5oMi5Ecml2ZXIiIC8+LS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iamF2YXgucGVyc2lzdGVuY2UuamRiYy51cmwiIHZhbHVlPSJqZGJjOmgyOm1lbTp0ZXN0ZGIiIC8+LS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iamF2YXgucGVyc2lzdGVuY2UuamRiYy51c2VyIiB2YWx1ZT0ic2EiIC8+LS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iamF2YXgucGVyc2lzdGVuY2UuamRiYy5wYXNzd29yZCIgdmFsdWU9IiIgLz4tLT4KICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuc2hvd19zcWwiIHZhbHVlPSJ0cnVlIiAvPi0tPgogICAgICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5jb25uZWN0aW9uLnNodXRkb3duIiB2YWx1ZT0idHJ1ZSIvPi0tPgogICAgICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5kaWFsZWN0IiB2YWx1ZT0ib3JnLmhpYmVybmF0ZS5kaWFsZWN0LkgyRGlhbGVjdCIvPi0tPgogICAgICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5kZWZhdWx0X3NjaGVtYSIgdmFsdWU9ImVjaG8iLz4tLT4KICAgICAgICAgICAgPCEtLSBoYm0yZmZsLmF1dG8gd2lsbCBjYXVzZSBoaWJlcm5hdGUgdG8gc2V0IHVwIHRoZSBkYXRhIHNjaGVtYSBmb3IgdXMgLQogICAgICAgICAgICAgICAgIHNpbmNlIHRoZSBzY2hlbWEvbWFwcGluZyBhbGlnbm1lbnQgaXMgcGFydCBvZiB3aGF0IHdlJ3JlIHRlc3RpbmcsIHdlCiAgICAgICAgICAgICAgICAgd2FudCB0byBkaXNhYmxlIGl0IGZvciB0aGVzZSB0ZXN0cyAtLT4KICAgICAgICAgICAgPCEtLXByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5oYm0yZGRsLmF1dG8iIHZhbHVlPSJjcmVhdGUtZHJvcCIvLS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmNvbm5lY3Rpb24udXJsIiB2YWx1ZT0iamRiYzpoMjptZW06dGVzdGRiIi8+LS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmNvbm5lY3Rpb24uZHJpdmVyX2NsYXNzIiB2YWx1ZT0ib3JnLmgyLkRyaXZlciIgLz4tLT4KICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuY29ubmVjdGlvbi51c2VybmFtZSIgdmFsdWU9InNhIi8+LS0+CiAgICAgICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLmNvbm5lY3Rpb24ucGFzc3dvcmQiIHZhbHVlPSIiLz4tLT4KICAgICAgICA8IS0tPC9wcm9wZXJ0aWVzPi0tPgogICAgPCEtLTwvcGVyc2lzdGVuY2UtdW5pdD4tLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bWFwcGluZy1maWxlPmNvbS9tYXBjb21tdW5pY2F0aW9ucy9mb3JtL0N1c3RvbUZvcm1PcmFjbGUuaGJtLnhtbDwvbWFwcGluZy1maWxlPgo=</text>
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTDsK</text>
+        <text encoding="base64">ICAgICAgICA8bWFwcGluZy1maWxlPmNvbS9tYXBjb21tdW5pY2F0aW9ucy9mb3JtL0N1c3RvbUZvcm1PcmFjbGUuaGJtLnhtbDwvbWFwcGluZy1maWxlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5UZXN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgSW5wdXRTdHJlYW0gbWFpbiA9IEhpYmVybmF0ZVBlcnNpc3RlbmNlLmNsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oCiAgICAgICAgICAgICAgICAiSGliZXJuYXRlUGVyc2lzdGVuY2UuY2xhc3MiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFpbik7Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5UZXN0Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>27</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getId</last-search>
+      <last-search>editable_element</last-search>
       <last-offset />
-      <last-pattern>getId</last-pattern>
+      <last-pattern>editable_element</last-pattern>
       <last-replace encoding="base64">InNlcXVlbmNlIj5ccjxwYXJhbSBuYW1lPSJzZXF1ZW5jZSI+ZWNob19zZXF1ZW5jZTxcL3BhcmFtPlxyPFwvZ2VuZXJhdG9yPg==</last-replace>
       <last-substitute encoding="base64">Im5hdGl2ZSJcLz4=</last-substitute>
       <last-dir>1</last-dir>
@@ -783,7 +786,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FORM_ELEMENT</entry>
         <entry>==</entry>
         <entry>===</entry>
         <entry>getCustomFormOracle</entry>
@@ -803,6 +805,7 @@
         <entry>Oracle</entry>
         <entry>sessionFactoryOracle</entry>
         <entry>getId</entry>
+        <entry>editable_element</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz46cy9pc0VuYWJsZWQvZ2V0T3duZXJOYW1lL2c=</entry>
@@ -823,8 +826,8 @@
         <entry encoding="base64">JzwsJz5zL1wvPi8pL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyJuYXRpdmUiXC8+LyJzZXF1ZW5jZSI+XHI8cGFyYW0gbmFtZT0ic2VxdWVuY2UiPmVjaG9fc2VxdWVuY2U8XC9wYXJhbT5ccjxcL2dlbmVyYXRvcj4vZw==</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>27</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
