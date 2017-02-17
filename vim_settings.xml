@@ -32,11 +32,14 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1487341923714">
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="17" />
-        <mark key="^" line="28" column="18" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1487348137021">
+        <mark key="[" line="38" column="64" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/Dao.java" timestamp="1487348584610">
+        <mark key="[" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/PostgresCustomFormDao.java" timestamp="1476195987780">
         <mark key="'" line="16" column="27" />
@@ -194,6 +197,16 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminService.java" timestamp="1487348243825">
+        <mark key="'" line="352" column="16" />
+        <mark key="[" line="839" column="40" />
+        <mark key="]" line="839" column="45" />
+        <mark key="^" line="839" column="45" />
+        <mark key="." line="839" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/AbstractDao.java" timestamp="1487348605299">
+        <mark key="[" line="41" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/java/com/mapcommunications/AppTest.java" timestamp="1482352755756">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="29" column="39" />
@@ -264,6 +277,13 @@
         <mark key="]" line="27" column="34" />
         <mark key="^" line="27" column="34" />
         <mark key="." line="27" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1487348309587">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1759" column="4" />
+        <mark key="]" line="1757" column="25" />
+        <mark key="^" line="1757" column="25" />
+        <mark key="." line="1757" column="25" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachmentHistory.java" timestamp="1483720414566">
         <mark key="[" line="118" column="16" />
@@ -480,12 +500,11 @@
         <mark key="." line="1814" column="69" />
         <mark key="^" line="1814" column="69" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1487284144168">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1487348555330">
         <mark key="'" line="133" column="12" />
-        <mark key="[" line="2799" column="32" />
-        <mark key="]" line="2803" column="15" />
-        <mark key="." line="2803" column="15" />
-        <mark key="^" line="2803" column="15" />
+        <mark key="[" line="2796" column="9" />
+        <mark key="]" line="2796" column="9" />
+        <mark key="." line="2796" column="9" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/resources/app.sql" timestamp="1482349580446">
         <mark key="[" line="6" column="38" />
@@ -653,12 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="450" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="467" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="481" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="497" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="513" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="525" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="538" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="60" column="72" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="62" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
@@ -753,58 +766,64 @@
       <jump line="553" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="412" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="414" column="44" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="839" column="31" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminService.java" />
+      <jump line="841" column="6" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminService.java" />
+      <jump line="352" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminService.java" />
+      <jump line="4113" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20007552L</text>
+        <text encoding="base64">IGNhdGNoIChOb3RTdXBwb3J0ZWRFeGNlcHRpb258U3lzdGVtRXhjZXB0aW9ufFJvbGxiYWNrRXhjZXB0aW9uCiAgICAgICAgICAgICAgICB8SGV1cmlzdGljTWl4ZWRFeGNlcHRpb258SGV1cmlzdGljUm9sbGJhY2tFeGNlcHRpb24KICAgICAgICAgICAgICAgIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>TextLookupFieldElementItem</text>
+        <text>deleteCustomForm</text>
       </register>
-      <register name="0" type="4">
-        <text>20007552L</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDb3B5Q3VzdG9tRm9ybSgpIHRocm93cyBOb3RQZXJmb3JtZWRFeGNlcHRpb24sCiAgICAgICAgICAgIE5vdEZvdW5kRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24sIFJlbW90ZUV4Y2VwdGlvbiwgQ3JlYXRlRXhjZXB0aW9uIHsKICAgICAgICBMb25nIGlkID0gMjAwMDc1NTJMOwogICAgICAgIEN1c3RvbUZvcm0gZm9ybSA9IGFkbWluU2VydmljZV8uZ2V0Q3VzdG9tRm9ybShpZCxmYWxzZSk7CiAgICAgICAgQ3VzdG9tRm9ybSBzYXZlZCA9CiAgICAgICAgICAgICAgICBhZG1pblNlcnZpY2VfLnNhdmVDdXN0b21Gb3JtT3JhY2xlKGZvcm0pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzYXZlZC5nZXRJZCgpKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGNhdGNoIChOb3RTdXBwb3J0ZWRFeGNlcHRpb258U3lzdGVtRXhjZXB0aW9ufFJvbGxiYWNrRXhjZXB0aW9uCiAgICAgICAgICAgICAgICB8SGV1cmlzdGljTWl4ZWRFeGNlcHRpb258SGV1cmlzdGljUm9sbGJhY2tFeGNlcHRpb24KICAgICAgICAgICAgICAgIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChTeXN0ZW1FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKFJvbGxiYWNrRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChIZXVyaXN0aWNNaXhlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoSGV1cmlzdGljUm9sbGJhY2tFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2F2ZWQuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdlbmVyYXRvciBjbGFzcz0iY29tLm1hcGNvbW11bmljYXRpb25zLmRhby5Bc3NpZ25lZFNlcXVlbmNlR2VuZXJhdG9yIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkbWluU2VydmljZV8uc2F2ZUN1c3RvbUZvcm1PcmFjbGUoZm9ybSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9nZW5lcmF0b3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIHNhdmVkID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJzZXF1ZW5jZSI+ZWNob19zZXF1ZW5jZTwvcGFyYW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBhZG1pblNlcnZpY2VfLmdldEN1c3RvbUZvcm0oaWQsZmFsc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdlbmVyYXRvciBjbGFzcz0ibmF0aXZlIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9ybS5nZXRWZXJzaW9uKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdlbmVyYXRvciBjbGFzcz0ibmF0aXZlIi8+Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGZvcm0uc2V0VmVyc2lvbihudWxsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdlbmVyYXRvciBjbGFzcz0ibmF0aXZlIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHR4LnJvbGxiYWNrKCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFN5c3RlbUV4Y2VwdGlvbiBlMSkgewogICAgICAgICAgICAgICAgZTEucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdlbmVyYXRvciBjbGFzcz0ibmF0aXZlIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TextLookupFieldElementItem</last-search>
+      <last-search>deleteCustomForm</last-search>
       <last-offset />
-      <last-pattern>TextLookupFieldElementItem</last-pattern>
+      <last-pattern>deleteCustomForm</last-pattern>
       <last-replace encoding="base64">InNlcXVlbmNlIj5ccjxwYXJhbSBuYW1lPSJzZXF1ZW5jZSI+ZWNob19zZXF1ZW5jZTxcL3BhcmFtPlxyPFwvZ2VuZXJhdG9yPg==</last-replace>
       <last-substitute encoding="base64">Im5hdGl2ZSJcLz4=</last-substitute>
       <last-dir>1</last-dir>
@@ -812,7 +831,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Transaction</entry>
         <entry>commit</entry>
         <entry>form</entry>
         <entry>map-core-ejb3</entry>
@@ -832,6 +850,7 @@
         <entry>form_text</entry>
         <entry>FORM_TEXT_LOOKUP_FIELD_ITEM</entry>
         <entry>TextLookupFieldElementItem</entry>
+        <entry>deleteCustomForm</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
