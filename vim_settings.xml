@@ -32,11 +32,11 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1487348137021">
-        <mark key="[" line="38" column="64" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="26" column="16" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1487350411999">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/Dao.java" timestamp="1487348584610">
         <mark key="[" line="7" column="21" />
@@ -204,8 +204,10 @@
         <mark key="^" line="839" column="45" />
         <mark key="." line="839" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/AbstractDao.java" timestamp="1487348605299">
-        <mark key="[" line="41" column="5" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/AbstractDao.java" timestamp="1487350501091">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/test/java/com/mapcommunications/AppTest.java" timestamp="1482352755756">
         <mark key="'" line="26" column="0" />
@@ -479,9 +481,9 @@
         <mark key="." line="125" column="67" />
         <mark key="^" line="125" column="67" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1487276873754">
-        <mark key="'" line="414" column="44" />
-        <mark key="[" line="414" column="73" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1487350809042">
+        <mark key="'" line="294" column="41" />
+        <mark key="[" line="406" column="64" />
         <mark key="]" line="412" column="62" />
         <mark key="^" line="412" column="62" />
         <mark key="." line="412" column="62" />
@@ -579,6 +581,13 @@
         <mark key="^" line="42" column="17" />
         <mark key="." line="42" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1487349780532">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2309" column="12" />
+        <mark key="]" line="2309" column="71" />
+        <mark key="." line="2309" column="71" />
+        <mark key="^" line="2309" column="71" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1476813084484">
         <mark key="'" line="564" column="36" />
         <mark key="[" line="2700" column="54" />
@@ -672,10 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="538" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="60" column="72" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="62" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="453" column="72" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="456" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="473" column="72" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="475" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
@@ -772,58 +777,62 @@
       <jump line="352" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminService.java" />
       <jump line="4113" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="829" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="15" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="294" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGNhdGNoIChOb3RTdXBwb3J0ZWRFeGNlcHRpb258U3lzdGVtRXhjZXB0aW9ufFJvbGxiYWNrRXhjZXB0aW9uCiAgICAgICAgICAgICAgICB8SGV1cmlzdGljTWl4ZWRFeGNlcHRpb258SGV1cmlzdGljUm9sbGJhY2tFeGNlcHRpb24KICAgICAgICAgICAgICAgIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>deleteCustomForm</text>
+        <text>textfieldelement</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDb3B5Q3VzdG9tRm9ybSgpIHRocm93cyBOb3RQZXJmb3JtZWRFeGNlcHRpb24sCiAgICAgICAgICAgIE5vdEZvdW5kRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24sIFJlbW90ZUV4Y2VwdGlvbiwgQ3JlYXRlRXhjZXB0aW9uIHsKICAgICAgICBMb25nIGlkID0gMjAwMDc1NTJMOwogICAgICAgIEN1c3RvbUZvcm0gZm9ybSA9IGFkbWluU2VydmljZV8uZ2V0Q3VzdG9tRm9ybShpZCxmYWxzZSk7CiAgICAgICAgQ3VzdG9tRm9ybSBzYXZlZCA9CiAgICAgICAgICAgICAgICBhZG1pblNlcnZpY2VfLnNhdmVDdXN0b21Gb3JtT3JhY2xlKGZvcm0pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzYXZlZC5nZXRJZCgpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3QgbWV0aG9kLgogICAgICovCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGNhdGNoIChOb3RTdXBwb3J0ZWRFeGNlcHRpb258U3lzdGVtRXhjZXB0aW9ufFJvbGxiYWNrRXhjZXB0aW9uCiAgICAgICAgICAgICAgICB8SGV1cmlzdGljTWl4ZWRFeGNlcHRpb258SGV1cmlzdGljUm9sbGJhY2tFeGNlcHRpb24KICAgICAgICAgICAgICAgIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2F2ZWQuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRFbnRpdHlNYW5hZ2VyKCkuY3JlYXRlUXVlcnkoImRldGVsIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkbWluU2VydmljZV8uc2F2ZUN1c3RvbUZvcm1PcmFjbGUoZm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBhZG1pblNlcnZpY2VfLmdldEN1c3RvbUZvcm1PcmFjbGUoaWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIHNhdmVkID0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9ybS5nZXRJZCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBhZG1pblNlcnZpY2VfLmdldEN1c3RvbUZvcm0oaWQsZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGRlbGV0ZUN1c3RvbUZvcm1PcmFjbGUoTG9uZyBpZCkgdGhyb3dzIFJlbW90ZUV4Y2VwdGlvbiwgCiAgICAgICAgICAgIENyZWF0ZUV4Y2VwdGlvbiB7CiAgICAgICAgQWRtaW5TZXJ2aWNlIHJlZiA9IHRoaXMuYWRtaW5TZXJ2aWNlUmVmLmdldFJlZigpOwogICAgICAgIHJlZi5kZWxldGVDdXN0b21Gb3JtT3JhY2xlKGlkKTsKICAgIH0KCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9ybS5nZXRWZXJzaW9uKCkpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGNhdGNoIChOb3RTdXBwb3J0ZWRFeGNlcHRpb258U3lzdGVtRXhjZXB0aW9ufFJvbGxiYWNrRXhjZXB0aW9uCiAgICAgICAgICAgICAgICB8SGV1cmlzdGljTWl4ZWRFeGNlcHRpb258SGV1cmlzdGljUm9sbGJhY2tFeGNlcHRpb24KICAgICAgICAgICAgICAgIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvcm0uc2V0VmVyc2lvbihudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2F2ZWQuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHR4LnJvbGxiYWNrKCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFN5c3RlbUV4Y2VwdGlvbiBlMSkgewogICAgICAgICAgICAgICAgZTEucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkbWluU2VydmljZV8uc2F2ZUN1c3RvbUZvcm1PcmFjbGUoZm9ybSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIHNhdmVkID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deleteCustomForm</last-search>
+      <last-search>textfieldelement</last-search>
       <last-offset />
-      <last-pattern>deleteCustomForm</last-pattern>
+      <last-pattern>textfieldelement</last-pattern>
       <last-replace encoding="base64">InNlcXVlbmNlIj5ccjxwYXJhbSBuYW1lPSJzZXF1ZW5jZSI+ZWNob19zZXF1ZW5jZTxcL3BhcmFtPlxyPFwvZ2VuZXJhdG9yPg==</last-replace>
       <last-substitute encoding="base64">Im5hdGl2ZSJcLz4=</last-substitute>
       <last-dir>1</last-dir>
@@ -831,12 +840,9 @@
     </search>
     <history>
       <history-search>
-        <entry>commit</entry>
-        <entry>form</entry>
         <entry>map-core-ejb3</entry>
         <entry>entityManagerFactory</entry>
         <entry>saveCustomFormOra</entry>
-        <entry>saveCustomFormOracle</entry>
         <entry>generator</entry>
         <entry>form_text_</entry>
         <entry>form_text_lookup</entry>
@@ -851,6 +857,9 @@
         <entry>FORM_TEXT_LOOKUP_FIELD_ITEM</entry>
         <entry>TextLookupFieldElementItem</entry>
         <entry>deleteCustomForm</entry>
+        <entry>saveCustomFormOracle</entry>
+        <entry>TestFieldElement</entry>
+        <entry>textfieldelement</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
