@@ -281,8 +281,8 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1487532914774">
-        <mark key="'" line="9553" column="17" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1487605323675">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="1760" column="48" />
         <mark key="]" line="1760" column="48" />
         <mark key="^" line="4102" column="57" />
@@ -679,7 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="83" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="441" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="490" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="508" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
@@ -711,7 +710,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminService.java" />
       <jump line="352" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminService.java" />
       <jump line="4113" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="829" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="15" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="294" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
@@ -779,6 +777,8 @@
       <jump line="1814" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="1873" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="2547" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="534" column="50" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -788,7 +788,7 @@
         <text>//saved.getId());</text>
       </register>
       <register name="/" type="4">
-        <text>CustomForm</text>
+        <text>save custom form</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKEVsZW1lbnQgZSA6IHNhdmVkLmdldEVsZW1lbnRzKCkpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFRleHRQYW5lRWxlbWVudCBlbCA9IChUZXh0UGFuZUVsZW1lbnQpIGU7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZWwuZ2V0VmFyaWFibGVzKCkuc2l6ZSgpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoQ2xhc3NDYXN0RXhjZXB0aW9uIGNjZSkge30KICAgICAgICB9Cg==</text>
@@ -828,9 +828,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CustomForm</last-search>
+      <last-search>save custom form</last-search>
       <last-offset />
-      <last-pattern>CustomForm</last-pattern>
+      <last-pattern>save custom form</last-pattern>
       <last-replace encoding="base64">InNlcXVlbmNlIj5ccjxwYXJhbSBuYW1lPSJzZXF1ZW5jZSI+ZWNob19zZXF1ZW5jZTxcL3BhcmFtPlxyPFwvZ2VuZXJhdG9yPg==</last-replace>
       <last-substitute encoding="base64">Im5hdGl2ZSJcLz4=</last-substitute>
       <last-dir>1</last-dir>
@@ -838,7 +838,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TextLookupFieldElementItem</entry>
         <entry>deleteCustomForm</entry>
         <entry>saveCustomFormOracle</entry>
         <entry>TestFieldElement</entry>
@@ -858,6 +857,7 @@
         <entry>custom_form</entry>
         <entry>client</entry>
         <entry>CustomForm</entry>
+        <entry>save custom form</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
