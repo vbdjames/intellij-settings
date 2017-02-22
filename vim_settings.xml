@@ -42,12 +42,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/war/jnlp/Start.admin.jnlp" timestamp="1487794409513">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/war/jnlp/Start.admin.jnlp" timestamp="1487799854054">
         <mark key="'" line="27" column="39" />
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="35" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/PostgresCustomFormDao.java" timestamp="1476195987780">
         <mark key="'" line="16" column="27" />
@@ -508,12 +508,12 @@
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" timestamp="1487794531979">
-        <mark key="'" line="2716" column="71" />
-        <mark key="[" line="2929" column="12" />
-        <mark key="]" line="2929" column="12" />
-        <mark key="." line="2929" column="12" />
-        <mark key="^" line="2928" column="16" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" timestamp="1487799545581">
+        <mark key="'" line="279" column="51" />
+        <mark key="[" line="2986" column="50" />
+        <mark key="]" line="2986" column="55" />
+        <mark key="." line="2986" column="55" />
+        <mark key="^" line="2986" column="55" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1487777340241">
         <mark key="'" line="133" column="12" />
@@ -683,19 +683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1873" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="2547" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="534" column="50" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
-      <jump line="1740" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="18" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="765" column="6" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="2797" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="1362" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="11076" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="99" column="52" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="1593" column="15" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2091" column="15" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="838" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="13" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextLookupFieldElement.java" />
       <jump line="74" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextLookupFieldElement.java" />
       <jump line="84" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextLookupFieldElement.java" />
@@ -759,8 +746,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" />
       <jump line="70" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" />
       <jump line="2595" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="58" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="279" column="51" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="121" column="53" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="29" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="48" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -779,62 +764,77 @@
       <jump line="2164" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="27" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/war/jnlp/Start.admin.jnlp" />
       <jump line="2854" column="69" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="13" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="27" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="2716" column="71" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="3060" column="53" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="311" column="61" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="275" column="73" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="280" column="61" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="316" column="44" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="13" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="229" column="72" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="327" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="2969" column="57" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="310" column="61" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="2926" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="329" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="128" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="27" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="2927" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="58" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="279" column="51" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RMaWZlY3ljbGUzKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRoaXMuZ2V0TmFtZSgpKTsKICAgICAgICBDdXN0b21Gb3JtIHJldHJpZXZlZCA9IGFkbWluU2VydmljZV8uZ2V0Q3VzdG9tRm9ybU9yYWNsZShmb3JtSWRfKTsKICAgICAgICBhc3NlcnRFcXVhbHMoZm9ybUlkXywgcmV0cmlldmVkLmdldElkKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8c2lnbmphciBqYXI9IiR7amJvc3Muc2VydmVyLmxpYn0vaGliZXJuYXRlMy5qYXIiCiAgICAgICAgICAgIGtleXN0b3JlPSIke2tleXN0b3JlLm5hbWV9IiBhbGlhcz0iJHtrZXlzdG9yZS5hbGlhc30iCiAgICAgICAgICAgIHN0b3JlcGFzcz0iJHtrZXlzdG9yZS5wYXNzd29yZH0iIGtleXBhc3M9IiR7a2V5LnBhc3N3b3JkfSIvPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>sign-jboss-jars</text>
+        <text>hibernate3</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RMaWZlY3ljbGUzKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRoaXMuZ2V0TmFtZSgpKTsKICAgICAgICBDdXN0b21Gb3JtIHJldHJpZXZlZCA9IGFkbWluU2VydmljZV8uZ2V0Q3VzdG9tRm9ybU9yYWNsZShmb3JtSWRfKTsKICAgICAgICBhc3NlcnRFcXVhbHMoZm9ybUlkXywgcmV0cmlldmVkLmdldElkKCkpOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>nBkseA2VntTCMxA</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8c2lnbmphciBqYXI9IiR7amJvc3Muc2VydmVyLmxpYn0vaGliZXJuYXRlMy5qYXIiCiAgICAgICAgICAgIGtleXN0b3JlPSIke2tleXN0b3JlLm5hbWV9IiBhbGlhcz0iJHtrZXlzdG9yZS5hbGlhc30iCiAgICAgICAgICAgIHN0b3JlcGFzcz0iJHtrZXlzdG9yZS5wYXNzd29yZH0iIGtleXBhc3M9IiR7a2V5LnBhc3N3b3JkfSIvPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIFRPRE86ZHdqIC0gaXMgdGhpcyByaWdodD8gYWNjZXB0YWJsZT8gLS0+CiAgICAgICAgPGNvcHkgZmlsZT0iJHtqYm9zcy5zZXJ2ZXIubGlifS9oaWJlcm5hdGUzLmphciIKICAgICAgICAgICAgICB0b2ZpbGU9IiR7d2FyLmJ1aWxkLmRpcn0vJHt3ZWItaW5mLmRpcn0vbGliL2hpYmVybmF0ZTMuamFyIgogICAgICAgICAgICAgIHByZXNlcnZlbGFzdG1vZGlmaWVkPSJ0cnVlIiBvdmVyd3JpdGU9InRydWUiLz4K</text>
+        <text encoding="base64">ICAgIDx0YXJnZXQgbmFtZT0iZm9vIj4KICAgICAgICA8c2lnbmphciBqYXI9IiR7amJvc3Muc2VydmVyLmxpYn0vaGliZXJuYXRlMy5qYXIiCiAgICAgICAgICAgICAgICAgc2lnbmVkamFyPSIke2pib3NzLmNsaWVudH0vaGliZXJuYXRlMy5qYXIiCiAgICA8L3RhcmdldD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIFRPRE86ZHdqIC0gaXMgdGhpcyByaWdodD8gYWNjZXB0YWJsZT8gLS0+CiAgICAgICAgPGNvcHkgZmlsZT0iJHtqYm9zcy5zZXJ2ZXIubGlifS9oaWJlcm5hdGUzLmphciIKICAgICAgICAgICAgICB0b2ZpbGU9IiR7d2FyLmJ1aWxkLmRpcn0vJHt3ZWItaW5mLmRpcn0vbGliL2hpYmVybmF0ZTMuamFyIgogICAgICAgICAgICAgIHByZXNlcnZlbGFzdG1vZGlmaWVkPSJ0cnVlIiBvdmVyd3JpdGU9InRydWUiLz4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cGF0aGVsZW1lbnQgbG9jYXRpb249IiR7amJvc3Muc2VydmVyLmxpYn0vaGliZXJuYXRlMy5qYXIiLz4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIFRPRE86ZHdqIC0gaXMgdGhpcyByaWdodD8gYWNjZXB0YWJsZT8gLS0+CiAgICAgICAgPGNvcHkgZmlsZT0iJHtqYm9zcy5zZXJ2ZXIubGlifS9oaWJlcm5hdGUzLmphciIKICAgICAgICAgICAgICB0b2ZpbGU9IiR7d2FyLmJ1aWxkLmRpcn0vJHt3ZWItaW5mLmRpcn0vbGliL2hpYmVybmF0ZTMuamFyIgogICAgICAgICAgICAgIHByZXNlcnZlbGFzdG1vZGlmaWVkPSJ0cnVlIiBvdmVyd3JpdGU9InRydWUiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDdXN0b21Gb3JtRHRvIGdldER0bygpIHsKICAgICAgICByZXR1cm4gbmV3IEN1c3RvbUZvcm1EdG8oKQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIFRPRE86ZHdqIC0gaXMgdGhpcyByaWdodD8gYWNjZXB0YWJsZT8gLS0+CiAgICAgICAgPGNvcHkgZmlsZT0iJHtqYm9zcy5zZXJ2ZXIubGlifS9oaWJlcm5hdGUzLmphciIKICAgICAgICAgICAgICB0b2ZpbGU9IiR7d2FyLmJ1aWxkLmRpcn0vJHt3ZWItaW5mLmRpcn0vbGliL2hpYmVybmF0ZTMuamFyIgogICAgICAgICAgICAgIHByZXNlcnZlbGFzdG1vZGlmaWVkPSJ0cnVlIiBvdmVyd3JpdGU9InRydWUiLz4KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDdXN0b21Gb3JtRHRvIGdldER0bygpIHsKICAgICAgICByZXR1cm4gbmV3IEN1c3RvbUZvcm1EdG8oKQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICA8cGF0aGVsZW1lbnQgbG9jYXRpb249IiR7amJvc3Muc2VydmVyLmxpYn0vaGliZXJuYXRlMy5qYXIiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8tRFdKIC0gdGhpcyBsb29rcyB0byBiZSB0aGUgc291cmNlIG9mIG91ciBwcm9ibGVtCiAgICAgICAgLy8gd2UncmUgYWJhbmRvbmluZyB0aGUgY29sbGN0aW9uIGZvciBzb21lIHJlYXNvbiAoZm9yIHRoZSBjbGllbnQpLAogICAgICAgIC8vIGJ1dCBpdCBraWxscyBIaWJlcm5hdGUhISEKICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJkamFtZXMiKS5pbmZvKCI9PT0+IHNldHRpbmcgdmFyaWFibGVzISIpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDdXN0b21Gb3JtRHRvIGdldER0bygpIHsKICAgICAgICByZXR1cm4gbmV3IEN1c3RvbUZvcm1EdG8oKQogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIExvZ2dlci5nZXRBbm9ueW1vdXNMb2dnZXIoKS5pbmZvKCI9PT4gdGhyZXcgIiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgdGhyb3cgZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDdXN0b21Gb3JtRHRvIGdldER0bygpIHsKICAgICAgICByZXR1cm4gbmV3IEN1c3RvbUZvcm1EdG8oKQogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8tRFdKIC0gdGhpcyBsb29rcyB0byBiZSB0aGUgc291cmNlIG9mIG91ciBwcm9ibGVtCiAgICAgICAgLy8gd2UncmUgYWJhbmRvbmluZyB0aGUgY29sbGN0aW9uIGZvciBzb21lIHJlYXNvbiAoZm9yIHRoZSBjbGllbnQpLAogICAgICAgIC8vIGJ1dCBpdCBraWxscyBIaWJlcm5hdGUhISEKICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJkamFtZXMiKS5pbmZvKCI9PT0+IHNldHRpbmcgdmFyaWFibGVzISIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sign-jboss-jars</last-search>
+      <last-search>hibernate3</last-search>
       <last-offset />
-      <last-pattern>sign-jboss-jars</last-pattern>
+      <last-pattern>hibernate3</last-pattern>
       <last-replace encoding="base64">InNlcXVlbmNlIj5ccjxwYXJhbSBuYW1lPSJzZXF1ZW5jZSI+ZWNob19zZXF1ZW5jZTxcL3BhcmFtPlxyPFwvZ2VuZXJhdG9yPg==</last-replace>
       <last-substitute encoding="base64">Im5hdGl2ZSJcLz4=</last-substitute>
       <last-dir>1</last-dir>
@@ -842,26 +842,26 @@
     </search>
     <history>
       <history-search>
-        <entry>items</entry>
-        <entry>setitems</entry>
-        <entry>setItems</entry>
-        <entry>currency</entry>
-        <entry>Oracle</entry>
-        <entry>deleteCustomFormOracle</entry>
-        <entry>TextPaneElement</entry>
         <entry>TextPaneElementVariable</entry>
         <entry>saveNew</entry>
         <entry>saveCustomForm</entry>
         <entry>saveCustomFormOracle</entry>
         <entry>setVariables</entry>
-        <entry>hibernate3</entry>
         <entry>client</entry>
         <entry>copy-jboss-jars-for-war</entry>
         <entry>DWJ</entry>
         <entry>dwj</entry>
-        <entry>sign</entry>
         <entry>signs</entry>
         <entry>sign-jboss-jars</entry>
+        <entry>annotations</entry>
+        <entry>sign</entry>
+        <entry>keystore.name</entry>
+        <entry>key.password</entry>
+        <entry>war.certificate.</entry>
+        <entry>jboss-signer</entry>
+        <entry>jboss-sign</entry>
+        <entry>sign-jboss</entry>
+        <entry>hibernate3</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
