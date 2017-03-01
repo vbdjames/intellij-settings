@@ -342,6 +342,13 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1488377240036">
+        <mark key="'" line="925" column="25" />
+        <mark key="[" line="15271" column="31" />
+        <mark key="]" line="15271" column="29" />
+        <mark key="^" line="15271" column="29" />
+        <mark key="." line="15271" column="29" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1484067503879">
         <mark key="'" line="4287" column="58" />
         <mark key="[" line="7168" column="37" />
@@ -487,15 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ComboBoxElement.java" />
-      <jump line="191" column="4" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ComboBoxElement.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ComboBoxElement.java" />
-      <jump line="402" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" />
-      <jump line="233" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/adminui/FormEditorPanel.java" />
-      <jump line="54" column="28" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
-      <jump line="219" column="7" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElement.java" />
-      <jump line="364" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElement.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElement.java" />
       <jump line="47" column="72" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElement.java" />
       <jump line="207" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElement.java" />
       <jump line="288" column="30" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextLookupFieldElement.java" />
@@ -584,9 +582,18 @@
       <jump line="1260" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1166" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1645" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1482" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1670" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="24" column="29" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="8815" column="6" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="8902" column="15" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="15267" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="15423" column="69" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="794" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="831" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="873" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="925" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -596,7 +603,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>deleteOracle</text>
+        <text>Copy PostgreSQL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPG5hbWU+Y29weVBvc3RncmVzQ3VzdG9tRm9ybVRvT3JhY2xlPC9uYW1lPgogICAgICA8cGFyYW1ldGVyPgoJICAgICA8ZGVzY3JpcHRpb24+RGF0YWJhc2UgSUQgb2YgZm9ybS48L2Rlc2NyaXB0aW9uPgoJICAgICA8bmFtZT5mb3JtSWQ8L25hbWU+CgkgICAgIDx0eXBlPmphdmEubGFuZy5Mb25nPC90eXBlPgoJICA8L3BhcmFtZXRlcj4KICAgICAgPHJldHVybi10eXBlPnZvaWQ8L3JldHVybi10eXBlPgo=</text>
@@ -636,9 +643,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deleteOracle</last-search>
+      <last-search>Copy PostgreSQL</last-search>
       <last-offset />
-      <last-pattern>deleteOracle</last-pattern>
+      <last-pattern>Copy PostgreSQL</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -646,11 +653,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setItems</entry>
-        <entry>columns</entry>
-        <entry>setColumns</entry>
-        <entry>setUrl</entry>
-        <entry>items</entry>
         <entry>=--</entry>
         <entry>---</entry>
         <entry>==</entry>
@@ -666,6 +668,11 @@
         <entry>deleteOracleCustomForm</entry>
         <entry>deleteCustomFormOr</entry>
         <entry>deleteOracle</entry>
+        <entry>Hibernate SessionFactory</entry>
+        <entry>save</entry>
+        <entry>saveCustomForm</entry>
+        <entry>saveNewCustomFormOracle</entry>
+        <entry>Copy PostgreSQL</entry>
       </history-search>
       <history-cmd>
         <entry>911</entry>
