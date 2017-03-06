@@ -23,6 +23,12 @@
         <mark key="." line="34" column="43" />
         <mark key="^" line="34" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/dao/TestHibernateCleaner.java" timestamp="1488813517395">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/ear/META-INF/orm.xml" timestamp="1481916833485">
         <mark key="'" line="349" column="27" />
         <mark key="[" line="9" column="28" />
@@ -68,12 +74,11 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1488808860247">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" timestamp="1488814342154">
         <mark key="'" line="47" column="22" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="47" column="22" />
+        <mark key="[" line="62" column="16" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/pom.xml" timestamp="1482349005299">
         <mark key="'" line="0" column="0" />
@@ -284,11 +289,12 @@
         <mark key="^" line="7168" column="60" />
         <mark key="." line="7168" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1488810624965">
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1488813660117">
         <mark key="'" line="99" column="40" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1479220149340">
         <mark key="'" line="413" column="44" />
@@ -699,7 +705,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5kYW8uSGliZXJuYXRlQ2xlYW5lcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVsZW1lbnQuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Tm90UGVyZm9ybWVkRXhjZXB0aW9uLCA=</text>
@@ -708,37 +714,37 @@
         <text>getCustomFormOracle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cobmV3IFVuaGFuZGxlZEV4Y2VwdGlvbih0aHJvd2FibGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9vLmdldFZhcmlhYmxlcygpLmdldENsYXNzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5kYW8uSGliZXJuYXRlQ2xlYW5lcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVsZW1lbnQuZ2V0Q2xhc3MoKS5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5wbHVnaW4yLm1lc3NhZ2UuU2VyaWFsaXplcjsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RIaWJlcm5hdGVDbGVhbmVyKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgQ3VzdG9tRm9ybSBmb3JtID0gbmV3IEN1c3RvbUZvcm1CdWlsZGVyKCkKLy8gICAgICAgICAgICAgICAgLndpdGhFbGVtZW50KGVsMSkKLy8gICAgICAgICAgICAgICAgLndpdGhFbGVtZW50KGVsMikKICAgICAgICAgICAgICAgIC5idWlsZCgpOwoKICAgICAgICBmb3JtID0gc2F2ZUN1c3RvbUZvcm0oZm9ybSk7CiAgICAgICAgQ3VzdG9tRm9ybSBmb3VuZCA9IGdldEN1c3RvbUZvcm0oZm9ybS5nZXRJZCgpKTsKCiAgICAgICAgYXNzZXJ0VHJ1ZShIaWJlcm5hdGVDbGVhbmVyLmNsZWFuT2JqZWN0KGZvcm0pKTsKICAgICAgICAKICAgICAgICBhc3NlcnRGYWxzZShIaWJlcm5hdGVDbGVhbmVyLmNsZWFuT2JqZWN0KGZvcm0pKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShoYXNQZXJzaXN0ZW50Q29sbGVjdGlvbihmb3VuZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZWxlbWVudHMudG9BcnJheSgpWzJdLmdldENsYXNzKCkuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGhhc1BlcnNpc3RlbnRDb2xsZWN0aW9uKGZvdW5kKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBoYXNQZXJzaXN0ZW50Q29sbGVjdGlvbihDdXN0b21Gb3JtIGZvcm0pIHsKICAgICAgICBib29sZWFuIGZvdW5kID0gZmFsc2U7CiAgICAgICAgaWYgKGZvcm0gIT0gbnVsbCkgewogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgfQogICAgICAgIHJldHVybiBmb3VuZDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRm9vKCkgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm1BZnRlciA9IGZvcm0uCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5kYW8uSGliZXJuYXRlQ2xlYW5lcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
