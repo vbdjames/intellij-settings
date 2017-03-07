@@ -390,6 +390,9 @@
         <mark key="." line="837" column="6" />
         <mark key="^" line="837" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1488905550841">
+        <mark key="'" line="2515" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1476813084484">
         <mark key="'" line="564" column="36" />
         <mark key="[" line="2700" column="54" />
@@ -599,10 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="509" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="348" column="58" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="143" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="225" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="112" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="117" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
@@ -699,6 +698,10 @@
       <jump line="304" column="29" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceLocal.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceLocal.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" />
+      <jump line="110" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="2342" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="2489" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="2515" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -708,7 +711,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>deleteCustomForm</text>
+        <text>getScheduledMessageDelivery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMob3JnLmhpYmVybmF0ZS5jb2xsZWN0aW9uLlBlcnNpc3RlbnRMaXN0LmNsYXNzLCBlbC5nZXRDbGFzcygpKTsK</text>
@@ -748,9 +751,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deleteCustomForm</last-search>
+      <last-search>getScheduledMessageDelivery</last-search>
       <last-offset />
-      <last-pattern>deleteCustomForm</last-pattern>
+      <last-pattern>getScheduledMessageDelivery</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -758,7 +761,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FORM_SELECTION_LIST_ITEM</entry>
         <entry>SelectionListElementItem</entry>
         <entry encoding="base64">PGxpc3Q=</entry>
         <entry>CreateException</entry>
@@ -778,6 +780,7 @@
         <entry>UserTransaction</entry>
         <entry>tx.</entry>
         <entry>deleteCustomForm</entry>
+        <entry>getScheduledMessageDelivery</entry>
       </history-search>
       <history-cmd>
         <entry>4109</entry>
