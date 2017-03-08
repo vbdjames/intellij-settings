@@ -200,11 +200,12 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/admin/AccountAttributes.java" timestamp="1489009649819">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/admin/AccountAttributes.java" timestamp="1489009933125">
+        <mark key="'" line="47" column="23" />
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="30" />
         <mark key="^" line="46" column="3" />
-        <mark key="." line="47" column="0" />
+        <mark key="." line="47" column="22" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1488920574926">
         <mark key="e" line="902" column="0" />
@@ -707,14 +708,14 @@
       <jump line="2515" column="19" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="2563" column="38" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="47" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/admin/AccountAttributes.java" />
+      <jump line="47" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/admin/AccountAttributes.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
         <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bnVzZWQiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>getScheduledMessageDelivery(</text>
@@ -753,7 +754,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogVGVtcG9yYXJ5IHRlc3RpbmcgbWV0aG9kLgogICAgICovCiAgICBwdWJsaWMgQ3VzdG9tRm9ybSBzYXZlQ3VzdG9tRm9ybU9yYWNsZShDdXN0b21Gb3JtIGZvcm0pIHRocm93cyBEYXRhYmFzZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIHRoaXMuY3VzdG9tRm9ybVNlcnZpY2VMb2NhbF8uc2F2ZUN1c3RvbUZvcm1PcmFjbGUoZm9ybSk7CiAgICB9CgogICAgLyoqCiAgICAgKiBUZW1wb3JhcnkgdGVzdGluZyBtZXRob2QuCiAgICAgKi8KICAgIHB1YmxpYyBDdXN0b21Gb3JtIGdldEN1c3RvbUZvcm1PcmFjbGUoTG9uZyBpZCkgdGhyb3dzIE5vdEZvdW5kRXhjZXB0aW9uLCBVbmhhbmRsZWRFeGNlcHRpb24gewogICAgICAgIHJldHVybiB0aGlzLmN1c3RvbUZvcm1TZXJ2aWNlTG9jYWxfLmdldEN1c3RvbUZvcm1PcmFjbGUoaWQpOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -801,7 +802,6 @@
         <entry>1268</entry>
         <entry encoding="base64">JzwsJz5zL2l0ZW1zL2NvbHVtbnMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2l0ZW1zL3VybFBhcmFtZXRlcnMvZw==</entry>
-        <entry>q</entry>
         <entry>969</entry>
         <entry>1646</entry>
         <entry>3007</entry>
@@ -809,6 +809,7 @@
         <entry>4026</entry>
         <entry>w</entry>
         <entry>set surround</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
