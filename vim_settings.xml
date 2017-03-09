@@ -739,7 +739,7 @@
         <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="/" type="4">
-        <text>columns</text>
+        <text>noactive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVuaGFuZGxlZEV4Y2VwdGlvbihlLmdldE1lc3NhZ2UoKSk7Cg==</text>
@@ -779,9 +779,9 @@
       </register>
     </registers>
     <search>
-      <last-search>columns</last-search>
+      <last-search>noactive</last-search>
       <last-offset />
-      <last-pattern>columns</last-pattern>
+      <last-pattern>noactive</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -789,8 +789,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveCustomFormORacle</entry>
-        <entry>tx</entry>
         <entry>tx.begin</entry>
         <entry>UserTransaction</entry>
         <entry>deleteCustomForm</entry>
@@ -809,6 +807,8 @@
         <entry>save</entry>
         <entry>variables</entry>
         <entry>columns</entry>
+        <entry>no active</entry>
+        <entry>noactive</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxwcm9wZXJ0eSBuYW1lPS8uc2V0UHJvcGVydHkoL2c=</entry>
