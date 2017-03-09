@@ -208,13 +208,6 @@
         <mark key="^" line="46" column="3" />
         <mark key="." line="47" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1488920574926">
-        <mark key="e" line="902" column="0" />
-        <mark key="'" line="82" column="16" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-db.sql" timestamp="1487088324606">
         <mark key="'" line="125" column="67" />
         <mark key="[" line="150" column="34" />
@@ -422,6 +415,9 @@
         <mark key="^" line="2677" column="6" />
         <mark key="." line="2677" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageDeliveryInstruction.java" timestamp="1489094545475">
+        <mark key="'" line="33" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/AbstractDao.java" timestamp="1488916943591">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="39" column="0" />
@@ -626,7 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="85" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="851" column="44" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.java" />
@@ -726,6 +721,7 @@
       <jump line="0" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="46" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" />
       <jump line="199" column="6" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageDeliveryInstruction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -735,7 +731,7 @@
         <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
-        <text>noactive</text>
+        <text>equal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYoIXdhc05vQWN0aXZlSW50ZXJ2YWxGb3VuZCAmJiBkZWxpdmVyeUlkID09IG51bGwpIHsK</text>
@@ -775,9 +771,9 @@
       </register>
     </registers>
     <search>
-      <last-search>noactive</last-search>
+      <last-search>equal</last-search>
       <last-offset />
-      <last-pattern>noactive</last-pattern>
+      <last-pattern>equal</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -785,7 +781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tx.begin</entry>
         <entry>UserTransaction</entry>
         <entry>deleteCustomForm</entry>
         <entry>getScheduledMessageDelivery</entry>
@@ -805,6 +800,7 @@
         <entry>columns</entry>
         <entry>no active</entry>
         <entry>noactive</entry>
+        <entry>equal</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyB2YWx1ZT0vLCAvZw==</entry>
