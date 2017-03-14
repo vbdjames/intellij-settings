@@ -365,6 +365,9 @@
         <mark key="." line="201" column="7" />
         <mark key="^" line="201" column="7" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageDeliverySchedule.java" timestamp="1489496661962">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/AssignedSequenceGenerator.java" timestamp="1488572693824">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -431,13 +434,6 @@
         <mark key="]" line="266" column="60" />
         <mark key="." line="266" column="60" />
         <mark key="^" line="266" column="60" />
-      </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1489439673440">
-        <mark key="'" line="10925" column="14" />
-        <mark key="[" line="15458" column="55" />
-        <mark key="]" line="15459" column="57" />
-        <mark key="." line="15459" column="57" />
-        <mark key="^" line="15459" column="57" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1484067503879">
         <mark key="'" line="4287" column="58" />
@@ -628,12 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="524" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="592" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="724" column="52" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="968" column="35" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="1990" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2341" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="2444" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="2573" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="2781" column="26" filename="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -681,7 +671,6 @@
       <jump line="184" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="46" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/CustomFormIT.java" />
       <jump line="33" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageDeliveryInstruction.java" />
-      <jump line="199" column="61" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="3560" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="10979" column="58" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="15242" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -725,9 +714,16 @@
       <jump line="48" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="15461" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="15548" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="70" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="10925" column="14" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="15462" column="39" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="10925" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="205" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="10916" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="199" column="22" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="333" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageDeliverySchedule.java" />
+      <jump line="332" column="55" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageDeliverySchedule.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageDeliverySchedule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -737,7 +733,7 @@
         <text>j.</text>
       </register>
       <register name="/" type="4">
-        <text>HibernateCleaner</text>
+        <text>oneTimeIntervals_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbG9uZXJfLnJlZ2lzdGVyRmFzdENsb25lcihQZXJzaXN0ZW50TGlzdC5jbGFzcywgbmV3IEZhc3RDbG9uZXJQZXJzaXN0ZW50TGlzdCgpKTsK</text>
@@ -777,9 +773,9 @@
       </register>
     </registers>
     <search>
-      <last-search>HibernateCleaner</last-search>
+      <last-search>oneTimeIntervals_</last-search>
       <last-offset />
-      <last-pattern>HibernateCleaner</last-pattern>
+      <last-pattern>oneTimeIntervals_</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -787,9 +783,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PDw8</entry>
-        <entry>getCustomForm</entry>
-        <entry>deleteCustomFormOracle</entry>
         <entry>saveCustomFormOracle</entry>
         <entry>getScheduledMessageDelivery(</entry>
         <entry>tx.</entry>
@@ -800,13 +793,16 @@
         <entry>noactive</entry>
         <entry>equal</entry>
         <entry>client</entry>
-        <entry>getCustomFormOracle</entry>
         <entry>commons</entry>
         <entry>jasper</entry>
         <entry>Cloner</entry>
         <entry>cloner</entry>
         <entry>cloner_</entry>
         <entry>HibernateCleaner</entry>
+        <entry>doesFormExist</entry>
+        <entry>findById</entry>
+        <entry>getCustomFormOracle</entry>
+        <entry>oneTimeIntervals_</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wvPi8pL2c=</entry>
