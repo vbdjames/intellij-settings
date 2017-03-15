@@ -520,8 +520,11 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1489581649321">
-        <mark key="[" line="103" column="1" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1489582882511">
+        <mark key="'" line="1248" column="12" />
+        <mark key="]" line="1248" column="14" />
+        <mark key="^" line="1248" column="14" />
+        <mark key="." line="1248" column="14" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1476813084484">
         <mark key="'" line="564" column="36" />
@@ -638,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="6489" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="118" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="228" column="47" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
@@ -738,6 +740,7 @@
       <jump line="196" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="201" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="202" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="1248" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -747,7 +750,7 @@
         <text>ejb3.EJBContainer;</text>
       </register>
       <register name="/" type="4">
-        <text>UserServiceLocal</text>
+        <text>mostRecent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbG9uZXJfLnJlZ2lzdGVyRmFzdENsb25lcihQZXJzaXN0ZW50TGlzdC5jbGFzcywgbmV3IEZhc3RDbG9uZXJQZXJzaXN0ZW50TGlzdCgpKTsK</text>
@@ -787,9 +790,9 @@
       </register>
     </registers>
     <search>
-      <last-search>UserServiceLocal</last-search>
+      <last-search>mostRecent</last-search>
       <last-offset />
-      <last-pattern>UserServiceLocal</last-pattern>
+      <last-pattern>mostRecent</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -797,7 +800,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no active</entry>
         <entry>noactive</entry>
         <entry>equal</entry>
         <entry>client</entry>
@@ -817,6 +819,7 @@
         <entry>getScheduledMessageDelivery</entry>
         <entry>dispatchType_</entry>
         <entry>UserServiceLocal</entry>
+        <entry>mostRecent</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wvPi8pL2c=</entry>
