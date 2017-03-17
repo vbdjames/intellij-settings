@@ -406,12 +406,12 @@
         <mark key="." line="125" column="67" />
         <mark key="^" line="125" column="67" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1489757754399">
-        <mark key="'" line="430" column="44" />
-        <mark key="[" line="348" column="44" />
-        <mark key="]" line="348" column="58" />
-        <mark key="^" line="348" column="58" />
-        <mark key="." line="348" column="58" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1489763964300">
+        <mark key="'" line="414" column="25" />
+        <mark key="[" line="428" column="71" />
+        <mark key="]" line="428" column="83" />
+        <mark key="^" line="428" column="83" />
+        <mark key="." line="428" column="83" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/ejb/escalation/EscalationServiceBeanTest.java" timestamp="1489590096787">
         <mark key="[" line="21" column="0" />
@@ -602,16 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="2577" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="213" column="53" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="28" column="33" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="24" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="30" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="46" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="88" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="93" column="70" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="111" column="64" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="121" column="59" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="140" column="59" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="147" column="59" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
@@ -698,10 +688,20 @@
       <jump line="416" column="23" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="417" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="422" column="40" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="430" column="44" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="1069" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="13" column="75" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" />
+      <jump line="485" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="430" column="44" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="0" column="20" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="55" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="115" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="120" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="145" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="195" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="227" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="321" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="350" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="414" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -711,7 +711,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>getId</text>
+        <text>one-to-many</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygicmV0dXJuaW5nIGZyb20gZ2VyQ3VzdG9tRm9ybU9yYWNsZVRlc3QiKTsK</text>
@@ -751,9 +751,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getId</last-search>
+      <last-search>one-to-many</last-search>
       <last-offset />
-      <last-pattern>getId</last-pattern>
+      <last-pattern>one-to-many</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -761,7 +761,6 @@
     </search>
     <history>
       <history-search>
-        <entry>junit</entry>
         <entry>test-classpath</entry>
         <entry>build.dir</entry>
         <entry>src</entry>
@@ -779,8 +778,9 @@
         <entry>compil-test</entry>
         <entry>compile</entry>
         <entry>compile-</entry>
-        <entry>SearchDataLayoutItem</entry>
         <entry>getId</entry>
+        <entry>SearchDataLayoutItem</entry>
+        <entry>one-to-many</entry>
       </history-search>
       <history-cmd>
         <entry>540</entry>
