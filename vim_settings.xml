@@ -421,12 +421,12 @@
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" timestamp="1489695096729">
-        <mark key="'" line="422" column="40" />
-        <mark key="[" line="449" column="50" />
-        <mark key="]" line="452" column="49" />
-        <mark key="^" line="452" column="49" />
-        <mark key="." line="452" column="49" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" timestamp="1489777087334">
+        <mark key="'" line="455" column="46" />
+        <mark key="[" line="3109" column="68" />
+        <mark key="]" line="455" column="46" />
+        <mark key="." line="455" column="46" />
+        <mark key="^" line="455" column="46" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" timestamp="1489765883464">
         <mark key="'" line="145" column="16" />
@@ -591,10 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="59" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="26" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="60" column="41" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="69" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="83" column="62" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="71" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="56" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
@@ -660,7 +656,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="338" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="3107" column="74" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="3" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="72" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="100" column="34" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -691,58 +686,63 @@
       <jump line="145" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" />
       <jump line="487" column="68" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="471" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="452" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="3108" column="64" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
+      <jump line="455" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygicmV0dXJuaW5nIGZyb20gZ2VyQ3VzdG9tRm9ybU9yYWNsZVRlc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgaW5jbHVkZXM9IioqL01lc3NhZ2VTZXJ2aWNlQmVhblRlc3QuamF2YSIK</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>SearchDataLayoutItem</text>
+        <text>compile-test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygicmV0dXJuaW5nIGZyb20gZ2VyQ3VzdG9tRm9ybU9yYWNsZVRlc3QiKTsK</text>
+      <register name="0" type="4">
+        <text>**/MessageServiceBeanTest.java</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxmaWxlIGZpbGU9InNyYy90ZXN0L2NvbS9tYXBjb21tdW5pY2F0aW9ucy9tZXNzYWdlL1Rlc3RNZXNzYWdlU2VydmljZUJlYW4uamF2YSIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgaW5jbHVkZXM9IioqL01lc3NhZ2VTZXJ2aWNlQmVhblRlc3QuamF2YSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZmlsZSBmaWxlPSJzcmMvdGVzdC9jb20vbWFwY29tbXVuaWNhdGlvbnMvbWVzc2FnZS9UZXN0TWVzc2FnZVNlcnZpY2VCZWFuLmphdmEiLz4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHBhdGhlbGVtZW50IGxvY2F0aW9uPSIke2pib3NzLnNlcnZlci5saWJ9L2hpYmVybmF0ZTMuamFyIi8+LS0+CiAgICAgICAgPCEtLTxwYXRoZWxlbWVudCBsb2NhdGlvbj0iJHtqYm9zcy5zZXJ2ZXIubGlifS9oaWJlcm5hdGUtYW5ub3RhdGlvbnMuamFyIi8+LS0+CiAgICAgICAgPCEtLTxwYXRoZWxlbWVudCBsb2NhdGlvbj0iJHtqYm9zcy5zZXJ2ZXIubGlifS9oaWJlcm5hdGUtZW50aXR5bWFuYWdlci5qYXIiLz4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHBhdGhlbGVtZW50IGxvY2F0aW9uPSIke2pib3NzLnNlcnZlci5saWJ9L2xvZzRqLmphciIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cGF0aGVsZW1lbnQgbG9jYXRpb249IiR7amJvc3Muc2VydmVyLmxpYn0vamJvc3MtajJlZS5qYXIiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluY2x1ZGVzPSIqKi9NZXNzYWdlU2VydmljZUJlYW5UZXN0LmphdmEiIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cGF0aGVsZW1lbnQgbG9jYXRpb249IiR7amJvc3Muc2VydmVyLmxpYn0vZWpiMy1wZXJzaXN0ZW5jZS5qYXIiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluY2x1ZGVzPSIqKi9NZXNzYWdlU2VydmljZUJlYW5UZXN0LmphdmEiIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxmaWxlIGZpbGU9InNyYy90ZXN0L2NvbS9tYXBjb21tdW5pY2F0aW9ucy9tZXNzYWdlL1Rlc3RNZXNzYWdlU2VydmljZUJlYW4uamF2YSIvPi0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZmlsZSBmaWxlPSJzcmMvdGVzdC9jb20vbWFwY29tbXVuaWNhdGlvbnMvbWVzc2FnZS9UZXN0TWVzc2FnZVNlcnZpY2VCZWFuLmphdmEiLz4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SearchDataLayoutItem</last-search>
+      <last-search>compile-test</last-search>
       <last-offset />
-      <last-pattern>SearchDataLayoutItem</last-pattern>
+      <last-pattern>compile-test</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -754,7 +754,6 @@
         <entry>build.dir</entry>
         <entry>src</entry>
         <entry>compile-adminui</entry>
-        <entry>compile-test</entry>
         <entry>test.classpath</entry>
         <entry>ear-class</entry>
         <entry>classpath-ear</entry>
@@ -770,6 +769,7 @@
         <entry>getId</entry>
         <entry>one-to-many</entry>
         <entry>SearchDataLayoutItem</entry>
+        <entry>compile-test</entry>
       </history-search>
       <history-cmd>
         <entry>540</entry>
