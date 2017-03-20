@@ -238,11 +238,12 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1490015620742">
-        <mark key="'" line="321" column="70" />
-        <mark key="[" line="469" column="43" />
-        <mark key="]" line="469" column="43" />
-        <mark key="." line="469" column="43" />
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1490019911020">
+        <mark key="'" line="130" column="57" />
+        <mark key="[" line="34" column="47" />
+        <mark key="]" line="34" column="51" />
+        <mark key="." line="34" column="51" />
+        <mark key="^" line="34" column="51" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/ejb/escalation/EscalationServiceBeanTest.java" timestamp="1489590096787">
         <mark key="[" line="21" column="0" />
@@ -587,8 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
-      <jump line="56" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="106" column="8" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="31" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
@@ -685,18 +684,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="455" column="46" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="401" column="61" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="321" column="70" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="470" column="43" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="130" column="57" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>O</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>OnCallDispatchComboBoxElementItem</text>
+        <text>DEFAULT_MESSAGE_TAG_SEPARATOR</text>
       </register>
       <register name="0" type="4">
         <text>**/MessageServiceBeanTest.java</text>
@@ -736,9 +737,9 @@
       </register>
     </registers>
     <search>
-      <last-search>OnCallDispatchComboBoxElementItem</last-search>
+      <last-search>DEFAULT_MESSAGE_TAG_SEPARATOR</last-search>
       <last-offset />
-      <last-pattern>OnCallDispatchComboBoxElementItem</last-pattern>
+      <last-pattern>DEFAULT_MESSAGE_TAG_SEPARATOR</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -746,8 +747,6 @@
     </search>
     <history>
       <history-search>
-        <entry>src</entry>
-        <entry>compile-adminui</entry>
         <entry>test.classpath</entry>
         <entry>ear-class</entry>
         <entry>classpath-ear</entry>
@@ -766,6 +765,8 @@
         <entry>compile-test</entry>
         <entry>OnCallDispatchCombo</entry>
         <entry>OnCallDispatchComboBoxElementItem</entry>
+        <entry>FORM_TEXT_PANE</entry>
+        <entry>DEFAULT_MESSAGE_TAG_SEPARATOR</entry>
       </history-search>
       <history-cmd>
         <entry>540</entry>
