@@ -327,12 +327,11 @@
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1490902201404">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2581" column="53" />
-        <mark key="]" line="2578" column="52" />
-        <mark key="^" line="2578" column="52" />
-        <mark key="." line="2578" column="52" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1490905493180">
+        <mark key="'" line="2303" column="16" />
+        <mark key="[" line="2570" column="0" />
+        <mark key="]" line="2570" column="16" />
+        <mark key="." line="2570" column="16" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElementDatum.java" timestamp="1481577024932">
         <mark key="'" line="239" column="0" />
@@ -579,8 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3094" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="67" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="69" column="5" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="112" column="42" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="118" column="54" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -678,7 +675,9 @@
       <jump line="2584" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="98" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="1259" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="2491" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="2303" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -724,7 +723,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -777,9 +776,9 @@
         <entry>w2</entry>
         <entry>ew</entry>
         <entry>5266</entry>
-        <entry>wq</entry>
         <entry>4146</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
