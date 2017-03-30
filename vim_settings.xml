@@ -289,8 +289,8 @@
         <mark key="^" line="7168" column="60" />
         <mark key="." line="7168" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1490125486464">
-        <mark key="'" line="920" column="17" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1490898031996">
+        <mark key="'" line="98" column="50" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1489439299826">
         <mark key="'" line="48" column="0" />
@@ -327,7 +327,7 @@
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1490885955226">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1490898016765">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElementDatum.java" timestamp="1481577024932">
@@ -575,8 +575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3085" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="18" column="27" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="121" column="65" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="3094" column="0" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="67" column="36" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -674,7 +672,9 @@
       <jump line="109" column="20" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="76" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoRestfulServiceBean.java" />
       <jump line="2403" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="2584" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="98" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -684,7 +684,7 @@
         <text encoding="base64">IGVuZHMgdG9vIGVhcmx5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PT0+</text>
+        <text>equals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PT0+IGl0IGVuZHMgdG9vIGVhcmx5Iik7Cg==</text>
@@ -724,9 +724,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PT0+</last-search>
+      <last-search>equals</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PT0+</last-pattern>
+      <last-pattern>equals</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -734,7 +734,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jboss-ejb3x</entry>
         <entry>compil-test</entry>
         <entry>compile</entry>
         <entry>compile-</entry>
@@ -754,6 +753,7 @@
         <entry>sonar</entry>
         <entry>WebResponse</entry>
         <entry encoding="base64">PT0+</entry>
+        <entry>equals</entry>
       </history-search>
       <history-cmd>
         <entry>108</entry>
