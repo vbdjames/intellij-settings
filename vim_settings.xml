@@ -187,12 +187,29 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/alesha/src/BookTitle.java" timestamp="1491014179295">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="18" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo-2/src/java/com/mapcommunications/admin/AccountAttributes.java" timestamp="1489009933125">
         <mark key="'" line="47" column="23" />
         <mark key="[" line="47" column="22" />
         <mark key="]" line="47" column="30" />
         <mark key="^" line="46" column="3" />
         <mark key="." line="47" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/alesha/src/SearchTermHighlighter.java" timestamp="1491013257996">
+        <mark key="[" line="70" column="67" />
+        <mark key="]" line="71" column="35" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="71" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/djames@prod1git.internal/alesha/src/SearchTermHighlighterTest.java" timestamp="1491013503301">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" timestamp="1489695015444">
         <mark key="a" line="33" column="28" />
@@ -683,8 +700,8 @@
       <jump line="273" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGVuZHMgdG9vIGVhcmx5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvdW5kID0gdHJ1ZTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGVuZHMgdG9vIGVhcmx5</text>
@@ -696,37 +713,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PT0+IGl0IGVuZHMgdG9vIGVhcmx5Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvdW5kID0gdHJ1ZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRGV0ZXJtaW5lcyBpZiBhIEN1c3RvbUZvcm0gd2l0aCB0aGUgZ2l2ZW4gaWQgZXhpc3RzIGluIHRoZSBkYXRhIHN0b3JlCiAgICAgKiBAcGFyYW0gaWQgUHJpbWFyeSBrZXkgZm9yIHRoZSBjdXN0b20gZm9ybQogICAgICogQHJldHVybiB0cnVlIGlmIHRoZSByb3cgZXhpc3RzIGluIHRoZSBkYXRhIHN0b3JlLCBmYWxzZSBvdGhlcndpc2UKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBmb3VuZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gaXNFeGlzdHMoTG9uZyBpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGl0bGUxLmdldEhpZ2hsaWdodGVkVGl0bGUoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRpdGxlMi5nZXRIaWdobGlnaHRlZFRpdGxlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09Iik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG91dEZpbGUuY2xvc2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5maW5kQnlJZChpZCkgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIEZpbGUgb3V0RmlsZSA9IG5ldyBGaWxlKG91dHB1dEZpbGUyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgQE92ZXJyaWRlCi8vICAgIHB1YmxpYyBib29sZWFuIGlzRXhpc3RzKExvbmcgaWQpIHsKLy8gICAgICAgIExvbmcgY291bnRzID0gKExvbmcpIGdldEVudGl0eU1hbmFnZXIoKQovLyAgICAgICAgICAgICAgICAuY3JlYXRlUXVlcnkoInNlbGVjdCBjb3VudChjKSBmcm9tIEN1c3RvbUZvcm0gYyB3aGVyZSBjLmlkID0gOmlkIikKLy8gICAgICAgICAgICAgICAgLnNldFBhcmFtZXRlcigiaWQiLCBpZCkKLy8gICAgICAgICAgICAgICAgLmdldFNpbmdsZVJlc3VsdCgpOwovLyAgICAgICAgcmV0dXJuIGNvdW50cyAhPSAwOwovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIW8uZ2V0SGlnaGxpZ2h0ZWRUaXRsZSgpLmVxdWFscyhvLnRvTG93ZXJDYXNlKCkpKXsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAhZ2V0RW50aXR5TWFuYWdlcigpCi8vICAgICAgICAgICAgICAgIC5jcmVhdGVRdWVyeSgic2VsZWN0IGMuaWQgZnJvbSBDdXN0b21Gb3JtIGMgd2hlcmUgYy5pZCA9ID8iKQovLyAgICAgICAgICAgICAgICAuc2V0UGFyYW1ldGVyKDEsIGlkKQovLyAgICAgICAgICAgICAgICAuc2V0TWF4UmVzdWx0cygxKQovLyAgICAgICAgICAgICAgICAuZ2V0UmVzdWx0TGlzdCgpCi8vICAgICAgICAgICAgICAgIC5pc0VtcHR5KCk7Cg==</text>
+        <text encoding="base64">Ci8vICAgICAgICBib29sZWFuIHRlbXA7Ci8vICAgICAgICBpZihvID09IG51bGwpewovLyAgICAgICAgICAgIHRlbXAgPSBmYWxzZTsKLy8gICAgICAgIH0KLy8gICAgICAgIGVsc2UgaWYoby5nZXRDbGFzcygpICE9IHRoaXMuZ2V0Q2xhc3MoKSl7Ci8vICAgICAgICAgICAgdGVtcCA9IGZhbHNlOwovLyAgICAgICAgfQoJCSAvKmVsc2UgaWYoKXsKCQkJIAoJCSB9Ki8KLy8gICAgICAgIGVsc2V7Ci8vICAgICAgICAgICAgdGVtcCA9IHRoaXMuZ2V0SGlnaGxpZ2h0ZWRUaXRsZSgpLmVxdWFscyhvLmdldEhpZ2hsaWdodGVkVGl0bGUoKSk7Ci8vICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29yZHMuYWRkQWxsKHRpdGxlLnNwbGl0KCIgIikpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>71</text>
       </register>
     </registers>
     <search>
@@ -762,8 +779,6 @@
         <entry encoding="base64">PT0+</entry>
       </history-search>
       <history-cmd>
-        <entry>108</entry>
-        <entry>1268</entry>
         <entry encoding="base64">JzwsJz5zL2l0ZW1zL2NvbHVtbnMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2l0ZW1zL3VybFBhcmFtZXRlcnMvZw==</entry>
         <entry>969</entry>
@@ -782,6 +797,8 @@
         <entry>4146</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>15</entry>
+        <entry>71</entry>
       </history-cmd>
       <history-expr />
       <history-input />
