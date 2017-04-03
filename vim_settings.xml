@@ -328,6 +328,12 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" timestamp="1491243905523">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" timestamp="1480974721275">
         <mark key="'" line="367" column="5" />
         <mark key="[" line="419" column="67" />
@@ -342,12 +348,11 @@
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1491242501048">
-        <mark key="'" line="2485" column="27" />
-        <mark key="[" line="2616" column="29" />
-        <mark key="]" line="2596" column="38" />
-        <mark key="." line="2596" column="38" />
-        <mark key="^" line="2596" column="38" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1491243676054">
+        <mark key="[" line="2642" column="0" />
+        <mark key="]" line="2642" column="0" />
+        <mark key="^" line="2634" column="14" />
+        <mark key="." line="2642" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElementDatum.java" timestamp="1481577024932">
         <mark key="'" line="239" column="0" />
@@ -594,9 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3095" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="446" column="18" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="970" column="32" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="3074" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="159" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="336" column="78" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -694,6 +696,9 @@
       <jump line="44" column="7" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/MessageServiceBeanTest.java" />
       <jump line="251" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="2485" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="181" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -703,7 +708,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getScheduledMessageDelivery</text>
+        <text>system</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PT0+IGl0IGVuZHMgdG9vIGVhcmx5Iik7Cg==</text>
@@ -718,34 +723,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKGRlbGl2ZXJ5KTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVsaXZlcnkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlbGl2ZXJ5SWQgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKGRlbGl2ZXJ5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUmV0cmlldmUgb25seSBhY3RpdmUgaW5zdHJ1Y3Rpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVsaXZlcnkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvdW5kID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBmb3VuZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlbGl2ZXJ5SWQgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGl0bGUxLmdldEhpZ2hsaWdodGVkVGl0bGUoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRpdGxlMi5nZXRIaWdobGlnaHRlZFRpdGxlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUmV0cmlldmUgb25seSBhY3RpdmUgaW5zdHJ1Y3Rpb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getScheduledMessageDelivery</last-search>
+      <last-search>system</last-search>
       <last-offset />
-      <last-pattern>getScheduledMessageDelivery</last-pattern>
+      <last-pattern>system</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -753,7 +758,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OnCallDispatchCombo</entry>
         <entry>OnCallDispatchComboBoxElementItem</entry>
         <entry>FORM_TEXT_PANE</entry>
         <entry>DEFAULT_MESSAGE_TAG_SEPARATOR</entry>
@@ -773,6 +777,7 @@
         <entry>identityService_</entry>
         <entry>mocked</entry>
         <entry>getScheduledMessageDelivery</entry>
+        <entry>system</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2l0ZW1zL3VybFBhcmFtZXRlcnMvZw==</entry>
