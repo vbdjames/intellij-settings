@@ -304,6 +304,9 @@
         <mark key="^" line="7168" column="60" />
         <mark key="." line="7168" column="60" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachmentHistory.java" timestamp="1491249161895">
+        <mark key="'" line="14" column="58" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1490898031996">
         <mark key="'" line="98" column="50" />
       </file>
@@ -347,12 +350,6 @@
         <mark key="]" line="28" column="25" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1491243676054">
-        <mark key="[" line="2642" column="0" />
-        <mark key="]" line="2642" column="0" />
-        <mark key="^" line="2634" column="14" />
-        <mark key="." line="2642" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElementDatum.java" timestamp="1481577024932">
         <mark key="'" line="239" column="0" />
@@ -599,8 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3074" column="12" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
-      <jump line="159" column="37" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="336" column="78" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="17" column="61" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="55" column="60" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -699,6 +694,8 @@
       <jump line="181" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="136" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachmentHistory.java" />
+      <jump line="14" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityAttachmentHistory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -708,7 +705,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>system</text>
+        <text>attachment_type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PT0+IGl0IGVuZHMgdG9vIGVhcmx5Iik7Cg==</text>
@@ -748,9 +745,9 @@
       </register>
     </registers>
     <search>
-      <last-search>system</last-search>
+      <last-search>attachment_type</last-search>
       <last-offset />
-      <last-pattern>system</last-pattern>
+      <last-pattern>attachment_type</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -758,8 +755,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OnCallDispatchComboBoxElementItem</entry>
-        <entry>FORM_TEXT_PANE</entry>
         <entry>DEFAULT_MESSAGE_TAG_SEPARATOR</entry>
         <entry>quarantined</entry>
         <entry>compile-test</entry>
@@ -778,6 +773,8 @@
         <entry>mocked</entry>
         <entry>getScheduledMessageDelivery</entry>
         <entry>system</entry>
+        <entry>attachment</entry>
+        <entry>attachment_type</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2l0ZW1zL3VybFBhcmFtZXRlcnMvZw==</entry>
