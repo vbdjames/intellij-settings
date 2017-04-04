@@ -500,12 +500,12 @@
         <mark key="." line="419" column="70" />
         <mark key="^" line="419" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1491325103051">
-        <mark key="'" line="2546" column="22" />
-        <mark key="[" line="2546" column="26" />
-        <mark key="]" line="2546" column="34" />
-        <mark key="." line="2546" column="34" />
-        <mark key="^" line="2546" column="34" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1491327241734">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2308" column="56" />
+        <mark key="]" line="2309" column="55" />
+        <mark key="." line="2309" column="55" />
+        <mark key="^" line="2309" column="55" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1488379414920">
         <mark key="'" line="14" column="44" />
@@ -688,7 +688,6 @@
       <jump line="480" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="526" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="747" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="44" column="7" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/MessageServiceBeanTest.java" />
       <jump line="251" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="2485" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -732,10 +731,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="5200" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="5199" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="2546" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="956" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="978" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="990" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
+      <jump line="2546" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -745,7 +745,7 @@
         <text encoding="base64">Z2V0IHNjaGVkdWxlZCBtZXNzYWdlIGRlbGl2ZXJ5IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getRoutine</text>
+        <text>getRoutineMessageDelivery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBnZXQgc2NoZWR1bGVkIG1lc3NhZ2UgZGVsaXZlcnkgQCAiICsgcmVxdWVzdERhdGUgKwogICAgICAgICAgICAgICAgIiAiICsgcmVxdWVzdE1pbnV0ZSk7Cg==</text>
@@ -785,9 +785,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getRoutine</last-search>
+      <last-search>getRoutineMessageDelivery</last-search>
       <last-offset />
-      <last-pattern>getRoutine</last-pattern>
+      <last-pattern>getRoutineMessageDelivery</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -795,7 +795,6 @@
     </search>
     <history>
       <history-search>
-        <entry>equals</entry>
         <entry>doing</entry>
         <entry>getMessageDeliveryInstructionds</entry>
         <entry>identityService_</entry>
@@ -815,6 +814,7 @@
         <entry encoding="base64">PT0+</entry>
         <entry>getAmd</entry>
         <entry>getRoutine</entry>
+        <entry>getRoutineMessageDelivery</entry>
       </history-search>
       <history-cmd>
         <entry>969</entry>
