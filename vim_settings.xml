@@ -72,12 +72,11 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallSimulationFrame.java" timestamp="1491316779538">
         <mark key="'" line="1396" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1491320917737">
-        <mark key="'" line="5154" column="25" />
-        <mark key="[" line="5223" column="12" />
-        <mark key="]" line="134" column="38" />
-        <mark key="^" line="134" column="38" />
-        <mark key="." line="134" column="38" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1491325558732">
+        <mark key="'" line="5199" column="22" />
+        <mark key="[" line="5223" column="0" />
+        <mark key="]" line="5223" column="0" />
+        <mark key="." line="5223" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" timestamp="1487087123436">
         <mark key="'" line="419" column="15" />
@@ -494,12 +493,12 @@
         <mark key="." line="419" column="70" />
         <mark key="^" line="419" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1491319364463">
-        <mark key="'" line="2489" column="0" />
-        <mark key="[" line="2546" column="0" />
-        <mark key="]" line="2547" column="36" />
-        <mark key="." line="2547" column="36" />
-        <mark key="^" line="2547" column="36" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1491325103051">
+        <mark key="'" line="2546" column="22" />
+        <mark key="[" line="2546" column="26" />
+        <mark key="]" line="2546" column="34" />
+        <mark key="." line="2546" column="34" />
+        <mark key="^" line="2546" column="34" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1488379414920">
         <mark key="'" line="14" column="44" />
@@ -600,11 +599,12 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1491319095004">
-        <mark key="[" line="3003" column="74" />
-        <mark key="]" line="3003" column="70" />
-        <mark key="." line="3003" column="70" />
-        <mark key="^" line="3003" column="70" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1491325045826">
+        <mark key="'" line="3003" column="23" />
+        <mark key="[" line="3003" column="28" />
+        <mark key="]" line="3004" column="0" />
+        <mark key="." line="3004" column="0" />
+        <mark key="^" line="3004" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/MessageDeliveryRosterDetails.java" timestamp="1479220040318">
         <mark key="'" line="87" column="0" />
@@ -629,15 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="227" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="350" column="21" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="414" column="25" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="55" column="13" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="115" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="120" column="17" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="430" column="44" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="145" column="16" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" />
       <jump line="487" column="68" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="471" column="49" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
       <jump line="452" column="45" filename="$USER_HOME$/Code/djames@prod1git.internal/echo/build.xml" />
@@ -729,58 +720,67 @@
       <jump line="5154" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="89" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
       <jump line="457" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
+      <jump line="2998" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="3004" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="3003" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="5222" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="5200" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="5199" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="2546" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBnZXQgc2NoZWR1bGVkIG1lc3NhZ2UgZGVsaXZlcnkgQCAiICsgcmVxdWVzdERhdGUgKwogICAgICAgICAgICAgICAgIiAiICsgcmVxdWVzdE1pbnV0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogc28gaGVyZSdzIHdoZXJlIHdlIGFkanVzdCB0byBzY2hlZHVsZSB0aW1lem9uZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Z2V0IHNjaGVkdWxlZCBtZXNzYWdlIGRlbGl2ZXJ5IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getOnCallScheduleInfo</text>
+        <text encoding="base64">PT0+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBnZXQgc2NoZWR1bGVkIG1lc3NhZ2UgZGVsaXZlcnkgQCAiICsgcmVxdWVzdERhdGUgKwogICAgICAgICAgICAgICAgIiAiICsgcmVxdWVzdE1pbnV0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBnZXQgc2NoZWR1bGVkIG1lc3NhZ2UgZGVsaXZlcnkgQCAiICsgcmVxdWVzdFRpbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogc28gaGVyZSdzIHdoZXJlIHdlIGFkanVzdCB0byBzY2hlZHVsZSB0aW1lem9uZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBnZXQgc2NoZWR1bGVkIG1lc3NhZ2UgZGVsaXZlcnkgQCAiICsgcmVxdWVzdFRpbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBnZXQgc2NoZWR1bGVkIG1lc3NhZ2UgZGVsaXZlcnkgQCAiICsgcmVxdWVzdFRpbWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBnZXQgc2NoZWR1bGVkIG1lc3NhZ2UgZGVsaXZlcnkgQCAiICsgcmVxdWVzdFRpbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVsaXZlcnkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKGRlbGl2ZXJ5KTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVsaXZlcnkpOwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKGRlbGl2ZXJ5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getOnCallScheduleInfo</last-search>
+      <last-search encoding="base64">PT0+</last-search>
       <last-offset />
-      <last-pattern>getOnCallScheduleInfo</last-pattern>
+      <last-pattern encoding="base64">PT0+</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -788,11 +788,9 @@
     </search>
     <history>
       <history-search>
-        <entry>test.classpath</entry>
         <entry>sonar</entry>
         <entry>WebResponse</entry>
         <entry>equals</entry>
-        <entry encoding="base64">PT0+</entry>
         <entry>doing</entry>
         <entry>getMessageDeliveryInstructionds</entry>
         <entry>identityService_</entry>
@@ -808,6 +806,8 @@
         <entry>onCallScheduleServiceLocal</entry>
         <entry>getOnCallSched</entry>
         <entry>getOnCallScheduleInfo</entry>
+        <entry encoding="base64">PT4=</entry>
+        <entry encoding="base64">PT0+</entry>
       </history-search>
       <history-cmd>
         <entry>969</entry>
