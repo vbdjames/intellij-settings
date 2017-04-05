@@ -63,12 +63,12 @@
         <mark key="." line="1734" column="18" />
         <mark key="^" line="1734" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1491336152114">
-        <mark key="'" line="2678" column="58" />
-        <mark key="[" line="106" column="56" />
-        <mark key="]" line="106" column="66" />
-        <mark key="^" line="106" column="66" />
-        <mark key="." line="106" column="66" />
+      <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1491418978802">
+        <mark key="'" line="106" column="50" />
+        <mark key="[" line="394" column="64" />
+        <mark key="]" line="393" column="33" />
+        <mark key="^" line="400" column="52" />
+        <mark key="." line="393" column="33" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallSimulationFrame.java" timestamp="1491316779538">
         <mark key="'" line="1396" column="17" />
@@ -500,8 +500,8 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" timestamp="1491415266348">
-        <mark key="'" line="102" column="28" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" timestamp="1491418791963">
+        <mark key="'" line="165" column="16" />
         <mark key="[" line="154" column="72" />
         <mark key="]" line="149" column="37" />
         <mark key="." line="149" column="37" />
@@ -657,7 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="789" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="793" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="796" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="798" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
@@ -745,7 +744,6 @@
       <jump line="119" column="65" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2668" column="58" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="106" column="50" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="1591" column="34" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2665" column="58" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2539" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -757,13 +755,15 @@
       <jump line="101" column="28" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="123" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceLocal.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceLocal.java" />
+      <jump line="106" column="50" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="165" column="16" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGRlbGl2ZXJ5ID0gZGlyZWN0b3J5U2VydmljZUxvY2FsXwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0U2NoZWR1bGVkTWVzc2FnZURlbGl2ZXJ5KGNvbnRhY3QuZ2V0Q29udGFjdCgpLmdldElkKCksCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGVEYXRlLCBzY2hlZHVsZU1pbnV0ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>clean,</text>
       </register>
       <register name="-" type="4">
-        <text>, requestMinute_</text>
+        <text>clean,</text>
       </register>
       <register name="/" type="4">
         <text>getScheduledMessageDelivery</text>
