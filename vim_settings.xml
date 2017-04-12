@@ -739,7 +739,7 @@
         <text>classes</text>
       </register>
       <register name="/" type="4">
-        <text>attachReferenceCustomForm</text>
+        <text>export</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cGF0aGVsZW1lbnQgbG9jYXRpb249IiR7amJvc3Muc2VydmVyLmxpYn0vbG9nNGouamFyIi8+Cg==</text>
@@ -779,9 +779,9 @@
       </register>
     </registers>
     <search>
-      <last-search>attachReferenceCustomForm</last-search>
+      <last-search>export</last-search>
       <last-offset />
-      <last-pattern>attachReferenceCustomForm</last-pattern>
+      <last-pattern>export</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -789,7 +789,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mockedMessageDeliverySchedule</entry>
         <entry>Cmd</entry>
         <entry>cmd</entry>
         <entry>class.build.dir</entry>
@@ -809,6 +808,7 @@
         <entry>Date</entry>
         <entry>attachLookupFormList</entry>
         <entry>attachReferenceCustomForm</entry>
+        <entry>export</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
