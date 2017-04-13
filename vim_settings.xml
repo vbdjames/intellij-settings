@@ -72,8 +72,12 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallSimulationFrame.java" timestamp="1491316779538">
         <mark key="'" line="1396" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1492090639814">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1492106952804">
+        <mark key="'" line="5286" column="58" />
+        <mark key="[" line="5224" column="60" />
+        <mark key="]" line="5226" column="15" />
+        <mark key="." line="5226" column="15" />
+        <mark key="^" line="5226" column="15" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" timestamp="1487087123436">
         <mark key="'" line="419" column="15" />
@@ -479,12 +483,12 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" timestamp="1491418791963">
-        <mark key="'" line="165" column="16" />
-        <mark key="[" line="154" column="72" />
-        <mark key="]" line="149" column="37" />
-        <mark key="." line="149" column="37" />
-        <mark key="^" line="149" column="37" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" timestamp="1492106840261">
+        <mark key="'" line="143" column="4" />
+        <mark key="[" line="68" column="67" />
+        <mark key="]" line="143" column="4" />
+        <mark key="." line="143" column="4" />
+        <mark key="^" line="143" column="4" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" timestamp="1480974721275">
         <mark key="'" line="367" column="5" />
@@ -518,6 +522,9 @@
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" timestamp="1492107058944">
+        <mark key="[" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/src/main/java/com/mapcommunications/daopoc/dao/FooOracleDao.java" timestamp="1479842223382">
         <mark key="'" line="0" column="0" />
@@ -639,13 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5154" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="89" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
-      <jump line="457" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
-      <jump line="3004" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="3003" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="5222" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="5200" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="5199" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="956" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
       <jump line="978" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoServiceBean.java" />
@@ -739,58 +739,65 @@
       <jump line="345" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="106" column="2" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="5215" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="5216" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="5219" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="5224" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="5234" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="5286" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="143" column="4" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgamF2YS51dGlsLkRhdGUgc2NoZWR1bGVEYXRlID0gY2FsZW5kYXJVdGlsaXRpZXMKICAgICAgICAgICAgICAgIC5nZXREYXRlV2l0aE5vVGltZShyZXF1ZXN0ZWRTY2hlZHVsZURhdGUsIAogICAgICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZUluZm8uZ2V0VGltZVpvbmUoKSk7CiAgICAgICAgICAgIGludCBzY2hlZHVsZU1pbnV0ZSA9IGNhbGVuZGFyVXRpbGl0aWVzLmdldE1pbnV0ZU9mRGF5KAogICAgICAgICAgICAgICAgICAgIHJlcXVlc3RlZFNjaGVkdWxlRGF0ZSwgc2NoZWR1bGVJbmZvLmdldFRpbWVab25lKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>attachlookupformlist</text>
+        <text>scheduleDate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cGF0aGVsZW1lbnQgbG9jYXRpb249IiR7amJvc3Muc2VydmVyLmxpYn0vbG9nNGouamFyIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAJTE9HR0VSLndhcm4oIkVycm9yIGdldHRpbmcgbGlzdCBvZiBkaXJlY3RvcnkgcGhvbmUgbnVtYmVycyB0byAiIHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgamF2YS51dGlsLkRhdGUgc2NoZWR1bGVEYXRlID0gY2FsZW5kYXJVdGlsaXRpZXMKICAgICAgICAgICAgICAgIC5nZXREYXRlV2l0aE5vVGltZShyZXF1ZXN0ZWRTY2hlZHVsZURhdGUsIAogICAgICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZUluZm8uZ2V0VGltZVpvbmUoKSk7CiAgICAgICAgICAgIGludCBzY2hlZHVsZU1pbnV0ZSA9IGNhbGVuZGFyVXRpbGl0aWVzLmdldE1pbnV0ZU9mRGF5KAogICAgICAgICAgICAgICAgICAgIHJlcXVlc3RlZFNjaGVkdWxlRGF0ZSwgc2NoZWR1bGVJbmZvLmdldFRpbWVab25lKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHBhdGhlbGVtZW50IGxvY2F0aW9uPSIke2pib3NzLnNlcnZlci5saWJ9L2hpYmVybmF0ZTMuamFyIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAJTE9HR0VSLndhcm4oIkVycm9yIGdldHRpbmcgbGlzdCBvZiBkaXJlY3RvcnkgcGhvbmUgbnVtYmVycyB0byAiIHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cGF0aGVsZW1lbnQgbG9jYXRpb249InJlc291cmNlL2V4dGVybmFsLyIK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPHBhdGhlbGVtZW50IGxvY2F0aW9uPSIke2pib3NzLnNlcnZlci5saWJ9L2hpYmVybmF0ZTMuamFyIi8+LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICA8Zm9ybWF0dGVyIHR5cGU9InBsYWluIiB1c2VmaWxlPSJmYWxzZSIvPgogICAgICAgICAgIDxjbGFzc3BhdGg+CiAgICAgICAgICAgICAgIDxwYXRoZWxlbWVudCBsb2NhdGlvbj0iJHt0ZXN0LmRpcn0iLz4KICAgICAgICAgICAgICAgPHBhdGhlbGVtZW50IGxvY2F0aW9uPSJyZXNvdXJjZS9leHRlcm5hbC90ZXN0aW5nL2p1bml0LTQuMTEuamFyIi8+CiAgICAgICAgICAgPC9jbGFzc3BhdGg+CiAgICAgICAgICAgPGJhdGNodGVzdD4KICAgICAgICAgICAgICAgPGZpbGUKICAgICAgICAgICA8L2JhdGNodGVzdD4K</text>
+        <text encoding="base64">ICAgICAgICA8cGF0aGVsZW1lbnQgbG9jYXRpb249InJlc291cmNlL2V4dGVybmFsLyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICA8dGVzdCBuYW1lPSJjb20ubWFwY29tbXVuaWNhdGlvbnMubWVzc2FnZS5UZXN0TWVzc2FnZVNlcnZpY2VCZWFuIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICA8Zm9ybWF0dGVyIHR5cGU9InBsYWluIiB1c2VmaWxlPSJmYWxzZSIvPgogICAgICAgICAgIDxjbGFzc3BhdGg+CiAgICAgICAgICAgICAgIDxwYXRoZWxlbWVudCBsb2NhdGlvbj0iJHt0ZXN0LmRpcn0iLz4KICAgICAgICAgICAgICAgPHBhdGhlbGVtZW50IGxvY2F0aW9uPSJyZXNvdXJjZS9leHRlcm5hbC90ZXN0aW5nL2p1bml0LTQuMTEuamFyIi8+CiAgICAgICAgICAgPC9jbGFzc3BhdGg+CiAgICAgICAgICAgPGJhdGNodGVzdD4KICAgICAgICAgICAgICAgPGZpbGUKICAgICAgICAgICA8L2JhdGNodGVzdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGRlbGl2ZXJ5ID0gZGlyZWN0b3J5U2VydmljZUxvY2FsXwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0U2NoZWR1bGVkTWVzc2FnZURlbGl2ZXJ5KGNvbnRhY3QuZ2V0Q29udGFjdCgpLmdldElkKCksCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGVEYXRlLCBzY2hlZHVsZU1pbnV0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICA8dGVzdCBuYW1lPSJjb20ubWFwY29tbXVuaWNhdGlvbnMubWVzc2FnZS5UZXN0TWVzc2FnZVNlcnZpY2VCZWFuIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBqYXZhLnV0aWwuRGF0ZSBzY2hlZHVsZURhdGUgPSBjYWxlbmRhclV0aWxpdGllcwovLyAgICAgICAgICAgICAgICAuZ2V0RGF0ZVdpdGhOb1RpbWUocmVxdWVzdGVkU2NoZWR1bGVEYXRlLAovLyAgICAgICAgICAgICAgICAgICAgICAgIHNjaGVkdWxlSW5mby5nZXRUaW1lWm9uZSgpKTsKLy8gICAgICAgICAgICBpbnQgc2NoZWR1bGVNaW51dGUgPSBjYWxlbmRhclV0aWxpdGllcy5nZXRNaW51dGVPZkRheSgKLy8gICAgICAgICAgICAgICAgICAgIHJlcXVlc3RlZFNjaGVkdWxlRGF0ZSwgc2NoZWR1bGVJbmZvLmdldFRpbWVab25lKCkpOwogICAgICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGRlbGl2ZXJ5ID0gZGlyZWN0b3J5U2VydmljZUxvY2FsXwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0U2NoZWR1bGVkTWVzc2FnZURlbGl2ZXJ5KGNvbnRhY3QuZ2V0Q29udGFjdCgpLmdldElkKCksCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGVEYXRlLCBzY2hlZHVsZU1pbnV0ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICByZXF1ZXN0ZWQgc2NoZWR1bGVkIG1lc3NhZ2UgZGVsaXZlcnkgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBqYXZhLnV0aWwuRGF0ZSBzY2hlZHVsZURhdGUgPSBjYWxlbmRhclV0aWxpdGllcwovLyAgICAgICAgICAgICAgICAuZ2V0RGF0ZVdpdGhOb1RpbWUocmVxdWVzdGVkU2NoZWR1bGVEYXRlLAovLyAgICAgICAgICAgICAgICAgICAgICAgIHNjaGVkdWxlSW5mby5nZXRUaW1lWm9uZSgpKTsKLy8gICAgICAgICAgICBpbnQgc2NoZWR1bGVNaW51dGUgPSBjYWxlbmRhclV0aWxpdGllcy5nZXRNaW51dGVPZkRheSgKLy8gICAgICAgICAgICAgICAgICAgIHJlcXVlc3RlZFNjaGVkdWxlRGF0ZSwgc2NoZWR1bGVJbmZvLmdldFRpbWVab25lKCkpOwogICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzY2hlZHVsZU1pbnV0ZSBpbnQgY29udGFpbmluZyB0aGUgbWludXRlIG9mIHRoZSBkYXkgb2YgdGhlIAo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgICByZXF1ZXN0ZWQgc2NoZWR1bGVkIG1lc3NhZ2UgZGVsaXZlcnkgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>5126</text>
       </register>
     </registers>
     <search>
-      <last-search>attachlookupformlist</last-search>
+      <last-search>scheduleDate</last-search>
       <last-offset />
-      <last-pattern>attachlookupformlist</last-pattern>
+      <last-pattern>scheduleDate</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -798,7 +805,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cmd</entry>
         <entry>class.build.dir</entry>
         <entry encoding="base64">PHRhcmdldCB0YXNrPSJ0ZXN0Ig==</entry>
         <entry encoding="base64">PHRhc2s=</entry>
@@ -818,10 +824,9 @@
         <entry>autocommit</entry>
         <entry>attachReferenceCustomForm</entry>
         <entry>attachlookupformlist</entry>
+        <entry>scheduleDate</entry>
       </history-search>
       <history-cmd>
-        <entry>set surround</entry>
-        <entry>8658</entry>
         <entry>15549</entry>
         <entry>2576</entry>
         <entry>119</entry>
@@ -840,6 +845,8 @@
         <entry>w</entry>
         <entry>3025</entry>
         <entry>q</entry>
+        <entry>5216</entry>
+        <entry>5126</entry>
       </history-cmd>
       <history-expr />
       <history-input />
