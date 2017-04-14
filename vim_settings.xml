@@ -13,6 +13,14 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1490125429075">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/DirectoryContactBuilder.java" timestamp="1492177437024">
+        <mark key="a" line="47" column="48" />
+        <mark key="[" line="6" column="79" />
+        <mark key="]" line="6" column="79" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="o" line="47" column="48" />
+      </file>
       <file name="/a.dummy" timestamp="1492109874905">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,6 +51,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="39" column="7" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContact.java" timestamp="1492177033607">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="113" column="29" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/dao/Dao.java" timestamp="1489766113748">
         <mark key="[" line="11" column="0" />
@@ -175,7 +187,6 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleInfo.java" timestamp="1492109900767" />
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/util/CalendarUtilities.java" timestamp="1479220290321">
         <mark key="'" line="545" column="8" />
         <mark key="[" line="28" column="18" />
@@ -316,6 +327,11 @@
         <mark key="]" line="55" column="25" />
         <mark key="^" line="52" column="86" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/ScheduledDirectoryContactBuilder.java" timestamp="1492176760202">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/TimeZone.java" timestamp="1491399499735">
         <mark key="'" line="132" column="22" />
@@ -467,6 +483,10 @@
         <mark key="^" line="506" column="49" />
         <mark key="." line="506" column="49" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/ScheduledDirectoryContact.java" timestamp="1492176746810">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="30" column="27" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1489439299826">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="48" column="0" />
@@ -521,12 +541,12 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" timestamp="1492111837594">
-        <mark key="'" line="31" column="39" />
-        <mark key="[" line="45" column="42" />
-        <mark key="]" line="46" column="39" />
-        <mark key="^" line="46" column="39" />
-        <mark key="." line="46" column="39" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" timestamp="1492176988037">
+        <mark key="'" line="32" column="39" />
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+        <mark key="^" line="48" column="27" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/src/main/java/com/mapcommunications/daopoc/dao/FooOracleDao.java" timestamp="1479842223382">
         <mark key="'" line="0" column="0" />
@@ -649,7 +669,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1492109874919">
+      <file name="/fragment.java" timestamp="1492176991475">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -757,50 +777,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRhY3QuZ2V0Q29udGFjdCgpLmdldFNjaGVkdWxlSWQoKS4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5kaXJlY3RvcnkuRGlyZWN0b3J5VXRpbGl0aWVzLkNvbnRhY3REaXNwbGF5Rm9ybWF0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>alice</text>
       </register>
       <register name="/" type="4">
         <text>messageServiceBean</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBqYXZhLnV0aWwuRGF0ZSBzY2hlZHVsZURhdGUgPSBjYWxlbmRhclV0aWxpdGllcwovLyAgICAgICAgICAgICAgICAuZ2V0RGF0ZVdpdGhOb1RpbWUocmVxdWVzdGVkU2NoZWR1bGVEYXRlLCAKLy8gICAgICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZUluZm8uZ2V0VGltZVpvbmUoKSk7Ci8vICAgICAgICAgICAgaW50IHNjaGVkdWxlTWludXRlID0gY2FsZW5kYXJVdGlsaXRpZXMuZ2V0TWludXRlT2ZEYXkoCi8vICAgICAgICAgICAgICAgICAgICByZXF1ZXN0ZWRTY2hlZHVsZURhdGUsIHNjaGVkdWxlSW5mby5nZXRUaW1lWm9uZSgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5kaXJlY3RvcnkuRGlyZWN0b3J5VXRpbGl0aWVzLkNvbnRhY3REaXNwbGF5Rm9ybWF0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRhY3QuZ2V0Q29udGFjdCgpLmdldFNjaGVkdWxlSWQoKS4K</text>
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamF2YS51dGlsLkRhdGUgc2NoZWR1bGVEYXRlID0gY2FsZW5kYXJVdGlsaXRpZXMKICAgICAgICAgICAgICAgIC5nZXREYXRlV2l0aE5vVGltZShyZXF1ZXN0ZWRTY2hlZHVsZURhdGUsIAogICAgICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZUluZm8uZ2V0VGltZVpvbmUoKSk7CiAgICAgICAgICAgIGludCBzY2hlZHVsZU1pbnV0ZSA9IGNhbGVuZGFyVXRpbGl0aWVzLmdldE1pbnV0ZU9mRGF5KAogICAgICAgICAgICAgICAgICAgIHJlcXVlc3RlZFNjaGVkdWxlRGF0ZSwgc2NoZWR1bGVJbmZvLmdldFRpbWVab25lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRhY3QuZ2V0Q29udGFjdCgpLmdldFRpCg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT25DYWxsU2NoZWR1bGVTZXJ2aWNlQmVhbiBvbkNhbGxTY2hlZHVsZVNlcnZpY2VCZWFuXyA9CiAgICAgICAgICAgIG5ldwo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3RNb2Nrcwo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT25DYWxsU2NoZWR1bGVTZXJ2aWNlTG9jYWwgb25DYWxsU2NoZWR1bGVTZXJ2aWNlTG9jYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>a
-a
-a
-a
-a</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iZGVsZXRlZF9ieV9uYW1lIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHNjaGVkdWxlSWRfLCApOwo=</text>
+        <text encoding="base64">ICAgIEBUZW1wb3JhbChUZW1wb3JhbFR5cGUuVElNRVNUQU1QKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGdldE9uQ2FsbERpc3BhdGNoUm90YXRpb25MZXZlbERpc3BhdGNoTWFwCiAgICAgICAgLy8gbm8gb3Zlci1yaWRlcwogICAgICAgIC8vIGNvbnRhY3Qgb3ZlcnJpZGUgbm90IGluIGVmZmVjdCBiZWNhdXNlIHRpbWV6b25lCiAgICAgICAgLy8gY29udGFjdCBvdmVycmlkZSBpbiBlZmZlY3QgYmVjYXVzZSB0aW1lem9uZQogICAgICAgIC8vIGNvbnRhY3Qgb3ZlcnJpZGVzIGluIGVmZmVjdCBzYW1lIHRpbWV6b25lCgo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iZGVsZXRlZF90aW1lc3RhbXAiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
