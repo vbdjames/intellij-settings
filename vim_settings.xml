@@ -139,7 +139,8 @@
         <mark key="^" line="41" column="7" />
         <mark key="." line="41" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1492528709814">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1492541251565">
+        <mark key="'" line="1836" column="25" />
         <mark key="]" line="443" column="42" />
         <mark key="." line="443" column="42" />
         <mark key="^" line="443" column="42" />
@@ -154,12 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="5215" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="5216" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="5219" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="5224" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="5234" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="5286" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="143" column="4" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="12" column="45" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
@@ -176,7 +171,6 @@
       <jump line="6348" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="810" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="932" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="1816" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="451" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="500" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="648" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
@@ -225,7 +219,6 @@
       <jump line="196" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="368" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="688" column="63" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="1817" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="1837" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="153" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
@@ -254,6 +247,14 @@
       <jump line="144" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="941" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
+      <jump line="2143" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="2200" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="2201" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="452" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="2744" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="1816" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="1836" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -263,7 +264,7 @@
         <text>female</text>
       </register>
       <register name="/" type="4">
-        <text>external</text>
+        <text>Get directory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb250YWN0c01hcC5wdXQoY29udGFjdC5nZXRMYXN0TmFtZSgpK2NvbnRhY3QuZ2V0Rmlyc3ROYW1lKCkKICAgICAgICAgICAgICAgICtjb250YWN0LmdldE1pZGRsZU5hbWUoKSwgY29udGFjdCk7Cg==</text>
@@ -303,9 +304,9 @@
       </register>
     </registers>
     <search>
-      <last-search>external</last-search>
+      <last-search>Get directory</last-search>
       <last-offset />
-      <last-pattern>external</last-pattern>
+      <last-pattern>Get directory</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -313,7 +314,6 @@
     </search>
     <history>
       <history-search>
-        <entry>export</entry>
         <entry>autocommit</entry>
         <entry>attachReferenceCustomForm</entry>
         <entry>attachlookupformlist</entry>
@@ -322,17 +322,18 @@
         <entry>directoryId</entry>
         <entry encoding="base64">Z2V0IGRpcmVjdG9yeSBmb3Ig</entry>
         <entry>get directory</entry>
-        <entry>from</entry>
         <entry>Directory contact</entry>
         <entry>LOGGER.info</entry>
-        <entry>Get Directory</entry>
-        <entry>Get directory</entry>
         <entry>directoryTble</entry>
         <entry>directoryTable</entry>
         <entry>getSelectionModel</entry>
         <entry>contactMap</entry>
         <entry>contactsMap</entry>
         <entry>external</entry>
+        <entry>getContact</entry>
+        <entry>from</entry>
+        <entry>Get Directory</entry>
+        <entry>Get directory</entry>
       </history-search>
       <history-cmd>
         <entry>15549</entry>
