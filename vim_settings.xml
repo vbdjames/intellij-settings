@@ -199,12 +199,12 @@
         <mark key="^" line="990" column="52" />
         <mark key="." line="990" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" timestamp="1492609251357">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" timestamp="1492610606260">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="148" column="33" />
-        <mark key="]" line="146" column="28" />
-        <mark key="." line="146" column="28" />
-        <mark key="^" line="146" column="28" />
+        <mark key="[" line="515" column="82" />
+        <mark key="]" line="520" column="7" />
+        <mark key="." line="520" column="7" />
+        <mark key="^" line="520" column="7" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/directory/DirectoryContactBuilder.java" timestamp="1492181202664">
         <mark key="[" line="51" column="0" />
@@ -635,7 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4197" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="443" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="444" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="649" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
@@ -723,7 +722,6 @@
       <jump line="233" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="235" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="379" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
       <jump line="35" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
       <jump line="50" column="53" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
@@ -735,6 +733,8 @@
       <jump line="265" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
       <jump line="266" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
       <jump line="388" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
+      <jump line="162" column="78" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -744,7 +744,7 @@
         <text>female</text>
       </register>
       <register name="/" type="4">
-        <text>showAgentsExternalContacts</text>
+        <text>modelIndex</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb250YWN0c01hcC5wdXQoY29udGFjdC5nZXRMYXN0TmFtZSgpK2NvbnRhY3QuZ2V0Rmlyc3ROYW1lKCkKICAgICAgICAgICAgICAgICtjb250YWN0LmdldE1pZGRsZU5hbWUoKSwgY29udGFjdCk7Cg==</text>
@@ -784,9 +784,9 @@
       </register>
     </registers>
     <search>
-      <last-search>showAgentsExternalContacts</last-search>
+      <last-search>modelIndex</last-search>
       <last-offset />
-      <last-pattern>showAgentsExternalContacts</last-pattern>
+      <last-pattern>modelIndex</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -794,7 +794,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Z2V0IGRpcmVjdG9yeSBmb3Ig</entry>
         <entry>get directory</entry>
         <entry>Directory contact</entry>
         <entry>LOGGER.info</entry>
@@ -814,6 +813,7 @@
         <entry>contactMethodsTable</entry>
         <entry>getDirectory</entry>
         <entry>showAgentsExternalContacts</entry>
+        <entry>modelIndex</entry>
       </history-search>
       <history-cmd>
         <entry>2576</entry>
