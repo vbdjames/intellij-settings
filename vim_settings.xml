@@ -61,12 +61,12 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1491316374172">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6022" column="66" />
-        <mark key="]" line="5990" column="79" />
-        <mark key="^" line="5990" column="79" />
-        <mark key="." line="5990" column="79" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1493044944734">
+        <mark key="'" line="3700" column="23" />
+        <mark key="[" line="5984" column="66" />
+        <mark key="]" line="5952" column="79" />
+        <mark key="^" line="5952" column="79" />
+        <mark key="." line="5952" column="79" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/DataSearchFieldElement.java" timestamp="1488230316977">
         <mark key="'" line="212" column="20" />
@@ -336,13 +336,6 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" timestamp="1492108350850">
-        <mark key="'" line="26" column="17" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="70" column="55" />
-        <mark key="." line="143" column="4" />
-        <mark key="^" line="143" column="4" />
-      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/constant/ReceiverType.java" timestamp="1480974721275">
         <mark key="'" line="367" column="5" />
         <mark key="[" line="419" column="67" />
@@ -579,13 +572,6 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1492542825811">
-        <mark key="'" line="362" column="42" />
-        <mark key="[" line="433" column="21" />
-        <mark key="]" line="436" column="8" />
-        <mark key="." line="436" column="8" />
-        <mark key="^" line="436" column="8" />
-      </file>
       <file name="$USER_HOME$/Code/kata-bootstraps/java/maven/pom.xml" timestamp="1491590463033">
         <mark key="[" line="3" column="20" />
       </file>
@@ -636,8 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="649" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="1133" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="1158" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="1644" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="1734" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
@@ -736,6 +720,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="536" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="34" column="38" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" />
+      <jump line="6" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="3738" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -781,7 +767,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgRGlyZWN0b3J5Q29udGFjdD4gY29udGFjdHNNYXA7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>3587</text>
       </register>
     </registers>
     <search>
@@ -817,7 +803,6 @@
         <entry>modelIndex</entry>
       </history-search>
       <history-cmd>
-        <entry>2576</entry>
         <entry>119</entry>
         <entry>w2</entry>
         <entry>ew</entry>
@@ -837,6 +822,7 @@
         <entry>q</entry>
         <entry>385</entry>
         <entry>w</entry>
+        <entry>3587</entry>
       </history-cmd>
       <history-expr />
       <history-input />
