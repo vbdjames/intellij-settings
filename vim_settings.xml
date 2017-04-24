@@ -394,11 +394,12 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" timestamp="1493039272670">
-        <mark key="'" line="40" column="39" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" timestamp="1493040127919">
+        <mark key="'" line="34" column="38" />
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="34" column="29" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/src/main/java/com/mapcommunications/daopoc/dao/FooOracleDao.java" timestamp="1479842223382">
         <mark key="'" line="0" column="0" />
@@ -635,7 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="444" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="649" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="1133" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="1158" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
@@ -735,13 +735,14 @@
       <jump line="162" column="78" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="536" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
+      <jump line="34" column="38" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new Date() = 0L</text>
       </register>
       <register name="-" type="4">
-        <text>female</text>
+        <text>new Date() = 0L</text>
       </register>
       <register name="/" type="4">
         <text>modelIndex</text>
@@ -750,34 +751,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb250YWN0c01hcC5wdXQoY29udGFjdC5nZXRMYXN0TmFtZSgpK2NvbnRhY3QuZ2V0Rmlyc3ROYW1lKCkKICAgICAgICAgICAgICAgICtjb250YWN0LmdldE1pZGRsZU5hbWUoKSwgY29udGFjdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgID0KICAgICAgICAgICAgbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE9uQ2FsbFNjaGVkdWxlSW5mb0J1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC53aXRoSWQoc2NoZWR1bGVJZF8pCiAgICAgICAgICAgICAgICAgICAgLndpdGhUaW1lWm9uZShUaW1lWm9uZVR5cGUuRUFTVEVSTikKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT4gSEVMTE8hIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT09PiAiICsgYWNjb3VudE51bWJlcik7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgRGlyZWN0b3J5Q29udGFjdD4gY29udGFjdHNNYXA7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT4gSEVMTE8hIik7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT09PiAiICsgYWNjb3VudE51bWJlcik7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmaW5kaW5nIGEgY29udGFjdCdzIG1ldGhvZHMgd2hlbiBzZWxlY3RlZCBpbiB0aGUgZGlyZWN0b3J5IHRhYmxlLgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgRGlyZWN0b3J5Q29udGFjdD4gY29udGFjdHNNYXA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
