@@ -389,11 +389,12 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" timestamp="1493217034773">
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" timestamp="1493307923818">
         <mark key="'" line="34" column="38" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="53" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="103" column="41" />
+        <mark key="]" line="103" column="40" />
+        <mark key="." line="103" column="40" />
+        <mark key="^" line="103" column="40" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/src/main/java/com/mapcommunications/daopoc/dao/FooOracleDao.java" timestamp="1479842223382">
         <mark key="'" line="0" column="0" />
@@ -728,11 +729,11 @@
       <jump line="129" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/ScheduledDirectoryContact.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250YWN0LmdldE0K</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>new Date() = 0L</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>getOnCallDispatchRotationLevelD</text>
