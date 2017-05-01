@@ -151,8 +151,8 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1492543914266">
         <mark key="'" line="608" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1493319022876">
-        <mark key="'" line="5226" column="48" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1493669222166">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="5229" column="77" />
         <mark key="]" line="5226" column="57" />
         <mark key="." line="5226" column="57" />
@@ -595,7 +595,7 @@
         <mark key="^" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1493389840242">
-        <mark key="'" line="28570" column="0" />
+        <mark key="'" line="28545" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/DispatcherTasksTable.java" timestamp="1479220128235">
         <mark key="'" line="55" column="29" />
@@ -630,7 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4310" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="9350" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="9365" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="167" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
@@ -711,7 +710,6 @@
       <jump line="6" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="3738" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="5204" column="60" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="81" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/ScheduledDirectoryContact.java" />
       <jump line="129" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/ScheduledDirectoryContact.java" />
       <jump line="4385" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
@@ -730,6 +728,8 @@
       <jump line="5226" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="623" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="28570" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="225" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -739,7 +739,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>autocommit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb250YWN0c01hcC5wdXQoY29udGFjdC5nZXRMYXN0TmFtZSgpK2NvbnRhY3QuZ2V0Rmlyc3ROYW1lKCkKICAgICAgICAgICAgICAgICtjb250YWN0LmdldE1pZGRsZU5hbWUoKSwgY29udGFjdCk7Cg==</text>
@@ -779,9 +779,9 @@
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>autocommit</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>autocommit</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -789,7 +789,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contactMap</entry>
         <entry>contactsMap</entry>
         <entry>external</entry>
         <entry>from</entry>
@@ -809,6 +808,7 @@
         <entry>timezone</entry>
         <entry>time zone</entry>
         <entry>time</entry>
+        <entry>autocommit</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
