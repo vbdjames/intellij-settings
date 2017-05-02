@@ -151,8 +151,8 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1492543914266">
         <mark key="'" line="608" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1493756930153">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1493759820400">
+        <mark key="'" line="2007" column="8" />
         <mark key="[" line="5229" column="77" />
         <mark key="]" line="5226" column="57" />
         <mark key="." line="5226" column="57" />
@@ -630,9 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
-      <jump line="96" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
-      <jump line="120" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="123" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="129" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="156" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
@@ -730,6 +727,9 @@
       <jump line="8189" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1471" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="1528" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="1805" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="2007" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -739,7 +739,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>formGroupDisableCustomForm</text>
+        <text>saveLookupFormList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb250YWN0c01hcC5wdXQoY29udGFjdC5nZXRMYXN0TmFtZSgpK2NvbnRhY3QuZ2V0Rmlyc3ROYW1lKCkKICAgICAgICAgICAgICAgICtjb250YWN0LmdldE1pZGRsZU5hbWUoKSwgY29udGFjdCk7Cg==</text>
@@ -779,9 +779,9 @@
       </register>
     </registers>
     <search>
-      <last-search>formGroupDisableCustomForm</last-search>
+      <last-search>saveLookupFormList</last-search>
       <last-offset />
-      <last-pattern>formGroupDisableCustomForm</last-pattern>
+      <last-pattern>saveLookupFormList</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -789,9 +789,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contactMethodsTable</entry>
-        <entry>getDirectory</entry>
-        <entry>showAgentsExternalContacts</entry>
         <entry>modelIndex</entry>
         <entry>getOnCallDispatchRotationLevelD</entry>
         <entry>getOnCallSchedule</entry>
@@ -809,6 +806,9 @@
         <entry>detachReferenceCustomForm</entry>
         <entry>detachLookupFormList</entry>
         <entry>formGroupDisableCustomForm</entry>
+        <entry>formGroupEnableCustomForm</entry>
+        <entry>generateEchoEntityWarnings</entry>
+        <entry>saveLookupFormList</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
