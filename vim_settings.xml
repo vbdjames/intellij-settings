@@ -151,12 +151,8 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1492543914266">
         <mark key="'" line="608" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1493817729097">
-        <mark key="'" line="8176" column="17" />
-        <mark key="[" line="5229" column="77" />
-        <mark key="]" line="5226" column="57" />
-        <mark key="." line="5226" column="57" />
-        <mark key="^" line="5226" column="57" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1493823841601">
+        <mark key="'" line="197" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-custom-form-table.sql" timestamp="1485807531242">
         <mark key="'" line="0" column="0" />
@@ -630,8 +626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
-      <jump line="715" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="525" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="953" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="527" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
@@ -730,6 +724,8 @@
       <jump line="7672" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="10923" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="8176" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="100" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="197" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -739,7 +735,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>deleteAttachedReferenceCustomForm</text>
+        <text>attachLookupFormList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb250YWN0c01hcC5wdXQoY29udGFjdC5nZXRMYXN0TmFtZSgpK2NvbnRhY3QuZ2V0Rmlyc3ROYW1lKCkKICAgICAgICAgICAgICAgICtjb250YWN0LmdldE1pZGRsZU5hbWUoKSwgY29udGFjdCk7Cg==</text>
@@ -779,9 +775,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deleteAttachedReferenceCustomForm</last-search>
+      <last-search>attachLookupFormList</last-search>
       <last-offset />
-      <last-pattern>deleteAttachedReferenceCustomForm</last-pattern>
+      <last-pattern>attachLookupFormList</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -789,7 +785,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timezone</entry>
         <entry>time zone</entry>
         <entry>time</entry>
         <entry>autocommit</entry>
@@ -809,6 +804,7 @@
         <entry>scheduleDisableCustomForm</entry>
         <entry>scheduleEnableCustomForm</entry>
         <entry>deleteAttachedReferenceCustomForm</entry>
+        <entry>attachLookupFormList</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
