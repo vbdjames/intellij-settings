@@ -151,12 +151,12 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1492543914266">
         <mark key="'" line="608" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1493842728601">
-        <mark key="'" line="197" column="0" />
-        <mark key="[" line="248" column="63" />
-        <mark key="]" line="248" column="62" />
-        <mark key="^" line="248" column="62" />
-        <mark key="." line="248" column="62" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1493846657361">
+        <mark key="'" line="9" column="25" />
+        <mark key="[" line="9292" column="60" />
+        <mark key="]" line="9293" column="59" />
+        <mark key="^" line="9293" column="59" />
+        <mark key="." line="9293" column="59" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-custom-form-table.sql" timestamp="1485807531242">
         <mark key="'" line="0" column="0" />
@@ -630,7 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="525" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="953" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="527" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
       <jump line="148" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
@@ -730,10 +729,11 @@
       <jump line="8176" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="100" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="197" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="9" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRUQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -742,7 +742,7 @@
         <text>attachLookupFormList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb250YWN0c01hcC5wdXQoY29udGFjdC5nZXRMYXN0TmFtZSgpK2NvbnRhY3QuZ2V0Rmlyc3ROYW1lKCkKICAgICAgICAgICAgICAgICtjb250YWN0LmdldE1pZGRsZU5hbWUoKSwgY29udGFjdCk7Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbkF0dHJpYnV0ZShUcmFuc2FjdGlvbkF0dHJpYnV0ZVR5cGUuUkVRVUlSRUQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250YWN0LmdldE0K</text>
