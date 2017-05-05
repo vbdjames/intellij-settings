@@ -756,7 +756,7 @@
         <text>CustomFormServiceBean</text>
       </register>
       <register name="/" type="4">
-        <text>SEARCH</text>
+        <text>layoutItems</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgCiAgICAgICAgPSBMb2dnZXIuZ2V0TG9nZ2VyKEN1c3RvbUZvcm1TZXJ2aWNlQmVhbi5jbGFzcyk7Cg==</text>
@@ -796,9 +796,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SEARCH</last-search>
+      <last-search>layoutItems</last-search>
       <last-offset />
-      <last-pattern>SEARCH</last-pattern>
+      <last-pattern>layoutItems</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -806,7 +806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deleteQuarantinedLookupFormLists</entry>
         <entry>detachReferenceCustomForm</entry>
         <entry>detachLookupFormList</entry>
         <entry>formGroupDisableCustomForm</entry>
@@ -826,6 +825,7 @@
         <entry>customForm</entry>
         <entry>attachLookupFormList</entry>
         <entry>SEARCH</entry>
+        <entry>layoutItems</entry>
       </history-search>
       <history-cmd>
         <entry>4146</entry>
