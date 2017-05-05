@@ -588,12 +588,11 @@
         <mark key="." line="129" column="41" />
         <mark key="^" line="129" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" timestamp="1493999277690">
-        <mark key="'" line="577" column="16" />
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" timestamp="1494003891620">
+        <mark key="[" line="583" column="0" />
+        <mark key="]" line="583" column="0" />
+        <mark key="^" line="581" column="11" />
+        <mark key="." line="583" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/OnCallDispatchComboBoxElement.java" timestamp="1488230372382">
         <mark key="'" line="169" column="0" />
@@ -751,8 +750,8 @@
       <jump line="574" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CustomFormServiceBean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>CustomFormServiceBean</text>
@@ -764,34 +763,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgCiAgICAgICAgPSBMb2dnZXIuZ2V0TG9nZ2VyKEN1c3RvbUZvcm1TZXJ2aWNlQmVhbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNoQ29tcGxldGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gaWQ6ICIgKyBsYXlvdXRJdGVtLmdldElkKCkpOwogICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBuYW1lOiAiICsgbGF5b3V0SXRlbS5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmIChkYiAhPSBudWxsICYmICFhdHRhY2hDb21wbGV0ZWQpIGRiLnJvbGxiYWNrKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8gTG9nIGV4Y2VwdGlvbiB3aGVuIHVuYWJsZSB0byByb2xsYmFjayBpbmNvbXBsZXRlIHRyYW5zYWN0aW9uLgogICAgICAgICAgICBjYXRjaChqYXZhLnNxbC5TUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgTE9HR0VSLndhcm4oIkVycm9yIHJvbGxpbmcgYmFjayBsb29rdXAgZm9ybSBsaXN0IGF0dGFjaDogIgogICAgICAgICAgICAgICAgICAgICsgZS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNoQ29tcGxldGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkYi5jb21taXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmIChkYiAhPSBudWxsICYmICFhdHRhY2hDb21wbGV0ZWQpIGRiLnJvbGxiYWNrKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8gTG9nIGV4Y2VwdGlvbiB3aGVuIHVuYWJsZSB0byByb2xsYmFjayBpbmNvbXBsZXRlIHRyYW5zYWN0aW9uLgogICAgICAgICAgICBjYXRjaChqYXZhLnNxbC5TUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgTE9HR0VSLndhcm4oIkVycm9yIHJvbGxpbmcgYmFjayBsb29rdXAgZm9ybSBsaXN0IGF0dGFjaDogIgogICAgICAgICAgICAgICAgICAgICsgZS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IGRvbid0IGNvbW1pdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQ29tbWl0IHRoZSBKREJDIHRyYW5zYWN0aW9uLgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkYi5jb21taXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNldHRpbmcgdXAgdGhlIHRyYW5zYWN0aW9uIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IGRvbid0IGNvbW1pdCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGIuc2V0QXV0b0NvbW1pdChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQ29tbWl0IHRoZSBKREJDIHRyYW5zYWN0aW9uLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -830,7 +829,6 @@
         <entry>attachLookupFormList</entry>
       </history-search>
       <history-cmd>
-        <entry>w2</entry>
         <entry>ew</entry>
         <entry>5266</entry>
         <entry>4146</entry>
@@ -849,6 +847,7 @@
         <entry>385</entry>
         <entry>3587</entry>
         <entry>581</entry>
+        <entry>578</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
