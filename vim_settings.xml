@@ -67,16 +67,16 @@
         <mark key="'" line="608" column="24" />
       </file>
       <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1493922499431">
-        <mark key="'" line="1899" column="37" />
-        <mark key="[" line="1899" column="32" />
-        <mark key="]" line="1899" column="36" />
-        <mark key="^" line="1899" column="36" />
-        <mark key="." line="1899" column="36" />
+        <mark key="'" line="1829" column="37" />
+        <mark key="[" line="1829" column="32" />
+        <mark key="]" line="1829" column="36" />
+        <mark key="^" line="1829" column="36" />
+        <mark key="." line="1829" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1493929370565">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1493999239125">
         <mark key="'" line="399" column="40" />
-        <mark key="[" line="399" column="41" />
-        <mark key="]" line="399" column="40" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="124" column="55" />
         <mark key="^" line="399" column="40" />
         <mark key="." line="399" column="40" />
       </file>
@@ -471,7 +471,6 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/util/PersistenceHelper.java" timestamp="1493922833931" />
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1489439299826">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="48" column="0" />
@@ -589,6 +588,13 @@
         <mark key="." line="129" column="41" />
         <mark key="^" line="129" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" timestamp="1493999277690">
+        <mark key="'" line="577" column="16" />
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/OnCallDispatchComboBoxElement.java" timestamp="1488230372382">
         <mark key="'" line="169" column="0" />
         <mark key="[" line="169" column="9" />
@@ -643,7 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
       <jump line="249" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
       <jump line="252" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
       <jump line="253" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
@@ -743,19 +748,20 @@
       <jump line="232" column="55" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="123" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="399" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="574" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4KICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5kaWFsZWN0IiB2YWx1ZT0ib3JnLmhpYmVybmF0ZS5kaWFsZWN0Lk9yYWNsZTlpRGlhbGVjdCIvPgogICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLnRyYW5zYWN0aW9uLm1hbmFnZXJfbG9va3VwX2NsYXNzIgogICAgICAgICAgICAgICAgdmFsdWU9Im9yZy5oaWJlcm5hdGUudHJhbnNhY3Rpb24uSkJvc3NUcmFuc2FjdGlvbk1hbmFnZXJMb29rdXAiLz4KICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CustomFormServiceBean</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCBpbnN0cnVjdCBpdCB0byB3YWl0IGZvciBjb21taXQ=</text>
+        <text>CustomFormServiceBean</text>
       </register>
       <register name="/" type="4">
         <text>attachLookupFormList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4KICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5kaWFsZWN0IiB2YWx1ZT0ib3JnLmhpYmVybmF0ZS5kaWFsZWN0Lk9yYWNsZTlpRGlhbGVjdCIvPgogICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iaGliZXJuYXRlLnRyYW5zYWN0aW9uLm1hbmFnZXJfbG9va3VwX2NsYXNzIgogICAgICAgICAgICAgICAgdmFsdWU9Im9yZy5oaWJlcm5hdGUudHJhbnNhY3Rpb24uSkJvc3NUcmFuc2FjdGlvbk1hbmFnZXJMb29rdXAiLz4KICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgCiAgICAgICAgPSBMb2dnZXIuZ2V0TG9nZ2VyKEN1c3RvbUZvcm1TZXJ2aWNlQmVhbi5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXR0YWNoQ29tcGxldGVkID0gdHJ1ZTsK</text>
@@ -824,7 +830,6 @@
         <entry>attachLookupFormList</entry>
       </history-search>
       <history-cmd>
-        <entry>119</entry>
         <entry>w2</entry>
         <entry>ew</entry>
         <entry>5266</entry>
@@ -843,6 +848,7 @@
         <entry>q</entry>
         <entry>385</entry>
         <entry>3587</entry>
+        <entry>581</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
