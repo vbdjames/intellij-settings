@@ -603,8 +603,8 @@
         <mark key="." line="47" column="30" />
         <mark key="^" line="47" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1494249707086">
-        <mark key="'" line="434" column="36" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1494252325883">
+        <mark key="'" line="480" column="21" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -643,17 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
-      <jump line="265" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
-      <jump line="266" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
-      <jump line="388" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" />
-      <jump line="162" column="78" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
-      <jump line="536" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryPanel.java" />
-      <jump line="34" column="38" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" />
-      <jump line="6" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
-      <jump line="3738" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
-      <jump line="5204" column="60" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="81" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/ScheduledDirectoryContact.java" />
       <jump line="129" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/ScheduledDirectoryContact.java" />
       <jump line="4385" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" />
@@ -743,6 +732,17 @@
       <jump line="39" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="424" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="434" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="482" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="426" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="236" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="423" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="429" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="492" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="226" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="320" column="54" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="469" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="480" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -752,7 +752,7 @@
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>layoutItems</text>
+        <text>searchdatalayoutitem</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgCiAgICAgICAgPSBMb2dnZXIuZ2V0TG9nZ2VyKEN1c3RvbUZvcm1TZXJ2aWNlQmVhbi5jbGFzcyk7Cg==</text>
@@ -788,13 +788,13 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gQ29tbWl0IHRoZSBKREJDIHRyYW5zYWN0aW9uLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>591</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>layoutItems</last-search>
+      <last-search>searchdatalayoutitem</last-search>
       <last-offset />
-      <last-pattern>layoutItems</last-pattern>
+      <last-pattern>searchdatalayoutitem</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -802,11 +802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>detachReferenceCustomForm</entry>
-        <entry>detachLookupFormList</entry>
-        <entry>formGroupDisableCustomForm</entry>
-        <entry>formGroupEnableCustomForm</entry>
-        <entry>generateEchoEntityWarnings</entry>
         <entry>saveLookupFormList</entry>
         <entry>saveNewLookupFormList</entry>
         <entry>scheduleDisableCustomForm</entry>
@@ -822,6 +817,11 @@
         <entry>attachLookupFormList</entry>
         <entry>SEARCH</entry>
         <entry>layoutItems</entry>
+        <entry>datasearchfield</entry>
+        <entry>comboboxelement</entry>
+        <entry>datasearchfieldElement</entry>
+        <entry>comboboxelementitem</entry>
+        <entry>searchdatalayoutitem</entry>
       </history-search>
       <history-cmd>
         <entry>4146</entry>
@@ -841,9 +841,9 @@
         <entry>3587</entry>
         <entry>581</entry>
         <entry>578</entry>
-        <entry>w</entry>
         <entry>491</entry>
         <entry>591</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
