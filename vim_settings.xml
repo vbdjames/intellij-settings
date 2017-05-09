@@ -220,12 +220,6 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="50" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/oncallschedule/OnCallScheduleServiceBean.java" timestamp="1493308454539">
-        <mark key="'" line="457" column="31" />
-        <mark key="[" line="4378" column="0" />
-        <mark key="]" line="4378" column="0" />
-        <mark key="." line="4378" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/schedule/ScheduleServiceBean.java" timestamp="1492029789392">
         <mark key="'" line="71" column="24" />
         <mark key="[" line="71" column="24" />
@@ -307,8 +301,9 @@
         <mark key="." line="49" column="4" />
         <mark key="^" line="38" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1494353398710">
-        <mark key="'" line="78" column="13" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1494360605363">
+        <mark key="'" line="1272" column="70" />
+        <mark key="[" line="2314" column="67" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" timestamp="1494270811417">
         <mark key="[" line="12" column="0" />
@@ -504,8 +499,8 @@
         <mark key="." line="419" column="70" />
         <mark key="^" line="419" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1494353267698">
-        <mark key="'" line="230" column="44" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1494360489858">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="2513" column="0" />
         <mark key="]" line="2513" column="0" />
         <mark key="." line="2513" column="0" />
@@ -523,12 +518,6 @@
         <mark key="]" line="159" column="62" />
         <mark key="." line="162" column="23" />
         <mark key="^" line="162" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/MessageServiceBeanTest.java" timestamp="1491239702788">
-        <mark key="'" line="45" column="7" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormServiceBean.java" timestamp="1493307923818">
         <mark key="'" line="34" column="38" />
@@ -662,9 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="574" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" />
-      <jump line="39" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
-      <jump line="424" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="434" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="482" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="426" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
@@ -758,10 +744,13 @@
       <jump line="322" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="323" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageRetrievalFrame.java" />
       <jump line="1186" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
-      <jump line="229" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="230" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="78" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="2422" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="1272" column="70" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="229" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -771,7 +760,7 @@
         <text>list</text>
       </register>
       <register name="/" type="4">
-        <text>lines</text>
+        <text>message retrieval for</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5TGlzdCBsID0gbmV3IEFycmF5TGlzdChhbC5zaXplKCkpOwo=</text>
@@ -807,13 +796,13 @@
         <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmIChkYiAhPSBudWxsICYmICFhdHRhY2hDb21wbGV0ZWQpIGRiLnJvbGxiYWNrKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8gTG9nIGV4Y2VwdGlvbiB3aGVuIHVuYWJsZSB0byByb2xsYmFjayBpbmNvbXBsZXRlIHRyYW5zYWN0aW9uLgogICAgICAgICAgICBjYXRjaChqYXZhLnNxbC5TUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgTE9HR0VSLndhcm4oIkVycm9yIHJvbGxpbmcgYmFjayBsb29rdXAgZm9ybSBsaXN0IGF0dGFjaDogIgogICAgICAgICAgICAgICAgICAgICsgZS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>650</text>
+        <text>2453</text>
       </register>
     </registers>
     <search>
-      <last-search>lines</last-search>
+      <last-search>message retrieval for</last-search>
       <last-offset />
-      <last-pattern>lines</last-pattern>
+      <last-pattern>message retrieval for</last-pattern>
       <last-replace>urlParameters</last-replace>
       <last-substitute>items</last-substitute>
       <last-dir>1</last-dir>
@@ -821,8 +810,6 @@
     </search>
     <history>
       <history-search>
-        <entry>orm</entry>
-        <entry>orm.xml</entry>
         <entry>customForm</entry>
         <entry>attachLookupFormList</entry>
         <entry>SEARCH</entry>
@@ -841,9 +828,10 @@
         <entry>SearchData</entry>
         <entry>export</entry>
         <entry>lines</entry>
+        <entry>if this is</entry>
+        <entry>message retrieval for</entry>
       </history-search>
       <history-cmd>
-        <entry>15</entry>
         <entry>71</entry>
         <entry>2598</entry>
         <entry>2568</entry>
@@ -863,6 +851,7 @@
         <entry>205</entry>
         <entry>w</entry>
         <entry>650</entry>
+        <entry>2453</entry>
       </history-cmd>
       <history-expr />
       <history-input />
