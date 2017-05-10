@@ -2,7 +2,34 @@
   <component name="TmcSettings">
     <option name="settingsTmc">
       <SettingsTmc>
+        <option name="checkForExercises" value="true" />
+        <option name="course">
+          <Course>
+            <option name="cometUrl">
+              <URI />
+            </option>
+            <option name="detailsUrl">
+              <URI />
+            </option>
+            <option name="id" value="12" />
+            <option name="name" value="2013-OOProgrammingWithJava-PART1" />
+            <option name="reviewsUrl">
+              <URI />
+            </option>
+            <option name="spywareUrls">
+              <list>
+                <URI />
+              </list>
+            </option>
+            <option name="unlockUrl">
+              <URI />
+            </option>
+          </Course>
+        </option>
         <option name="firstRun" value="false" />
+        <option name="password" value="mL9-BPq-2qE-sRM" />
+        <option name="projectBasePath" value="$USER_HOME$/Code/mooc/TMCProjects" />
+        <option name="username" value="vbdjames" />
       </SettingsTmc>
     </option>
   </component>
