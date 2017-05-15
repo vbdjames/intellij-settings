@@ -316,12 +316,12 @@
         <mark key="." line="49" column="4" />
         <mark key="^" line="38" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1494855202560">
-        <mark key="'" line="2207" column="42" />
-        <mark key="[" line="2355" column="64" />
-        <mark key="]" line="2356" column="22" />
-        <mark key="." line="2356" column="22" />
-        <mark key="^" line="2356" column="22" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1494857258113">
+        <mark key="'" line="2208" column="42" />
+        <mark key="[" line="1489" column="20" />
+        <mark key="]" line="1489" column="0" />
+        <mark key="." line="1489" column="0" />
+        <mark key="^" line="1489" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" timestamp="1494270811417">
         <mark key="[" line="12" column="0" />
@@ -774,11 +774,11 @@
       <jump line="2207" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlZHVsZWRTZXJ2aWNlRGVsaXZlcmVyQmVhbl8uZGVsaXYK</text>
+      <register name="&quot;" type="4">
+        <text>destinationsElements</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>destinationsElements</text>
       </register>
       <register name="/" type="4">
         <text>lines</text>
