@@ -409,6 +409,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1495568664174">
+        <mark key="'" line="62" column="13" />
+        <mark key="[" line="717" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceLocalHome.java" timestamp="1495028888789">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="17" column="60" />
@@ -451,6 +455,9 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceLocal.java" timestamp="1494964293859">
         <mark key="[" line="28" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" timestamp="1495568977627">
+        <mark key="'" line="11262" column="19" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/create-custom-form-table.sql" timestamp="1485807531242">
         <mark key="'" line="0" column="0" />
@@ -699,6 +706,9 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1495568744645">
+        <mark key="'" line="213" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/DispatcherTasksTable.java" timestamp="1479220128235">
         <mark key="'" line="55" column="29" />
         <mark key="[" line="26" column="23" />
@@ -715,12 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="40" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="113" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="928" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="934" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="1472" column="59" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2315" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="1266" column="73" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceServiceBean.java" />
       <jump line="3432" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
@@ -815,6 +819,12 @@
       <jump line="13205" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="13200" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="90" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminService.java" />
+      <jump line="62" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="213" column="1" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="198" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
+      <jump line="11487" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
+      <jump line="11262" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -824,7 +834,7 @@
         <text>PreparedStatement</text>
       </register>
       <register name="/" type="4">
-        <text>\t</text>
+        <text>customFormService</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRoZXJlIGlzIGEgbGltaXRhdGlvbiBvbiB0aGUgdG90YWwgc2l6ZSBvZiBhbiBYTUwgcmVxdWVzdC4KICAgICAgICAgICAgICAgIC8vIEJyZWFrIHRoZSBsaXN0IGludG8gc21hbGxlciBwaWVjZXMgYW5kIGNyZWF0ZSBzZXBhcmF0ZSAKICAgICAgICAgICAgICAgIC8vIHJlcXVlc3RzIHRvIHN0YXkgd2l0aGluIHRoaXMgbGltaXRhdGlvbi4K</text>
@@ -864,9 +874,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\t</last-search>
+      <last-search>customFormService</last-search>
       <last-offset />
-      <last-pattern>\t</last-pattern>
+      <last-pattern>customFormService</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -874,9 +884,6 @@
     </search>
     <history>
       <history-search>
-        <entry>if this is</entry>
-        <entry>message retrieval for</entry>
-        <entry>master</entry>
         <entry>lines</entry>
         <entry>serviceItemsElement</entry>
         <entry>Lists</entry>
@@ -894,6 +901,9 @@
         <entry encoding="base64">PA==</entry>
         <entry>intValue()</entry>
         <entry>\t</entry>
+        <entry>isEntity</entry>
+        <entry>isFormEntity</entry>
+        <entry>customFormService</entry>
       </history-search>
       <history-cmd>
         <entry>2999</entry>
