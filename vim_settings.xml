@@ -479,8 +479,8 @@
         <mark key="." line="101" column="15" />
         <mark key="^" line="101" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" timestamp="1499354653148">
-        <mark key="'" line="10" column="35" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" timestamp="1499450817960">
+        <mark key="'" line="249" column="6" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceLocal.java" timestamp="1495028968284">
         <mark key="'" line="0" column="0" />
@@ -760,7 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="833" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="13205" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="13200" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -860,6 +859,7 @@
       <jump line="288" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="16" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="141" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="249" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/MessageCallScreen.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -869,7 +869,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>supportsOption</text>
+        <text>receiverSupports</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0ZW1lbnQgPSBkYi5wcmVwYXJlU3RhdGVtZW50KCJzZWxlY3QgZm9ybV9pZCBmcm9tICIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgInNlcnZpY2VfaXRlbV9jdXN0b21fZm9ybSB3aGVyZSBzZXJ2aWNlX2l0ZW1fdHlwZSIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIiA9ICdwbGF5cGVuJyBhbmQgZm9ybV9pZCA9ID8iKTsK</text>
@@ -909,9 +909,9 @@
       </register>
     </registers>
     <search>
-      <last-search>supportsOption</last-search>
+      <last-search>receiverSupports</last-search>
       <last-offset />
-      <last-pattern>supportsOption</last-pattern>
+      <last-pattern>receiverSupports</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -919,7 +919,6 @@
     </search>
     <history>
       <history-search>
-        <entry>formGroupService</entry>
         <entry>scheduledServiceService</entry>
         <entry>isFormEntityCurrentlyAttached</entry>
         <entry>logUnhandledException</entry>
@@ -939,6 +938,7 @@
         <entry>MASTER</entry>
         <entry>TODO</entry>
         <entry>supportsOption</entry>
+        <entry>receiverSupports</entry>
       </history-search>
       <history-cmd>
         <entry>2999</entry>
