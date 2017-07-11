@@ -304,9 +304,9 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/GeneralMessageCallScreen.java" timestamp="1499799752848">
         <mark key="[" line="285" column="62" />
-        <mark key="]" line="305" column="0" />
-        <mark key="^" line="305" column="0" />
-        <mark key="." line="305" column="0" />
+        <mark key="]" line="298" column="0" />
+        <mark key="^" line="298" column="0" />
+        <mark key="." line="298" column="0" />
       </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/clean-core/src/main/java/com/mapcommunications/clean/services/domain/CustomFormService.java" timestamp="1476733731664">
         <mark key="'" line="162" column="8" />
@@ -315,8 +315,8 @@
         <mark key="." line="42" column="52" />
         <mark key="^" line="42" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" timestamp="1499801537835">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" timestamp="1499802091989">
+        <mark key="'" line="523" column="0" />
         <mark key="[" line="523" column="0" />
         <mark key="]" line="523" column="0" />
         <mark key="." line="523" column="0" />
@@ -619,12 +619,8 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1499801016318">
-        <mark key="'" line="2568" column="7" />
-        <mark key="[" line="1815" column="31" />
-        <mark key="]" line="1815" column="34" />
-        <mark key="^" line="1815" column="34" />
-        <mark key="." line="1815" column="34" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1499802108696">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/OnCallScheduleInfoBuilder.java" timestamp="1492178329497">
         <mark key="[" line="0" column="35" />
@@ -763,8 +759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" />
-      <jump line="197" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" />
       <jump line="200" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" />
       <jump line="202" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" />
       <jump line="206" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" />
@@ -851,7 +845,6 @@
       <jump line="760" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1147" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1722" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1044" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1108" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1491" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
@@ -863,6 +856,9 @@
       <jump line="525" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="260" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
+      <jump line="523" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
+      <jump line="1815" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -872,7 +868,7 @@
         <text>screen</text>
       </register>
       <register name="/" type="4">
-        <text>LOGGER</text>
+        <text>formSupports</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNjcmVlbiBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
@@ -912,9 +908,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LOGGER</last-search>
+      <last-search>formSupports</last-search>
       <last-offset />
-      <last-pattern>LOGGER</last-pattern>
+      <last-pattern>formSupports</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -922,7 +918,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MASTER</entry>
         <entry>TODO</entry>
         <entry>supportsOption</entry>
         <entry>receiverSupports</entry>
@@ -942,6 +937,7 @@
         <entry>determine</entry>
         <entry>deciding</entry>
         <entry>LOGGER</entry>
+        <entry>formSupports</entry>
       </history-search>
       <history-cmd>
         <entry>2999</entry>
