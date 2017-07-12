@@ -679,6 +679,9 @@
         <mark key="^" line="581" column="11" />
         <mark key="." line="583" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1499884392893">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/OnCallDispatchComboBoxElement.java" timestamp="1488230372382">
         <mark key="'" line="169" column="0" />
         <mark key="[" line="169" column="9" />
@@ -766,8 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" />
-      <jump line="206" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" />
       <jump line="208" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" />
       <jump line="210" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" />
       <jump line="211" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" />
@@ -866,6 +867,8 @@
       <jump line="1815" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1031" column="70" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallScreen.java" />
+      <jump line="2718" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -875,7 +878,7 @@
         <text>screen</text>
       </register>
       <register name="/" type="4">
-        <text>formSupports</text>
+        <text>NEXT_CALL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNjcmVlbiBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
@@ -915,9 +918,9 @@
       </register>
     </registers>
     <search>
-      <last-search>formSupports</last-search>
+      <last-search>NEXT_CALL</last-search>
       <last-offset />
-      <last-pattern>formSupports</last-pattern>
+      <last-pattern>NEXT_CALL</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -925,7 +928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TODO</entry>
         <entry>supportsOption</entry>
         <entry>receiverSupports</entry>
         <entry>atizona</entry>
@@ -945,6 +947,7 @@
         <entry>deciding</entry>
         <entry>LOGGER</entry>
         <entry>formSupports</entry>
+        <entry>NEXT_CALL</entry>
       </history-search>
       <history-cmd>
         <entry>2999</entry>
