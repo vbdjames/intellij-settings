@@ -693,7 +693,7 @@
         <mark key="." line="47" column="30" />
         <mark key="^" line="47" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1494272866784">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1499973376190">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="426" column="21" />
         <mark key="]" line="426" column="23" />
@@ -760,7 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1798" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/MessageRetrievalFrame.java" />
       <jump line="1799" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/MessageRetrievalFrame.java" />
       <jump line="1800" column="59" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/MessageRetrievalFrame.java" />
       <jump line="1801" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/MessageRetrievalFrame.java" />
@@ -860,6 +859,7 @@
       <jump line="1776" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1816" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1828" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -869,7 +869,7 @@
         <text>screen</text>
       </register>
       <register name="/" type="4">
-        <text>entityManager_</text>
+        <text>bag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNjcmVlbiBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
@@ -909,9 +909,9 @@
       </register>
     </registers>
     <search>
-      <last-search>entityManager_</last-search>
+      <last-search>bag</last-search>
       <last-offset />
-      <last-pattern>entityManager_</last-pattern>
+      <last-pattern>bag</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -919,7 +919,6 @@
     </search>
     <history>
       <history-search>
-        <entry>arizona</entry>
         <entry>export</entry>
         <entry>timezone</entry>
         <entry>timeZone_</entry>
@@ -939,6 +938,7 @@
         <entry>getAmd</entry>
         <entry>getCustomFormPostgres</entry>
         <entry>entityManager_</entry>
+        <entry>bag</entry>
       </history-search>
       <history-cmd>
         <entry>2999</entry>
