@@ -91,13 +91,6 @@
         <mark key="." line="1472" column="59" />
         <mark key="^" line="1472" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1499968169907">
-        <mark key="'" line="1828" column="21" />
-        <mark key="[" line="832" column="1" />
-        <mark key="]" line="833" column="0" />
-        <mark key="." line="833" column="0" />
-        <mark key="^" line="833" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" timestamp="1497535059684">
         <mark key="'" line="211" column="24" />
       </file>
@@ -619,12 +612,12 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1499869697913">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1029" column="4" />
-        <mark key="]" line="302" column="16" />
-        <mark key="^" line="302" column="16" />
-        <mark key="." line="302" column="16" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" timestamp="1499979509702">
+        <mark key="'" line="302" column="17" />
+        <mark key="[" line="1793" column="0" />
+        <mark key="]" line="1793" column="0" />
+        <mark key="^" line="1801" column="43" />
+        <mark key="." line="1793" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/OnCallScheduleInfoBuilder.java" timestamp="1492178329497">
         <mark key="[" line="0" column="35" />
@@ -695,10 +688,6 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1499975001972">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="426" column="21" />
-        <mark key="]" line="426" column="23" />
-        <mark key="." line="426" column="23" />
-        <mark key="^" line="426" column="23" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -760,7 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1788" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/MessageRetrievalFrame.java" />
       <jump line="19" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/table/DateTableCellRenderer.java" />
       <jump line="45" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/table/DateTableCellRenderer.java" />
       <jump line="61" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/table/DateTableCellRenderer.java" />
@@ -860,58 +848,59 @@
       <jump line="429" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="490" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="302" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBMT0dHRVIgPQogICAgICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKFJlY2VpdmVyVHlwZS5jbGFzcy5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBkZWNpZGluZyBpZiBwYXRjaCBjYWxsIHNob3VsZCBiZSBlbmFibGVkIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>screen</text>
       </register>
       <register name="/" type="4">
-        <text>bag</text>
+        <text>formSupports</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNjcmVlbiBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBMT0dHRVIgPQogICAgICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKFJlY2VpdmVyVHlwZS5jbGFzcy5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBkZWNpZGluZyBpZiBwYXRjaCBjYWxsIHNob3VsZCBiZSBlbmFibGVkIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3VwcG9ydHMpIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIi4uLml0IGRvZXMiKTsKICAgICAgICB9CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIExPR0dFUi5pbmZvKCIuLi5pdCBkb2VzIG5vdCIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2NyZWVuU3VwcG9ydHMpIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNjcmVlbiBzdXBwb3J0cyIpOwogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNjcmVlbiBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbyhTdHJpbmcuZm9ybWF0KCI9PT0+IGNoZWNraW5nIGlmIHJlY2VpdmVyIHN1cHBvcnRzICVzIiwgdHlwZQogICAgICAgICAgICAgICAgLnRvU3RyaW5nKCkpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVjZWl2ZXJTdXBwb3J0cykgewogICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PT4gcmVjZWl2ZXIgc3VwcG9ydHMiKTsKICAgICAgICB9CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT09PiByZWNlaXZlciBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZm9ybVN1cHBvcnRzKSB7CiAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT09PiBmb3JtIHN1cHBvcnRzIik7CiAgICAgICAgfQogICAgICAgIGVsc2UgewogICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PT4gZm9ybSBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBMT0dHRVIgPQogICAgICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKFJlY2VpdmVyVHlwZS5jbGFzcy5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBkZWNpZGluZyBpZiBwYXRjaCBjYWxsIHNob3VsZCBiZSBlbmFibGVkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3VwcG9ydHMpIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIi4uLml0IGRvZXMiKTsKICAgICAgICB9CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIExPR0dFUi5pbmZvKCIuLi5pdCBkb2VzIG5vdCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbyhTdHJpbmcuZm9ybWF0KCI9PT0+IGNoZWNraW5nIGlmIHJlY2VpdmVyIHN1cHBvcnRzICVzIiwgdHlwZQogICAgICAgICAgICAgICAgLnRvU3RyaW5nKCkpKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bag</last-search>
+      <last-search>formSupports</last-search>
       <last-offset />
-      <last-pattern>bag</last-pattern>
+      <last-pattern>formSupports</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -932,16 +921,15 @@
         <entry>determine</entry>
         <entry>deciding</entry>
         <entry>LOGGER</entry>
-        <entry>formSupports</entry>
         <entry>NEXT_CALL</entry>
         <entry>getAmd</entry>
         <entry>getCustomFormPostgres</entry>
         <entry>entityManager_</entry>
         <entry>searchdatalayoutitem</entry>
         <entry>bag</entry>
+        <entry>formSupports</entry>
       </history-search>
       <history-cmd>
-        <entry>2999</entry>
         <entry>398</entry>
         <entry>3025</entry>
         <entry>5126</entry>
@@ -961,6 +949,7 @@
         <entry encoding="base64">JzwsJz5zL1x0LyAgICAvZw==</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>ww</entry>
       </history-cmd>
       <history-expr />
       <history-input />
