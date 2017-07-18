@@ -91,11 +91,11 @@
         <mark key="." line="1472" column="59" />
         <mark key="^" line="1472" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1500407893037">
-        <mark key="[" line="12730" column="31" />
-        <mark key="]" line="12730" column="31" />
-        <mark key="^" line="12730" column="31" />
-        <mark key="." line="12730" column="31" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1500410480187">
+        <mark key="[" line="12728" column="56" />
+        <mark key="]" line="12731" column="50" />
+        <mark key="^" line="12731" column="50" />
+        <mark key="." line="12731" column="50" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallDataVessel.java" timestamp="1497535059684">
         <mark key="'" line="211" column="24" />
@@ -324,11 +324,11 @@
         <mark key="." line="105" column="1" />
         <mark key="^" line="105" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/CustomFormMemoryProfile.java" timestamp="1500408457277">
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/CustomFormMemoryProfile.java" timestamp="1500410203833">
         <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="30" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminService.java" timestamp="1495043463577">
         <mark key="'" line="90" column="17" />
@@ -866,20 +866,20 @@
       <jump line="3026" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT0+IGFmdGVyOiAiICsgUnVudGltZS5nZXRSdW50aW1lKCkuZnJlZU1lbW9yeSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>: &quot; + Runtime.getRuntime().freeMemory());</text>
       </register>
       <register name="-" type="4">
-        <text>before</text>
+        <text>: &quot; + Runtime.getRuntime().freeMemory());</text>
       </register>
       <register name="/" type="4">
         <text>getCustomForm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT0+IGFmdGVyOiAiICsgUnVudGltZS5nZXRSdW50aW1lKCkuZnJlZU1lbW9yeSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0TWVtID0gUnVudGltZS5nZXRSdW50aW1lKCkuZnJlZU1lbW9yeSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oUnVudGltZS5nZXRSdW50aW1lKCkuZnJlZU1lbW9yeSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT0+IGJlZm9yZTogIiArIFJ1bnRpbWUuZ2V0UnVudGltZSgpLmZyZWVNZW1vcnkoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -888,25 +888,25 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oUnVudGltZS5nZXRSdW50aW1lKCkuZnJlZU1lbW9yeSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oUnVudGltZS5nZXRSdW50aW1lKCkuZnJlZU1lbW9yeSgpKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBkZWNpZGluZyBpZiBwYXRjaCBjYWxsIHNob3VsZCBiZSBlbmFibGVkIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2NyZWVuU3VwcG9ydHMpIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNjcmVlbiBzdXBwb3J0cyIpOwogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNjcmVlbiBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiBkZWNpZGluZyBpZiBwYXRjaCBjYWxsIHNob3VsZCBiZSBlbmFibGVkIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVjZWl2ZXJTdXBwb3J0cykgewogICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PT4gcmVjZWl2ZXIgc3VwcG9ydHMiKTsKICAgICAgICB9CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT09PiByZWNlaXZlciBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2NyZWVuU3VwcG9ydHMpIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNjcmVlbiBzdXBwb3J0cyIpOwogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT0+IHNjcmVlbiBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZm9ybVN1cHBvcnRzKSB7CiAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT09PiBmb3JtIHN1cHBvcnRzIik7CiAgICAgICAgfQogICAgICAgIGVsc2UgewogICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PT4gZm9ybSBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVjZWl2ZXJTdXBwb3J0cykgewogICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PT4gcmVjZWl2ZXIgc3VwcG9ydHMiKTsKICAgICAgICB9CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT09PiByZWNlaXZlciBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBMT0dHRVIgPQogICAgICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKFJlY2VpdmVyVHlwZS5jbGFzcy5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZm9ybVN1cHBvcnRzKSB7CiAgICAgICAgICAgIExPR0dFUi5pbmZvKCI9PT09PiBmb3JtIHN1cHBvcnRzIik7CiAgICAgICAgfQogICAgICAgIGVsc2UgewogICAgICAgICAgICBMT0dHRVIuaW5mbygiPT09PT4gZm9ybSBkb2Vzbid0IHN1cHBvcnQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
