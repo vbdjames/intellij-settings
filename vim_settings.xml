@@ -735,8 +735,8 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1495648524773">
-        <mark key="'" line="24708" column="13" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1500406350954">
+        <mark key="'" line="3026" column="51" />
         <mark key="[" line="21533" column="0" />
         <mark key="]" line="21533" column="0" />
         <mark key="." line="21533" column="0" />
@@ -758,12 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/table/DateTableCellRenderer.java" />
-      <jump line="45" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/table/DateTableCellRenderer.java" />
-      <jump line="61" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/table/DateTableCellRenderer.java" />
-      <jump line="19" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/TimeZoneType.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/TimeZoneType.java" />
-      <jump line="445" column="74" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="59" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/util/SystemUtilities.java" />
       <jump line="32" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
       <jump line="95" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ReceiverType.java" />
@@ -858,6 +852,12 @@
       <jump line="490" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="302" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
+      <jump line="198" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="210" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="213" column="71" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="781" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="2413" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="3026" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -867,7 +867,7 @@
         <text>screen</text>
       </register>
       <register name="/" type="4">
-        <text>formSupports</text>
+        <text>getCustomForm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIHNldFVwKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgc3VwZXIuc2V0VXAoKTsKICAgICAgICB0aGlzLmxvZ2luTW9kdWxlXyA9IFRlc3RpbmdVdGlsaXRpZXMubG9naW4oInRlc3QtZ3JvdXAiLCAiR2VuIE9wIiwKICAgICAgICAgICAgICAgICJHRU5PUCIpOwogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiamF2YS5uYW1pbmcucHJvdmlkZXIudXJsIiwKICAgICAgICAgICAgICAgICJqbnA6Ly90ZXN0MmVjaG8uaW50ZXJuYWw6MTEwMCIpOwogICAgICAgIHRoaXMuYWRtaW5TZXJ2aWNlXyA9IG5ldyBBZG1pblNlcnZpY2VQcm94eSgpOwogICAgfQoKICAgIHByb3RlY3RlZCB2b2lkIHRlYXJEb3duKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgc3VwZXIudGVhckRvd24oKTsKICAgICAgICB0cnkgewogICAgICAgICAgICB0aGlzLmxvZ2luTW9kdWxlXy5sb2dvdXQoKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKExvZ2luRXhjZXB0aW9uIGV4Y2VwdGlvbikgewogICAgICAgICAgICAvLyBkbyBub3RoaW5nIC0gdGhlIHRlc3QgaXMgb3ZlciEKICAgICAgICB9CiAgICB9Cg==</text>
@@ -907,9 +907,9 @@
       </register>
     </registers>
     <search>
-      <last-search>formSupports</last-search>
+      <last-search>getCustomForm</last-search>
       <last-offset />
-      <last-pattern>formSupports</last-pattern>
+      <last-pattern>getCustomForm</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -917,7 +917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timezone</entry>
         <entry>timeZone_</entry>
         <entry>getJavaTimeZone</entry>
         <entry encoding="base64">TE9HR0VSIA==</entry>
@@ -937,6 +936,7 @@
         <entry>searchdatalayoutitem</entry>
         <entry>bag</entry>
         <entry>formSupports</entry>
+        <entry>getCustomForm</entry>
       </history-search>
       <history-cmd>
         <entry>398</entry>
