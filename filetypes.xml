@@ -4,6 +4,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="ctl" type="PLAIN_TEXT" />
+      <mapping ext="all" type="PLAIN_TEXT" />
       <mapping pattern="OracleDaoTestService" type="XML" />
     </extensionMap>
   </component>
