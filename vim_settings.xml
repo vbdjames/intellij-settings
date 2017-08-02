@@ -185,11 +185,12 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" timestamp="1492609333204">
         <mark key="'" line="388" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" timestamp="1501613544163">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="23" column="27" />
-        <mark key="." line="23" column="27" />
-        <mark key="^" line="23" column="27" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" timestamp="1501621229110">
+        <mark key="'" line="395" column="4" />
+        <mark key="[" line="100" column="26" />
+        <mark key="]" line="100" column="65" />
+        <mark key="." line="100" column="65" />
+        <mark key="^" line="100" column="65" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/dao/HibernateCleaner.java" timestamp="1495029245165">
         <mark key="'" line="5" column="0" />
@@ -720,8 +721,8 @@
         <mark key="." line="47" column="30" />
         <mark key="^" line="47" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1501615159329">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1501618027902">
+        <mark key="'" line="568" column="4" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -787,26 +788,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="28" column="14" />
       </file>
+      <file name="/fragment.java" timestamp="1501618323312">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="6084" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="6094" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="6130" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="6140" column="68" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="6179" column="59" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="1208" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="4974" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="4972" column="71" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="4962" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="4967" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="759" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="760" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="1147" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="1722" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="1044" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="1108" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="1491" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
-      <jump line="1511" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="1625" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="2334" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="2398" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
@@ -886,61 +872,87 @@
       <jump line="212" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="51" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="901" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="14" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="6" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="9" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="59" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="449" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="465" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="480" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="496" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="512" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="524" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="536" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="553" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="568" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" />
+      <jump line="896" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" />
+      <jump line="126" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" />
+      <jump line="46" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" />
+      <jump line="21" column="57" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" />
+      <jump line="395" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>modified</text>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text>modified</text>
       </register>
       <register name="/" type="4">
-        <text>layoutItems</text>
+        <text>hashCode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0icHJlZmVycmVkX3dpZHRoIikK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0ibW9kaWZpZWRfdGltZXN0YW1wIiwgbnVsbGFibGU9ZmFsc2UpCiAgICBAVGVtcG9yYWwoVGVtcG9yYWxUeXBlLlRJTUVTVEFNUCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iZm9ybV9jbGFzcyIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBJZAogICAgcHJpdmF0ZSBMb25nIGlkXzsKICAgIAogICAgcHJpdmF0ZSBJbnRlZ2VyIHZlcnNpb25fOwo=</text>
+        <text encoding="base64">QEluaGVyaXRhbmNlKHN0cmF0ZWd5ID0gKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRpdGxlXzsKICAgIHByaXZhdGUgU3RyaW5nIGZvcm1UeXBlXzsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyB2ZXJzaW9uIG51bWJlciBvZiB0aGUgZm9ybS4gIFByb3ZpZGVkIHRvIHN1cHBvcnQgdmVyc2lvbmVkIGRhdGEKICAgICAqIGZvciBIaWJlcm5hdGUuCiAgICAgKgogICAgICogQHJldHVybiBJbnRlZ2VyIGNvbnRhaW5pbmcgZm9ybSB2ZXJzaW9uIG51bWJlcgogICAgICovCiAgICBwdWJsaWMgSW50ZWdlciBnZXRWZXJzaW9uKCkgewogICAgICAgIHJldHVybiB0aGlzLnZlcnNpb247CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDdXN0b21Gb3JtT3JhY2xlIGZvclZhbHVlKEN1c3RvbUZvcm0gY3VzdG9tRm9ybSkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2V0cyB2ZXJzaW9uIG51bWJlciBvZiB0aGUgZm9ybS4KICAgICAqCiAgICAgKiBAcGFyYW0gdmVyc2lvbiBJbnRlZ2VyIGNvbnRhaW5pbmcgZm9ybSB2ZXJzaW9uIG51bWJlcgogICAgICovCiAgICBwdWJsaWMgdm9pZCBzZXRWZXJzaW9uKEludGVnZXIgdmVyc2lvbikgewogICAgICAgIHRoaXMudmVyc2lvbiA9IHZlcnNpb247CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDdXN0b21Gb3JtIGZvclZhbHVlKEN1c3RvbUZvcm1PcmFjbGUgY3VzdG9tRm9ybU9yYWNsZSkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyBpZCBvZiB0aGUgZm9ybS4KICAgICAqCiAgICAgKiBAcmV0dXJuIExvbmcgY29udGFpbmluZyBmb3JtIGlkCiAgICAgKi8KICAgIHB1YmxpYyBMb25nIGdldElkKCkgewogICAgICAgIHJldHVybiB0aGlzLmlkOwogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5wZXJzaXN0ZW5jZS5BYnN0cmFjdFBlcnNpc3RlbnRTdHJpbmdLZXllZEVudGl0eTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5wZXJzaXN0ZW5jZS5QZXJzaXN0ZW50RW50aXR5Owo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5VVUlEOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2V0cyBpZCBvZiB0aGUgZm9ybS4gIFByb3ZpZGVkIG9ubHkgdG8gc2F0aXNmeSB0aGUgSGliZXJuYXRlIHJlcXVpcmVtZW50CiAgICAgKiBmb3IgYSBzZXR0ZXIgZm9yIGVhY2ggY2xhc3MgcHJvcGVydHkuICBNYWRlIHByaXZhdGUgdG8gcHJldmVudCBwdWJsaWMKICAgICAqIGludm9jYXRpb24uCiAgICAgKgogICAgICogQHBhcmFtIGlkIExvbmcgY29udGFpbmluZyBmb3JtIGlkCiAgICAgKi8KICAgIHB1YmxpYyB2b2lkIHNldElkKExvbmcgaWQpIHsKICAgICAgICB0aGlzLmlkXyA9IGlkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciB2ZXJzaW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>layoutItems</last-search>
+      <last-search>hashCode</last-search>
       <last-offset />
-      <last-pattern>layoutItems</last-pattern>
+      <last-pattern>hashCode</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -948,9 +960,6 @@
     </search>
     <history>
       <history-search>
-        <entry>determine</entry>
-        <entry>deciding</entry>
-        <entry>LOGGER</entry>
         <entry>NEXT_CALL</entry>
         <entry>getAmd</entry>
         <entry>getCustomFormPostgres</entry>
@@ -968,6 +977,9 @@
         <entry>set</entry>
         <entry>bag</entry>
         <entry>layoutItems</entry>
+        <entry encoding="base64">PGNsYXNz</entry>
+        <entry>equals</entry>
+        <entry>hashCode</entry>
       </history-search>
       <history-cmd>
         <entry>398</entry>
