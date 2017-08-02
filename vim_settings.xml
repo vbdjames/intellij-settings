@@ -185,12 +185,12 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/Directory.java" timestamp="1492609333204">
         <mark key="'" line="388" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" timestamp="1501621229110">
-        <mark key="'" line="395" column="4" />
-        <mark key="[" line="100" column="26" />
-        <mark key="]" line="100" column="65" />
-        <mark key="." line="100" column="65" />
-        <mark key="^" line="100" column="65" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" timestamp="1501675116337">
+        <mark key="'" line="102" column="56" />
+        <mark key="[" line="99" column="57" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="102" column="56" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/dao/HibernateCleaner.java" timestamp="1495029245165">
         <mark key="'" line="5" column="0" />
@@ -793,7 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1625" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="2334" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="2398" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
       <jump line="2549" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/CallFrame.java" />
@@ -893,6 +892,7 @@
       <jump line="46" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" />
       <jump line="21" column="57" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" />
       <jump line="395" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" />
+      <jump line="102" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -903,11 +903,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>modified</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>modified</text>
+        <text>(cascade={CascadeType.ALL, DELETE_ORPHAN})</text>
       </register>
       <register name="/" type="4">
         <text>hashCode</text>
@@ -916,34 +916,34 @@
         <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0ibW9kaWZpZWRfdGltZXN0YW1wIiwgbnVsbGFibGU9ZmFsc2UpCiAgICBAVGVtcG9yYWwoVGVtcG9yYWxUeXBlLlRJTUVTVEFNUCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iZm9ybV9jbGFzcyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEluaGVyaXRhbmNlKHN0cmF0ZWd5ID0gKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGliZXJuYXRlLmFubm90YXRpb25zLkNhc2NhZGVUeXBlLio7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyB2ZXJzaW9uIG51bWJlciBvZiB0aGUgZm9ybS4gIFByb3ZpZGVkIHRvIHN1cHBvcnQgdmVyc2lvbmVkIGRhdGEKICAgICAqIGZvciBIaWJlcm5hdGUuCiAgICAgKgogICAgICogQHJldHVybiBJbnRlZ2VyIGNvbnRhaW5pbmcgZm9ybSB2ZXJzaW9uIG51bWJlcgogICAgICovCiAgICBwdWJsaWMgSW50ZWdlciBnZXRWZXJzaW9uKCkgewogICAgICAgIHJldHVybiB0aGlzLnZlcnNpb247CiAgICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkNhc2NhZGVUeXBlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU2V0cyB2ZXJzaW9uIG51bWJlciBvZiB0aGUgZm9ybS4KICAgICAqCiAgICAgKiBAcGFyYW0gdmVyc2lvbiBJbnRlZ2VyIGNvbnRhaW5pbmcgZm9ybSB2ZXJzaW9uIG51bWJlcgogICAgICovCiAgICBwdWJsaWMgdm9pZCBzZXRWZXJzaW9uKEludGVnZXIgdmVyc2lvbikgewogICAgICAgIHRoaXMudmVyc2lvbiA9IHZlcnNpb247CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyBpZCBvZiB0aGUgZm9ybS4KICAgICAqCiAgICAgKiBAcmV0dXJuIExvbmcgY29udGFpbmluZyBmb3JtIGlkCiAgICAgKi8KICAgIHB1YmxpYyBMb25nIGdldElkKCkgewogICAgICAgIHJldHVybiB0aGlzLmlkOwogICAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkluaGVyaXRhbmNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iZm9ybV9jbGFzcyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QEluaGVyaXRhbmNlKHN0cmF0ZWd5ID0gKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU2V0cyBpZCBvZiB0aGUgZm9ybS4gIFByb3ZpZGVkIG9ubHkgdG8gc2F0aXNmeSB0aGUgSGliZXJuYXRlIHJlcXVpcmVtZW50CiAgICAgKiBmb3IgYSBzZXR0ZXIgZm9yIGVhY2ggY2xhc3MgcHJvcGVydHkuICBNYWRlIHByaXZhdGUgdG8gcHJldmVudCBwdWJsaWMKICAgICAqIGludm9jYXRpb24uCiAgICAgKgogICAgICogQHBhcmFtIGlkIExvbmcgY29udGFpbmluZyBmb3JtIGlkCiAgICAgKi8KICAgIHB1YmxpYyB2b2lkIHNldElkKExvbmcgaWQpIHsKICAgICAgICB0aGlzLmlkXyA9IGlkOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyB2ZXJzaW9uIG51bWJlciBvZiB0aGUgZm9ybS4gIFByb3ZpZGVkIHRvIHN1cHBvcnQgdmVyc2lvbmVkIGRhdGEKICAgICAqIGZvciBIaWJlcm5hdGUuCiAgICAgKgogICAgICogQHJldHVybiBJbnRlZ2VyIGNvbnRhaW5pbmcgZm9ybSB2ZXJzaW9uIG51bWJlcgogICAgICovCiAgICBwdWJsaWMgSW50ZWdlciBnZXRWZXJzaW9uKCkgewogICAgICAgIHJldHVybiB0aGlzLnZlcnNpb247CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciB2ZXJzaW9uOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2V0cyB2ZXJzaW9uIG51bWJlciBvZiB0aGUgZm9ybS4KICAgICAqCiAgICAgKiBAcGFyYW0gdmVyc2lvbiBJbnRlZ2VyIGNvbnRhaW5pbmcgZm9ybSB2ZXJzaW9uIG51bWJlcgogICAgICovCiAgICBwdWJsaWMgdm9pZCBzZXRWZXJzaW9uKEludGVnZXIgdmVyc2lvbikgewogICAgICAgIHRoaXMudmVyc2lvbiA9IHZlcnNpb247CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
