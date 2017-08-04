@@ -82,10 +82,11 @@
         <mark key="." line="1472" column="59" />
         <mark key="^" line="1472" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" timestamp="1501851184799">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" timestamp="1501867504221">
+        <mark key="'" line="246" column="30" />
         <mark key="[" line="231" column="72" />
-        <mark key="]" line="191" column="7" />
-        <mark key="." line="48" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1501784426450">
         <mark key="'" line="169" column="39" />
@@ -391,11 +392,12 @@
         <mark key="^" line="52" column="86" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1501862248494">
-        <mark key="[" line="55" column="50" />
-        <mark key="]" line="53" column="49" />
-        <mark key="^" line="53" column="49" />
-        <mark key="." line="53" column="49" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1501867813744">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="128" column="33" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="132" column="39" />
       </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/goosgbt/src/main/java/com/vbdjames/goosgbt/Main.java" timestamp="1481149969334">
         <mark key="'" line="58" column="0" />
@@ -746,11 +748,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241522" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/custom_form_ids.csv" />
-      <jump line="16262" column="7" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/custom_form_ids.csv" />
-      <jump line="6228" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="2" column="6" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/custom_form_ids.all" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/custom_form_ids.all" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/custom_form_ids.csv" />
       <jump line="29" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceProxy.java" />
@@ -846,6 +843,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="50" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="34" column="4" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="131" column="26" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="247" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" />
+      <jump line="130" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -857,55 +859,55 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0RU0oRW50aXR5TWFuYWdlciBlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW50aXR5TWFuYWdlcl8sIA==</text>
+        <text>classUnderTest</text>
       </register>
       <register name="/" type="4">
-        <text>when</text>
+        <text>system</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGaWVsZCBwYXJlbnRTZXJ2aWNlID0gY3VzdG9tRm9ybURhb18uZ2V0Q2xhc3MoKS5nZXRTdXBlcmNsYXNzKCkKICAgICAgICAgICAgICAgIC5nZXREZWNsYXJlZEZpZWxkKCJlbnRpdHlNYW5hZ2VyXyIpOwogICAgICAgIHBhcmVudFNlcnZpY2Uuc2V0QWNjZXNzaWJsZSh0cnVlKTsKICAgICAgICBwYXJlbnRTZXJ2aWNlLnNldChjdXN0b21Gb3JtRGFvXywgbWFuYWdlcl8pOzsK</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBlbnRpdHlNYW5hZ2VyID0gY3VzdG9tRm9ybURhb18uZ2V0Q2xhc3MoKS5nZXRTdXBlcmNsYXNzKCkKICAgICAgICAgICAgICAgIC5nZXREZWNsYXJlZEZpZWxkKCJlbnRpdHlNYW5hZ2VyXyIpOwogICAgICAgIGVudGl0eU1hbmFnZXIuc2V0QWNjZXNzaWJsZSh0cnVlKTsKICAgICAgICBlbnRpdHlNYW5hZ2VyLnNldChjdXN0b21Gb3JtRGFvXywgbWFuYWdlcl8pOzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0RU0oRW50aXR5TWFuYWdlciBlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBlbnRpdHlNYW5hZ2VyID0gY3VzdG9tRm9ybURhb18uZ2V0Q2xhc3MoKS5nZXRTdXBlcmNsYXNzKCkKICAgICAgICAgICAgICAgIC5nZXREZWNsYXJlZEZpZWxkKCJlbnRpdHlNYW5hZ2VyXyIpOwogICAgICAgIGVudGl0eU1hbmFnZXIuc2V0QWNjZXNzaWJsZSh0cnVlKTsKICAgICAgICBlbnRpdHlNYW5hZ2VyLnNldChjdXN0b21Gb3JtRGFvXywgbWFuYWdlcl8pOzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBlbnRpdHlNYW5hZ2VyID0gY3VzdG9tRm9ybURhb18uZ2V0Q2xhc3MoKS5nZXRTdXBlcmNsYXNzKCkKICAgICAgICAgICAgICAgIC5nZXREZWNsYXJlZEZpZWxkKCJlbnRpdHlNYW5hZ2VyXyIpOwogICAgICAgIGVudGl0eU1hbmFnZXIuc2V0QWNjZXNzaWJsZSh0cnVlKTsKICAgICAgICBlbnRpdHlNYW5hZ2VyLnNldChjdXN0b21Gb3JtRGFvXywgbWFuYWdlcl8pOzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVudGl0eU1hbmFnZXJfID0gZW07Cg==</text>
+        <text encoding="base64">Ly8gICAgQEluamVjdE1vY2tzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEVNKEVudGl0eU1hbmFnZXIgZW0pIHsK</text>
+        <text encoding="base64">Ly8gICAgQE1vY2sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgQ3VzdG9tRm9ybU9yYWNsZURhb0ZvbyBleHRlbmRzIEN1c3RvbUZvcm1PcmFjbGVEYW8gewogICAgICAgIHB1YmxpYyB2b2lkIHNldEVtKEVudGl0eU1hbmFnZXIgZW0pIHsKICAgICAgICAgICAgdGhpcy5lbnRpdHlNYW5hZ2VyXyA9IGVtOwogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21Gb3JtRGFvXy5zZXRFbShtYW5hZ2VyXyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGN1c3RvbUZvcm1EYW9fLnNldEVtKG1hbmFnZXJfKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgQ3VzdG9tRm9ybU9yYWNsZURhb0ZvbyBleHRlbmRzIEN1c3RvbUZvcm1PcmFjbGVEYW8gewogICAgICAgIHB1YmxpYyB2b2lkIHNldEVtKEVudGl0eU1hbmFnZXIgZW0pIHsKICAgICAgICAgICAgdGhpcy5lbnRpdHlNYW5hZ2VyXyA9IGVtOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRGaWVsZCgiZW50aXR5TWFuYWdlcl8iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLkluamVjdE1vY2tzOwo=</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBlbnRpdHlNYW5hZ2VyID0gY3VzdG9tRm9ybURhb18uZ2V0Q2xhc3MoKS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>when</last-search>
+      <last-search>system</last-search>
       <last-offset />
-      <last-pattern>when</last-pattern>
+      <last-pattern>system</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -913,7 +915,6 @@
     </search>
     <history>
       <history-search>
-        <entry>formSupports</entry>
         <entry>getCustomForm</entry>
         <entry>7167784</entry>
         <entry>op_group</entry>
@@ -933,6 +934,7 @@
         <entry>customFormDS =</entry>
         <entry>version</entry>
         <entry>when</entry>
+        <entry>system</entry>
       </history-search>
       <history-cmd>
         <entry>398</entry>
