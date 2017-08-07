@@ -813,12 +813,12 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1502117885110">
-        <mark key="'" line="301" column="33" />
-        <mark key="[" line="2359" column="43" />
-        <mark key="]" line="2360" column="64" />
-        <mark key="^" line="2360" column="64" />
-        <mark key="." line="2360" column="64" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" timestamp="1502135795954">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1880" column="44" />
+        <mark key="]" line="2362" column="64" />
+        <mark key="^" line="2362" column="64" />
+        <mark key="." line="2362" column="64" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/custom_form_ids.all" timestamp="1500578501223">
         <mark key="[" line="0" column="0" />
@@ -868,7 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="51" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="901" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="14" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
@@ -965,9 +964,10 @@
       <jump line="2570" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="2683" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="2752" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="162" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="301" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="2343" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -985,7 +985,7 @@
         <text>classUnderTest</text>
       </register>
       <register name="/" type="4">
-        <text>getDirectory</text>
+        <text>get contacts for</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBVbmhhbmRsZWRFeGNlcHRpb24ubmV3SW5zdGFuY2UoInRyeWluZyBzdGF0aWMgbWV0aG9kIikK</text>
@@ -1025,9 +1025,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getDirectory</last-search>
+      <last-search>get contacts for</last-search>
       <last-offset />
-      <last-pattern>getDirectory</last-pattern>
+      <last-pattern>get contacts for</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1035,7 +1035,6 @@
     </search>
     <history>
       <history-search>
-        <entry>restore</entry>
         <entry>getPostalCity</entry>
         <entry>getPostalCodeCity</entry>
         <entry>customFormDao</entry>
@@ -1055,6 +1054,7 @@
         <entry>Unhandled</entry>
         <entry>newInstance</entry>
         <entry>getDirectory</entry>
+        <entry>get contacts for</entry>
       </history-search>
       <history-cmd>
         <entry>5126</entry>
