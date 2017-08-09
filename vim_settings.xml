@@ -144,6 +144,9 @@
         <mark key="^" line="46" column="3" />
         <mark key="." line="47" column="22" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1502289167351">
+        <mark key="'" line="1043" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoRestfulServiceBean.java" timestamp="1499284701080">
         <mark key="'" line="524" column="35" />
         <mark key="[" line="74" column="19" />
@@ -266,6 +269,9 @@
         <mark key="]" line="46" column="31" />
         <mark key="^" line="43" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" timestamp="1502289064421">
+        <mark key="'" line="1668" column="37" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageServiceLocal.java" timestamp="1479220268234">
         <mark key="'" line="171" column="7" />
@@ -870,15 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="901" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="14" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
-      <jump line="6" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
-      <jump line="9" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
-      <jump line="59" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
-      <jump line="449" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="465" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="480" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="496" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
@@ -970,6 +967,15 @@
       <jump line="301" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="2343" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="1475" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="1564" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="1568" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="1595" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="1630" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="1668" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
+      <jump line="957" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
+      <jump line="1043" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -987,7 +993,7 @@
         <text encoding="base64">IiA=</text>
       </register>
       <register name="/" type="4">
-        <text>get contacts for</text>
+        <text>dispatchContacts_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBVbmhhbmRsZWRFeGNlcHRpb24ubmV3SW5zdGFuY2UoInRyeWluZyBzdGF0aWMgbWV0aG9kIikK</text>
@@ -1027,9 +1033,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get contacts for</last-search>
+      <last-search>dispatchContacts_</last-search>
       <last-offset />
-      <last-pattern>get contacts for</last-pattern>
+      <last-pattern>dispatchContacts_</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1037,8 +1043,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getPostalCity</entry>
-        <entry>getPostalCodeCity</entry>
         <entry>customFormDao</entry>
         <entry>set</entry>
         <entry>bag</entry>
@@ -1057,6 +1061,8 @@
         <entry>newInstance</entry>
         <entry>getDirectory</entry>
         <entry>get contacts for</entry>
+        <entry>contactComboBox_</entry>
+        <entry>dispatchContacts_</entry>
       </history-search>
       <history-cmd>
         <entry>5126</entry>
