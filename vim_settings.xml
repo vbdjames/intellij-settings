@@ -10,12 +10,12 @@
         <mark key="^" line="437" column="22" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1503502971359">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1503513665655">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="32" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="32" />
-        <mark key="." line="9" column="32" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/message/MessageDelivery.java" timestamp="1489609652897">
         <mark key="'" line="244" column="18" />
@@ -218,12 +218,12 @@
         <mark key="." line="259" column="75" />
         <mark key="^" line="259" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1503504123969">
-        <mark key="'" line="900" column="3" />
-        <mark key="[" line="22" column="7" />
-        <mark key="]" line="31" column="12" />
-        <mark key="^" line="31" column="12" />
-        <mark key="." line="31" column="12" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1503513570866">
+        <mark key="'" line="36" column="6" />
+        <mark key="[" line="922" column="0" />
+        <mark key="]" line="922" column="0" />
+        <mark key="." line="922" column="0" />
+        <mark key="^" line="918" column="37" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1479220149340">
         <mark key="'" line="413" column="44" />
@@ -415,8 +415,12 @@
         <mark key="^" line="52" column="86" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1503510643907">
-        <mark key="[" line="29" column="58" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1503512225243">
+        <mark key="'" line="60" column="65" />
+        <mark key="[" line="84" column="35" />
+        <mark key="]" line="84" column="44" />
+        <mark key="." line="84" column="44" />
+        <mark key="^" line="84" column="44" />
       </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/goosgbt/src/main/java/com/vbdjames/goosgbt/Main.java" timestamp="1481149969334">
         <mark key="'" line="58" column="0" />
@@ -848,8 +852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7667" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
-      <jump line="7784" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="7889" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="8031" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="8154" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
@@ -948,6 +950,8 @@
       <jump line="101" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" />
       <jump line="31" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="900" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="60" column="65" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="29" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -959,46 +963,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IC04NTkxMTMyMjg4NTQ3MjE3NTYwTDsK</text>
+        <text encoding="base64">ICAgICAgICA8aWQgbmFtZT0iaWQiIGNvbHVtbj0iSUQiIHR5cGU9ImxvbmciIHVuc2F2ZWQtdmFsdWU9Im51bGwiPgogICAgICAgICAgICA8Z2VuZXJhdG9yIGNsYXNzPSJjb20ubWFwY29tbXVuaWNhdGlvbnMuZGFvLkFzc2lnbmVkU2VxdWVuY2VHZW5lcmF0b3IiPgogICAgICAgICAgICAgICAgPHBhcmFtIG5hbWU9InNlcXVlbmNlIj5lY2hvX3NlcXVlbmNlPC9wYXJhbT4KICAgICAgICAgICAgPC9nZW5lcmF0b3I+CiAgICAgICAgPC9pZD4K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>manager_</text>
       </register>
       <register name="/" type="4">
         <text>postgres</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDFMOwo=</text>
+      <register name="0" type="4">
+        <text>com.mapcommunications.dao.AssignedSequenceGenerator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IC04NTkxMTMyMjg4NTQ3MjE3NTYwTDsK</text>
+        <text encoding="base64">ICAgICAgICA8aWQgbmFtZT0iaWQiIGNvbHVtbj0iSUQiIHR5cGU9ImxvbmciIHVuc2F2ZWQtdmFsdWU9Im51bGwiPgogICAgICAgICAgICA8Z2VuZXJhdG9yIGNsYXNzPSJjb20ubWFwY29tbXVuaWNhdGlvbnMuZGFvLkFzc2lnbmVkU2VxdWVuY2VHZW5lcmF0b3IiPgogICAgICAgICAgICAgICAgPHBhcmFtIG5hbWU9InNlcXVlbmNlIj5lY2hvX3NlcXVlbmNlPC9wYXJhbT4KICAgICAgICAgICAgPC9nZW5lcmF0b3I+CiAgICAgICAgPC9pZD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDFMOwo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJUSVRMRSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobmV3IEludGVnZXIoMSksIGZvdW5kLmdldFZlcnNpb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneSA9IEdlbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJkaXJlY3RvcnlfbW9iaWxlX2VtYWlsX2RvbWFpbi5kZWxldGVkX3RpbWVzdGFtcCBpcyBudWxsICIgKwo=</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtT3JhY2xlIGZvcm1vID0gKEN1c3RvbUZvcm1PcmFjbGUpIGZvcm07CgoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBVbmhhbmRsZWRFeGNlcHRpb24ubmV3SW5zdGFuY2UoIkhBSEEiLCAid2hhdGV2ZXIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpbmplY3QgbXkgbWFuYWdlciEK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YQoKICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IC04NTkxMTMyMjg4NTQ3MjE3NTYwTDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgVW5oYW4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDFMOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICB0aHJvdyBVbmhhbmRsZWRFeGNlcHRpb24ubmV3SW5zdGFuY2UoIkhBSEEiLCAiZ2V0QUFJIik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobmV3IEludGVnZXIoMSksIGZvdW5kLmdldFZlcnNpb24oKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBVbmhhbmRsZWRFeGNlcHRpb24ubmV3SW5zdGFuY2UoIm1lc3NhZ2UiLCAiY29udGV4dCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJkaXJlY3RvcnlfbW9iaWxlX2VtYWlsX2RvbWFpbi5kZWxldGVkX3RpbWVzdGFtcCBpcyBudWxsICIgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
