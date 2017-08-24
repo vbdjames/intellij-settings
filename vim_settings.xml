@@ -477,6 +477,11 @@
         <mark key="^" line="17" column="60" />
         <mark key="." line="17" column="60" />
       </file>
+      <file name="$USER_HOME$/Code/echo/resource/internal/testing/create-postgres-db.sql" timestamp="1503597981608">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/pom.xml" timestamp="1482349005299">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="26" />
@@ -511,8 +516,8 @@
         <mark key="." line="201" column="7" />
         <mark key="^" line="201" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestFooPersistence.java" timestamp="1503597213078">
-        <mark key="[" line="37" column="35" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestFooPersistence.java" timestamp="1503597964110">
+        <mark key="[" line="32" column="35" />
         <mark key="]" line="37" column="43" />
         <mark key="." line="37" column="43" />
         <mark key="^" line="37" column="43" />
@@ -743,6 +748,9 @@
         <mark key="]" line="2677" column="6" />
         <mark key="^" line="2677" column="6" />
         <mark key="." line="2677" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/resource/internal/testing/create-oracle-db.sql" timestamp="1503597925592">
+        <mark key="[" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/PostgresFoo.java" timestamp="1502981938463">
         <mark key="[" line="2" column="25" />
@@ -989,11 +997,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdlbmVyYXRvciBjbGFzcz0iaWRlbnRpdHkK</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>setI</text>
