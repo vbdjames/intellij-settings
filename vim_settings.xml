@@ -516,12 +516,12 @@
         <mark key="." line="201" column="7" />
         <mark key="^" line="201" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestFooPersistence.java" timestamp="1503604609827">
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="30" column="183" />
-        <mark key="]" line="32" column="75" />
-        <mark key="." line="32" column="75" />
-        <mark key="^" line="32" column="75" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestFooPersistence.java" timestamp="1503605821370">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="104" column="38" />
+        <mark key="]" line="104" column="39" />
+        <mark key="^" line="104" column="39" />
+        <mark key="." line="104" column="39" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" timestamp="1502117764981">
         <mark key="'" line="76" column="0" />
@@ -590,6 +590,9 @@
         <mark key="]" line="69" column="17" />
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/resource/external/testing/spring-jdbc-4.3.5.jar!/org/springframework/jdbc/datasource/embedded/EmbeddedDatabaseBuilder.class" timestamp="1503605047884">
+        <mark key="'" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" timestamp="1489765883464">
         <mark key="'" line="145" column="16" />
@@ -888,11 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="315" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="316" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="320" column="61" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="323" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="325" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="326" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="897" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
@@ -988,6 +986,11 @@
       <jump line="24272" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="27" column="16" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestFooPersistence.java" />
       <jump line="127" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestFooPersistence.java" />
+      <jump line="30" column="70" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestFooPersistence.java" />
+      <jump line="131" column="26" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestFooPersistence.java" />
+      <jump line="135" column="11" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestFooPersistence.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestFooPersistence.java" />
+      <jump line="17" column="11" filename="$USER_HOME$/Code/echo/resource/external/testing/spring-jdbc-4.3.5.jar!/org/springframework/jdbc/datasource/embedded/EmbeddedDatabaseBuilder.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -998,56 +1001,56 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcmFjbGVIZWxwZXIuCg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>oracleManager_</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>setI</text>
+        <text>addScripts</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bWFwcGluZy1maWxlPmNvbS9tYXBjb21tdW5pY2F0aW9ucy9mb3JtL0N1c3RvbUZvcm1PcmFjbGUuaGJtLnhtbDwvbWFwcGluZy1maWxlPgo=</text>
+      <register name="0" type="4">
+        <text>&quot;com/mapcommunications/form/create-postgres-db.sql&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcmFjbGVIZWxwZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWZlcmVuY2VUYWJsZXNfLmFkZCgiRk9STV9UWVBFIik7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNsZWFyRGF0YWJhc2UoRW50aXR5TWFuYWdlciBlbSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgQ29ubmVjdGlvbiBjID0gKChTZXNzaW9uSW1wbCkgZW0uZ2V0RGVsZWdhdGUoKSkKICAgICAgICAgICAgICAgIC5jb25uZWN0aW9uKCk7CiAgICAgICAgU3RhdGVtZW50IHMgPSBjLmNyZWF0ZVN0YXRlbWVudCgpOwogICAgICAgIFNldDxTdHJpbmc+IHRhYmxlcyA9IG5ldyBIYXNoU2V0PD4oKTsKICAgICAgICBSZXN1bHRTZXQgcnMgPSBzLmV4ZWN1dGVRdWVyeSgic2VsZWN0IHRhYmxlX25hbWUgZnJvbSAiICsKICAgICAgICAgICAgICAgICJJTkZPUk1BVElPTl9TQ0hFTUEudGFibGVzIHdoZXJlIHRhYmxlX3R5cGUgPSAnVEFCTEUnIGFuZCAiICsKICAgICAgICAgICAgICAgICJ0YWJsZV9zY2hlbWEgPSAnRUNITyciKTsKICAgICAgICB3aGlsZSAocnMubmV4dCgpKSB7CiAgICAgICAgICAgIFN0cmluZyB0YWJsZU5hbWUgPSBycy5nZXRTdHJpbmcoMSk7CiAgICAgICAgICAgIGlmICghdGFibGVOYW1lLnN0YXJ0c1dpdGgoIkRVQUxfIikgJiYKICAgICAgICAgICAgICAgICAgICAhcmVmZXJlbmNlVGFibGVzXy5jb250YWlucyh0YWJsZU5hbWUpKSB7CiAgICAgICAgICAgICAgICB0YWJsZXMuYWRkKHRhYmxlTmFtZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcnMuY2xvc2UoKTsKCiAgICAgICAgcy5leGVjdXRlKCJTRVQgUkVGRVJFTlRJQUxfSU5URUdSSVRZIEZBTFNFIik7CiAgICAgICAgZm9yIChTdHJpbmcgdGFibGUgOiB0YWJsZXMpIHsKICAgICAgICAgICAgcy5leGVjdXRlVXBkYXRlKCJERUxFVEUgRlJPTSBFQ0hPLiIgKyB0YWJsZSk7CiAgICAgICAgfQogICAgICAgIHMuZXhlY3V0ZSgiU0VUIFJFRkVSRU5USUFMX0lOVEVHUklUWSBUUlVFIik7CgogICAgICAgIHMuY2xvc2UoKTsKCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcmFjbGVIZWxwZXIgPSAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50W10gY2xlYXJEYXRhYmFzZUV4Y2VwdChFbnRpdHlNYW5hZ2VyIG9yYWNsZU1hbmFnZXJfLCBPYmplY3QgcDEpIHsKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjbGVhckRhdGFiYXNlRXhjZXB0KEVudGl0eU1hbmFnZXIgbWFuYWdlciwKICAgICAgICAgICAgU2V0PFN0cmluZz4gZXhjZXB0KSB7CgogICAgfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjbGVhckRhdGFiYXNlRXhjZXB0KEVudGl0eU1hbmFnZXIgZW0sIFN0cmluZyBleGNlcHQpIHsKICAgICAgICBTZXQ8U3RyaW5nPiByZWZlcmVuY2VUYWJsZXNfID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIHJlZmVyZW5jZVRhYmxlc18uYWRkKGV4Y2VwdCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBvcmFjbGVNYW5hZ2VyXy5jbGVhcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGVhcgo=</text>
+        <text encoding="base64">ICAgICAgICBjbGVhckRhdGFiYXNlRXhjZXB0KHBvc3RncmVzTWFuYWdlcl8sIHJlZmVyZW5jZVRhYmxlc18pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcmFjbGVNYW5hZ2VyXy5nZXQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNldDxTdHJpbmc+IHJlZmVyZW5jZVRhYmxlc18gPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setI</last-search>
+      <last-search>addScripts</last-search>
       <last-offset />
-      <last-pattern>setI</last-pattern>
+      <last-pattern>addScripts</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1055,7 +1058,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customFormDS =</entry>
         <entry>version</entry>
         <entry>when</entry>
         <entry>system</entry>
@@ -1075,6 +1077,7 @@
         <entry>Form Group Enable</entry>
         <entry>FormGroupEnable</entry>
         <entry>setI</entry>
+        <entry>addScripts</entry>
       </history-search>
       <history-cmd>
         <entry>5126</entry>
