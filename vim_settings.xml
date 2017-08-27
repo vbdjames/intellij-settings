@@ -73,9 +73,6 @@
         <mark key="." line="1734" column="18" />
         <mark key="^" line="1734" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1500575672170">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1494942916190">
         <mark key="'" line="1472" column="59" />
         <mark key="[" line="1468" column="0" />
@@ -910,7 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="34" column="4" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="131" column="26" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="247" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" />
@@ -1010,6 +1006,7 @@
       <jump line="910" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="71" column="33" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
+      <jump line="156" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1027,7 +1024,7 @@
         <text encoding="base64">b3JhY2xlTWFuYWdlcl8sIA==</text>
       </register>
       <register name="/" type="4">
-        <text>mockedIdentityService_</text>
+        <text>Record on-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZElkZW50aXR5U2VydmljZV8uZ2V0VXNlcm5hbWUoKSkKICAgICAgICAgICAgICAgIC50aGVuUmV0dXJuKCJlY2hvdXNlciIpOwo=</text>
@@ -1067,9 +1064,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mockedIdentityService_</last-search>
+      <last-search>Record on-</last-search>
       <last-offset />
-      <last-pattern>mockedIdentityService_</last-pattern>
+      <last-pattern>Record on-</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1077,8 +1074,6 @@
     </search>
     <history>
       <history-search>
-        <entry>system</entry>
-        <entry>**</entry>
         <entry>Unhandled</entry>
         <entry>newInstance</entry>
         <entry>getDirectory</entry>
@@ -1097,6 +1092,8 @@
         <entry>addScripts</entry>
         <entry>getUuid</entry>
         <entry>mockedIdentityService_</entry>
+        <entry>record on call</entry>
+        <entry>Record on-</entry>
       </history-search>
       <history-cmd>
         <entry>5126</entry>
