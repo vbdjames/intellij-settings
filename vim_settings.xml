@@ -414,11 +414,12 @@
         <mark key="^" line="52" column="86" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1503933461848">
-        <mark key="[" line="51" column="42" />
-        <mark key="]" line="48" column="4" />
-        <mark key="." line="48" column="4" />
-        <mark key="^" line="48" column="4" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1503935410137">
+        <mark key="'" line="66" column="17" />
+        <mark key="[" line="65" column="15" />
+        <mark key="]" line="66" column="17" />
+        <mark key="." line="66" column="17" />
+        <mark key="^" line="66" column="17" />
       </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/goosgbt/src/main/java/com/vbdjames/goosgbt/Main.java" timestamp="1481149969334">
         <mark key="'" line="58" column="0" />
@@ -477,6 +478,9 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractAggregateRoot.java" timestamp="1503676713537">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="31" column="55" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" timestamp="1503935478919">
+        <mark key="'" line="858" column="27" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceLocalHome.java" timestamp="1495028888789">
         <mark key="[" line="16" column="6" />
@@ -914,32 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="131" column="26" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="247" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" />
-      <jump line="130" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="125" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="42" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/system/SystemServiceBean.java" />
-      <jump line="95" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/system/SystemServiceBean.java" />
-      <jump line="258" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/system/SystemServiceBean.java" />
-      <jump line="98" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
-      <jump line="86" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="2457" column="10" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="2465" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="2570" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="2683" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="2752" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="162" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="301" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="2343" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
-      <jump line="1475" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
-      <jump line="1564" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
       <jump line="1568" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
       <jump line="1595" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
       <jump line="1630" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchFrame.java" />
@@ -1014,6 +992,32 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="71" column="33" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" />
       <jump line="156" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="66" column="17" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="2750" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="28" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="29" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="31" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="34" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="183" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="243" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="266" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="267" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="333" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="576" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="578" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="580" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="584" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="857" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="30" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="87" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="244" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="264" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="583" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="586" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="588" column="70" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="590" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="858" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1025,55 +1029,55 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcmFjbGVNYW5hZ2VyXyA9IG9yYWNsZUhlbHBlcl8uZ2V0RW50aXR5TWFuYWdlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZWxldGUoaWQpCiAgICAgICAgLy8gc2F2ZShjdXN0b21Gb3JtKQogICAgICAgIC8vIHNhdmVOZXcoZm9ybUdyb3VwLCBmb3JtSW5mbywgY3VzdG9tRm9ybSkKICAgICAgICAvLyBnZXQoZm9ybUlkKQo=</text>
       </register>
       <register name="-" type="4">
         <text>manager_</text>
       </register>
       <register name="/" type="4">
-        <text>Record on-</text>
+        <text>sessionFactory</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZElkZW50aXR5U2VydmljZV8uZ2V0VXNlcm5hbWUoKSkKICAgICAgICAgICAgICAgIC50aGVuUmV0dXJuKCJlY2hvdXNlciIpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RGaW5kQnlJZE9yYWNsZSgpIHRocm93cyBFeGNlcHRpb24gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcmFjbGVNYW5hZ2VyXyA9IG9yYWNsZUhlbHBlcl8uZ2V0RW50aXR5TWFuYWdlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZWxldGUoaWQpCiAgICAgICAgLy8gc2F2ZShjdXN0b21Gb3JtKQogICAgICAgIC8vIHNhdmVOZXcoZm9ybUdyb3VwLCBmb3JtSW5mbywgY3VzdG9tRm9ybSkKICAgICAgICAvLyBnZXQoZm9ybUlkKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBXaGl0ZWJveC5zZXRJbnRlcm5hbFN0YXRlKGN1c3RvbUZvcm1EYW9fLCApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpcyBleGlzdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBlcnNpc3RlbmNlSGVscGVyIG9yYWNsZUhlbHBlcl87CiAgICBwcml2YXRlIHN0YXRpYyBFbnRpdHlNYW5hZ2VyIG9yYWNsZU1hbmFnZXJfOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaW5kIGJ5IGlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RGaW5kQnlJZFBvc3RncmVzKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGN1c3RvbUZvcm1EYW9fID0gbmV3IEN1c3RvbUZvcm1PcmFjbGVEYW8oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ3VzdG9tRm9ybURhbyBjdXN0b21Gb3JtRGFvXzsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RTYXZlUG9zdGdyZXMoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSWRlbnRpdHlTZXJ2aWNlTG9jYWwgbW9ja2VkSWRlbnRpdHlTZXJ2aWNlXzsK</text>
+        <text encoding="base64">ICAgIC8vIHRlc3Qgc2F2aW5nIHRvIHBvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBlcnNpc3RlbmNlSGVscGVyIG9yYWNsZUhlbHBlcl87CiAgICBwcml2YXRlIHN0YXRpYyBFbnRpdHlNYW5hZ2VyIG9yYWNsZU1hbmFnZXJfOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIElkZW50aXR5U2VydmljZUxvY2FsIG1vY2tlZElkZW50aXR5U2VydmljZV87Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmFjbGVNYW5hZ2VyXyA9IG9yYWNsZUhlbHBlcl8uZ2V0RW50aXR5TWFuYWdlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Record on-</last-search>
+      <last-search>sessionFactory</last-search>
       <last-offset />
-      <last-pattern>Record on-</last-pattern>
+      <last-pattern>sessionFactory</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1081,8 +1085,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Unhandled</entry>
-        <entry>newInstance</entry>
         <entry>getDirectory</entry>
         <entry>get contacts for</entry>
         <entry>contactComboBox_</entry>
@@ -1101,6 +1103,8 @@
         <entry>mockedIdentityService_</entry>
         <entry>record on call</entry>
         <entry>Record on-</entry>
+        <entry>hibernate</entry>
+        <entry>sessionFactory</entry>
       </history-search>
       <history-cmd>
         <entry>5126</entry>
