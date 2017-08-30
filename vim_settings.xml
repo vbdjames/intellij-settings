@@ -79,8 +79,8 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="67" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1504097852027">
-        <mark key="'" line="1726" column="17" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1504125401189">
+        <mark key="'" line="2885" column="25" />
         <mark key="[" line="6501" column="0" />
         <mark key="]" line="6501" column="0" />
         <mark key="." line="6501" column="0" />
@@ -901,7 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1044" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1088" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1157" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1171" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -913,7 +912,6 @@
       <jump line="212" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1037" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="1725" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="6500" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="9082" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="10450" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="55" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/dao/AbstractDao.java" />
@@ -927,7 +925,6 @@
       <jump line="1768" column="51" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="1807" column="20" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="152" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="6502" column="9" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="9083" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="10451" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -1001,6 +998,9 @@
       <jump line="902" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="92" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="106" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
+      <jump line="6500" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="2885" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1036,7 +1036,7 @@
         <text encoding="base64">IElkZW50aWZpYWJsZTxMb25nPg==</text>
       </register>
       <register name="/" type="4">
-        <text>search_data_layout</text>
+        <text>Error getting form active</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iY3JlYXRlZF9ieV9uYW1lIikK</text>
@@ -1076,9 +1076,9 @@
       </register>
     </registers>
     <search>
-      <last-search>search_data_layout</last-search>
+      <last-search>Error getting form active</last-search>
       <last-offset />
-      <last-pattern>search_data_layout</last-pattern>
+      <last-pattern>Error getting form active</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">VVNJTkcgYnRyZWUg</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,8 +1086,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map-core-ej</entry>
-        <entry>map-core-ejb</entry>
         <entry>customFormDao_</entry>
         <entry>COMMENT</entry>
         <entry>ALTER TABLE</entry>
@@ -1106,6 +1104,8 @@
         <entry>ON CUSTOM_FORM</entry>
         <entry>ON custom_form</entry>
         <entry>search_data_layout</entry>
+        <entry>Error getting</entry>
+        <entry>Error getting form active</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
