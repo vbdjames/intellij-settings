@@ -203,11 +203,11 @@
         <mark key="." line="259" column="75" />
         <mark key="^" line="259" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1504203070732">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1504203799957">
         <mark key="'" line="123" column="28" />
-        <mark key="[" line="124" column="13" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="124" column="21" />
+        <mark key="." line="124" column="21" />
         <mark key="^" line="123" column="64" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1479220149340">
@@ -414,11 +414,12 @@
         <mark key="." line="49" column="4" />
         <mark key="^" line="38" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/dao/AbstractDao.java" timestamp="1504099758844">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/dao/AbstractDao.java" timestamp="1504204216612">
         <mark key="'" line="59" column="28" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="62" column="34" />
+        <mark key="]" line="62" column="32" />
+        <mark key="." line="62" column="32" />
+        <mark key="^" line="62" column="32" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/MessageDeliveryMessageDetails.java" timestamp="1479220020118">
         <mark key="'" line="30" column="11" />
@@ -593,12 +594,12 @@
         <mark key="." line="125" column="67" />
         <mark key="^" line="125" column="67" />
       </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/testing/META-INF/persistence.xml" timestamp="1504192914612">
+      <file name="$USER_HOME$/Code/echo/resource/internal/testing/META-INF/persistence.xml" timestamp="1504203960369">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="8" column="60" />
-        <mark key="]" line="8" column="51" />
-        <mark key="." line="8" column="51" />
-        <mark key="^" line="8" column="51" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+        <mark key="^" line="7" column="52" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1490020812713">
         <mark key="'" line="34" column="51" />
@@ -1050,11 +1051,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>entityManager_.persist(entity);</text>
       </register>
       <register name="-" type="4">
-        <text>, cascade = CascadeType.ALL</text>
+        <text>entityManager_.persist(entity);</text>
       </register>
       <register name="/" type="4">
         <text>Error getting form active</text>
