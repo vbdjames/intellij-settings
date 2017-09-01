@@ -11,6 +11,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1504195238307" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallService.java" timestamp="1504299643262">
+        <mark key="[" line="443" column="26" />
+        <mark key="]" line="443" column="39" />
+        <mark key="." line="443" column="39" />
+        <mark key="^" line="443" column="39" />
+      </file>
       <file name="/a.dummy" timestamp="1503671255086">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,6 +73,9 @@
         <mark key="]" line="1734" column="18" />
         <mark key="." line="1734" column="18" />
         <mark key="^" line="1734" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" timestamp="1504299670220">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1504039241040">
         <mark key="'" line="1807" column="20" />
@@ -776,8 +785,8 @@
         <mark key="^" line="581" column="11" />
         <mark key="." line="583" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1504281500241">
-        <mark key="'" line="595" column="36" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1504299549213">
+        <mark key="'" line="3705" column="27" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/OnCallDispatchComboBoxElement.java" timestamp="1488230372382">
         <mark key="'" line="169" column="0" />
@@ -874,9 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/dao/AbstractDao.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" />
-      <jump line="587" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" />
       <jump line="500" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" />
       <jump line="12246" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -974,6 +980,9 @@
       <jump line="581" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
       <jump line="595" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
+      <jump line="3705" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" />
+      <jump line="6826" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1002,14 +1011,14 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlcmUgY29tZXMgZmlyc3Qgc2F2ZSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Z2V0TmV4dENhbGxEYXRhKFN0cmluZyBsYXRlc3RDYWxsSWQpIA==</text>
       </register>
       <register name="-" type="4">
-        <text>entityManager_.persist(entity);</text>
+        <text encoding="base64">Z2V0TmV4dENhbGxEYXRhKFN0cmluZyBsYXRlc3RDYWxsSWQpIA==</text>
       </register>
       <register name="/" type="4">
-        <text>answerCallAction</text>
+        <text>getNextCallData</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMCwgZ2V0QWxsRm9ybUVsZW1lbnRzKCkuc2l6ZSgpKTsK</text>
@@ -1049,9 +1058,9 @@
       </register>
     </registers>
     <search>
-      <last-search>answerCallAction</last-search>
+      <last-search>getNextCallData</last-search>
       <last-offset />
-      <last-pattern>answerCallAction</last-pattern>
+      <last-pattern>getNextCallData</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">VVNJTkcgYnRyZWUg</last-substitute>
       <last-dir>1</last-dir>
@@ -1059,7 +1068,6 @@
     </search>
     <history>
       <history-search>
-        <entry>COMMENT</entry>
         <entry>ALTER TABLE</entry>
         <entry>bigint</entry>
         <entry>form_type</entry>
@@ -1079,6 +1087,7 @@
         <entry>Error getting</entry>
         <entry>Error getting form active</entry>
         <entry>answerCallAction</entry>
+        <entry>getNextCallData</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
