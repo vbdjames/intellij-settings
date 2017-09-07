@@ -876,11 +876,12 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/GlobalConstant.java" timestamp="1502138671666">
-        <mark key="[" line="34" column="61" />
-        <mark key="]" line="34" column="54" />
-        <mark key="^" line="34" column="54" />
-        <mark key="." line="34" column="54" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/GlobalConstant.java" timestamp="1504813633311">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="54" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="5" column="54" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/resource/internal/testing/persistence.xml" timestamp="1487016828348">
         <mark key="'" line="0" column="0" />
@@ -894,10 +895,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="251" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="1536" column="40" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="1768" column="51" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="1807" column="20" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="152" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="6502" column="9" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -994,6 +991,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="1448" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="29" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/GlobalConstant.java" />
+      <jump line="5" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/GlobalConstant.java" />
+      <jump line="34" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/GlobalConstant.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/GlobalConstant.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1029,7 +1030,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>online</text>
+        <text>GregorianCalendar(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMCwgZ2V0QWxsRm9ybUVsZW1lbnRzKCkuc2l6ZSgpKTsK</text>
@@ -1069,9 +1070,9 @@
       </register>
     </registers>
     <search>
-      <last-search>online</last-search>
+      <last-search>GregorianCalendar(</last-search>
       <last-offset />
-      <last-pattern>online</last-pattern>
+      <last-pattern>GregorianCalendar(</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">VVNJTkcgYnRyZWUg</last-substitute>
       <last-dir>1</last-dir>
@@ -1079,8 +1080,6 @@
     </search>
     <history>
       <history-search>
-        <entry>form_type</entry>
-        <entry>ECHO</entry>
         <entry>character varying</entry>
         <entry>boolean</entry>
         <entry>FORM_ELEMENT_SELECTION_LIST</entry>
@@ -1099,6 +1098,8 @@
         <entry>getNextCallData</entry>
         <entry>on line</entry>
         <entry>online</entry>
+        <entry>GregorianCalendar</entry>
+        <entry>GregorianCalendar(</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
