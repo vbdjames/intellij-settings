@@ -415,12 +415,12 @@
         <mark key="^" line="52" column="86" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/GoogleCivicApiGroupComponentType.java" timestamp="1505143580207">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="61" column="15" />
-        <mark key="]" line="62" column="3" />
-        <mark key="^" line="62" column="3" />
-        <mark key="." line="62" column="3" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/GoogleCivicApiGroupComponentType.java" timestamp="1505145889305">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="65" column="64" />
+        <mark key="]" line="56" column="59" />
+        <mark key="." line="56" column="59" />
+        <mark key="^" line="56" column="59" />
       </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/goosgbt/src/main/java/com/vbdjames/goosgbt/Main.java" timestamp="1481149969334">
         <mark key="'" line="58" column="0" />
@@ -615,9 +615,9 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/googlecivicapi/GoogleCivicApiServiceBean.java" timestamp="1504796994158">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AddressGroupComponentType.java" timestamp="1505143560222">
-        <mark key="[" line="560" column="0" />
-        <mark key="]" line="563" column="14" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AddressGroupComponentType.java" timestamp="1505145786546">
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="363" column="76" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/ElementLayout.java" timestamp="1504193371271">
         <mark key="'" line="17" column="10" />
@@ -1032,7 +1032,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQWRkcmVzc0dyb3VwQ29tcG9uZW50VHlwZSBQSE9ORQogICAgICAgID0gbmV3IEFkZHJlc3NHcm91cENvbXBvbmVudFR5cGUoIlBob25lIiwgIlBob25lIG51bWJlci4iLCAiYWRkclBob25lIiwgCiAgICAgICAgICAgIHRydWUsICJQaG9uZSIsICIiLCBDb21wb25lbnRUeXBlLlBIT05FX05VTUJFUl9GSUVMRCwgdHJ1ZSwgZmFsc2UsIAogICAgICAgICAgICAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudCA9IG5ldyBUZXh0RmllbGRFbGVtZW50KG5hbWUsIHRydWUsIGZhbHNlLCBncm91cElkLCAKICAgICAgICAgICAgICAgIGdyb3VwVHlwZSwgdHlwZS5nZXRUb2tlbigpLCBsYXlvdXQsIG1lc3NhZ2VOYW1lLCBkZXNjcmlwdGlvbiwgCiAgICAgICAgICAgICAgICBtZXNzYWdlVGFnLCBpbk1lc3NhZ2VXaGVuQmxhbmssICIiLCBtZXNzYWdlU2VxdWVuY2UsIChzaG9ydCkgMCwgCiAgICAgICAgICAgICAgICBjc3ZHcm91cFNlcGFyYXRvciwgaXRlbVNlcGFyYXRvciwgbWVzc2FnZVRhZ1NlcGFyYXRvciwgIiIsIDQwLCAKICAgICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm0sIGZhbHNlLCAxLCA1MCwgdHJ1ZSwgY29tcG9uZW50VHlwZS5nZXRUb2tlbigpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>ComponentType</text>
@@ -1041,10 +1041,10 @@
         <text>AddressGroup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQWRkcmVzc0dyb3VwQ29tcG9uZW50VHlwZSBQSE9ORQogICAgICAgID0gbmV3IEFkZHJlc3NHcm91cENvbXBvbmVudFR5cGUoIlBob25lIiwgIlBob25lIG51bWJlci4iLCAiYWRkclBob25lIiwgCiAgICAgICAgICAgIHRydWUsICJQaG9uZSIsICIiLCBDb21wb25lbnRUeXBlLlBIT05FX05VTUJFUl9GSUVMRCwgdHJ1ZSwgZmFsc2UsIAogICAgICAgICAgICAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudCA9IG5ldyBUZXh0RmllbGRFbGVtZW50KG5hbWUsIHRydWUsIGZhbHNlLCBncm91cElkLCAKICAgICAgICAgICAgICAgIGdyb3VwVHlwZSwgdHlwZS5nZXRUb2tlbigpLCBsYXlvdXQsIG1lc3NhZ2VOYW1lLCBkZXNjcmlwdGlvbiwgCiAgICAgICAgICAgICAgICBtZXNzYWdlVGFnLCBpbk1lc3NhZ2VXaGVuQmxhbmssICIiLCBtZXNzYWdlU2VxdWVuY2UsIChzaG9ydCkgMCwgCiAgICAgICAgICAgICAgICBjc3ZHcm91cFNlcGFyYXRvciwgaXRlbVNlcGFyYXRvciwgbWVzc2FnZVRhZ1NlcGFyYXRvciwgIiIsIDQwLCAKICAgICAgICAgICAgICAgIHRleHRUcmFuc2Zvcm0sIGZhbHNlLCAxLCA1MCwgdHJ1ZSwgY29tcG9uZW50VHlwZS5nZXRUb2tlbigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEdvb2dsZUNpdmljQXBpR3JvdXBDb21wb25lbnRUeXBlIGdldFR5cGUoU3RyaW5nIGdyb3VwUm9sZSkgewogICAgfQoK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1053,25 +1053,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEdyb3VwYWJsZSBncm91cGFibGUgOiBncm91cENvbXBvbmVudHMpIHsKICAgICAgICAgICAgR29vZ2xlQ2l2aWNBcGlHcm91cENvbXBvbmVudFR5cGUgcm9sZSA9IAogICAgICAgICAgICAgICAgICAgIEdvb2dsZUNpdmljQXBpR3JvdXBDb21wb25lbnRUeXBlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0VHlwZShncm91cGFibGUuZ2V0R3JvdXBSb2xlKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW5paQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlcmUgY29tZXMgZmlyc3Qgc2F2ZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEdvb2dsZUNpdmljQXBpR3JvdXBDb21wb25lbnRUeXBlIGdldFR5cGUoU3RyaW5nIGdyb3VwUm9sZSkgewogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0FkZHJlc3NHcm91cC9Hb29nbGVDaXZpY0FwaUdyb3VwL2c=</text>
