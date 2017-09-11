@@ -300,6 +300,9 @@
         <mark key="^" line="31" column="47" />
         <mark key="." line="31" column="47" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1505143259222">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/ButtonElement.java" timestamp="1488923848616">
         <mark key="'" line="10" column="13" />
         <mark key="[" line="19" column="63" />
@@ -412,11 +415,12 @@
         <mark key="^" line="52" column="86" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/GoogleCivicApiGroupComponentType.java" timestamp="1504809460162">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/GoogleCivicApiGroupComponentType.java" timestamp="1505143580207">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="61" column="15" />
+        <mark key="]" line="62" column="3" />
+        <mark key="^" line="62" column="3" />
+        <mark key="." line="62" column="3" />
       </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/goosgbt/src/main/java/com/vbdjames/goosgbt/Main.java" timestamp="1481149969334">
         <mark key="'" line="58" column="0" />
@@ -610,6 +614,10 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/googlecivicapi/GoogleCivicApiServiceBean.java" timestamp="1504796994158">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AddressGroupComponentType.java" timestamp="1505143560222">
+        <mark key="[" line="560" column="0" />
+        <mark key="]" line="563" column="14" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/ElementLayout.java" timestamp="1504193371271">
         <mark key="'" line="17" column="10" />
@@ -895,8 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1807" column="20" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="152" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="6502" column="9" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="9083" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="10451" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -995,6 +1001,8 @@
       <jump line="5" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/GlobalConstant.java" />
       <jump line="34" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/GlobalConstant.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/GlobalConstant.java" />
+      <jump line="66" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/GoogleCivicApiGroupComponentType.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/GoogleCivicApiGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1023,20 +1031,20 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQWRkcmVzc0dyb3VwQ29tcG9uZW50VHlwZSBQSE9ORQogICAgICAgID0gbmV3IEFkZHJlc3NHcm91cENvbXBvbmVudFR5cGUoIlBob25lIiwgIlBob25lIG51bWJlci4iLCAiYWRkclBob25lIiwgCiAgICAgICAgICAgIHRydWUsICJQaG9uZSIsICIiLCBDb21wb25lbnRUeXBlLlBIT05FX05VTUJFUl9GSUVMRCwgdHJ1ZSwgZmFsc2UsIAogICAgICAgICAgICAwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>ComponentType</text>
       </register>
       <register name="/" type="4">
-        <text>GregorianCalendar(</text>
+        <text>AddressGroup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMCwgZ2V0QWxsRm9ybUVsZW1lbnRzKCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQWRkcmVzc0dyb3VwQ29tcG9uZW50VHlwZSBQSE9ORQogICAgICAgID0gbmV3IEFkZHJlc3NHcm91cENvbXBvbmVudFR5cGUoIlBob25lIiwgIlBob25lIG51bWJlci4iLCAiYWRkclBob25lIiwgCiAgICAgICAgICAgIHRydWUsICJQaG9uZSIsICIiLCBDb21wb25lbnRUeXBlLlBIT05FX05VTUJFUl9GSUVMRCwgdHJ1ZSwgZmFsc2UsIAogICAgICAgICAgICAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlcmUgY29tZXMgZmlyc3Qgc2F2ZSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEdvb2dsZUNpdmljQXBpR3JvdXBDb21wb25lbnRUeXBlIGdldFR5cGUoU3RyaW5nIGdyb3VwUm9sZSkgewogICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1048,39 +1056,38 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FCiAgICAgICAgLy8gPHNldCBuYW1lPSJlbGVtZW50cyIgY2FzY2FkZT0iYWxsLWRlbGV0ZS1vcnBoYW4iPgogICAgICAgIC8vICAgICA8a2V5IGNvbHVtbj0iRk9STV9JRCIgbm90LW51bGw9InRydWUiLz4KICAgICAgICAvLyAgICAgPG9uZS10by1tYW55IGNsYXNzPSJFbGVtZW50Ii8+CiAgICAgICAgLy8gPC9zZXQ+Ci8vICAgIG9yZy5oaWJlcm5hdGUuYW5ub3RhdGlvbnMuQ2FzY2FkZVR5cGUK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEdyb3VwYWJsZSBncm91cGFibGUgOiBncm91cENvbXBvbmVudHMpIHsKICAgICAgICAgICAgR29vZ2xlQ2l2aWNBcGlHcm91cENvbXBvbmVudFR5cGUgcm9sZSA9IAogICAgICAgICAgICAgICAgICAgIEdvb2dsZUNpdmljQXBpR3JvdXBDb21wb25lbnRUeXBlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0VHlwZShncm91cGFibGUuZ2V0R3JvdXBSb2xlKCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoKCi8vICAgICAgICBmb3JtLmdldEVsZW1lbnRzKCkuY2xlYXIoKTsKLy8gICAgICAgIGZvcm0uZ2V0RWxlbWVudHMoKS5hZGQoaWNvbkVsZW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW5paQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGllLmdldEljb25UeXBlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlcmUgY29tZXMgZmlyc3Qgc2F2ZSIpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFbGVtZW50W10gZm9vID0gbmV3IEFycmF5TGlzdDw+OwogICAgICAgIGZvcm0uZ2V0RWxlbWVudHMoKS50b0FycmF5KGZvbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL0FkZHJlc3NHcm91cC9Hb29nbGVDaXZpY0FwaUdyb3VwL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>GregorianCalendar(</last-search>
+      <last-search>AddressGroup</last-search>
       <last-offset />
-      <last-pattern>GregorianCalendar(</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">VVNJTkcgYnRyZWUg</last-substitute>
+      <last-pattern>AddressGroup</last-pattern>
+      <last-replace>GoogleCivicApiGroup</last-replace>
+      <last-substitute>AddressGroup</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>character varying</entry>
         <entry>boolean</entry>
         <entry>FORM_ELEMENT_SELECTION_LIST</entry>
         <entry>form_element_selection_list</entry>
@@ -1100,9 +1107,9 @@
         <entry>online</entry>
         <entry>GregorianCalendar</entry>
         <entry>GregorianCalendar(</entry>
+        <entry>AddressGroup</entry>
       </history-search>
       <history-cmd>
-        <entry>205</entry>
         <entry>650</entry>
         <entry>2453</entry>
         <entry>7126</entry>
@@ -1122,6 +1129,7 @@
         <entry encoding="base64">JzwsJz5zL0FMVEVSIFRBQkxFIE9OTFkgL0FMVEVSIFRBQkxFIC9n</entry>
         <entry encoding="base64">JzwsJz5zL1VTSU5HIGJ0cmVlIC8vZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL0FkZHJlc3NHcm91cC9Hb29nbGVDaXZpY0FwaUdyb3VwL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1156,6 +1164,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
