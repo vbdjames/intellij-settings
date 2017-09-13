@@ -450,12 +450,12 @@
         <mark key="." line="83" column="44" />
         <mark key="^" line="83" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/GoogleCivicApiGroupComponentType.java" timestamp="1505306404925">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="58" column="12" />
-        <mark key="]" line="54" column="49" />
-        <mark key="." line="54" column="49" />
-        <mark key="^" line="54" column="49" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/GoogleCivicApiGroupComponentType.java" timestamp="1505318172561">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="129" column="32" />
+        <mark key="]" line="129" column="26" />
+        <mark key="." line="129" column="26" />
+        <mark key="^" line="129" column="26" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" timestamp="1505314233437">
         <mark key="'" line="2" column="0" />
@@ -646,8 +646,8 @@
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" timestamp="1505316185358">
-        <mark key="'" line="1403" column="30" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" timestamp="1505318053181">
+        <mark key="'" line="32" column="41" />
         <mark key="[" line="1452" column="77" />
         <mark key="]" line="1453" column="28" />
         <mark key="." line="1453" column="28" />
@@ -966,10 +966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" />
-      <jump line="418" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" />
-      <jump line="29" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" />
-      <jump line="388" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" />
       <jump line="400" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" />
       <jump line="414" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" />
       <jump line="460" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceBean.java" />
@@ -1050,7 +1046,6 @@
       <jump line="28" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="36" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="1363" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="1402" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="1458" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="1360" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
@@ -1066,6 +1061,11 @@
       <jump line="420" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="207" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="361" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="1368" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="32" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/GoogleCivicApiGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1101,7 +1101,7 @@
         <text>GroupComponentType</text>
       </register>
       <register name="/" type="4">
-        <text>Ota</text>
+        <text>addrStreet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudCA9IE9uQ2FsbERpc3BhdGNoR3JvdXBDb21wb25lbnRUeXBlLmdldE5ld0VsZW1lbnQodHlwZSwgbmFtZSwgCiAgICAgICAgICAgICAgICBncm91cElkLCBsYXlvdXQsIG1lc3NhZ2VTZXF1ZW5jZSwgCiAgICAgICAgICAgICAgICB0aGlzLmlzRGVmYXVsdEluTWVzc2FnZVdoZW5CbGFuaygpLAogICAgICAgICAgICAgICAgQ3N2R3JvdXBTZXBhcmF0b3JUeXBlLkRFRkFVTFQuZ2V0VG9rZW4oKSwgCiAgICAgICAgICAgICAgICBNZXNzYWdlSXRlbVNlcGFyYXRvclR5cGUuQ09NTUEuZ2V0VG9rZW4oKSwgCiAgICAgICAgICAgICAgICB0aGlzLmdldERlZmF1bHRNZXNzYWdlVGFnU2VwYXJhdG9yKCksIAogICAgICAgICAgICAgICAgdGhpcy5nZXREZWZhdWx0VGV4dFRyYW5zZm9ybSgpLCAKICAgICAgICAgICAgICAgIHRoaXMub25DYWxsRGlzcGF0Y2hDb21wb25lbnRHcm91cElkU2NoZWR1bGVJZE1hcF8uZ2V0KGdyb3VwSWQpKTsgCg==</text>
@@ -1137,13 +1137,13 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>1405</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ota</last-search>
+      <last-search>addrStreet</last-search>
       <last-offset />
-      <last-pattern>Ota</last-pattern>
+      <last-pattern>addrStreet</last-pattern>
       <last-replace>GoogleCivicApiGroup</last-replace>
       <last-substitute>AddressGroup</last-substitute>
       <last-dir>1</last-dir>
@@ -1151,9 +1151,6 @@
     </search>
     <history>
       <history-search>
-        <entry>answerCallAction</entry>
-        <entry>getNextCallData</entry>
-        <entry>on line</entry>
         <entry>online</entry>
         <entry>GregorianCalendar</entry>
         <entry>GregorianCalendar(</entry>
@@ -1171,6 +1168,9 @@
         <entry>AddComponentAction</entry>
         <entry>addComponentGroupActions</entry>
         <entry>Ota</entry>
+        <entry>addrGr</entry>
+        <entry>addressGr</entry>
+        <entry>addrStreet</entry>
       </history-search>
       <history-cmd>
         <entry>2453</entry>
@@ -1191,8 +1191,8 @@
         <entry encoding="base64">JzwsJz5zL0FMVEVSIFRBQkxFIE9OTFkgL0FMVEVSIFRBQkxFIC9n</entry>
         <entry encoding="base64">JzwsJz5zL1VTSU5HIGJ0cmVlIC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0FkZHJlc3NHcm91cC9Hb29nbGVDaXZpY0FwaUdyb3VwL2c=</entry>
-        <entry>w</entry>
         <entry>1405</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
