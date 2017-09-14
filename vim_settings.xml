@@ -701,8 +701,8 @@
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" timestamp="1505405569434">
-        <mark key="'" line="20" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" timestamp="1505416868156">
+        <mark key="'" line="188" column="26" />
         <mark key="[" line="1368" column="30" />
         <mark key="]" line="1368" column="29" />
         <mark key="." line="1368" column="29" />
@@ -1058,15 +1058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
-      <jump line="124" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
-      <jump line="270" column="12" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
-      <jump line="315" column="12" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
-      <jump line="60" column="38" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
-      <jump line="61" column="30" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
-      <jump line="121" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
-      <jump line="122" column="33" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
-      <jump line="267" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
       <jump line="268" column="33" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
       <jump line="159" column="27" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="348" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
@@ -1158,6 +1149,15 @@
       <jump line="23" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/text/MaskedTextMaskFormatter.java" />
       <jump line="188" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/text/MaskedTextMaskFormatter.java" />
       <jump line="145" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/GroupComponentHandler.java" />
+      <jump line="69" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="70" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="77" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="99" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="116" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="123" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="152" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="178" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
+      <jump line="188" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1193,7 +1193,7 @@
         <text>city</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>namePrefix</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gc3RhdGUgY2hhbmdlZCIpOwo=</text>
@@ -1233,9 +1233,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>namePrefix</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>namePrefix</last-pattern>
       <last-replace>civicinfo</last-replace>
       <last-substitute>googlecivicapi</last-substitute>
       <last-dir>1</last-dir>
@@ -1243,7 +1243,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Entering</entry>
         <entry>googleCivicApiLocal</entry>
         <entry>otaServiceLocal</entry>
         <entry>otaServiceHome</entry>
@@ -1263,6 +1262,7 @@
         <entry>otaButton</entry>
         <entry>setGroupState</entry>
         <entry>logger</entry>
+        <entry>namePrefix</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
