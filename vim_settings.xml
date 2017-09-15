@@ -122,6 +122,13 @@
         <mark key="^" line="224" column="25" />
         <mark key="." line="220" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" timestamp="1505497848852">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7040" column="30" />
+        <mark key="]" line="7038" column="42" />
+        <mark key="^" line="7038" column="42" />
+        <mark key="." line="7038" column="42" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/main/resources/META-INF/persistence.xml" timestamp="1482349382894">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="96" />
@@ -456,11 +463,11 @@
         <mark key="^" line="158" column="24" />
         <mark key="." line="158" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1505490098764">
-        <mark key="[" line="76" column="75" />
-        <mark key="]" line="77" column="48" />
-        <mark key="." line="77" column="48" />
-        <mark key="^" line="77" column="48" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1505498052873">
+        <mark key="[" line="73" column="24" />
+        <mark key="]" line="73" column="66" />
+        <mark key="." line="73" column="66" />
+        <mark key="^" line="73" column="66" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormDao.java" timestamp="1504099361698">
         <mark key="[" line="5" column="0" />
@@ -998,8 +1005,8 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505489310106">
-        <mark key="'" line="34" column="19" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505497856664">
+        <mark key="'" line="152" column="58" />
         <mark key="[" line="203" column="15" />
         <mark key="]" line="226" column="19" />
         <mark key="." line="226" column="19" />
@@ -1081,9 +1088,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2141" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2142" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2143" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2144" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2168" column="18" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2523" column="51" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -1181,6 +1185,9 @@
       <jump line="224" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="34" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="2018" column="60" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="152" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1216,7 +1223,7 @@
         <text>String.valueOf(foo.countOfficials()));</text>
       </register>
       <register name="/" type="4">
-        <text>Message</text>
+        <text>to use with new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gc3RhdGUgY2hhbmdlZCIpOwo=</text>
@@ -1256,9 +1263,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Message</last-search>
+      <last-search>to use with new</last-search>
       <last-offset />
-      <last-pattern>Message</last-pattern>
+      <last-pattern>to use with new</last-pattern>
       <last-replace>civicinfo</last-replace>
       <last-substitute>googlecivicapi</last-substitute>
       <last-dir>1</last-dir>
@@ -1266,8 +1273,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OtaService</entry>
-        <entry>ota</entry>
         <entry>JSON</entry>
         <entry>getOtaEvents</entry>
         <entry>getCivicInfo</entry>
@@ -1286,6 +1291,8 @@
         <entry>OtaEvent</entry>
         <entry>message</entry>
         <entry>Message</entry>
+        <entry>tooooooooo use with new</entry>
+        <entry>to use with new</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
