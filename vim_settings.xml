@@ -207,12 +207,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceProxy.java" timestamp="1505488206149">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceProxy.java" timestamp="1505489267806">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="183" column="35" />
-        <mark key="]" line="183" column="3" />
-        <mark key="." line="183" column="3" />
-        <mark key="^" line="183" column="3" />
+        <mark key="]" line="196" column="70" />
+        <mark key="." line="196" column="70" />
+        <mark key="^" line="196" column="70" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceService.java" timestamp="1505399049444">
         <mark key="'" line="0" column="0" />
@@ -456,11 +456,11 @@
         <mark key="^" line="158" column="24" />
         <mark key="." line="158" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1505488404290">
-        <mark key="[" line="74" column="16" />
-        <mark key="]" line="75" column="41" />
-        <mark key="^" line="75" column="41" />
-        <mark key="." line="75" column="41" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1505490098764">
+        <mark key="[" line="76" column="75" />
+        <mark key="]" line="77" column="48" />
+        <mark key="." line="77" column="48" />
+        <mark key="^" line="77" column="48" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormDao.java" timestamp="1504099361698">
         <mark key="[" line="5" column="0" />
@@ -860,6 +860,12 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/civicinfo/GoogleCivicApiServiceLocal.java" timestamp="1505328636337">
         <mark key="[" line="13" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/civicinfo/RepresentativeInfoResponse.java" timestamp="1505490075076">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="13" column="3" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/civicinfo/GoogleCivicApiServiceProxy.java" timestamp="1505328658394">
         <mark key="[" line="14" column="14" />
       </file>
@@ -992,8 +998,8 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505428298973">
-        <mark key="'" line="175" column="39" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505489310106">
+        <mark key="'" line="34" column="19" />
         <mark key="[" line="203" column="15" />
         <mark key="]" line="226" column="19" />
         <mark key="." line="226" column="19" />
@@ -1070,14 +1076,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1505326397845">
+      <file name="/fragment.java" timestamp="1505489754970">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2138" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2139" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2140" column="60" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2141" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2142" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2143" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -1153,7 +1156,6 @@
       <jump line="36" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="68" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="37" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="33" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="39" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="156" column="55" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
@@ -1175,6 +1177,10 @@
       <jump line="2611" column="31" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2163" column="54" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2164" column="31" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="226" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="224" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="34" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1207,10 +1213,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>city</text>
+        <text>String.valueOf(foo.countOfficials()));</text>
       </register>
       <register name="/" type="4">
-        <text>OtaEvent</text>
+        <text>Message</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gc3RhdGUgY2hhbmdlZCIpOwo=</text>
@@ -1222,37 +1228,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuZ2V0VHlwZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvby5nZXRPZmZpY2lhbHMoKS5nZXQoMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUeXBlIGxpc3RUeXBlID0gbmV3IFR5cGVUb2tlbjxBcnJheUxpc3Q8UmVwcmVzZW50YXRpdmVJbmZvUmVzcG9uc2U+Pigpe30K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PE9mZmljaWFsPiBnZXRPZmZpY2lhbHMoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMub2ZmaWNpYWxzOwogICAgfQogICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0S2luZCgpIHsKICAgICAgICByZXR1cm4gdGhpcy5raW5kOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdzb24uZnJvbUpzb24oKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGtpbmQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENpdmljSW5mb1JlcHJlc2VudGF0aXZlPiByZXNwcyA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXBzID0gZ3Nvbi5mcm9tSnNvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnJlZmxlY3QuVHlwZVRva2VuOwo=</text>
+        <text encoding="base64">ICAgICAgICAuZ2V0VHlwZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OtaEvent</last-search>
+      <last-search>Message</last-search>
       <last-offset />
-      <last-pattern>OtaEvent</last-pattern>
+      <last-pattern>Message</last-pattern>
       <last-replace>civicinfo</last-replace>
       <last-substitute>googlecivicapi</last-substitute>
       <last-dir>1</last-dir>
@@ -1260,8 +1266,6 @@
     </search>
     <history>
       <history-search>
-        <entry>googlecivicapi</entry>
-        <entry>google</entry>
         <entry>OtaService</entry>
         <entry>ota</entry>
         <entry>JSON</entry>
@@ -1280,6 +1284,8 @@
         <entry>getRep</entry>
         <entry>CivicInfo</entry>
         <entry>OtaEvent</entry>
+        <entry>message</entry>
+        <entry>Message</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
