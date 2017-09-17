@@ -115,6 +115,9 @@
         <mark key="." line="26" column="2" />
         <mark key="^" line="26" column="2" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AbstractGroupComponentType.java" timestamp="1505672718423">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SelectionListElement.java" timestamp="1488230414406">
         <mark key="'" line="208" column="20" />
         <mark key="[" line="220" column="0" />
@@ -1088,8 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2610" column="31" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2762" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2763" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2764" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2765" column="49" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -1188,6 +1189,8 @@
       <jump line="387" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="516" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="1865" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="93" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AbstractGroupComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AbstractGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1223,7 +1226,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>onCallDispatchComponentGroupIdScheduleIdMap_</text>
+        <text>fixedProperty</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbXMuYWRkKG5ldyBTZWxlY3Rpb25MaXN0RWxlbWVudEl0ZW0oIlN0YXRlIiwgCiAgICAgICAgICAgICAgICAgICAgImFkbWluaXN0cmF0aXZlYXJlYTEiLCAiU3RyaW5nIiwgMCwgdHJ1ZSwgZmFsc2UpKQo=</text>
@@ -1263,9 +1266,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onCallDispatchComponentGroupIdScheduleIdMap_</last-search>
+      <last-search>fixedProperty</last-search>
       <last-offset />
-      <last-pattern>onCallDispatchComponentGroupIdScheduleIdMap_</last-pattern>
+      <last-pattern>fixedProperty</last-pattern>
       <last-replace>civicinfo</last-replace>
       <last-substitute>googlecivicapi</last-substitute>
       <last-dir>1</last-dir>
@@ -1273,7 +1276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getOtaEvents</entry>
         <entry>getCivicInfo</entry>
         <entry>getCivicInfoData</entry>
         <entry>otaButton</entry>
@@ -1293,6 +1295,7 @@
         <entry>tooooooooo use with new</entry>
         <entry>to use with new</entry>
         <entry>onCallDispatchComponentGroupIdScheduleIdMap_</entry>
+        <entry>fixedProperty</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
