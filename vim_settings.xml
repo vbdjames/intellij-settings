@@ -1006,12 +1006,12 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505689776414">
-        <mark key="'" line="155" column="52" />
-        <mark key="[" line="265" column="75" />
-        <mark key="]" line="266" column="31" />
-        <mark key="." line="266" column="31" />
-        <mark key="^" line="266" column="31" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505697833509">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="29" />
+        <mark key="]" line="71" column="44" />
+        <mark key="." line="71" column="44" />
+        <mark key="^" line="71" column="44" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -1089,7 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceUtilities.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceUtilities.java" />
       <jump line="137" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
@@ -1154,7 +1153,6 @@
       <jump line="2164" column="31" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="226" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="224" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="34" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="2018" column="60" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="152" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
@@ -1189,6 +1187,8 @@
       <jump line="518" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="1873" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="1874" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="265" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1217,56 +1217,56 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>selectCivicInfo</text>
+        <text>level</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNpdmljSW5mb0NvbXBvbmVudEdyb3VwSWRDaXZpY0luZm9QYXJhbXNNYXBfLmdldAogICAgICAgICAgICAgICAgICAgICAgICAgICAgKGdyb3VwSWQpLmxldmVsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGV2ZWwgPSAiIjsKICAgICAgICBNZXNzYWdlVXRpbGl0aWVzLmRpc3BsYXlJbmZvRGlhbG9nKHRoaXMsICJoZXJlJ3Mgd2hlcmUgd2Ugd291bGQgZ2V0IiArCiAgICAgICAgICAgICAgICAiIHNvbWUgaW5mbyIpOwogICAgICAgIHJldHVybiBsZXZlbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENpdmljSW5mb1BhcmFtcyBjID0gbmV3IENpdmljSW5mb1BhcmFtcygpOwogICAgICAgICAgICAgICAgYy5sZXZlbCA9ICJhZG1pbmlzdHJhdGl2ZWFyZWExIjsKICAgICAgICAgICAgICAgIGMucm9sZSA9ICJsZWdpc2xhdG9yTG93ZXJCb2R5IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGZvciAoR3JvdXBhYmxlIGdyb3VwYWJsZSA6IGdyb3VwQ29tcG9uZW50cykgewogICAgICAgICAgICAgICAgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlIGdyb3VwYWJsZVJvbGUgPQogICAgICAgICAgICAgICAgICAgICAgICBDaXZpY0luZm9Hcm91cENvbXBvbmVudFR5cGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0VHlwZShncm91cGFibGUuZ2V0R3JvdXBSb2xlKCkpOwoKICAgICAgICAgICAgICAgIGlmIChncm91cGFibGVSb2xlID09IEdFVF9SRVBSRVNFTlRBVElWRVMpIHsKICAgICAgICAgICAgICAgICAgICBNQ2l2aWNJbmZvQnV0dG9uIGNpdmljSW5mb0J1dHRvbiA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAoTUNpdmljSW5mb0J1dHRvbikgZ3JvdXBhYmxlOwogICAgICAgICAgICAgICAgICAgIGNpdmljSW5mb0J1dHRvbi5zZXRMZXZlbChsZXZlbCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibGVnaXNsYXRvckxvd2VyQm9keSIpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYWRtaW5pc3RyYXRpdmVhcmVhMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2VsZWN0Q2l2aWNJbmZvTGV2ZWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gaXQncyBhIGNpdmljX2luZm8iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8obGV2ZWwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTZWxlY3Rpb25MaXN0RWxlbWVudEl0ZW0+IGl0ZW1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIGl0ZW1zLmFkZChuZXcgU2VsZWN0aW9uTGlzdEVsZW1lbnRJdGVtKCJTdGF0ZSIsCiAgICAgICAgICAgICAgICAgICAgImFkbWluaXN0cmF0aXZlYXJlYTEiLCAiU3RyaW5nIiwgMCwgdHJ1ZSwgZmFsc2UpKTsKICAgICAgICAgICAgaXRlbXMuYWRkKG5ldyBTZWxlY3Rpb25MaXN0RWxlbWVudEl0ZW0oIk5hdGlvbmFsIiwKICAgICAgICAgICAgICAgICAgICAiY291bnRyeSIsICJTdHJpbmciLCAwLCBmYWxzZSwgZmFsc2UpKTsKCiAgICAgICAgICAgIGVsZW1lbnQgPSBuZXcgU2VsZWN0aW9uTGlzdEVsZW1lbnQobmFtZSwgdHJ1ZSwgZmFsc2UsIGdyb3VwSWQsCiAgICAgICAgICAgICAgICAgICAgZ3JvdXBUeXBlLCB0eXBlLmdldFRva2VuKCksIGxheW91dCwgbWVzc2FnZU5hbWUsCiAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb24sIG1lc3NhZ2VUYWcsIG1lc3NhZ2VTZXF1ZW5jZSwgKHNob3J0KSAwLAogICAgICAgICAgICAgICAgICAgIGNzdkdyb3VwU2VwYXJhdG9yLCBpdGVtU2VwYXJhdG9yLCBtZXNzYWdlVGFnU2VwYXJhdG9yLAogICAgICAgICAgICAgICAgICAgIGl0ZW1zLCB0cnVlLCAic2luZ2xlIiwgMiwgIiIsIGNvbXBvbmVudFR5cGUuZ2V0VG9rZW4oKSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>selectCivicInfo</last-search>
+      <last-search>level</last-search>
       <last-offset />
-      <last-pattern>selectCivicInfo</last-pattern>
+      <last-pattern>level</last-pattern>
       <last-replace>civicinfo</last-replace>
       <last-substitute>googlecivicapi</last-substitute>
       <last-dir>1</last-dir>
@@ -1274,7 +1274,6 @@
     </search>
     <history>
       <history-search>
-        <entry>groupComponentHandler</entry>
         <entry>USE_DOCUMENT_LISTENRE_GROUP_COMPONENT_TYPES</entry>
         <entry>USE_DOCUMENT_LISTENER_GROUP_COMPONENT_TYPES</entry>
         <entry>LOGGER</entry>
@@ -1294,6 +1293,7 @@
         <entry>Dispatch</entry>
         <entry>onCallDispatchComponentGroupIdScheduleIdMap</entry>
         <entry>selectCivicInfo</entry>
+        <entry>level</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
