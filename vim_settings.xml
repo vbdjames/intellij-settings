@@ -16,6 +16,13 @@
         <mark key="." line="443" column="39" />
         <mark key="^" line="443" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1505747195651">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="201" column="63" />
+        <mark key="]" line="201" column="62" />
+        <mark key="." line="201" column="62" />
+        <mark key="^" line="201" column="62" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MList.java" timestamp="1505677607117">
         <mark key="'" line="77" column="0" />
       </file>
@@ -739,6 +746,12 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" timestamp="1505747538301">
+        <mark key="[" line="61" column="5" />
+        <mark key="]" line="62" column="3" />
+        <mark key="." line="62" column="3" />
+        <mark key="^" line="62" column="3" />
+      </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" timestamp="1489765883464">
         <mark key="'" line="145" column="16" />
         <mark key="[" line="2" column="58" />
@@ -1010,6 +1023,13 @@
         <mark key="." line="47" column="30" />
         <mark key="^" line="47" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1505747155862">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="207" column="33" />
+        <mark key="^" line="200" column="45" />
+        <mark key="." line="200" column="45" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/util/PHelper.java" timestamp="1503671133941">
         <mark key="[" line="94" column="45" />
         <mark key="]" line="95" column="23" />
@@ -1051,6 +1071,10 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/LabelElement.java" timestamp="1504195343353">
         <mark key="'" line="209" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/UrlButtonElement.java" timestamp="1505745679428">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="5" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/constant/ClientConstant.java" timestamp="1495116461656">
         <mark key="[" line="13" column="20" />
@@ -1098,8 +1122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceServiceProxy.java" />
-      <jump line="211" column="58" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="1901" column="60" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="1927" column="37" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -1198,6 +1220,8 @@
       <jump line="388" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="389" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="521" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1227,55 +1251,55 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGN2Y1R5cGUgPT0gQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlLkdFVF9TVEFURV9TRU5BVE9SKSB7CiAgICAgICAgICAgIGJ1dHRvbiA9IG5ldyBNQ2l2aWNJbmZvQnV0dG9uKGVsZW1lbnQsIGxvb2ssCiAgICAgICAgICAgICAgICAgICAgImFkbWluaXN0cmF0aXZlbGV2ZWwxIiwgImxlZ2lzbGF0b3JVcHBlckJvZHkiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>||</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text>civicInfo</text>
+        <text>url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlIEdFVF9SRVBSRVNFTlRBVElWRVMgPQogICAgICAgICAgICBuZXcgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlKCJHZXQgUmVwcmVzZW50YXRpdmVzIiwKICAgICAgICAgICAgICAgICAgICAiUmV0cmlldmUgbGlzdCBvZiByZXByZXNlbnRhdGl2ZXMgZm9yIGVudGVyZWQgYWRkcmVzcyIsCiAgICAgICAgICAgICAgICAgICAgImN2Y1JlcCIsZmFsc2UsICJHZXQgUmVwcmVzZW50YXRpdmVzIiwKICAgICAgICAgICAgICAgICAgICAiIiwgQ29tcG9uZW50VHlwZS5CVVRUT04sIGZhbHNlLCB0cnVlLCAwLAogICAgICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxqb2luZWQtc3ViY2xhc3MgbmFtZT0iQ2l2aWNJbmZvQnV0dG9uRWxlbWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFibGU9IkZPUk1fQ0lWSUNfSU5GT19CVVRUT05fRUxFTUVOVCI+CiAgICAgICAgICAgICAgICAgICAgPGtleSBjb2x1bW49IkVMRU1FTlRfSUQiLz4KICAgICAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0icm9sZSIgY29sdW1uPSJST0xFIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJzdHJpbmciIGxlbmd0aD0iMjAiIG5vdC1udWxsPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bmlxdWU9ImZhbHNlIi8+CiAgICAgICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImxldmVsIiBjb2x1bW49IkxFVkVMIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJzdHJpbmciIGxlbmd0aD0iMjAiIG5vdC1udWxsPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bmlxdWU9ImZhbHNlIi8+CiAgICAgICAgICAgICAgICA8L2pvaW5lZC1zdWJjbGFzcz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGN2Y1R5cGUgPT0gQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlLkdFVF9TVEFURV9TRU5BVE9SKSB7CiAgICAgICAgICAgIGJ1dHRvbiA9IG5ldyBNQ2l2aWNJbmZvQnV0dG9uKGVsZW1lbnQsIGxvb2ssCiAgICAgICAgICAgICAgICAgICAgImFkbWluaXN0cmF0aXZlbGV2ZWwxIiwgImxlZ2lzbGF0b3JVcHBlckJvZHkiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZ3JvdXBhYmxlUm9sZSA9PSBHRVRfU1RBVEVfU0VOQVRPUikgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlIEdFVF9TVEFURV9TRU5BVE9SID0KICAgICAgICAgICAgbmV3IENpdmljSW5mb0dyb3VwQ29tcG9uZW50VHlwZSgiR2V0IFN0YXRlIFNlbmF0b3IiLAogICAgICAgICAgICAgICAgICAgICJSZXRyaWV2ZSBsaXN0IG9mIHN0YXRlIHNlbmF0b3JzIGZvciBlbnRlcmVkIGFkZHJlc3MiLAogICAgICAgICAgICAgICAgICAgICJjdmNTdFNlbiIsZmFsc2UsICJHZXQgU3RhdGUgU2VuYXRvciIsCiAgICAgICAgICAgICAgICAgICAgIiIsIENvbXBvbmVudFR5cGUuQlVUVE9OLCB0cnVlLCB0cnVlLCAwLAogICAgICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGUgPT0gQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlLkdFVF9TVEFURV9TRU5BVE9SKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFJvbGUocm9sZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGcmFtZSBvd25lciA9IEpPcHRpb25QYW5lLmdldEZyYW1lRm9yQ29tcG9uZW50KHRoaXMpOwogICAgICAgIENpdmljSW5mb1BhcmFtc0RpYWxvZyBkaWFsb2cgPQogICAgICAgICAgICAgICAgbmV3IENpdmljSW5mb1BhcmFtc0RpYWxvZyhvd25lcik7CiAgICAgICAgZGlhbG9nLnNldFZpc2libGUodHJ1ZSk7CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldExldmVsKGxldmVsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpdmljSW5mb0J1dHRvbi5zZXRSb2xlKHJvbGVfKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VOYW1lLCB0b29sVGlwLCBsYWJlbCwgbnVsbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpdmljSW5mb0J1dHRvbi5zZXRMZXZlbChsZXZlbF8pOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzKCwgbmFtZSwgZW5hYmxlZCwgaGlkZGVuLCBncm91cElkLCBncm91cFR5cGUsIGdyb3VwUm9sZSwgbGF5b3V0LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>civicInfo</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern>civicInfo</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-replace>civicinfo</last-replace>
       <last-substitute>googlecivicapi</last-substitute>
       <last-dir>1</last-dir>
@@ -1283,8 +1307,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tooooooooo use with new</entry>
-        <entry>to use with new</entry>
         <entry>onCallDispatchComponentGroupIdScheduleIdMap_</entry>
         <entry>fixedProperty</entry>
         <entry>getCoreValue</entry>
@@ -1303,6 +1325,8 @@
         <entry>URL_BUTTON</entry>
         <entry>Url</entry>
         <entry>civicInfo</entry>
+        <entry>URL</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
