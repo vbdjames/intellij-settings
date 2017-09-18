@@ -127,12 +127,11 @@
         <mark key="^" line="224" column="25" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" timestamp="1505755944979">
-        <mark key="'" line="7041" column="4" />
-        <mark key="[" line="2023" column="50" />
-        <mark key="]" line="2024" column="0" />
-        <mark key="^" line="7050" column="31" />
-        <mark key="." line="2024" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" timestamp="1505756781663">
+        <mark key="'" line="7038" column="4" />
+        <mark key="[" line="1882" column="66" />
+        <mark key="]" line="1882" column="66" />
+        <mark key="." line="1882" column="66" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/main/resources/META-INF/persistence.xml" timestamp="1482349382894">
         <mark key="'" line="0" column="0" />
@@ -1008,8 +1007,8 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505755383873">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505756810053">
+        <mark key="'" line="141" column="42" />
         <mark key="[" line="213" column="29" />
         <mark key="]" line="219" column="1" />
         <mark key="." line="219" column="1" />
@@ -1092,7 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2022" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="11791" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="11795" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="517" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
@@ -1192,6 +1190,7 @@
       <jump line="352" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="277" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
+      <jump line="141" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1220,44 +1219,44 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoZ3JvdXBJZCkucm9sZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>createUrl</text>
+        <text>MButton</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9jdXNMc3RuciA9IGZvY3VzTGlzdGVuZXJzLmdldExpc3RlbmVyKENvbXBvbmVudFR5cGUuVVJMX0JVVFRPTik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoZ3JvdXBJZCkucm9sZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChjb21wb25lbnRUeXBlID09IENvbXBvbmVudFR5cGUuQ0lWSUNfSU5GTykgewogICAgICAgICAgICAgICAgdGhpcy5jaXZpY0luZm9Db21wb25lbnRHcm91cElkQ2l2aWNJbmZvUGFyYW1zTWFwXy5wdXQoZ3JvdXBJZCwKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zZWxlY3RDaXZpY0luZm9QYXJhbXMoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNpdmljSW5mb0NvbXBvbmVudEdyb3VwSWRDaXZpY0luZm9QYXJhbXNNYXBfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoZ3JvdXBJZCkucm9sZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoZ3JvdXBJZCkubGV2ZWwsCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNpdmljSW5mb0NvbXBvbmVudEdyb3VwSWRDaXZpY0luZm9QYXJhbXNNYXBfCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoZ3JvdXBJZCkubGV2ZWwsCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3ZjVHlwZSA9PSBDaXZpY0luZm9Hcm91cENvbXBvbmVudFR5cGUuR0VUX1JFUFJFU0VOVEFUSVZFKSB7CiAgICAgICAgICAgIGJ1dHRvbiA9IG5ldyBNQ2l2aWNJbmZvQnV0dG9uKGVsZW1lbnQsIGxvb2ssIG51bGwsIG51bGwpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmNpdmljSW5mb0NvbXBvbmVudEdyb3VwSWRDaXZpY0luZm9QYXJhbXNNYXBfCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3ZjVHlwZSA9PSBDaXZpY0luZm9Hcm91cENvbXBvbmVudFR5cGUuR0VUX1JFUFJFU0VOVEFUSVZFKSB7CiAgICAgICAgICAgIGJ1dHRvbiA9IG5ldyBNQ2l2aWNJbmZvQnV0dG9uKGVsZW1lbnQsIGxvb2ssIG51bGwsIG51bGwpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExFVkVMLAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExFVkVMLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1267,9 +1266,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createUrl</last-search>
+      <last-search>MButton</last-search>
       <last-offset />
-      <last-pattern>createUrl</last-pattern>
+      <last-pattern>MButton</last-pattern>
       <last-replace>civicinfo</last-replace>
       <last-substitute>googlecivicapi</last-substitute>
       <last-dir>1</last-dir>
@@ -1277,7 +1276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCivic</entry>
         <entry>getDisp</entry>
         <entry>Dispatch</entry>
         <entry>onCallDispatchComponentGroupIdScheduleIdMap</entry>
@@ -1297,6 +1295,7 @@
         <entry>LEVEL</entry>
         <entry>createButton</entry>
         <entry>createUrl</entry>
+        <entry>MButton</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
