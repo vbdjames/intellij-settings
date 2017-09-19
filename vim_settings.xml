@@ -23,6 +23,13 @@
         <mark key="." line="201" column="62" />
         <mark key="^" line="201" column="62" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" timestamp="1505779060407">
+        <mark key="'" line="68" column="12" />
+        <mark key="[" line="739" column="0" />
+        <mark key="]" line="739" column="0" />
+        <mark key="^" line="59" column="4" />
+        <mark key="." line="739" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MList.java" timestamp="1505677607117">
         <mark key="'" line="77" column="0" />
       </file>
@@ -592,8 +599,8 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractAggregateRoot.java" timestamp="1504010371632">
         <mark key="'" line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" timestamp="1505765916323">
-        <mark key="'" line="1079" column="56" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" timestamp="1505779298420">
+        <mark key="'" line="1342" column="19" />
         <mark key="[" line="1341" column="52" />
         <mark key="]" line="1342" column="19" />
         <mark key="^" line="1342" column="19" />
@@ -1127,24 +1134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="412" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="413" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="539" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="540" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3169" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3306" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3307" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3483" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3542" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3672" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3673" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3675" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3678" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3679" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="3946" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="4162" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="4761" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="5258" column="61" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="5293" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="6019" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="6142" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
@@ -1227,6 +1216,24 @@
       <jump line="138" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="30" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="164" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="636" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="683" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="104" column="76" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="106" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="107" column="53" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="414" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="416" column="61" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="419" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="420" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="424" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="427" column="61" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="430" column="53" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="431" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="540" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="541" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="68" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
+      <jump line="1342" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1256,19 +1263,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oKQo=</text>
       </register>
       <register name="-" type="4">
         <text>invocation_method</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>LOGGER.info()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFByZXBhcmVkU3RhdGVtZW50IHM0ID0gZGIucHJlcGFyZVN0YXRlbWVudCgidXBkYXRlICIKICAgICAgICAgICAgICAgICAgICArICJmb3JtX3VybF9idXR0b25fZWxlbWVudCBzZXQgdXJsX2FkZHJlc3MgPSA/LCAiCiAgICAgICAgICAgICAgICAgICAgKyAiaW52b2NhdGlvbl9tZXRob2QgPSA/LCBwb3N0X3RvX3VybCA9ID8gIgogICAgICAgICAgICAgICAgICAgICsgIndoZXJlIGVsZW1lbnRfaWQgPSA/Iik7CiAgICAgICAgICAgICAgICBzNC5zZXRTdHJpbmcoMSwgKChVcmxCdXR0b25FbGVtZW50KSAKICAgICAgICAgICAgICAgICAgICBjaGFuZ2VkRWxlbWVudCkuZ2V0VXJsQWRkcmVzcygpKTsKICAgICAgICAgICAgICAgIHM0LnNldFN0cmluZygyLCAoKFVybEJ1dHRvbkVsZW1lbnQpIAogICAgICAgICAgICAgICAgICAgIGNoYW5nZWRFbGVtZW50KS5nZXRJbnZvY2F0aW9uTWV0aG9kKCkpOwogICAgICAgICAgICAgICAgczQuc2V0Qm9vbGVhbigzLCAKICAgICAgICAgICAgICAgICAgICAoKFVybEJ1dHRvbkVsZW1lbnQpIGNoYW5nZWRFbGVtZW50KS5pc1Bvc3RUb1VybCgpKTsKICAgICAgICAgICAgICAgIHM0LnNldExvbmcoNCwgY2hhbmdlZEVsZW1lbnQuZ2V0SWQoKSk7CiAgICAgICAgICAgICAgICBzdGF0ZW1lbnRzLmFkZChzNCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1277,34 +1284,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg77u/Q0kxNTA1NzY2NTY0ODE1Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudC5nZXRDb20K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygibWFraW5nIGEgY29tcG9uZW50IGZvciAiICsgZWxlbWVudC5nZXROYW1lKCkgKyAiIG9mICIgKwogICAgICAgICAgICAgICAgInR5cGUiICsKICAgICAgICAgICAgICAgICIgIiArIGVsZW1lbnQuZ2V0R3JvdXBUeXBlKCkgKyAiIGFuZCByb2xlICIgKyBlbGVtZW50LmdldEdyb3VwUm9sZSgpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFkZEFjdGlvbkxpc3RlbmVyKG5ldyBCdXR0b25BY3Rpb25MaXN0ZW5lcigpKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAg77u/Q0kxNTA1NzY2NTY0ODE1Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudC5nZXRDb20K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygibWFraW5nIGEgY29tcG9uZW50IGZvciAiICsgZWxlbWVudC5nZXROYW1lKCkgKyAiIG9mICIgKwogICAgICAgICAgICAgICAgInR5cGUiICsKICAgICAgICAgICAgICAgICIgIiArIGVsZW1lbnQuZ2V0R3JvdXBUeXBlKCkgKyAiIGFuZCByb2xlICIgKyBlbGVtZW50LmdldEdyb3VwUm9sZSgpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZEFjdGlvbkxpc3RlbmVyKG5ldyBCdXR0b25BY3Rpb25MaXN0ZW5lcigpKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlIExFVkVMID0KICAgICAgICAgICAgbmV3IENpdmljSW5mb0dyb3VwQ29tcG9uZW50VHlwZSgiTGV2ZWwiLCAiTGV2ZWwgb2YgIiArCiAgICAgICAgICAgICAgICAgICAgInJlcHJlc2VudGF0aXZlIGZvciBBUEkiLCAiY3ZjTHZsIiwgZmFsc2UsICJMZXZlbCIsICIiLAogICAgICAgICAgICAgICAgICAgIENvbXBvbmVudFR5cGUuVEVYVF9GSUVMRCwgZmFsc2UsIGZhbHNlLCAwLAogICAgICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QobmV3IENvbXBvbmVudFByb3BlcnR5VHlwZVtdIHtDb21wb25lbnRQcm9wZXJ0eVR5cGUuSVNfSElEREVOfSkpOwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlIFJPTEUgPQogICAgICAgICAgICBuZXcgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlKCJSb2xlIiwgIlJvbGUgb2YgIiArCiAgICAgICAgICAgICAgICAgICAgInJlcHJlc2VudGF0aXZlIGZvciBBUEkiLCAiY3ZjUm9sZSIsIGZhbHNlLCAiUm9sZSIsICIiLAogICAgICAgICAgICAgICAgICAgIENvbXBvbmVudFR5cGUuVEVYVF9GSUVMRCwgZmFsc2UsIGZhbHNlLCAwLAogICAgICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QobmV3IENvbXBvbmVudFByb3BlcnR5VHlwZVtdIHtDb21wb25lbnRQcm9wZXJ0eVR5cGUuSVNfSElEREVOfSkpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlIExFVkVMID0KICAgICAgICAgICAgbmV3IENpdmljSW5mb0dyb3VwQ29tcG9uZW50VHlwZSgiTGV2ZWwiLCAiTGV2ZWwgb2YgIiArCiAgICAgICAgICAgICAgICAgICAgInJlcHJlc2VudGF0aXZlIGZvciBBUEkiLCAiY3ZjTHZsIiwgZmFsc2UsICJMZXZlbCIsICIiLAogICAgICAgICAgICAgICAgICAgIENvbXBvbmVudFR5cGUuVEVYVF9GSUVMRCwgZmFsc2UsIGZhbHNlLCAwLAogICAgICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QobmV3IENvbXBvbmVudFByb3BlcnR5VHlwZVtdIHtDb21wb25lbnRQcm9wZXJ0eVR5cGUuSVNfSElEREVOfSkpOwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlIFJPTEUgPQogICAgICAgICAgICBuZXcgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlKCJSb2xlIiwgIlJvbGUgb2YgIiArCiAgICAgICAgICAgICAgICAgICAgInJlcHJlc2VudGF0aXZlIGZvciBBUEkiLCAiY3ZjUm9sZSIsIGZhbHNlLCAiUm9sZSIsICIiLAogICAgICAgICAgICAgICAgICAgIENvbXBvbmVudFR5cGUuVEVYVF9GSUVMRCwgZmFsc2UsIGZhbHNlLCAwLAogICAgICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QobmV3IENvbXBvbmVudFByb3BlcnR5VHlwZVtdIHtDb21wb25lbnRQcm9wZXJ0eVR5cGUuSVNfSElEREVOfSkpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>LOGGER.info()</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>LOGGER.info()</last-pattern>
       <last-replace>level</last-replace>
       <last-substitute>role</last-substitute>
       <last-dir>1</last-dir>
@@ -1312,9 +1319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>closeDialog</entry>
-        <entry>dialogLook</entry>
-        <entry>civicInfo</entry>
         <entry>LEVEL</entry>
         <entry>createButton</entry>
         <entry>createUrl</entry>
@@ -1331,7 +1335,10 @@
         <entry>role</entry>
         <entry>GET_REPRESENTATIVE</entry>
         <entry>save</entry>
+        <entry>addComponents</entry>
         <entry>url</entry>
+        <entry>civic</entry>
+        <entry>LOGGER.info()</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
