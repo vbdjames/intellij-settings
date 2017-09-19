@@ -745,12 +745,12 @@
         <mark key="." line="69" column="17" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" timestamp="1505779925949">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" timestamp="1505787208703">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1286" column="80" />
-        <mark key="]" line="1292" column="0" />
-        <mark key="." line="1292" column="0" />
-        <mark key="^" line="1292" column="0" />
+        <mark key="[" line="1290" column="31" />
+        <mark key="]" line="1290" column="35" />
+        <mark key="." line="1290" column="35" />
+        <mark key="^" line="1290" column="35" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/TextLookupGroupComponentType.java" timestamp="1505699382190">
         <mark key="'" line="70" column="52" />
@@ -1050,8 +1050,8 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505786385089">
-        <mark key="'" line="140" column="44" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505787169657">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="147" column="38" />
         <mark key="]" line="147" column="42" />
         <mark key="." line="147" column="42" />
@@ -1134,7 +1134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="352" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="277" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="141" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="43" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/GroupComponentSelectionDialog.java" />
@@ -1144,7 +1143,6 @@
       <jump line="43" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="48" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="1371" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="123" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="207" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="1292" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
@@ -1234,6 +1232,8 @@
       <jump line="1249" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
       <jump line="848" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
+      <jump line="152" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1269,7 +1269,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>saveCust</text>
+        <text>cvcRep</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gbWFkZSBhIGJ1dHRvbiAiICsgZWxlbWVudC5nZXRHcm91cFJvbGUoKSk7Cg==</text>
@@ -1309,9 +1309,9 @@
       </register>
     </registers>
     <search>
-      <last-search>saveCust</last-search>
+      <last-search>cvcRep</last-search>
       <last-offset />
-      <last-pattern>saveCust</last-pattern>
+      <last-pattern>cvcRep</last-pattern>
       <last-replace>level</last-replace>
       <last-substitute>role</last-substitute>
       <last-dir>1</last-dir>
@@ -1319,7 +1319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>masterList</entry>
         <entry>CIVIC</entry>
         <entry>URL_BUTTON</entry>
         <entry>CIVIC_INFO</entry>
@@ -1333,12 +1332,13 @@
         <entry>url</entry>
         <entry>civic</entry>
         <entry>LOGGER.info()</entry>
-        <entry>cvcButton</entry>
         <entry>getCustomForm</entry>
         <entry>save</entry>
         <entry>Civic</entry>
         <entry>updateCustomF</entry>
         <entry>saveCust</entry>
+        <entry>cvcButton</entry>
+        <entry>cvcRep</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
