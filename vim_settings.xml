@@ -141,12 +141,12 @@
         <mark key="^" line="224" column="25" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" timestamp="1505831022516">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" timestamp="1505832126807">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3171" column="70" />
-        <mark key="]" line="3175" column="70" />
-        <mark key="." line="3175" column="70" />
-        <mark key="^" line="3175" column="70" />
+        <mark key="[" line="3175" column="38" />
+        <mark key="]" line="1949" column="47" />
+        <mark key="." line="1949" column="47" />
+        <mark key="^" line="1949" column="47" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/main/resources/META-INF/persistence.xml" timestamp="1482349382894">
         <mark key="'" line="0" column="0" />
@@ -764,9 +764,9 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" timestamp="1505822486059">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" timestamp="1505832016073">
         <mark key="'" line="11" column="33" />
-        <mark key="[" line="44" column="0" />
+        <mark key="[" line="27" column="67" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -1051,11 +1051,12 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505825298309">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505832208936">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
+        <mark key="[" line="150" column="41" />
+        <mark key="]" line="150" column="41" />
+        <mark key="." line="150" column="41" />
+        <mark key="^" line="150" column="46" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -1262,11 +1263,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1dHRvbkludm9jYXRpb25NZXRob2RUeXBlLkRFRkFVTFQuZ2V0VG9rZW4oKSwgZmFsc2UsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>, null, null</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>, null, null</text>
       </register>
       <register name="/" type="4">
         <text>CIVIC</text>
