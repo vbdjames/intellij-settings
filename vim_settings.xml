@@ -115,8 +115,8 @@
         <mark key="." line="2612" column="54" />
         <mark key="^" line="2612" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1505837048562">
-        <mark key="'" line="130" column="39" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1505851702097">
+        <mark key="'" line="160" column="31" />
         <mark key="[" line="7863" column="62" />
         <mark key="]" line="7874" column="46" />
         <mark key="." line="7874" column="46" />
@@ -176,6 +176,12 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceRef.java" timestamp="1505846148012">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/ElementFactory.java" timestamp="1505852811194">
+        <mark key="[" line="236" column="33" />
+        <mark key="]" line="236" column="41" />
+        <mark key="^" line="236" column="41" />
+        <mark key="." line="236" column="41" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/jws/EchoRestfulServiceBean.java" timestamp="1505333805942">
         <mark key="'" line="309" column="15" />
@@ -270,9 +276,6 @@
         <mark key="]" line="12" column="5" />
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
-      </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" timestamp="1505836420534">
-        <mark key="[" line="272" column="35" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatchModel.java" timestamp="1479220149340">
         <mark key="'" line="413" column="44" />
@@ -1025,11 +1028,12 @@
         <mark key="." line="129" column="41" />
         <mark key="^" line="129" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" timestamp="1494003891620">
-        <mark key="[" line="583" column="0" />
-        <mark key="]" line="583" column="0" />
-        <mark key="^" line="581" column="11" />
-        <mark key="." line="583" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" timestamp="1505852664949">
+        <mark key="'" line="258" column="28" />
+        <mark key="[" line="256" column="61" />
+        <mark key="]" line="256" column="28" />
+        <mark key="^" line="256" column="28" />
+        <mark key="." line="256" column="28" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1504299549213">
         <mark key="'" line="3705" column="27" />
@@ -1147,9 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8507" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="147" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/FormEditorFrame.java" />
-      <jump line="148" column="9" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/FormEditorFrame.java" />
       <jump line="149" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/FormEditorFrame.java" />
       <jump line="150" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/FormEditorFrame.java" />
       <jump line="228" column="60" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/FormEditorFrame.java" />
@@ -1247,6 +1248,9 @@
       <jump line="5491" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="5511" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="5515" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
+      <jump line="3597" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="160" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
+      <jump line="258" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1275,20 +1279,20 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gZ2V0dGluZyBjdXN0b20gZm9ybSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>this.getElementRole(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>this.getElementRole(</text>
       </register>
       <register name="/" type="4">
-        <text>default form</text>
+        <text>Level</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGdldExldmVsKCksIGNpYmUuZ2V0TGV2ZWwoKSkgJiYK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHhtbEVsZW1lbnQuZWxlbWVudFRleHQoImxhYmVsIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gZ2V0dGluZyBjdXN0b20gZm9ybSIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAoeG1sRWxlbWVudC5lbGVtZW50VGV4dCgibGFiZWwiKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1297,43 +1301,41 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gIiArIGVsZW1lbnQuZ2V0TmFtZSgpICsgIiAiICsgZWxlbWVudC5nZXRDbGFzcwogICAgICAgICAgICAgICAgICAgICgpLmdldE5hbWUoKSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
+        <text encoding="base64">ICAgICAgICB4bWxCdXR0b24uYWRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gZ2V0dGluZyBjdXN0b20gZm9ybSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiPT09PiAiKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gIiArIGVsZW1lbnQuZ2V0TmFtZSgpICsgIiAiICsgZWxlbWVudC5nZXRDbGFzcwogICAgICAgICAgICAgICAgICAgICgpLmdldE5hbWUoKSk7Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVxdWFsICYmIGdldFJvbGUoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBlcXVhbCA9IGdldFJvbGUoKS5lcXVhbHMoY2liZS5nZXRSb2xlKCkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>default form</last-search>
+      <last-search>Level</last-search>
       <last-offset />
-      <last-pattern>default form</last-pattern>
-      <last-replace>level</last-replace>
-      <last-substitute>role</last-substitute>
+      <last-pattern>Level</last-pattern>
+      <last-replace>Role</last-replace>
+      <last-substitute>Level</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GREP</entry>
-        <entry>getrep</entry>
         <entry>save</entry>
         <entry>saveFOrm</entry>
         <entry>saveCustomForm(</entry>
@@ -1352,9 +1354,10 @@
         <entry>customForm</entry>
         <entry>customFormService</entry>
         <entry>default form</entry>
+        <entry>formToXmlCon</entry>
+        <entry>Level</entry>
       </history-search>
       <history-cmd>
-        <entry>57</entry>
         <entry encoding="base64">JzwsJz5zL2JpZ2ludC9OVU1CRVIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NoYXJhY3RlciB2YXJ5aW5nL3ZhcmNoYXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0VDSE8vcHVibGljL2c=</entry>
@@ -1373,6 +1376,7 @@
         <entry>375</entry>
         <entry encoding="base64">JzwsJz5zL3JvbGUvbGV2ZWwvZw==</entry>
         <entry>103</entry>
+        <entry encoding="base64">JzwsJz5zL0xldmVsL1JvbGUvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
