@@ -141,11 +141,12 @@
         <mark key="^" line="224" column="25" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" timestamp="1505781946663">
-        <mark key="'" line="204" column="41" />
-        <mark key="[" line="11780" column="0" />
-        <mark key="]" line="11780" column="0" />
-        <mark key="." line="11780" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" timestamp="1505830345847">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1884" column="82" />
+        <mark key="]" line="1889" column="68" />
+        <mark key="." line="1889" column="68" />
+        <mark key="^" line="1889" column="68" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/main/resources/META-INF/persistence.xml" timestamp="1482349382894">
         <mark key="'" line="0" column="0" />
@@ -235,12 +236,6 @@
         <mark key="]" line="196" column="70" />
         <mark key="." line="196" column="70" />
         <mark key="^" line="196" column="70" />
-      </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/reference/ReferenceService.java" timestamp="1505399049444">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/UrlButtonElementParameter.java" timestamp="1481580815712">
         <mark key="'" line="211" column="0" />
@@ -1139,8 +1134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/ComponentPropertiesPanel.java" />
-      <jump line="42" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/ComponentPropertiesPanel.java" />
       <jump line="54" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/ComponentPropertiesPanel.java" />
       <jump line="55" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/ComponentPropertiesPanel.java" />
       <jump line="4268" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
@@ -1239,6 +1232,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="790" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="11" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" />
+      <jump line="2188" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1274,7 +1269,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>getNewElement</text>
+        <text>CIVIC</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnNldE5hbWUoTUNvbXBvbmVudFV0aWxpdGllcy5nZXRVbmlxdWVOYW1lKHRoaXMuY29tcG9uZW50VHlwZSkpOwogICAgICAgIHRoaXMuc2V0TWVzc2FnZU5hbWUodGhpcy5jb21wb25lbnRUeXBlLmdldE5hbWUoKSk7Cg==</text>
@@ -1314,9 +1309,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getNewElement</last-search>
+      <last-search>CIVIC</last-search>
       <last-offset />
-      <last-pattern>getNewElement</last-pattern>
+      <last-pattern>CIVIC</last-pattern>
       <last-replace>level</last-replace>
       <last-substitute>role</last-substitute>
       <last-dir>1</last-dir>
@@ -1324,7 +1319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry>civic</entry>
         <entry>LOGGER.info()</entry>
         <entry>getCustomForm</entry>
@@ -1344,6 +1338,7 @@
         <entry>&quot;IB&quot;</entry>
         <entry>ButtonElement</entry>
         <entry>getNewElement</entry>
+        <entry>CIVIC</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
