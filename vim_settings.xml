@@ -643,8 +643,8 @@
         <mark key="[" line="224" column="0" />
         <mark key="]" line="243" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" timestamp="1505328947175">
-        <mark key="'" line="557" column="0" />
+      <file name="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" timestamp="1505939185547">
+        <mark key="'" line="358" column="27" />
         <mark key="[" line="443" column="0" />
         <mark key="]" line="448" column="28" />
         <mark key="^" line="159" column="27" />
@@ -906,13 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2026" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
-      <jump line="55" column="69" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
-      <jump line="1467" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
-      <jump line="1462" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
-      <jump line="739" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
-      <jump line="705" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
       <jump line="744" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
       <jump line="767" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
       <jump line="781" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/BasicFormPanel.java" />
@@ -1006,6 +999,13 @@
       <jump line="12" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="1062" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="155" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="157" column="50" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="160" column="26" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="354" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="356" column="60" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="358" column="27" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1041,7 +1041,7 @@
         <text>, PATCH_PROMPT</text>
       </register>
       <register name="/" type="4">
-        <text>SEMINARS_AVAILABLE_PROMPT</text>
+        <text>civic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDaXZpY0luZm9Hcm91cENvbXBvbmVudFR5cGUgZ3JvdXBhYmxlUm9sZSA9IENpdmljSW5mb0dyb3VwQ29tcG9uZW50VHlwZS5nZXRUeXBlKGdyb3VwYWJsZS5nZXRHcm91cFJvbGUoKSk7Cg==</text>
@@ -1081,9 +1081,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SEMINARS_AVAILABLE_PROMPT</last-search>
+      <last-search>civic</last-search>
       <last-offset />
-      <last-pattern>SEMINARS_AVAILABLE_PROMPT</last-pattern>
+      <last-pattern>civic</last-pattern>
       <last-replace>CivicInfo</last-replace>
       <last-substitute>Address</last-substitute>
       <last-dir>1</last-dir>
@@ -1091,7 +1091,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customFormService</entry>
         <entry>default form</entry>
         <entry>formToXmlCon</entry>
         <entry>Level</entry>
@@ -1111,6 +1110,7 @@
         <entry>SEMINARS_AVAILABLE</entry>
         <entry>Selection</entry>
         <entry>SEMINARS_AVAILABLE_PROMPT</entry>
+        <entry>civic</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FMVEVSIFRBQkxFIE9OTFkgL0FMVEVSIFRBQkxFIC9n</entry>
