@@ -37,8 +37,8 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" timestamp="1505911761698">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" timestamp="1505935803367">
+        <mark key="'" line="12" column="39" />
         <mark key="[" line="762" column="41" />
         <mark key="]" line="774" column="0" />
         <mark key="." line="774" column="0" />
@@ -832,12 +832,12 @@
         <mark key="^" line="204" column="36" />
         <mark key="." line="204" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505934048749">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1505936983989">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="239" column="33" />
-        <mark key="]" line="239" column="33" />
-        <mark key="^" line="234" column="33" />
-        <mark key="." line="239" column="33" />
+        <mark key="[" line="316" column="34" />
+        <mark key="]" line="121" column="24" />
+        <mark key="." line="121" column="24" />
+        <mark key="^" line="121" column="24" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -906,8 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1035" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
-      <jump line="1066" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
       <jump line="1256" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
       <jump line="2026" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
@@ -971,7 +969,6 @@
       <jump line="59" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="85" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="39" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="495" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="329" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="522" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
@@ -1006,6 +1003,9 @@
       <jump line="1063" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="1208" column="64" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="1209" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
+      <jump line="555" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
+      <jump line="12" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1034,56 +1034,56 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>SelectionListElementItem</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncm91cFR5cGUsICkK</text>
       </register>
       <register name="-" type="4">
         <text>SelectionListElementItem</text>
       </register>
       <register name="/" type="4">
-        <text>SEMINARS_AVAILABLE</text>
+        <text>Selection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmb3IgKENpdmljT2ZmaWNpYWwgbyA6IG9mZmljaWFsc18pIHsKLy8gICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gIiArIG8uZ2V0TmFtZSgpKTsKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDaXZpY0luZm9Hcm91cENvbXBvbmVudFR5cGUgZ3JvdXBhYmxlUm9sZSA9IENpdmljSW5mb0dyb3VwQ29tcG9uZW50VHlwZS5nZXRUeXBlKGdyb3VwYWJsZS5nZXRHcm91cFJvbGUoKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmFtZSwgdHJ1ZSwgZmFsc2UsIGdyb3VwSWQsCiAgICAgICAgICAgICAgICAgICAgZ3JvdXBUeXBlLCB0eXBlLmdldFRva2VuKCksIGxheW91dCwgbWVzc2FnZU5hbWUsICJMaXN0IG9mIiArCiAgICAgICAgICAgICAgICAgICAgIiBtYXRjaGluZyByZXByZXNlbnRhdGl2ZXMiLCBtZXNzYWdlVGFnLCBtZXNzYWdlU2VxdWVuY2UsCiAgICAgICAgICAgICAgICAgICAgKHNob3J0KSAwLCBjc3ZHcm91cFNlcGFyYXRvciwgaXRlbVNlcGFyYXRvciwKICAgICAgICAgICAgICAgICAgICBtZXNzYWdlVGFnU2VwYXJhdG9yLAogICAgICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLjxTZWxlY3Rpb25MaXN0RWxlbWVudEl0ZW0+ZW1wdHlMaXN0KCksIGZhbHNlLAogICAgICAgICAgICAgICAgICAgICJUT0RPIiwgMywgIlRPRE8iLCBjb21wb25lbnRUeXBlLmdldFRva2VuKCk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncm91cFR5cGUsICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBDaXZpY0luZm9Hcm91cENvbXBvbmVudFR5cGUgR0VUX1JFUFJFU0VOVEFUSVZFCi8vICAgICAgICAgICAgPSBuZXcgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlKCJHZXQgUmVwIiwgIkdldCByZXAiLAovLyAgICAgICAgICAgICJjdmNSZXAiLCB0cnVlLCAiR2V0IFJlcCIsICIiLCBDb21wb25lbnRUeXBlLkNJVklDX0lORk9fQlVUVE9OLAovLyAgICAgICAgICAgIGZhbHNlLCB0cnVlLCAwLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7Ci8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudCA9IG5ldyBDb21ib0JveEVsZW1lbnQobmFtZSwgdHJ1ZSwgZmFsc2UsIGdyb3VwSWQsIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlZENvbXBvbmVudC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNU2VsZWN0aW9uCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">bmFtZSwgdHJ1ZSwgZmFsc2UsIGdyb3VwSWQsCiAgICAgICAgICAgICAgICAgICAgZ3JvdXBUeXBlLCB0eXBlLmdldFRva2VuKCksIGxheW91dCwgbWVzc2FnZU5hbWUsICJMaXN0IG9mIiArCiAgICAgICAgICAgICAgICAgICAgIiBtYXRjaGluZyByZXByZXNlbnRhdGl2ZXMiLCBtZXNzYWdlVGFnLCBtZXNzYWdlU2VxdWVuY2UsCiAgICAgICAgICAgICAgICAgICAgKHNob3J0KSAwLCBjc3ZHcm91cFNlcGFyYXRvciwgaXRlbVNlcGFyYXRvciwKICAgICAgICAgICAgICAgICAgICBtZXNzYWdlVGFnU2VwYXJhdG9yLAogICAgICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLjxTZWxlY3Rpb25MaXN0RWxlbWVudEl0ZW0+ZW1wdHlMaXN0KCksIGZhbHNlLAogICAgICAgICAgICAgICAgICAgICJUT0RPIiwgMywgIlRPRE8iLCBjb21wb25lbnRUeXBlLmdldFRva2VuKCk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBDaXZpY0luZm9Hcm91cENvbXBvbmVudFR5cGUgR0VUX1JFUFJFU0VOVEFUSVZFCi8vICAgICAgICAgICAgPSBuZXcgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlKCJHZXQgUmVwIiwgIkdldCByZXAiLAovLyAgICAgICAgICAgICJjdmNSZXAiLCB0cnVlLCAiR2V0IFJlcCIsICIiLCBDb21wb25lbnRUeXBlLkNJVklDX0lORk9fQlVUVE9OLAovLyAgICAgICAgICAgIGZhbHNlLCB0cnVlLCAwLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7Ci8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlZENvbXBvbmVudC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJlc3VtYWJseSwgd2Ugbm93IGhhdmUgYSBsaXN0IG9mIG9mZmljaWFscwovLyAgICAgICAgICAgIHRoaXMub2ZmaWNpYWxzXyA9ICgoTUNpdmljSW5mb0J1dHRvbikgY2hhbmdlZENvbXBvbmVudCkKLy8gICAgICAgICAgICAgICAgICAgIC5nZXRPZmZpY2lhbHMoKTsKLy8gICAgICAgICAgICBmb3IgKENpdmljT2ZmaWNpYWwgbyA6IG9mZmljaWFsc18pIHsKLy8gICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gIiArIG8uZ2V0TmFtZSgpKTsKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gIiArIGZvby5nZXRPZmZpY2lhbHMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SEMINARS_AVAILABLE</last-search>
+      <last-search>Selection</last-search>
       <last-offset />
-      <last-pattern>SEMINARS_AVAILABLE</last-pattern>
+      <last-pattern>Selection</last-pattern>
       <last-replace>CivicInfo</last-replace>
       <last-substitute>Address</last-substitute>
       <last-dir>1</last-dir>
@@ -1091,7 +1091,6 @@
     </search>
     <history>
       <history-search>
-        <entry>form</entry>
         <entry>customForm</entry>
         <entry>customFormService</entry>
         <entry>default form</entry>
@@ -1111,6 +1110,7 @@
         <entry>getOfficials</entry>
         <entry>SelectionListElement</entry>
         <entry>SEMINARS_AVAILABLE</entry>
+        <entry>Selection</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FMVEVSIFRBQkxFIE9OTFkgL0FMVEVSIFRBQkxFIC9n</entry>
