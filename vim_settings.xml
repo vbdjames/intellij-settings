@@ -474,12 +474,12 @@
         <mark key="^" line="158" column="24" />
         <mark key="." line="158" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1506008892812">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1506011840747">
         <mark key="'" line="34" column="4" />
-        <mark key="[" line="275" column="51" />
-        <mark key="]" line="283" column="7" />
-        <mark key="." line="283" column="7" />
-        <mark key="^" line="283" column="7" />
+        <mark key="[" line="275" column="40" />
+        <mark key="]" line="284" column="46" />
+        <mark key="." line="284" column="46" />
+        <mark key="^" line="284" column="46" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormDao.java" timestamp="1504099361698">
         <mark key="[" line="5" column="0" />
@@ -487,6 +487,7 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/design/DesignUtilities.java" timestamp="1506010892739" />
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceLocal.java" timestamp="1488983325033">
         <mark key="'" line="108" column="0" />
         <mark key="[" line="49" column="4" />
@@ -575,8 +576,8 @@
         <mark key="^" line="5952" column="79" />
         <mark key="." line="5952" column="79" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" timestamp="1505844205452">
-        <mark key="'" line="89" column="19" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" timestamp="1506011467103">
+        <mark key="'" line="854" column="21" />
         <mark key="[" line="926" column="0" />
         <mark key="]" line="940" column="5" />
         <mark key="^" line="125" column="79" />
@@ -1145,10 +1146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="545" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComboBox.java" />
-      <jump line="208" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="1927" column="37" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2615" column="57" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="216" column="61" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="971" column="59" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -1245,6 +1242,10 @@
       <jump line="258" column="59" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="287" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="33" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="522" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" />
+      <jump line="402" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" />
+      <jump line="854" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1274,28 +1275,28 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWVzc2FnZSA9PSBudWxsKSB7CiAgICAgICAgICAgIG1lc3NhZ2UgPSBEZXNpZ25VdGlsaXRpZXMuZ2V0VGV4dFByb3BlcnR5TWVzc2FnZQogICAgICAgICAgICAgICAgICAgIChDb21wb25lbnRQcm9wZXJ0eVR5cGUuQlVUVE9OX0xBQkVMLCB0aGlzLmdldFRleHQoKSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmdldE1lc3NhZ2VOYW1lKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENvbXBvbmVudFByb3BlcnR5VHlwZS5DSVZJQ19JTkZPX0xFVkVMLmlzUmVxdWlyZWQoKSAmJgogICAgICAgICAgICAgICAgICAgICgoU3RyaW5nKSBnZXRQcm9wZXJ0eShDb21wb25lbnRQcm9wZXJ0eVR5cGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuQ0lWSUNfSU5GT19MRVZFTCkuZ2V0VmFsdWUoKSkubGVuZ3RoKCkgPT0gMCkgewogICAgICAgICAgICAgICAgbWVzc2FnZSA9ICJMZXZlbCBpcyByZXF1aXJlZC4iOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>legislatorUpperBody</text>
       </register>
       <register name="/" type="4">
-        <text>isValidDes</text>
+        <text>getInvalid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWVzc2FnZSA9PSBudWxsKSB7CiAgICAgICAgICAgIG1lc3NhZ2UgPSBEZXNpZ25VdGlsaXRpZXMuZ2V0VGV4dFByb3BlcnR5TWVzc2FnZQogICAgICAgICAgICAgICAgICAgIChDb21wb25lbnRQcm9wZXJ0eVR5cGUuQlVUVE9OX0xBQkVMLCB0aGlzLmdldFRleHQoKSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmdldE1lc3NhZ2VOYW1lKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENvbXBvbmVudFByb3BlcnR5VHlwZS5DSVZJQ19JTkZPX0xFVkVMLmlzUmVxdWlyZWQoKSAmJgogICAgICAgICAgICAgICAgICAgICgoU3RyaW5nKSBnZXRQcm9wZXJ0eShDb21wb25lbnRQcm9wZXJ0eVR5cGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuQ0lWSUNfSU5GT19MRVZFTCkuZ2V0VmFsdWUoKSkubGVuZ3RoKCkgPT0gMCkgewogICAgICAgICAgICAgICAgbWVzc2FnZSA9ICJMZXZlbCBpcyByZXF1aXJlZC4iOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSA9IERlc2lnblV0aWxpdGllcy5nZXRUZXh0UHJvcGVydHlNZXNzYWdlCiAgICAgICAgICAgICAgICAgICAgKENvbXBvbmVudFByb3BlcnR5VHlwZS5DSVZJQ19JTkZPX1JPTEUsIHRoaXMuZ2V0VGV4dCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXRNZXNzYWdlTmFtZSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG9mZmljaWFscyAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCi8vICAgICAgICAgICAgdHlwZSA9IENvbXBvbmVudFByb3BlcnR5VHlwZS5DSVZJQ19JTkZPX0xFVkVMOwovLyAgICAgICAgICAgIAovLyAgICAgICAgICAgIGJvb2xlYW4gcmVxdWlyZWQ7Ci8vICAgICAgICAgICAgaW50IGxlbmd0aDsKLy8KLy8gICAgICAgICAgICBpZiAocmVxdWlyZWQgJiYgbGVuZ3RoID09IDApIHsKLy8gICAgICAgICAgICAgICAgbWVzc2FnZSA9IGdldERpc3BsYXlhYmxlTWVzc2FnZU5hbWUobWVzc2FnZU5hbWUpICsgIiAiICsgdHlwZS5nZXROYW1lKCkgKyAiIGlzIHJlcXVpcmVkLiI7Ci8vICAgICAgICAgICAgICAgIAovLyAgICAgICAgICAgIH0KICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3662,31 +3663,31 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gcmVzcG9uc2Ugd2FzIG51bGwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAid2FzIG51bGwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSA9IERlc2lnblV0aWxpdGllcy5nZXRUZXh0UHJvcGVydHlNZXNzYWdlCiAgICAgICAgICAgICAgICAgICAgKENvbXBvbmVudFByb3BlcnR5VHlwZS5DSVZJQ19JTkZPX0xFVkVMLCB0aGlzLmdldFRleHQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZ2V0TWVzc2FnZU5hbWUoKSk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWVzc2FnZVV0aWxpdGllcy5kaXNwbGF5SW5mb0RpYWxvZyh0aGlzLCAicmVzcG9uc2UgIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgQ29tcG9uZW50UHJvcGVydHlUeXBlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFVSTENvbm5lY3Rpb24gY29ubiA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2o6IG9yIG1heWJlIGdldCByZXNwb25zZSBzaG91bGQgbWFrZSBmaXJzdCBwYXJzZSBwYXNzCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isValidDes</last-search>
+      <last-search>getInvalid</last-search>
       <last-offset />
-      <last-pattern>isValidDes</last-pattern>
+      <last-pattern>getInvalid</last-pattern>
       <last-replace>CivicInfo</last-replace>
       <last-substitute>Address</last-substitute>
       <last-dir>1</last-dir>
@@ -3694,7 +3695,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCore</entry>
         <entry>CivicInfo</entry>
         <entry>Civic</entry>
         <entry>civicinfo</entry>
@@ -3714,6 +3714,7 @@
         <entry>administrativearea1</entry>
         <entry>isValid</entry>
         <entry>isValidDes</entry>
+        <entry>getInvalid</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FkZHJlc3NHcm91cC9Hb29nbGVDaXZpY0FwaUdyb3VwL2c=</entry>
