@@ -474,12 +474,12 @@
         <mark key="^" line="158" column="24" />
         <mark key="." line="158" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1505949385370">
-        <mark key="'" line="33" column="24" />
-        <mark key="[" line="269" column="51" />
-        <mark key="]" line="269" column="39" />
-        <mark key="." line="269" column="39" />
-        <mark key="^" line="269" column="39" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1506008892812">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="275" column="51" />
+        <mark key="]" line="283" column="7" />
+        <mark key="." line="283" column="7" />
+        <mark key="^" line="283" column="7" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormDao.java" timestamp="1504099361698">
         <mark key="[" line="5" column="0" />
@@ -1155,7 +1155,6 @@
       <jump line="976" column="28" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="1928" column="50" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2165" column="50" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="33" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="345" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="34" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="35" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
@@ -1245,6 +1244,7 @@
       <jump line="200" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="258" column="59" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="287" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
+      <jump line="33" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1274,16 +1274,16 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWVzc2FnZSA9PSBudWxsKSB7CiAgICAgICAgICAgIG1lc3NhZ2UgPSBEZXNpZ25VdGlsaXRpZXMuZ2V0VGV4dFByb3BlcnR5TWVzc2FnZQogICAgICAgICAgICAgICAgICAgIChDb21wb25lbnRQcm9wZXJ0eVR5cGUuQlVUVE9OX0xBQkVMLCB0aGlzLmdldFRleHQoKSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmdldE1lc3NhZ2VOYW1lKCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>legislatorUpperBody</text>
       </register>
       <register name="/" type="4">
-        <text>isValid</text>
+        <text>isValidDes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNQ29tYm9Cb3ggY29tYm9Cb3ggPSAoTUNvbWJvQm94KSBncm91cGFibGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWVzc2FnZSA9PSBudWxsKSB7CiAgICAgICAgICAgIG1lc3NhZ2UgPSBEZXNpZ25VdGlsaXRpZXMuZ2V0VGV4dFByb3BlcnR5TWVzc2FnZQogICAgICAgICAgICAgICAgICAgIChDb21wb25lbnRQcm9wZXJ0eVR5cGUuQlVUVE9OX0xBQkVMLCB0aGlzLmdldFRleHQoKSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmdldE1lc3NhZ2VOYW1lKCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
@@ -3684,9 +3684,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isValid</last-search>
+      <last-search>isValidDes</last-search>
       <last-offset />
-      <last-pattern>isValid</last-pattern>
+      <last-pattern>isValidDes</last-pattern>
       <last-replace>CivicInfo</last-replace>
       <last-substitute>Address</last-substitute>
       <last-dir>1</last-dir>
@@ -3694,7 +3694,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stateName</entry>
         <entry>getCore</entry>
         <entry>CivicInfo</entry>
         <entry>Civic</entry>
@@ -3714,6 +3713,7 @@
         <entry>adminsitrativearea</entry>
         <entry>administrativearea1</entry>
         <entry>isValid</entry>
+        <entry>isValidDes</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FkZHJlc3NHcm91cC9Hb29nbGVDaXZpY0FwaUdyb3VwL2c=</entry>
