@@ -965,12 +965,12 @@
         <mark key="^" line="1210" column="35" />
         <mark key="." line="427" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MTable.java" timestamp="1506101591685">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MTable.java" timestamp="1506103633928">
         <mark key="'" line="418" column="17" />
-        <mark key="[" line="1114" column="55" />
-        <mark key="]" line="1114" column="61" />
-        <mark key="^" line="1114" column="61" />
-        <mark key="." line="1114" column="61" />
+        <mark key="[" line="1124" column="76" />
+        <mark key="]" line="1124" column="76" />
+        <mark key="^" line="1121" column="23" />
+        <mark key="." line="1124" column="76" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallService.java" timestamp="1479220432189">
         <mark key="'" line="1159" column="0" />
@@ -1077,12 +1077,12 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1506102048350">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1506103866694">
         <mark key="'" line="338" column="22" />
-        <mark key="[" line="145" column="61" />
-        <mark key="]" line="148" column="62" />
-        <mark key="." line="148" column="62" />
-        <mark key="^" line="148" column="62" />
+        <mark key="[" line="329" column="50" />
+        <mark key="]" line="330" column="48" />
+        <mark key="." line="330" column="48" />
+        <mark key="^" line="330" column="48" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -1291,17 +1291,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>del();</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>SEARCH_RESULTS</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8Q2l2aWNPZmZpY2lhbD4gb2ZmaWNpYWxzID0gcmVzcG9uc2UuZ2V0T2ZmaWNpYWxzKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>columnModel.getColumn(i).getHeaderValue().toString())</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
