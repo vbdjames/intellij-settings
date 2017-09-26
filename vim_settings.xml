@@ -477,12 +477,12 @@
         <mark key="^" line="158" column="24" />
         <mark key="." line="158" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1506020168261">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1506459615223">
         <mark key="'" line="34" column="4" />
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="0" />
-        <mark key="^" line="280" column="68" />
-        <mark key="." line="286" column="0" />
+        <mark key="[" line="301" column="42" />
+        <mark key="]" line="301" column="31" />
+        <mark key="^" line="301" column="31" />
+        <mark key="." line="301" column="31" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormDao.java" timestamp="1504099361698">
         <mark key="[" line="5" column="0" />
@@ -913,12 +913,12 @@
         <mark key="^" line="1058" column="68" />
         <mark key="." line="1058" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentPropertyType.java" timestamp="1506019418197">
-        <mark key="'" line="415" column="46" />
-        <mark key="[" line="1128" column="39" />
-        <mark key="]" line="1129" column="25" />
-        <mark key="." line="1129" column="25" />
-        <mark key="^" line="1129" column="25" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentPropertyType.java" timestamp="1506459141759">
+        <mark key="'" line="1146" column="0" />
+        <mark key="[" line="1133" column="21" />
+        <mark key="]" line="1133" column="26" />
+        <mark key="^" line="1133" column="26" />
+        <mark key="." line="1133" column="26" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/dao-poc/src/main/java/com/mapcommunications/daopoc/dao/FooOracleDao.java" timestamp="1479842223382">
         <mark key="'" line="0" column="0" />
@@ -1076,8 +1076,8 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1506458349788">
-        <mark key="'" line="185" column="38" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1506458841528">
+        <mark key="'" line="365" column="50" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1162,9 +1162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
-      <jump line="522" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" />
-      <jump line="402" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" />
       <jump line="267" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" />
       <jump line="854" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" />
@@ -1259,9 +1256,12 @@
       <jump line="151" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="186" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="365" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="181" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="185" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="365" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="187" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentPropertyType.java" />
+      <jump line="995" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentPropertyType.java" />
+      <jump line="1146" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentPropertyType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1290,29 +1290,29 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN0YXRlX3doaXRlbGlzdF87Cg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>setVis</text>
+        <text>CIVIC</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKEdyb3VwYWJsZSBncm91cGFibGUgOiBncm91cENvbXBvbmVudHMpIHsKICAgICAgICAgICAgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlIGdyb3VwYWJsZVJvbGUgPSBDaXZpY0luZm9Hcm91cENvbXBvbmVudFR5cGUuZ2V0VHlwZShncm91cGFibGUuZ2V0R3JvdXBSb2xlKCkpOwogICAgICAgICAgICBpZiAoZ3JvdXBhYmxlUm9sZSA9PSBSRVBfTElTVCkgewogICAgICAgICAgICAgICAgTVRhYmxlIHJlcExpc3QgPSAoTVRhYmxlKSBncm91cGFibGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN0YXRlX3doaXRlbGlzdF87Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERpbWVuc2lvbiBmb28gPSByZXBMaXN0LmdldFByZWZlcnJlZFNjcm9sbGFibGVWaWV3cG9ydFNpemUoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQ29tcG9uZW50UHJvcGVydHlUeXBlIENJVklDX0lORk9fU1RBVEVfV0hJVEVMSVNUID0gOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicHJlZmVycmVkIHN2cyBpcyAiICsgZm9vLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQ29tcG9uZW50UHJvcGVydHlUeXBlIENJVklDX0lORk9fU1RBVEVfV0hJVEVMSVNUID0gOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3679,39 +3679,38 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpbWVuc2lvbiBmb28gPSByZXBMaXN0LmdldFByZWZlcnJlZFNjcm9sbGFibGVWaWV3cG9ydFNpemUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLi4uIGl0J3MgIiArIHJlcExpc3QuZ2V0Vik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicHJlZmVycmVkIHN2cyBpcyAiICsgZm9vLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzaXplID0gb2ZmaWNpYWxzXyA9PSBudWxsID8gMCA6IG9mZmljaWFsc18uc2l6ZSgpOwogICAgICAgICAgICAgICAgcmVwTGlzdC5zZXRWaXNpYmxlUm93Q291bnQoc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiAoZ3JvdXBhYmxlUm9sZSA9PSBSRVBSRVNFTlRBVElWRV9JTkZPKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLi4uIGl0J3MgIiArIHJlcExpc3QuZ2V0Vik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setVis</last-search>
+      <last-search>CIVIC</last-search>
       <last-offset />
-      <last-pattern>setVis</last-pattern>
+      <last-pattern>CIVIC</last-pattern>
       <last-replace>CivicInfo</last-replace>
       <last-substitute>Address</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getNewElement</entry>
         <entry>REPRESENTATIVE_INFO</entry>
         <entry>streetAddress_</entry>
         <entry>this.city</entry>
@@ -3731,6 +3730,7 @@
         <entry>set</entry>
         <entry>repList</entry>
         <entry>setVis</entry>
+        <entry>CIVIC</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dvb2dsZWNpdmljYXBpL2NpdmljaW5mby9n</entry>
