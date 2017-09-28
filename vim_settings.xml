@@ -1062,12 +1062,12 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1506544549534">
-        <mark key="'" line="92" column="47" />
-        <mark key="[" line="454" column="0" />
-        <mark key="]" line="454" column="0" />
-        <mark key="." line="454" column="0" />
-        <mark key="^" line="426" column="58" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1506603253407">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="354" column="50" />
+        <mark key="]" line="355" column="12" />
+        <mark key="." line="355" column="12" />
+        <mark key="^" line="355" column="12" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -1138,7 +1138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="434" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="438" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="150" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
@@ -1161,7 +1160,6 @@
       <jump line="183" column="66" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="184" column="63" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="620" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="106" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="200" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="611" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AddressGroupComponentType.java" />
@@ -1238,6 +1236,8 @@
       <jump line="92" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="172" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="180" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="454" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1273,7 +1273,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>street</text>
+        <text>setOfficials</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0ic3RhdGVXaGl0ZWxpc3QiIGNvbD0iU1RBVEVfV0hJVEVMSVNUIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJzdHJpbmciIGxlbmd0aD0iMTUwIiBub3QtbnVsbD0iZmFsc2UiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVuaXF1ZT0iZmFsc2UiLz4K</text>
@@ -3677,9 +3677,9 @@
       </register>
     </registers>
     <search>
-      <last-search>street</last-search>
+      <last-search>setOfficials</last-search>
       <last-offset />
-      <last-pattern>street</last-pattern>
+      <last-pattern>setOfficials</last-pattern>
       <last-replace>CivicInfo</last-replace>
       <last-substitute>Address</last-substitute>
       <last-dir>1</last-dir>
@@ -3687,7 +3687,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
         <entry>repList</entry>
         <entry>setVis</entry>
         <entry>shite</entry>
@@ -3707,6 +3706,7 @@
         <entry>role</entry>
         <entry>setAddre</entry>
         <entry>street</entry>
+        <entry>setOfficials</entry>
       </history-search>
       <history-cmd>
         <entry>91</entry>
