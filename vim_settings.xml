@@ -364,12 +364,12 @@
         <mark key="." line="59" column="18" />
         <mark key="^" line="59" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1506697877915">
-        <mark key="'" line="249" column="91" />
-        <mark key="[" line="80" column="64" />
-        <mark key="]" line="80" column="63" />
-        <mark key="." line="80" column="63" />
-        <mark key="^" line="80" column="63" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" timestamp="1506699671947">
+        <mark key="'" line="80" column="13" />
+        <mark key="[" line="56" column="39" />
+        <mark key="]" line="57" column="83" />
+        <mark key="." line="57" column="83" />
+        <mark key="^" line="57" column="83" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/CustomFormServiceLocal.java" timestamp="1488983325033">
         <mark key="'" line="108" column="0" />
@@ -879,13 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="549" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="1953" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
-      <jump line="192" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
-      <jump line="193" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
-      <jump line="1187" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
-      <jump line="42" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="78" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="71" column="66" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="46" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentPropertyType.java" />
@@ -974,11 +967,18 @@
       <jump line="199" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="40" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="84" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="41" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="82" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="83" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="246" column="91" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="347" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="318" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="200" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="0" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="35" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="38" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="79" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1007,29 +1007,29 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRTdGF0ZVdoaXRlbGlzdCgpLnNwbGl0KCIsIikpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>stateWhite</text>
+        <text>state</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlV2hpdGVsaXN0XyA9IG5ldyBBcnJheUxpc3Q8PihBcnJheXMuYXNMaXN0KGVsZW1lbnQKICAgICAgICAgICAgICAgIC5nZXRTdGF0ZVdoaXRlbGlzdCgpLnNwbGl0KCIsIikpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRTdGF0ZVdoaXRlbGlzdCgpLnNwbGl0KCIsIikpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zcGxpdCgiLCIpKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KGVsZW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCh3aGl0ZWxpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlV2hpdGVsaXN0XyA9IHdoaXRlbGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBpZiAoIVN0cmluZ3MuaXNOdWxsT3JFbXB0eShlbGVtZW50LmdldFN0YXRlV2hpdGVsaXN0KCkpKSB7CiAgICAgICAgICAgIHN0YXRlV2hpdGVsaXN0Xy5hZGRBbGwoQXJyYXlzLmFzTGlzdChlbGVtZW50LmdldFN0YXRlV2hpdGVsaXN0KCkKICAgICAgICAgICAgICAgICAgICAuc3BsaXQoIiwiKSkpOwogICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3396,31 +3396,31 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRTdGF0ZVdoaXRlbGlzdCgpLnNwbGl0KCIsIikpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBkZXRlcm1pbmUK</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KGVsZW1lbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci8vICAgICAgICBib29sZWFuIGRpc2FibGUgPSBzdHJlZXRBZGRyZXNzXyA9PSBudWxsIHx8IHN0cmVldEFkZHJlc3NfLmlzRW1wdHkoKSB8fAovLyAgICAgICAgICAgICAgICBjaXR5XyA9PSBudWxsIHx8IGNpdHlfLmlzRW1wdHkoKSB8fAovLyAgICAgICAgICAgICAgICBzdGF0ZV8gPT0gbnVsbCB8fCBzdGF0ZV8uaXNFbXB0eSgpIHx8CiAgICAgICAgICAgICAgICAgc3RhdGVXaGlsZWxpc3QgaGFzIGNvbnRlbnRzIGFuZCBzdGF0ZSBub3QgaW4gdGhlcmUKLy8gICAgICAgICAgICAgICAgcG9zdGFsQ29kZV8gPT0gbnVsbCB8fCBwb3N0YWxDb2RlXy5pc0VtcHR5KCk7Ci8vICAgICAgICB0aGlzLnNldEVuYWJsZWQoIWRpc2FibGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlV2hpdGVsaXN0XyA9IHdoaXRlbGlzdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRFbmFibGVkCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBkZXRlcm1pbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzVmFsaWQoKSB7CiAgICAgICAgc3VwZXIuaXNWYWxpZCgpOwogICAgICAgIAogICAgfQoK</text>
+        <text encoding="base64">Ci8vICAgICAgICBib29sZWFuIGRpc2FibGUgPSBzdHJlZXRBZGRyZXNzXyA9PSBudWxsIHx8IHN0cmVldEFkZHJlc3NfLmlzRW1wdHkoKSB8fAovLyAgICAgICAgICAgICAgICBjaXR5XyA9PSBudWxsIHx8IGNpdHlfLmlzRW1wdHkoKSB8fAovLyAgICAgICAgICAgICAgICBzdGF0ZV8gPT0gbnVsbCB8fCBzdGF0ZV8uaXNFbXB0eSgpIHx8CiAgICAgICAgICAgICAgICAgc3RhdGVXaGlsZWxpc3QgaGFzIGNvbnRlbnRzIGFuZCBzdGF0ZSBub3QgaW4gdGhlcmUKLy8gICAgICAgICAgICAgICAgcG9zdGFsQ29kZV8gPT0gbnVsbCB8fCBwb3N0YWxDb2RlXy5pc0VtcHR5KCk7Ci8vICAgICAgICB0aGlzLnNldEVuYWJsZWQoIWRpc2FibGUpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>81</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stateWhite</last-search>
+      <last-search>state</last-search>
       <last-offset />
-      <last-pattern>stateWhite</last-pattern>
+      <last-pattern>state</last-pattern>
       <last-replace>CivicInfo</last-replace>
       <last-substitute>Address</last-substitute>
       <last-dir>1</last-dir>
@@ -3428,9 +3428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>changed</entry>
-        <entry>design</entry>
-        <entry>getNew</entry>
         <entry>search_results</entry>
         <entry>CIVIC</entry>
         <entry>MTable</entry>
@@ -3448,9 +3445,11 @@
         <entry>foo</entry>
         <entry>stateW</entry>
         <entry>stateWhite</entry>
+        <entry>join</entry>
+        <entry>getInva</entry>
+        <entry>state</entry>
       </history-search>
       <history-cmd>
-        <entry>375</entry>
         <entry encoding="base64">JzwsJz5zL3JvbGUvbGV2ZWwvZw==</entry>
         <entry>103</entry>
         <entry encoding="base64">JzwsJz5zL0xldmVsL1JvbGUvZw==</entry>
@@ -3467,9 +3466,10 @@
         <entry>132</entry>
         <entry>143</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>347</entry>
         <entry>81</entry>
+        <entry>620</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
