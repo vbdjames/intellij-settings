@@ -599,12 +599,12 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/text/MaskedTextMaskFormatter.java" timestamp="1505403272801">
         <mark key="'" line="188" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" timestamp="1506535450313">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" timestamp="1506700733993">
         <mark key="'" line="66" column="35" />
-        <mark key="[" line="99" column="8" />
-        <mark key="]" line="98" column="16" />
-        <mark key="." line="98" column="16" />
-        <mark key="^" line="98" column="16" />
+        <mark key="[" line="94" column="58" />
+        <mark key="]" line="94" column="44" />
+        <mark key="." line="94" column="44" />
+        <mark key="^" line="94" column="44" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" timestamp="1489765883464">
         <mark key="'" line="145" column="16" />
@@ -781,12 +781,12 @@
         <mark key="." line="129" column="41" />
         <mark key="^" line="129" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" timestamp="1505852664949">
-        <mark key="'" line="258" column="28" />
-        <mark key="[" line="256" column="61" />
-        <mark key="]" line="256" column="28" />
-        <mark key="^" line="256" column="28" />
-        <mark key="." line="256" column="28" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" timestamp="1506706403428">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="262" column="30" />
+        <mark key="]" line="263" column="54" />
+        <mark key="^" line="263" column="54" />
+        <mark key="." line="263" column="54" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/agentui/RemoteAgentFrame.java" timestamp="1504299549213">
         <mark key="'" line="3705" column="27" />
@@ -879,7 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="71" column="66" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="46" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentPropertyType.java" />
       <jump line="367" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentPropertyType.java" />
@@ -979,6 +978,7 @@
       <jump line="35" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="38" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="79" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
+      <jump line="23" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1007,17 +1007,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvcmcuZG9tNGouRWxlbWVudCB4bWxSb2xlID0gbmV3IERlZmF1bHRFbGVtZW50KCJyb2xlIik7CiAgICAgICAgeG1sUm9sZS5hZGQobmV3IERlZmF1bHRDREFUQShjaXZpY0luZm9CdXR0b25FbGVtZW50LmdldFJvbGUoKSkpOwogICAgICAgIHhtbEJ1dHRvbi5hZGQoeG1sUm9sZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>role</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlV2hpdGVsaXN0XyA9IG5ldyBBcnJheUxpc3Q8PihBcnJheXMuYXNMaXN0KGVsZW1lbnQKICAgICAgICAgICAgICAgIC5nZXRTdGF0ZVdoaXRlbGlzdCgpLnNwbGl0KCIsIikpKTsK</text>
+        <text encoding="base64">ICAgICAgICBvcmcuZG9tNGouRWxlbWVudCB4bWxSb2xlID0gbmV3IERlZmF1bHRFbGVtZW50KCJyb2xlIik7CiAgICAgICAgeG1sUm9sZS5hZGQobmV3IERlZmF1bHRDREFUQShjaXZpY0luZm9CdXR0b25FbGVtZW50LmdldFJvbGUoKSkpOwogICAgICAgIHhtbEJ1dHRvbi5hZGQoeG1sUm9sZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zcGxpdCgiLCIpKSk7Cg==</text>
@@ -3418,9 +3418,9 @@
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search>role</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern>role</last-pattern>
       <last-replace>CivicInfo</last-replace>
       <last-substitute>Address</last-substitute>
       <last-dir>1</last-dir>
@@ -3436,7 +3436,6 @@
         <entry>column width of table</entry>
         <entry>columnWidth</entry>
         <entry>postgres</entry>
-        <entry>role</entry>
         <entry>setAddre</entry>
         <entry>street</entry>
         <entry>setOfficials</entry>
@@ -3448,6 +3447,7 @@
         <entry>join</entry>
         <entry>getInva</entry>
         <entry>state</entry>
+        <entry>role</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JvbGUvbGV2ZWwvZw==</entry>
