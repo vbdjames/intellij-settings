@@ -1138,12 +1138,12 @@
         <mark key="^" line="207" column="56" />
         <mark key="." line="207" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1506954434099">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="202" column="39" />
-        <mark key="]" line="220" column="46" />
-        <mark key="." line="220" column="46" />
-        <mark key="^" line="220" column="46" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1506971670518">
+        <mark key="'" line="276" column="16" />
+        <mark key="[" line="359" column="76" />
+        <mark key="]" line="359" column="72" />
+        <mark key="." line="359" column="72" />
+        <mark key="^" line="359" column="72" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -1167,11 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
-      <jump line="46" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
-      <jump line="101" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
-      <jump line="135" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
-      <jump line="160" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="165" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="170" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="177" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
@@ -1266,7 +1261,12 @@
       <jump line="189" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="446" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="422" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="209" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="133" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="197" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="203" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="276" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1296,16 +1296,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, REPRESENTATIVE_OFFICE</text>
+        <text>Phone</text>
       </register>
       <register name="-" type="4">
-        <text>, REPRESENTATIVE_OFFICE</text>
+        <text>Phone</text>
       </register>
       <register name="/" type="4">
-        <text>_INFO</text>
+        <text>REP_LIST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudCA9IG5ldyBUZXh0RmllbGRFbGVtZW50KG5hbWUsIHRydWUsIGZhbHNlLCBncm91cElkLAogICAgICAgICAgICAgICAgICAgIGdyb3VwVHlwZSwgdHlwZS5nZXRUb2tlbigpLCBsYXlvdXQsIG1lc3NhZ2VOYW1lLAogICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uLCBtZXNzYWdlVGFnLCBpbk1lc3NhZ2VXaGVuQmxhbmssICIiLAogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2VTZXF1ZW5jZSwgKHNob3J0KSAwLCBjc3ZHcm91cFNlcGFyYXRvciwKICAgICAgICAgICAgICAgICAgICBpdGVtU2VwYXJhdG9yLCBtZXNzYWdlVGFnU2VwYXJhdG9yLCAiIiwgMjAsCiAgICAgICAgICAgICAgICAgICAgdGV4dFRyYW5zZm9ybSwgdHJ1ZSwgMSwgMzUsIHRydWUsIGNvbXBvbmVudFR5cGUKICAgICAgICAgICAgICAgICAgICAuZ2V0VG9rZW4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sdW1ucy5hZGQobmV3IFRhYmxlRWxlbWVudENvbHVtbigiUGhvbmUiLCAiUGhvbmUiLCAxMDAsIDEpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQ2l2aWNJbmZvR3JvdXBDb21wb25lbnRUeXBlIFJFUFJFU0VOVEFUSVZFX09GRklDRSA9CiAgICAgICAgICAgIG5ldyBDaXZpY0luZm9Hcm91cENvbXBvbmVudFR5cGUoIlJlcHJlc2VudGF0aXZlIG9mZmljZSIsCiAgICAgICAgICAgICAgICAgICAgIlJlcHJlc2VudGF0aXZlIG9mZmljZSIsICJjdmNSTyIsCiAgICAgICAgICAgICAgICAgICAgZmFsc2UsICJPZmZpY2UiLCAiIiwgQ29tcG9uZW50VHlwZS5URVhUX0ZJRUxELCB0cnVlLAogICAgICAgICAgICAgICAgICAgIHRydWUsIDAsIGVtcHR5TGlzdCgpKTsKCg==</text>
@@ -3706,9 +3706,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_INFO</last-search>
+      <last-search>REP_LIST</last-search>
       <last-offset />
-      <last-pattern>_INFO</last-pattern>
+      <last-pattern>REP_LIST</last-pattern>
       <last-replace>CivicInfo</last-replace>
       <last-substitute>Address</last-substitute>
       <last-dir>1</last-dir>
@@ -3731,11 +3731,11 @@
         <entry>getOfficials</entry>
         <entry>civic</entry>
         <entry>select</entry>
-        <entry>REP_LIST</entry>
         <entry>officials</entry>
         <entry>office_</entry>
         <entry>office</entry>
         <entry>_INFO</entry>
+        <entry>REP_LIST</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JvbGUvbGV2ZWwvZw==</entry>
