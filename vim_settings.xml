@@ -361,8 +361,8 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AddressGroupComponentType.java" timestamp="1507218994037">
-        <mark key="'" line="167" column="37" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AddressGroupComponentType.java" timestamp="1507554924243">
+        <mark key="'" line="390" column="61" />
       </file>
       <file name="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" timestamp="1505939185547">
         <mark key="'" line="358" column="27" />
@@ -519,6 +519,9 @@
         <mark key="]" line="95" column="23" />
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CreditCardGroupComponentType.java" timestamp="1507555036951">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MDataSearchField.java" timestamp="1494272265486">
         <mark key="'" line="570" column="49" />
@@ -1158,11 +1161,12 @@
         <mark key="^" line="207" column="56" />
         <mark key="." line="207" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1507553220681">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1507555560032">
         <mark key="'" line="136" column="41" />
-        <mark key="[" line="215" column="58" />
-        <mark key="]" line="214" column="54" />
-        <mark key="." line="214" column="0" />
+        <mark key="[" line="219" column="52" />
+        <mark key="]" line="222" column="60" />
+        <mark key="." line="222" column="60" />
+        <mark key="^" line="222" column="60" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -1186,10 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="538" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
-      <jump line="544" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
-      <jump line="65" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
-      <jump line="12" column="53" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="133" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="176" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="314" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
@@ -1286,6 +1286,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="130" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="136" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="390" column="61" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AddressGroupComponentType.java" />
+      <jump line="42" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CreditCardGroupComponentType.java" />
+      <jump line="327" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CreditCardGroupComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CreditCardGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1321,7 +1325,7 @@
         <text>lifton</text>
       </register>
       <register name="/" type="4">
-        <text>REP_LIST</text>
+        <text>getNew</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2VsZWN0aW9uTGlzdEl0ZW0gaXRlbSA9IChTZWxlY3Rpb25MaXN0SXRlbSkgKChNQ29tYm9Cb3gpIGNoYW5nZWRDb21wb25lbnQpLmdldENvcmVWYWx1ZSgpOwo=</text>
@@ -3725,9 +3729,9 @@
       </register>
     </registers>
     <search>
-      <last-search>REP_LIST</last-search>
+      <last-search>getNew</last-search>
       <last-offset />
-      <last-pattern>REP_LIST</last-pattern>
+      <last-pattern>getNew</last-pattern>
       <last-replace>CivicInfo</last-replace>
       <last-substitute>Address</last-substitute>
       <last-dir>1</last-dir>
@@ -3735,9 +3739,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getNewElement</entry>
-        <entry>changeSupport</entry>
-        <entry>actionPerformed</entry>
         <entry>fire</entry>
         <entry>listen</entry>
         <entry>quarantined</entry>
@@ -3755,6 +3756,9 @@
         <entry>getFormatted</entry>
         <entry>table</entry>
         <entry>REP_LIST</entry>
+        <entry>getElement</entry>
+        <entry>COMBO</entry>
+        <entry>getNew</entry>
       </history-search>
       <history-cmd>
         <entry>102</entry>
