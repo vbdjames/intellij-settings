@@ -1016,6 +1016,9 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/TextLookupGroupComponentType.java" timestamp="1505699382190">
         <mark key="'" line="70" column="52" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/BookmarkSelectionGroupComponentType.java" timestamp="1507559184148">
+        <mark key="'" line="297" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/civicinfo/representativeInfoResponse.java" timestamp="1505488098403">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="13" />
@@ -1170,12 +1173,12 @@
         <mark key="^" line="207" column="56" />
         <mark key="." line="207" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1507557859074">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1507559739270">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="231" column="55" />
-        <mark key="." line="231" column="0" />
-        <mark key="^" line="224" column="61" />
+        <mark key="[" line="413" column="64" />
+        <mark key="]" line="415" column="11" />
+        <mark key="." line="415" column="11" />
+        <mark key="^" line="415" column="11" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TextPaneElement.java" timestamp="1489068051098">
         <mark key="'" line="64" column="22" />
@@ -1199,7 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8425" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/awt/Component.java" />
       <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/awt/Component.java" />
       <jump line="50" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/awt/Component.java" />
       <jump line="651" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/awt/Component.java" />
@@ -1299,6 +1301,7 @@
       <jump line="528" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="996" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="26" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
+      <jump line="297" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/BookmarkSelectionGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1327,11 +1330,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXBMaXN0LnJlcXVlc3RGb2N1c0luV2luZG93KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>lifton</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>combo</text>
@@ -3734,7 +3737,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXBMaXN0LnJlbW92ZUFsbCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3785,11 +3788,11 @@
         <entry>121</entry>
         <entry>242</entry>
         <entry>197</entry>
-        <entry>w</entry>
         <entry>241</entry>
         <entry>1266</entry>
         <entry>Q</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
