@@ -262,11 +262,11 @@
         <mark key="^" line="158" column="24" />
         <mark key="." line="158" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/design/DesignUtilities.java" timestamp="1506019865843">
-        <mark key="[" line="208" column="45" />
-        <mark key="]" line="211" column="29" />
-        <mark key="." line="211" column="29" />
-        <mark key="^" line="211" column="29" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/design/DesignUtilities.java" timestamp="1507751967467">
+        <mark key="[" line="212" column="62" />
+        <mark key="]" line="213" column="17" />
+        <mark key="." line="213" column="17" />
+        <mark key="^" line="213" column="17" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/MessageDeliveryMessageDetails.java" timestamp="1479220020118">
         <mark key="'" line="30" column="11" />
@@ -1363,8 +1363,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>reference</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyBtZXNzYWdlIGRlc2NyaWJpbmcgZXJyb3IgaW4gdGV4dCBwcm9wZXJ0eSBhc3NvY2lhdGVkIHdpdGggdGhlIAogICAgICogc3BlY2lmaWVkIDxjb2RlPkNvbXBvbmVudFByb3BlcnR5VHlwZTwvY29kZT4uCiAgICAgKiAKICAgICAqIEBwYXJhbSB0eXBlIENvbXBvbmVudFByb3BlcnR5VHlwZSByZXByZXNlbnRpbmcgdHlwZSBvZiBjb21wb25lbnQgcHJvcGVydHkKICAgICAqIEBwYXJhbSB0ZXh0IFN0cmluZyBjb250YWluaW5nIHZhbHVlIG9mIGNvbXBvbmVudCBwcm9wZXJ0eQogICAgICogQHBhcmFtIG1lc3NhZ2VOYW1lIFN0cmluZyBjb250YWluaW5nIG1lc3NhZ2UgbmFtZSBvZiBjb21wb25lbnQgdG8gd2hpY2ggCiAgICAgKiAgICAgICAgcHJvcGVydHkgYmVsb25ncwogICAgICogQHJldHVybiBTdHJpbmcgY29udGFpbmluZyBtZXNzYWdlIGRlc2NyaWJpbmcgZXJyb3IgaW4gdGV4dCBwcm9wZXJ0eSwgb3IgCiAgICAgKiAgICAgICAgIG51bGwgaWYgbm8gZXJyb3IKICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>reference</text>
@@ -1373,7 +1373,7 @@
         <text>civic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGxldmVsTmFtZSA9IHRoaXMubGV2ZWxfID09IG51bGwgPyAiIiA6IHRoaXMubGV2ZWxfLm5hbWUoKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyBtZXNzYWdlIGRlc2NyaWJpbmcgZXJyb3IgaW4gdGV4dCBwcm9wZXJ0eSBhc3NvY2lhdGVkIHdpdGggdGhlIAogICAgICogc3BlY2lmaWVkIDxjb2RlPkNvbXBvbmVudFByb3BlcnR5VHlwZTwvY29kZT4uCiAgICAgKiAKICAgICAqIEBwYXJhbSB0eXBlIENvbXBvbmVudFByb3BlcnR5VHlwZSByZXByZXNlbnRpbmcgdHlwZSBvZiBjb21wb25lbnQgcHJvcGVydHkKICAgICAqIEBwYXJhbSB0ZXh0IFN0cmluZyBjb250YWluaW5nIHZhbHVlIG9mIGNvbXBvbmVudCBwcm9wZXJ0eQogICAgICogQHBhcmFtIG1lc3NhZ2VOYW1lIFN0cmluZyBjb250YWluaW5nIG1lc3NhZ2UgbmFtZSBvZiBjb21wb25lbnQgdG8gd2hpY2ggCiAgICAgKiAgICAgICAgcHJvcGVydHkgYmVsb25ncwogICAgICogQHJldHVybiBTdHJpbmcgY29udGFpbmluZyBtZXNzYWdlIGRlc2NyaWJpbmcgZXJyb3IgaW4gdGV4dCBwcm9wZXJ0eSwgb3IgCiAgICAgKiAgICAgICAgIG51bGwgaWYgbm8gZXJyb3IKICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0dHRVIud2FybihyZXByZXNlbnRhdGl2ZUluZm9SZXNwb25zZV8uZ2V0RXJyb3JNZXNzYWdlKCkpOwo=</text>
@@ -3770,7 +3770,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5yZWZlcmVuY2UuUmVmZXJlbmNlU2VydmljZVV0aWxpdGllczsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -3823,9 +3823,9 @@
         <entry>1387</entry>
         <entry>2016</entry>
         <entry>5749</entry>
-        <entry>wq</entry>
         <entry>309</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
