@@ -978,12 +978,12 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" timestamp="1507818940415">
-        <mark key="'" line="133" column="23" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="145" column="13" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" timestamp="1507820973689">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="65" column="30" />
+        <mark key="." line="65" column="30" />
+        <mark key="^" line="65" column="30" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" timestamp="1489765883464">
         <mark key="'" line="145" column="16" />
@@ -1162,9 +1162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
-      <jump line="112" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
-      <jump line="159" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
       <jump line="115" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="187" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
       <jump line="534" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" />
@@ -1262,6 +1259,9 @@
       <jump line="2018" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceBean.java" />
       <jump line="242" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/ElementFactory.java" />
       <jump line="241" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" />
+      <jump line="133" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" />
+      <jump line="140" column="9" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1290,29 +1290,29 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>ciciv</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>getRepre</text>
+        <text>role</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogRGV0ZXJtaW5lcyB3aGV0aGVyIHRoaXMgYW5kIHRoZSBvYmplY3Qgc3BlY2lmaWVkIGhhdmUgaWRlbnRpY2FsIHZhbHVlcy4KICAgICAqCiAgICAgKiBAcGFyYW0gb2JqIE9iamVjdCBvYmplY3QgdG8gY29tcGFyZQogICAgICoKICAgICAqIEByZXR1cm4gdHJ1ZSBpZiBib3RoIDxjb2RlPkJ1dHRvbkVsZW1lbnQ8L2NvZGU+cyBoYXZlIGlkZW50aWNhbCB2YWx1ZXMsIGFuZCAKICAgICAqIGZhbHNlIGlmIG5vdAogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIExpc3Q8Q2l2aWNPZmZpY2lhbD4gZ2V0T2ZmaWNpYWxzKCkgewovLyAgICAgICAgcmV0dXJuIG9mZmljaWFsc187Ci8vICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETy1kd2oK</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBMaXN0PENpdmljT2ZmaWNpYWw+IG9mZmljaWFsc18gPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBsZXZlbAogICAgICogQHBhcmFtIHJvbGUKICAgICAqIEBwYXJhbSBzdGF0ZVdoaXRlbGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3679,39 +3679,38 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBuYW1lCiAgICAgKiBAcGFyYW0gZW5hYmxlZAogICAgICogQHBhcmFtIGhpZGRlbgogICAgICogQHBhcmFtIGdyb3VwSWQKICAgICAqIEBwYXJhbSBncm91cFR5cGUKICAgICAqIEBwYXJhbSBncm91cFJvbGUKICAgICAqIEBwYXJhbSBsYXlvdXQKICAgICAqIEBwYXJhbSBtZXNzYWdlTmFtZQogICAgICogQHBhcmFtIHRvb2xUaXAKICAgICAqIEBwYXJhbSBsYWJlbAogICAgICogQHBhcmFtIGNvbXBvbmVudFR5cGUK</text>
+        <text encoding="base64">Ly9pbXBvcnQgamF2YS51dGlsLkxpc3Q7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKi8KICAgIC8qKgo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgamF2YS51dGlsLkFycmF5TGlzdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLm1hcGNvbW11bmljYXRpb25zLmNpdmljaW5mby5DaXZpY09mZmljaWFsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIAogICAgICogQHBhcmFtIHhtbEVsZW1lbnQKICAgICAqIEByZXR1cm4KICAgICAqIEB0aHJvd3MgRm9ybUVsZW1lbnRFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFJvbGUoQ2l2aWNJbmZvUm9sZSByb2xlKSB7CiAgICAgICAgcm9sZV8gPSByb2xlOwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgIC8vVE9ETy1kd2oK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getRepre</last-search>
+      <last-search>role</last-search>
       <last-offset />
-      <last-pattern>getRepre</last-pattern>
-      <last-replace>CivicInfo</last-replace>
-      <last-substitute>Address</last-substitute>
+      <last-pattern>role</last-pattern>
+      <last-replace>level</last-replace>
+      <last-substitute>role</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setRole</entry>
         <entry>getSelectPr</entry>
         <entry>civicinfo</entry>
         <entry>got new</entry>
@@ -3731,9 +3730,9 @@
         <entry>===</entry>
         <entry>@version</entry>
         <entry>getRepre</entry>
+        <entry>role</entry>
       </history-search>
       <history-cmd>
-        <entry>355</entry>
         <entry>121</entry>
         <entry>242</entry>
         <entry>241</entry>
@@ -3752,6 +3751,7 @@
         <entry>197</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL3JvbGUvbGV2ZWwvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
