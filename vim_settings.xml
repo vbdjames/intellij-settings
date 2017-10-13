@@ -1207,12 +1207,12 @@
         <mark key="." line="169" column="7" />
         <mark key="^" line="169" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1507899696360">
-        <mark key="'" line="368" column="8" />
-        <mark key="[" line="384" column="49" />
-        <mark key="]" line="384" column="44" />
-        <mark key="." line="384" column="44" />
-        <mark key="^" line="384" column="44" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1507901349651">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="325" column="150" />
+        <mark key="]" line="327" column="47" />
+        <mark key="." line="327" column="47" />
+        <mark key="^" line="327" column="47" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/civicinfo/CivicInfoRole.java" timestamp="1507839896872">
         <mark key="[" line="14" column="35" />
@@ -1251,9 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1385" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
-      <jump line="1415" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
-      <jump line="262" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MCivicInfoButton.java" />
       <jump line="292" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MButton.java" />
       <jump line="30" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="340" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
@@ -1351,6 +1348,9 @@
       <jump line="1133" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="63" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="368" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="377" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="434" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1379,29 +1379,29 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5mb3JtLlRleHRQYW5lRWxlbWVudDsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>TextPane</text>
+        <text>Element</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyB0aGUgc3BlY2lmaWVkIHJlcHJlc2VudGF0aXZlIGluZm9ybWF0aW9uLgogICAgICoKICAgICAqIEBwYXJhbSBhZGRyZXNzIHN0cmVldCBhZGRyZXNzIHRvIGxvb2sgdXAgdGhlIHByb3BlciByZXByZXNlbnRhdGl2ZQogICAgICogQHBhcmFtIGxldmVsIGxldmVsIG9mIGdvdmVybm1lbnQKICAgICAqIEBwYXJhbSByb2xlIHJlcHJlc2VudGF0aXZlIHJvbGUKICAgICAqIEByZXR1cm4gUmVwcmVzZW50YXRpdmVJbmZvUmVzcG9uc2UgY29udGFpbmluZyByZXByZXNlbnRhdGl2ZSBpbmZvCiAgICAgKiBAdGhyb3dzIE5vdFBlcmZvcm1lZEV4Y2VwdGlvbiB3aGVuIGNpdmljIGluZm8gc2VydmljZSBjYW5ub3QgcGVyZm9ybQogICAgICogdGhlIG9wZXJhdGlvbgogICAgICogQHRocm93cyBSZW1vdGVFeGNlcHRpb24gaWYgYW55IFJNSSBjb21tdW5pY2F0aW9uIGVycm9yIG9jY3VycwogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudCA9IG5ldyBUZXh0UGFuZUVsZW1lbnQobmFtZSwgZmFsc2UsIGZhbHNlLCBncm91cElkLCAKICAgICAgICAgICAgICAgIGdyb3VwVHlwZSwgdHlwZS5nZXRUb2tlbigpLCBsYXlvdXQsIG1lc3NhZ2VOYW1lLCBkZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIG1lc3NhZ2VUYWcpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5mb3JtLlRleHRQYW5lRWxlbWVudDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UuZ2V0T2ZmaWNpYWxzKCkuc2l6ZSgpICsgIiBvZmZpY2lhbHMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudCA9IG5ldyBUZXh0UGFuZUVsZW1lbnQobmFtZSwgZmFsc2UsIGZhbHNlLCBncm91cElkLCAKICAgICAgICAgICAgICAgIGdyb3VwVHlwZSwgdHlwZS5nZXRUb2tlbigpLCBsYXlvdXQsIG1lc3NhZ2VOYW1lLCBkZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIG1lc3NhZ2VUYWcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdvdCByZXNwb25zZSB3aXRoICIgKwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UuZ2V0T2ZmaWNpYWxzKCkuc2l6ZSgpICsgIiBvZmZpY2lhbHMiKTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3768,31 +3768,31 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJidXR0b24gY2hhbmdlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdvdCByZXNwb25zZSB3aXRoICIgKwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNldCBncm91cCBzdGF0ZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJidXR0b24gY2hhbmdlZCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIHNldHRpbmc6ICIgKyBvZmZpY2lhbHNfLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNldCBncm91cCBzdGF0ZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdGVkT2ZmaWNpYWxfID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIHNldHRpbmc6ICIgKyBvZmZpY2lhbHNfLnNpemUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIGNsZWFyOiAiICsgb2ZmaWNpYWxzXy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdGVkT2ZmaWNpYWxfID0gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9mZmljaWFsc18uY2xlYXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIGNsZWFyOiAiICsgb2ZmaWNpYWxzXy5zaXplKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TextPane</last-search>
+      <last-search>Element</last-search>
       <last-offset />
-      <last-pattern>TextPane</last-pattern>
+      <last-pattern>Element</last-pattern>
       <last-replace>level</last-replace>
       <last-substitute>role</last-substitute>
       <last-dir>1</last-dir>
@@ -3800,8 +3800,6 @@
     </search>
     <history>
       <history-search>
-        <entry>removeHtmlTa</entry>
-        <entry>toolTip</entry>
         <entry encoding="base64">ZXhwbGFpbiA=</entry>
         <entry>civic</entry>
         <entry>map-core-lib</entry>
@@ -3820,6 +3818,8 @@
         <entry>getNewEle</entry>
         <entry>TextPanelE</entry>
         <entry>TextPane</entry>
+        <entry>getElement</entry>
+        <entry>Element</entry>
       </history-search>
       <history-cmd>
         <entry>156</entry>
