@@ -1209,8 +1209,12 @@
         <mark key="." line="169" column="7" />
         <mark key="^" line="169" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1507922913431">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1507927786216">
+        <mark key="'" line="487" column="7" />
+        <mark key="[" line="503" column="67" />
+        <mark key="]" line="594" column="15" />
+        <mark key="." line="594" column="15" />
+        <mark key="^" line="594" column="15" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/civicinfo/CivicInfoRole.java" timestamp="1507906269102">
         <mark key="[" line="20" column="0" />
@@ -1249,8 +1253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="431" column="41" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="971" column="59" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="973" column="26" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="976" column="28" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="1555" column="21" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -1342,13 +1344,15 @@
       <jump line="134" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="277" column="53" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="400" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="428" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="528" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="138" column="57" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="44" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="287" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="226" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="428" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="426" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="481" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1378,28 +1382,28 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU2VsZWN0aW9uTGlzdEl0ZW0gTk9SRVBSRVNFTlRBVElWRSA9IAogICAgICAgIG5ldyBTZWxlY3Rpb25MaXN0SXRlbShDbGllbnRDb25zdGFudC5DT01CT0JPWF9TVEFOREFSRF9JVEVNX05BTUUsIAogICAgICAgICAgICAibm9yZXByZXNlbnRhdGl2ZSIsIGZhbHNlKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbWJvQm94LmdldE1vZGVsKCkuCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">T25saW5lIFRyYWRpbmcgQWNhZGVteSA=</text>
       </register>
       <register name="/" type="4">
-        <text>clearRep</text>
+        <text>norepre</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwTGlzdC5hZGRJdGVtKG5ldyBTZWxlY3Rpb25MaXN0SXRlbQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKENsaWVudENvbnN0YW50LkNPTUJPQk9YX1NUQU5EQVJEX0lURU1fTkFNRSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibm9yZXByZXNlbnRhdGl2ZSIsIGZhbHNlKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>repList.getModel().getSize()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU2VsZWN0aW9uTGlzdEl0ZW0gTk9SRVBSRVNFTlRBVElWRSA9IAogICAgICAgIG5ldyBTZWxlY3Rpb25MaXN0SXRlbShDbGllbnRDb25zdGFudC5DT01CT0JPWF9TVEFOREFSRF9JVEVNX05BTUUsIAogICAgICAgICAgICAibm9yZXByZXNlbnRhdGl2ZSIsIGZhbHNlKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbWJvQm94LmdldE1vZGVsKCkuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhciA9IGZvby4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbWJvQm94LnJlbW92ZUFsbEl0ZW1zKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1Db21ib0JveCBmb28gPSAoTUNvbWJvQm94KSBncm91cGFibGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXBMaXN0LnNldFNlbGVjdGVkSW5kZXgoMSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3766,31 +3770,31 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRvbid0IHJlbW92ZSB0aGUgMHRoIGl0ZW0hCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwTGlzdC5zZXRTZWxlY3RlZEluZGV4KDEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICByZXBMaXN0LmFkZEl0ZW0obmV3IFNlbGVjdGlvbkxpc3RJdGVtCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIChDbGllbnRDb25zdGFudC5DT01CT0JPWF9TVEFOREFSRF9JVEVNX05BTUUsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibm9yZXByZXNlbnRhdGl2ZSIsIGZhbHNlKSk7CgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwTGlzdC5hZGRJdGVtKG5ldyBTZWxlY3Rpb25MaXN0SXRlbShvZmZpY2lhbHNfLmdldAogICAgICAgICAgICAgICAgICAgICAgICAgICAgKDApLmdldEZvcm1hdHRlZE5hbWUoKSwgb2ZmaWNpYWxzXy5nZXQoMCkpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChDaXZpY09mZmljaWFsIG8gOiBvZmZpY2lhbHNfKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXBMaXN0LmFkZEl0ZW0obmV3IFNlbGVjdGlvbkxpc3RJdGVtKG8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0Rm9ybWF0dGVkTmFtZSgpLCBvLCB0cnVlKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSByZXBMaXN0LmdldE1vZGVsKCkuZ2V0U2l6ZSgpOyBpID4gMTsgaS0tKSB7CiAgICAgICAgICAgICAgICAgICAgcmVwTGlzdC5yZW1vdmUoaSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcExpc3QucmVtb3ZlQWxsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>clearRep</last-search>
+      <last-search>norepre</last-search>
       <last-offset />
-      <last-pattern>clearRep</last-pattern>
+      <last-pattern>norepre</last-pattern>
       <last-replace>level</last-replace>
       <last-substitute>role</last-substitute>
       <last-dir>1</last-dir>
@@ -3798,7 +3802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getRepre</entry>
         <entry>clearOff</entry>
         <entry>system.out</entry>
         <entry>TEXT_</entry>
@@ -3818,6 +3821,7 @@
         <entry>getEleme</entry>
         <entry>getNewE</entry>
         <entry>clearRep</entry>
+        <entry>norepre</entry>
       </history-search>
       <history-cmd>
         <entry>156</entry>
@@ -3838,8 +3842,8 @@
         <entry>344</entry>
         <entry>383</entry>
         <entry>118</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
