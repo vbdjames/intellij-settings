@@ -1182,11 +1182,12 @@
         <mark key="." line="169" column="7" />
         <mark key="^" line="169" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1508160096169">
-        <mark key="[" line="124" column="75" />
-        <mark key="]" line="125" column="15" />
-        <mark key="^" line="125" column="15" />
-        <mark key="." line="125" column="15" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" timestamp="1508164241211">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="325" column="71" />
+        <mark key="]" line="326" column="29" />
+        <mark key="^" line="326" column="29" />
+        <mark key="." line="326" column="29" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/civicinfo/CivicInfoRole.java" timestamp="1507906269102">
         <mark key="[" line="20" column="0" />
@@ -1228,7 +1229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="513" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="517" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="519" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="597" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
@@ -1274,7 +1274,6 @@
       <jump line="426" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="481" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="594" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="33" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OnCallDispatchGroupComponentType.java" />
       <jump line="155" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OnCallDispatchGroupComponentType.java" />
       <jump line="194" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OnCallDispatchGroupComponentType.java" />
@@ -1328,6 +1327,8 @@
       <jump line="421" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="546" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
       <jump line="3729" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="334" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1363,7 +1364,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>addComponentActions</text>
+        <text>getNewEle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZWxlbWVudC5nZXRHcm91cElkKCkgIT0gbnVsbCkgewogICAgICAgICAgICBvdGFnY1R5cGUgPSBPdGFHcm91cENvbXBvbmVudFR5cGUuZ2V0VHlwZShlbGVtZW50LmdldEdyb3VwUm9sZSgpKTsKICAgICAgICB9Cg==</text>
@@ -3763,13 +3764,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>addComponentActions</last-search>
+      <last-search>getNewEle</last-search>
       <last-offset />
-      <last-pattern>addComponentActions</last-pattern>
+      <last-pattern>getNewEle</last-pattern>
       <last-replace>level</last-replace>
       <last-substitute>role</last-substitute>
       <last-dir>1</last-dir>
@@ -3777,8 +3778,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clearOfficials</entry>
-        <entry>clear</entry>
         <entry>REP_LIST</entry>
         <entry>NOREPRESE</entry>
         <entry>getEleme</entry>
@@ -3797,9 +3796,10 @@
         <entry>addComponentMenu</entry>
         <entry>addComponentMenuItems</entry>
         <entry>addComponentActions</entry>
+        <entry>getNewCom</entry>
+        <entry>getNewEle</entry>
       </history-search>
       <history-cmd>
-        <entry>1836</entry>
         <entry>1387</entry>
         <entry>2016</entry>
         <entry>5749</entry>
@@ -3816,9 +3816,10 @@
         <entry>383</entry>
         <entry>118</entry>
         <entry>59</entry>
-        <entry>wq</entry>
         <entry>145</entry>
         <entry>w</entry>
+        <entry>305</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
