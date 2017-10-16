@@ -67,8 +67,8 @@
         <mark key="^" line="224" column="25" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" timestamp="1507811500359">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" timestamp="1508162356246">
+        <mark key="'" line="3729" column="13" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/hsqldb-poc/src/main/resources/META-INF/persistence.xml" timestamp="1482349382894">
         <mark key="'" line="0" column="0" />
@@ -1020,11 +1020,12 @@
         <mark key="^" line="27" column="17" />
         <mark key="." line="426" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" timestamp="1508158888753">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" timestamp="1508162668278">
         <mark key="'" line="50" column="13" />
-        <mark key="[" line="604" column="0" />
-        <mark key="]" line="604" column="0" />
-        <mark key="." line="604" column="0" />
+        <mark key="[" line="1465" column="30" />
+        <mark key="]" line="1418" column="61" />
+        <mark key="." line="1418" column="61" />
+        <mark key="^" line="1418" column="61" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/TextLookupGroupComponentType.java" timestamp="1508158292152">
         <mark key="'" line="51" column="14" />
@@ -1227,17 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="179" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CivicInfoButtonElement.java" />
-      <jump line="161" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="163" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="141" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="181" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="106" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="114" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="1225" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="513" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="517" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
       <jump line="519" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/property/ComponentType.java" />
@@ -1327,6 +1317,17 @@
       <jump line="239" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
       <jump line="361" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
+      <jump line="138" column="67" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="11303" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="8" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="8126" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="8321" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="8123" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="421" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="546" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
+      <jump line="3729" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/BasicFormEditorPanel.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1362,7 +1363,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>GET_SEMIN</text>
+        <text>addComponentActions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZWxlbWVudC5nZXRHcm91cElkKCkgIT0gbnVsbCkgewogICAgICAgICAgICBvdGFnY1R5cGUgPSBPdGFHcm91cENvbXBvbmVudFR5cGUuZ2V0VHlwZShlbGVtZW50LmdldEdyb3VwUm9sZSgpKTsKICAgICAgICB9Cg==</text>
@@ -3766,9 +3767,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GET_SEMIN</last-search>
+      <last-search>addComponentActions</last-search>
       <last-offset />
-      <last-pattern>GET_SEMIN</last-pattern>
+      <last-pattern>addComponentActions</last-pattern>
       <last-replace>level</last-replace>
       <last-substitute>role</last-substitute>
       <last-dir>1</last-dir>
@@ -3776,10 +3777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getList</entry>
-        <entry>getType</entry>
-        <entry>setCities</entry>
-        <entry>make</entry>
         <entry>clearOfficials</entry>
         <entry>clear</entry>
         <entry>REP_LIST</entry>
@@ -3796,9 +3793,12 @@
         <entry>isProperty</entry>
         <entry>GET_SEMINARS</entry>
         <entry>GET_SEMIN</entry>
+        <entry>addComponent</entry>
+        <entry>addComponentMenu</entry>
+        <entry>addComponentMenuItems</entry>
+        <entry>addComponentActions</entry>
       </history-search>
       <history-cmd>
-        <entry>265</entry>
         <entry>1836</entry>
         <entry>1387</entry>
         <entry>2016</entry>
@@ -3817,6 +3817,7 @@
         <entry>118</entry>
         <entry>59</entry>
         <entry>wq</entry>
+        <entry>145</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
