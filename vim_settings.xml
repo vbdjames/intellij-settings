@@ -37,12 +37,12 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" timestamp="1508175581228">
-        <mark key="'" line="390" column="0" />
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="13" />
-        <mark key="." line="29" column="13" />
-        <mark key="^" line="29" column="13" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" timestamp="1508269121881">
+        <mark key="'" line="298" column="47" />
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="12" />
+        <mark key="." line="71" column="12" />
+        <mark key="^" line="71" column="12" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/DataSearchFieldElement.java" timestamp="1488230316977">
         <mark key="'" line="212" column="20" />
@@ -1219,11 +1219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="689" column="66" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/AddressGroupComponentType.java" />
-      <jump line="804" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
-      <jump line="558" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
-      <jump line="1198" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/OtaGroupComponentType.java" />
-      <jump line="133" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="396" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="423" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
       <jump line="89" column="52" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/CivicInfoGroupComponentType.java" />
@@ -1319,6 +1314,11 @@
       <jump line="210" column="91" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
       <jump line="770" column="15" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
+      <jump line="29" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
+      <jump line="77" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
+      <jump line="292" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
+      <jump line="294" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
+      <jump line="298" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/MComponentFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1354,7 +1354,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>CIVIC</text>
+        <text>MCivic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QUxURVIgVEFCTEUgRUNITy5GT1JNX1VSTF9CVVRUT04gQUREIENPTlNUUkFJTlQgRk9STV9CVVRUT05fRk9STV9VUkxfQlVUVE9OX0ZLCkZPUkVJR04gS0VZIChFTEVNRU5UX0lEKQpSRUZFUkVOQ0VTIEVDSE8uRk9STV9CVVRUT04gKEVMRU1FTlRfSUQpCk5PVCBERUZFUlJBQkxFOwo=</text>
@@ -3758,9 +3758,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CIVIC</last-search>
+      <last-search>MCivic</last-search>
       <last-offset />
-      <last-pattern>CIVIC</last-pattern>
+      <last-pattern>MCivic</last-pattern>
       <last-replace>level</last-replace>
       <last-substitute>role</last-substitute>
       <last-dir>1</last-dir>
@@ -3768,7 +3768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isComp</entry>
         <entry>fixed</entry>
         <entry>isProperty</entry>
         <entry>GET_SEMINARS</entry>
@@ -3788,6 +3787,7 @@
         <entry>isPlay</entry>
         <entry>URL_BUTTON</entry>
         <entry>CIVIC</entry>
+        <entry>MCivic</entry>
       </history-search>
       <history-cmd>
         <entry>309</entry>
