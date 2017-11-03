@@ -986,12 +986,12 @@
         <mark key="^" line="52" column="86" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1509655863865">
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1509711826278">
         <mark key="'" line="283" column="29" />
-        <mark key="[" line="272" column="19" />
-        <mark key="]" line="274" column="0" />
-        <mark key="^" line="273" column="19" />
-        <mark key="." line="274" column="0" />
+        <mark key="[" line="48" column="42" />
+        <mark key="]" line="48" column="42" />
+        <mark key="^" line="48" column="46" />
+        <mark key="." line="48" column="42" />
       </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/goosgbt/src/main/java/com/vbdjames/goosgbt/Main.java" timestamp="1481149969334">
         <mark key="'" line="58" column="0" />
@@ -1481,11 +1481,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGRvZXMgZW1iZWRkZWQgbGF5b3V0IHdvcmsK</text>
+      <register name="&quot;" type="4">
+        <text>form</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>form</text>
       </register>
       <register name="/" type="4">
         <text>Icon</text>
@@ -1494,16 +1494,16 @@
         <text encoding="base64">ICAgICAgICBFbGVtZW50IGUxID0gbmV3IEljb25FbGVtZW50QnVpbGRlcigpLndpdGhOYW1lKCJlbDEiKS5idWlsZCgpOwogICAgICAgIEN1c3RvbUZvcm0gZm9ybSA9IG5ldyBDdXN0b21Gb3JtQnVpbGRlcigpLndpdGhFbGVtZW50KGUxKS5idWlsZCgpOwogICAgICAgIEN1c3RvbUZvcm0gc2F2ZWQgPSBzYXZlQ3VzdG9tRm9ybShmb3JtKTsKCiAgICAgICAgQ3VzdG9tRm9ybSBmb3VuZCA9IGN1c3RvbUZvcm1EYW9fLmZpbmRCeUlkKG1hbmFnZXJfLCBzYXZlZC5nZXRJZCgpKTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKChJY29uRWxlbWVudCkgZ2V0RWxlbWVudE5hbWVkKHNhdmVkLCAiZWwxIiksCiAgICAgICAgICAgIChJY29uRWxlbWVudCkgZ2V0RWxlbWVudE5hbWVkKGZvdW5kLCAiZWwxIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGRvZXMgZW1iZWRkZWQgbGF5b3V0IHdvcmsK</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKS5idWlsZCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHNhdmUgd2l0aG91dCBpZAo=</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKQogICAgICAgICAgICAud2l0aElkKGlkKQogICAgICAgICAgICAuYnVpbGQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHNhdmUgd2l0aCBpZAo=</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKS5idWlsZCgpOwoK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3870,22 +3870,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGVxdWFscwo=</text>
+        <text encoding="base64">ICAgIC8vIGRvZXMgZW1iZWRkZWQgbGF5b3V0IHdvcmsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJY29uRWxlbWVudEJ1aWxkZXIgd2l0aElkKExvbmcgaWQpIHsKICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8vIHNhdmUgd2l0aG91dCBpZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHNhdmUgd2l0aCBpZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHNhdmVkRWxlbWVudC5lcXVhbHMoZm91bmRFbGVtZW50KSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGVxdWFscwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJY29uRWxlbWVudEJ1aWxkZXIgd2l0aElkKExvbmcgaWQpIHsKICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0RWxlbWVudE5hbWVkKGZvdW5kLCAiZWwxIikpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
