@@ -427,9 +427,9 @@
         <mark key="." line="34" column="21" />
         <mark key="^" line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/ElementBuilder.java" timestamp="1509655706078">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="14" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/ElementBuilder.java" timestamp="1509723519093">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="21" column="5" />
         <mark key="^" line="28" column="12" />
         <mark key="." line="28" column="14" />
       </file>
@@ -986,12 +986,12 @@
         <mark key="^" line="52" column="86" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1509716468558">
-        <mark key="'" line="283" column="29" />
-        <mark key="[" line="280" column="16" />
-        <mark key="]" line="280" column="17" />
-        <mark key="^" line="226" column="8" />
-        <mark key="." line="280" column="17" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1509723802279">
+        <mark key="'" line="136" column="51" />
+        <mark key="[" line="408" column="32" />
+        <mark key="]" line="408" column="32" />
+        <mark key="^" line="408" column="7" />
+        <mark key="." line="408" column="32" />
       </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/goosgbt/src/main/java/com/vbdjames/goosgbt/Main.java" timestamp="1481149969334">
         <mark key="'" line="58" column="0" />
@@ -1278,6 +1278,12 @@
         <mark key="^" line="198" column="42" />
         <mark key="." line="198" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/ElementBuilder2.java" timestamp="1509723784819">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/FormToXmlConverter.java" timestamp="1507818245407">
         <mark key="'" line="242" column="48" />
         <mark key="[" line="16" column="25" />
@@ -1302,11 +1308,11 @@
         <mark key="^" line="368" column="22" />
         <mark key="." line="368" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/IconElementBuilder.java" timestamp="1509655686198">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/IconElementBuilder.java" timestamp="1509723614583">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/civicinfo/CivicInfoRole.java" timestamp="1507906269102">
         <mark key="[" line="20" column="0" />
@@ -1353,8 +1359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11423" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
       <jump line="53" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
       <jump line="76" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
       <jump line="4109" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceitem/ServiceItemServiceBean.java" />
@@ -1453,6 +1457,8 @@
       <jump line="45" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/Element.java" />
       <jump line="283" column="29" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="36" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="136" column="51" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1482,28 +1488,28 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>Icon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0Rm9ybV8uYWRkRWxlbWVudChuZXcgSWNvbkVsZW1lbnRCdWlsZGVyKCkuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBFbGVtZW50QnVpbGRlcjIgd2l0aElkKExvbmcgaWQpIHsKICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKQogICAgICAgICAgICAud2l0aEVsZW1lbnQoZTEpCiAgICAgICAgICAgIC53aXRoRWxlbWVudChlMikKICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndpdGhFbGVtZW50KG5ldyBJY29uRWxlbWVudEJ1aWxkZXIoKS5idWlsZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3870,22 +3876,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKQogICAgICAgICAgICAud2l0aEVsZW1lbnQoZTEpCiAgICAgICAgICAgIC53aXRoRWxlbWVudChlMikKICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhFbGVtZW50KG5ldyBJY29uRWxlbWVudEJ1aWxkZXIoKS5idWlsZCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0Rm9ybV8K</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKQogICAgICAgICAgICAud2l0aEVsZW1lbnQobmV3IEljb25FbGVtZW50QnVpbGRlcigpLmJ1aWxkKCkpCiAgICAgICAgICAgIC53aXRoRWxlbWVudChuZXcgSWNvbkVsZW1lbnRCdWlsZGVyKCkuYnVpbGQoKSkKICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21Gb3JtIGZvcm0gPSBuZXcgQ3VzdG9tRm9ybUJ1aWxkZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
