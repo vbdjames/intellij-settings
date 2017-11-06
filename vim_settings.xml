@@ -397,12 +397,12 @@
         <mark key="^" line="28" column="55" />
         <mark key="." line="28" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/TableElementColumn.java" timestamp="1509546025252">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/TableElementColumn.java" timestamp="1509998138434">
         <mark key="'" line="86" column="39" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="32" column="23" />
-        <mark key="^" line="40" column="43" />
-        <mark key="." line="40" column="43" />
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="42" />
+        <mark key="^" line="38" column="42" />
+        <mark key="." line="38" column="42" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/form/TableElement.java" timestamp="1489067642720">
         <mark key="'" line="47" column="72" />
@@ -437,12 +437,12 @@
         <mark key="^" line="28" column="12" />
         <mark key="." line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/testing/META-INF/persistence.xml" timestamp="1509984909005">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="10" column="62" />
-        <mark key="]" line="10" column="46" />
-        <mark key="." line="10" column="46" />
-        <mark key="^" line="10" column="46" />
+      <file name="$USER_HOME$/Code/echo/resource/internal/testing/META-INF/persistence.xml" timestamp="1509998165986">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="14" column="59" />
+        <mark key="." line="14" column="59" />
+        <mark key="^" line="14" column="59" />
       </file>
       <file name="$USER_HOME$/Code/djames@prod1git.internal/echo/src/java/com/mapcommunications/call/CallServiceProxy.java" timestamp="1479220485609">
         <mark key="'" line="98" column="32" />
@@ -692,15 +692,16 @@
         <mark key="." line="48" column="25" />
         <mark key="^" line="48" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1509984661543">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" timestamp="1509998106272">
+        <mark key="'" line="47" column="36" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="567" column="9" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/TableElementDatum.java" timestamp="1509546067273">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/TableElementDatum.java" timestamp="1509998178051">
         <mark key="'" line="236" column="0" />
-        <mark key="[" line="21" column="31" />
+        <mark key="[" line="40" column="14" />
         <mark key="]" line="32" column="24" />
         <mark key="^" line="23" column="13" />
         <mark key="." line="26" column="0" />
@@ -1348,11 +1349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1023" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1105" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1188" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1279" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1364" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="182" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="275" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/UserAccountService.java" />
@@ -1448,6 +1444,11 @@
       <jump line="467" column="18" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="471" column="23" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="270" column="37" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="101" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="472" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="46" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
+      <jump line="47" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1476,17 +1477,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Icon</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLmZvcm0uVGFibGVFbGVtZW50PC9jbGFzcz4K</text>
       </register>
       <register name="-" type="4">
         <text>Icon</text>
       </register>
       <register name="/" type="4">
-        <text>Icon</text>
+        <text>TableElementColumn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QEVudGl0eQpAVGFibGUobmFtZSA9ICJ0ZXN0X2VsZW1lbnQiKQpAUHJpbWFyeUtleUpvaW5Db2x1bW4obmFtZSA9ICJlbGVtZW50X2lkIikKcHVibGljIGNsYXNzIFRlc3RFbGVtZW50IGV4dGVuZHMgRWxlbWVudCB7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSAtNDk2Nzg2NTM2MjI4MDMxNTk4Nkw7CgogICAgcHJvdGVjdGVkIFRlc3RFbGVtZW50KCkgewogICAgICAgIHRoaXMobnVsbCwgbnVsbCwgdHJ1ZSwgZmFsc2UsIG51bGwsIG51bGwsIG51bGwsIG51bGwpOwogICAgfQogICAgcHVibGljIFRlc3RFbGVtZW50KExvbmcgaWQsIFN0cmluZyBuYW1lLCBib29sZWFuIGVuYWJsZWQsIGJvb2xlYW4gaGlkZGVuLAogICAgICAgIExvbmcgZ3JvdXBJZCwgU3RyaW5nIGdyb3VwVHlwZSwgU3RyaW5nIGdyb3VwUm9sZSwgRWxlbWVudExheW91dAogICAgICAgIGxheW91dCkgewogICAgICAgIHN1cGVyKGlkLCBuYW1lLCBlbmFibGVkLCBoaWRkZW4sIGdyb3VwSWQsIGdyb3VwVHlwZSwgZ3JvdXBSb2xlLCBsYXlvdXQpOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLmZvcm0uVGFibGVFbGVtZW50PC9jbGFzcz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
@@ -3887,9 +3888,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Icon</last-search>
+      <last-search>TableElementColumn</last-search>
       <last-offset />
-      <last-pattern>Icon</last-pattern>
+      <last-pattern>TableElementColumn</last-pattern>
       <last-replace>TestE</last-replace>
       <last-substitute>IconE</last-substitute>
       <last-dir>1</last-dir>
@@ -3897,7 +3898,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sched</entry>
         <entry>schedserv</entry>
         <entry>echo_entity_attachment</entry>
         <entry>isFormEntityCurrentlyAttached</entry>
@@ -3917,6 +3917,7 @@
         <entry>form.</entry>
         <entry>IconE</entry>
         <entry>Icon</entry>
+        <entry>TableElementColumn</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
