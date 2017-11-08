@@ -308,11 +308,10 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.copy.xml" timestamp="1510155394964">
-        <mark key="'" line="375" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.copy.xml" timestamp="1510156869658">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/design/DesignUtilities.java" timestamp="1507821934538">
         <mark key="'" line="52" column="22" />
@@ -448,9 +447,9 @@
         <mark key="^" line="28" column="12" />
         <mark key="." line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/testing/META-INF/persistence.xml" timestamp="1510151190615">
+      <file name="$USER_HOME$/Code/echo/resource/internal/testing/META-INF/persistence.xml" timestamp="1510156732308">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="21" column="58" />
+        <mark key="[" line="21" column="75" />
         <mark key="]" line="21" column="66" />
         <mark key="." line="21" column="66" />
         <mark key="^" line="21" column="66" />
@@ -989,11 +988,12 @@
         <mark key="^" line="52" column="86" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1510155937284">
-        <mark key="'" line="88" column="7" />
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
-        <mark key="." line="307" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1510156805966">
+        <mark key="'" line="311" column="29" />
+        <mark key="[" line="641" column="34" />
+        <mark key="]" line="29" column="34" />
+        <mark key="^" line="29" column="34" />
+        <mark key="." line="29" column="34" />
       </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/goosgbt/src/main/java/com/vbdjames/goosgbt/Main.java" timestamp="1481149969334">
         <mark key="'" line="58" column="0" />
@@ -1360,11 +1360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="52" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="902" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="59" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="23" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/Element.java" />
-      <jump line="290" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/Element.java" />
       <jump line="26" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/Element.java" />
       <jump line="15" column="10" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/ElementLayout.java" />
       <jump line="207" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/ElementLayout.java" />
@@ -1460,6 +1455,11 @@
       <jump line="88" column="7" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="392" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.copy.xml" />
       <jump line="147" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/UrlButtonElement.java" />
+      <jump line="433" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="29" column="35" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="310" column="20" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="311" column="29" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.copy.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1489,28 +1489,28 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT2RkT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ACg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>equals</text>
+        <text>civic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QFByaW1hcnlLZXlKb2luQ29sdW1uKG5hbWUgPSAiZWxlbWVudF9pZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT2RkT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ACg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxqb2luZWQtc3ViY2xhc3MgbmFtZT0iVXJsQnV0dG9uRWxlbWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgdGFibGU9IkZPUk1fVVJMX0JVVFRPTiI+CiAgICAgICAgICAgICAgICAgICAgPGtleSBjb2x1bW49IkVMRU1FTlRfSUQiLz4KICAgICAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0idXJsQWRkcmVzcyIgY29sdW1uPSJVUkxfQUREUkVTUyIKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0ic3RyaW5nIiBsZW5ndGg9IjI1NSIgbm90LW51bGw9InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgIHVuaXF1ZT0iZmFsc2UiLz4KICAgICAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iaW52b2NhdGlvbk1ldGhvZCIgY29sdW1uPSJJTlZPQ0FUSU9OX01FVEhPRCIKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0ic3RyaW5nIiBsZW5ndGg9IjEwIiBub3QtbnVsbD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgdW5pcXVlPSJmYWxzZSIvPgogICAgICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJwb3N0VG9VcmwiIGNvbHVtbj0iUE9TVF9UT19VUkwiCiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9ImJvb2xlYW4iIG5vdC1udWxsPSJ0cnVlIiB1bmlxdWU9ImZhbHNlIi8+CiAgICAgICAgICAgICAgICAgICAgPGxpc3QgbmFtZT0idXJsUGFyYW1ldGVycyIgY2FzY2FkZT0iYWxsLWRlbGV0ZS1vcnBoYW4iPgogICAgICAgICAgICAgICAgICAgICAgICA8a2V5IGNvbHVtbj0iRUxFTUVOVF9JRCIgbm90LW51bGw9InRydWUiLz4KICAgICAgICAgICAgICAgICAgICAgICAgPGluZGV4IGNvbHVtbj0iUkFOSyIvPgogICAgICAgICAgICAgICAgICAgICAgICA8b25lLXRvLW1hbnkgY2xhc3M9IlVybEJ1dHRvbkVsZW1lbnRQYXJhbWV0ZXIiLz4KICAgICAgICAgICAgICAgICAgICA8L2xpc3Q+CiAgICAgICAgICAgICAgICA8L2pvaW5lZC1zdWJjbGFzcz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxjbGFzcyBuYW1lPSJVcmxCdXR0b25FbGVtZW50UGFyYW1ldGVyIgogICAgICAgICAgICB0YWJsZT0iRk9STV9VUkxfQlVUVE9OX1BBUkFNRVRFUiI+CiAgICAgICAgPGlkIG5hbWU9ImlkIiBjb2x1bW49IklEIiB0eXBlPSJsb25nIiB1bnNhdmVkLXZhbHVlPSJudWxsIj4KICAgICAgICAgICAgPGdlbmVyYXRvciBjbGFzcz0iY29tLm1hcGNvbW11bmljYXRpb25zLmRhby5Bc3NpZ25lZFNlcXVlbmNlR2VuZXJhdG9yIj4KICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJzZXF1ZW5jZSI+ZWNob19zZXF1ZW5jZTwvcGFyYW0+CiAgICAgICAgICAgIDwvZ2VuZXJhdG9yPgogICAgICAgIDwvaWQ+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im5hbWUiIGNvbHVtbj0iTkFNRSIKICAgICAgICAgICAgdHlwZT0ic3RyaW5nIiBsZW5ndGg9IjIwIiBub3QtbnVsbD0idHJ1ZSIgdW5pcXVlPSJmYWxzZSIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJjb21wb25lbnROYW1lIiBjb2x1bW49IkNPTVBPTkVOVF9OQU1FIgogICAgICAgICAgICB0eXBlPSJzdHJpbmciIGxlbmd0aD0iMTUiIG5vdC1udWxsPSJ0cnVlIiB1bmlxdWU9ImZhbHNlIi8+CiAgICA8L2NsYXNzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3877,31 +3877,31 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGpvaW5lZC1zdWJjbGFzcyBuYW1lPSJCdXR0b25FbGVtZW50IiB0YWJsZT0iRk9STV9CVVRUT04iPgogICAgICAgICAgICA8L2pvaW5lZC1zdWJjbGFzcz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxqb2luZWQtc3ViY2xhc3MgbmFtZT0iQ2l2aWNJbmZvQnV0dG9uRWxlbWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFibGU9IkZPUk1fQ0lWSUNfSU5GT19CVVRUT04iPgogICAgICAgICAgICAgICAgICAgIDxrZXkgY29sdW1uPSJFTEVNRU5UX0lEIi8+CiAgICAgICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InJvbGUiIGNvbHVtbj0iUk9MRSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0eXBlIG5hbWU9Im9yZy5oaWJlcm5hdGUudHlwZS5FbnVtVHlwZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGFyYW0gbmFtZT0iZW51bUNsYXNzIj5jb20ubWFwY29tbXVuaWNhdGlvbnMuY2l2aWNpbmZvLkNpdmljSW5mb1JvbGU8L3BhcmFtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhcmFtIG5hbWU9InVzZU5hbWVkIj50cnVlPC9wYXJhbT4KICAgICAgICAgICAgICAgICAgICAgICAgPC90eXBlPgogICAgICAgICAgICAgICAgICAgIDwvcHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImxldmVsIiBjb2x1bW49IkNJX0xFVkVMIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHR5cGUgbmFtZT0ib3JnLmhpYmVybmF0ZS50eXBlLkVudW1UeXBlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJlbnVtQ2xhc3MiPmNvbS5tYXBjb21tdW5pY2F0aW9ucy5jaXZpY2luZm8uQ2l2aWNJbmZvTGV2ZWw8L3BhcmFtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhcmFtIG5hbWU9InVzZU5hbWVkIj50cnVlPC9wYXJhbT4KICAgICAgICAgICAgICAgICAgICAgICAgPC90eXBlPgogICAgICAgICAgICAgICAgICAgIDwvcHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InN0YXRlV2hpdGVsaXN0IiBjb2x1bW49IlNUQVRFX1dISVRFTElTVCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0ic3RyaW5nIiBsZW5ndGg9IjE1MCIgbm90LW51bGw9ImZhbHNlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bmlxdWU9ImZhbHNlIi8+CiAgICAgICAgICAgICAgICA8L2pvaW5lZC1zdWJjbGFzcz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vLS0tLS0tLS0tLQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENpdmljSW5mb0xldmVsIGxldmVsXzsKICAgICAgICBwcml2YXRlIENpdmljSW5mb1JvbGUgcm9sZV87CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgd2hpdGVsaXN0XzsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgQ2l2aWNJbmZvQnV0dG9uRWxlbWVudEJ1aWxkZXIgZXh0ZW5kcyBFbGVtZW50QnVpbGRlciB7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgIE9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT2RkT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ACg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ljb25FL1Rlc3RFL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>equals</last-search>
+      <last-search>civic</last-search>
       <last-offset />
-      <last-pattern>equals</last-pattern>
+      <last-pattern>civic</last-pattern>
       <last-replace>TestE</last-replace>
       <last-substitute>IconE</last-substitute>
       <last-dir>1</last-dir>
@@ -3909,7 +3909,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Oracle</entry>
         <entry>context</entry>
         <entry>String context</entry>
         <entry>tableelementcolumn</entry>
@@ -3929,6 +3928,7 @@
         <entry>urlbuttonelemen</entry>
         <entry>equa</entry>
         <entry>equals</entry>
+        <entry>civic</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
