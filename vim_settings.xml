@@ -890,10 +890,10 @@
         <mark key="^" line="107" column="20" />
         <mark key="." line="107" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/TableElement.java" timestamp="1510091457106">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/TableElement.java" timestamp="1510153657615">
+        <mark key="'" line="213" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="47" />
         <mark key="^" line="156" column="18" />
         <mark key="." line="213" column="0" />
       </file>
@@ -1333,12 +1333,12 @@
         <mark key="." line="91" column="20" />
         <mark key="^" line="91" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/UrlButtonElement.java" timestamp="1510151217130">
-        <mark key="'" line="301" column="0" />
-        <mark key="[" line="46" column="57" />
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="23" />
-        <mark key="^" line="38" column="23" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/UrlButtonElement.java" timestamp="1510153751830">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="39" column="15" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="40" column="23" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/civicinfo/CivicInfoServiceLocalHome.java" timestamp="1507813857330">
         <mark key="[" line="17" column="30" />
@@ -1360,8 +1360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="6" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/serviceupdate/ServiceUpdateQueueListener.java" />
-      <jump line="456" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="74" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="19002" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
@@ -1460,6 +1458,8 @@
       <jump line="16" column="37" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/UrlButtonElementParameter.java" />
       <jump line="186" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/UrlButtonElementParameter.java" />
       <jump line="27" column="54" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.copy.xml" />
+      <jump line="213" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/TableElement.java" />
+      <jump line="52" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/UrlButtonElement.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1488,17 +1488,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>urlbuttonelemen</text>
+        <text>equa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLmZvcm0uVXJsQnV0dG9uRWxlbWVudDwvY2xhc3M+Cg==</text>
+        <text encoding="base64">ICAgIEBMYXp5Q29sbGVjdGlvbihMYXp5Q29sbGVjdGlvbk9wdGlvbi5GQUxTRSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3899,9 +3899,9 @@
       </register>
     </registers>
     <search>
-      <last-search>urlbuttonelemen</last-search>
+      <last-search>equa</last-search>
       <last-offset />
-      <last-pattern>urlbuttonelemen</last-pattern>
+      <last-pattern>equa</last-pattern>
       <last-replace>TestE</last-replace>
       <last-substitute>IconE</last-substitute>
       <last-dir>1</last-dir>
@@ -3909,7 +3909,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TODO</entry>
         <entry>Oracle</entry>
         <entry>context</entry>
         <entry>String context</entry>
@@ -3929,6 +3928,7 @@
         <entry>sout</entry>
         <entry>println</entry>
         <entry>urlbuttonelemen</entry>
+        <entry>equa</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
