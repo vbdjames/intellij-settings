@@ -1064,12 +1064,12 @@
         <mark key="^" line="52" column="86" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1510842031518">
-        <mark key="'" line="881" column="60" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="881" column="60" />
+      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1510845207646">
+        <mark key="'" line="1068" column="11" />
+        <mark key="[" line="1067" column="39" />
+        <mark key="]" line="1067" column="62" />
+        <mark key="." line="1067" column="62" />
+        <mark key="^" line="1067" column="62" />
       </file>
       <file name="$USER_HOME$/Code/vbdjames@github.com/goosgbt/src/main/java/com/vbdjames/goosgbt/Main.java" timestamp="1481149969334">
         <mark key="'" line="58" column="0" />
@@ -1464,8 +1464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.copy.xml" />
-      <jump line="52" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.copy.xml" />
       <jump line="71" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.copy.xml" />
       <jump line="73" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.copy.xml" />
       <jump line="87" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormOracle.hbm.copy.xml" />
@@ -1564,6 +1562,8 @@
       <jump line="94" column="21" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="646" column="19" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="882" column="60" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="1068" column="11" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1593,28 +1593,28 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5zb2FwLlRleHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBDcmVhdGVzIHRoZSBSZXBlYXRDYWxsQ2hlY2tCb3hFbGVtZW50LgogICAgICAgICAqIEByZXR1cm4gdGhlIFJlcGVhdENhbGxDaGVja0JveEVsZW1lbnQKICAgICAgICAgKi8K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhyb3dzIEV4Y2VwdGlvbiA=</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>reverse</text>
+        <text>RepeatCallCheck</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuIEVsZW1lbnRCdWlsZGVyIHRvIHByb3ZpZGUgYSBmbHVlbnQgaW50ZXJmYWNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBDcmVhdGVzIHRoZSBSZXBlYXRDYWxsQ2hlY2tCb3hFbGVtZW50LgogICAgICAgICAqIEByZXR1cm4gdGhlIFJlcGVhdENhbGxDaGVja0JveEVsZW1lbnQKICAgICAgICAgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5zb2FwLlRleHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVXJsQnV0dG9uRWxlbWVudEJ1aWxkZXIgd2l0aFBhcmFtZXRlcgogICAgICAgICAgICAoVXJsQnV0dG9uRWxlbWVudFBhcmFtZXRlciBwYXJhbWV0ZXIpIHsKICAgICAgICAgICAgdGhpcy51cmxQYXJhbWV0ZXJzLmFkZChwYXJhbWV0ZXIpOwogICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5zb2FwLlRleHQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3984,36 +3984,35 @@
         <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuIFRlc3RFbGVtZW50Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuIFRlc3RFbGVtZW50Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRydWUob3JpZ2luYWxFbGVtZW50LmVxdWFscyhzYXZlZEVsZW1lbnQpKTsKLy8gICAgICAgIGFzc2VydFRydWUob3JpZ2luYWxFbGVtZW50LmVxdWFscyhmb3VuZEVsZW1lbnQpKTsKLy8gICAgICAgIGFzc2VydFRydWUob3JpZ2luYWxFbGVtZW50LmVxdWFscyhjbGVhbkVsZW1lbnQpKTsKCiAgICAgICAgYXNzZXJ0VHJ1ZShzYXZlZEVsZW1lbnQuZXF1YWxzKGZvdW5kRWxlbWVudCkpOwogICAgICAgIGFzc2VydFRydWUoc2F2ZWRFbGVtZW50LmVxdWFscyhjbGVhbkVsZW1lbnQpKTsKCiAgICAgICAgYXNzZXJ0VHJ1ZShmb3VuZEVsZW1lbnQuZXF1YWxzKGNsZWFuRWxlbWVudCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL1JlcGVhdENhbGxDaGVjay9Db21iby9n</text>
       </register>
     </registers>
     <search>
-      <last-search>reverse</last-search>
+      <last-search>RepeatCallCheck</last-search>
       <last-offset />
-      <last-pattern>reverse</last-pattern>
-      <last-replace>private class</last-replace>
-      <last-substitute>static class</last-substitute>
+      <last-pattern>RepeatCallCheck</last-pattern>
+      <last-replace>Combo</last-replace>
+      <last-substitute>RepeatCallCheck</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>editable</entry>
         <entry>messageName_</entry>
         <entry>joined-</entry>
         <entry encoding="base64">XChcPFx1XGxcK1x8XGxcK1wpXChcdVwp</entry>
@@ -4033,9 +4032,9 @@
         <entry>TextPaneEleme</entry>
         <entry>static class</entry>
         <entry>reverse</entry>
+        <entry>RepeatCallCheck</entry>
       </history-search>
       <history-cmd>
-        <entry>145</entry>
         <entry>305</entry>
         <entry>523</entry>
         <entry>4830</entry>
@@ -4055,6 +4054,7 @@
         <entry encoding="base64">JzwsJz5zL1RleHRQYW5lL1RhYmxlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXRpYyBjbGFzcy9wcml2YXRlIGNsYXNzL2c=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1JlcGVhdENhbGxDaGVjay9Db21iby9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
