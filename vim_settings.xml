@@ -31,6 +31,9 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="29" column="64" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/UserServiceBean.java" timestamp="1511992091755">
+        <mark key="'" line="41" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Cockpit.java" timestamp="1508168613234">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="2" column="21" />
@@ -58,12 +61,9 @@
         <mark key="^" line="30" column="26" />
         <mark key="." line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1511895137426">
-        <mark key="'" line="1286" column="37" />
-        <mark key="[" line="1324" column="18" />
-        <mark key="]" line="860" column="12" />
-        <mark key="." line="860" column="12" />
-        <mark key="^" line="860" column="12" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1511991625361">
+        <mark key="'" line="221" column="45" />
+        <mark key="[" line="1599" column="18" />
       </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Main.java" timestamp="1508177466337">
         <mark key="[" line="7" column="51" />
@@ -538,8 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/SelectableItem.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/TextLookupFieldElementItem.java" />
       <jump line="82" column="68" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/AbstractSelectableItem.java" />
       <jump line="20" column="75" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/AbstractSelectableItem.java" />
       <jump line="420" column="38" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
@@ -638,6 +636,8 @@
       <jump line="785" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="50" column="52" filename="$USER_HOME$/Code/alesha/cpsc-lab12/LinkedListMethods2.java" />
+      <jump line="221" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="41" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/UserServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -673,7 +673,7 @@
         <text>Integer</text>
       </register>
       <register name="/" type="4">
-        <text>isFormEntityCurrently</text>
+        <text>SystemServiceLocal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIE5vZGU8U3RyaW5nPiBjdXJyZW50ID0gaGVhZDsKLy8gICAgICAgIE5vZGU8U3RyaW5nPiBuZXh0Owo=</text>
@@ -3194,13 +3194,13 @@
         <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRXcml0ZXI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Rocm93KG5ldyBOb3RQZXJmb3JtZWRFeGNlcHRpb24oL3Rocm93IEJhZEFyZ3VtZW50RXhjZXB0aW9uLm5ld0luc3RhbmNlKC9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isFormEntityCurrently</last-search>
+      <last-search>SystemServiceLocal</last-search>
       <last-offset />
-      <last-pattern>isFormEntityCurrently</last-pattern>
+      <last-pattern>SystemServiceLocal</last-pattern>
       <last-replace>throw BadArgumentException.newInstance(</last-replace>
       <last-substitute>throw(new NotPerformedException(</last-substitute>
       <last-dir>1</last-dir>
@@ -3208,7 +3208,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MaskedTextField</entry>
         <entry>OnCallDispacthComboBox</entry>
         <entry>OnCallDispatchComboBox</entry>
         <entry>TextArea</entry>
@@ -3228,6 +3227,7 @@
         <entry>isFormEntity</entry>
         <entry>isEntity</entry>
         <entry>isFormEntityCurrently</entry>
+        <entry>SystemServiceLocal</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RleHRQYW5lL1RhYmxlL2c=</entry>
@@ -3247,9 +3247,9 @@
         <entry encoding="base64">JzwsJz5zL1RleHRMb29rdXAvQ29uZmlybWF0aW9uTnVtYmVyL2c=</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3Rocm93KG5ldyBOb3RQZXJmb3JtZWRFeGNlcHRpb24oL3Rocm93IEJhZEFyZ3VtZW50RXhjZXB0aW9uLm5ld0luc3RhbmNlKC9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
