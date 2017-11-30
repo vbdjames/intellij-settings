@@ -77,6 +77,9 @@
         <mark key="^" line="17" column="60" />
         <mark key="." line="17" column="60" />
       </file>
+      <file name="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" timestamp="1512048573227">
+        <mark key="'" line="354" column="33" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryFrame.java" timestamp="1492529799010">
         <mark key="[" line="28" column="53" />
         <mark key="]" line="28" column="55" />
@@ -220,12 +223,8 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" timestamp="1511993008026">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="452" column="46" />
-        <mark key="]" line="452" column="46" />
-        <mark key="." line="452" column="46" />
-        <mark key="^" line="452" column="46" />
+      <file name="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" timestamp="1512048616582">
+        <mark key="'" line="490" column="50" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/ElementLayout.java" timestamp="1511877276392">
         <mark key="[" line="13" column="0" />
@@ -545,31 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="664" column="10" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1165" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="647" column="40" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="89" column="23" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="94" column="21" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="646" column="19" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="882" column="60" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1068" column="11" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1096" column="8" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1133" column="8" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1161" column="8" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1189" column="8" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1217" column="8" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1243" column="8" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1268" column="51" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1301" column="8" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1330" column="8" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1361" column="6" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="1382" column="10" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="740" column="33" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="13" column="21" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="7" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
-      <jump line="14" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="635" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
       <jump line="13" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.java" />
@@ -640,11 +614,36 @@
       <jump line="221" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="41" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/UserServiceBean.java" />
       <jump line="449" column="29" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="24" column="37" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="25" column="22" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="94" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/alesha/cpsc-lab12/LinkedListMethods2.java" />
+      <jump line="417" column="51" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="74" column="76" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="104" column="26" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="161" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="162" column="33" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="295" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="296" column="33" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="316" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="317" column="33" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="353" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="354" column="33" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="119" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="209" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="211" column="55" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="212" column="50" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="390" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="392" column="55" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="393" column="50" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="428" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="430" column="55" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="431" column="50" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="487" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="489" column="55" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="490" column="50" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -680,7 +679,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PD4=</text>
+        <text>IdentityService</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGVqYi1sb2NhbC1yZWY+CiAgICAgICAgICAgICAgICA8ZWpiLXJlZi1uYW1lPnJlZi9BbWRTZXJ2aWNlPC9lamItcmVmLW5hbWU+CiAgICAgICAgICAgICAgICA8ZWpiLXJlZi10eXBlPlNlc3Npb248L2VqYi1yZWYtdHlwZT4KICAgICAgICAgICAgICAgIDxsb2NhbC1ob21lPmNvbS5tYXBjb21tdW5pY2F0aW9ucy5hbWQuQW1kU2VydmljZUxvY2FsSG9tZTwvbG9jYWwtaG9tZT4KICAgICAgICAgICAgICAgIDxsb2NhbD5jb20ubWFwY29tbXVuaWNhdGlvbnMuYW5kLkFtZFNlcnZpY2VMb2NhbDwvbG9jYWw+CiAgICAgICAgICAgIDwvZWpiLWxvY2FsLXJlZj4K</text>
@@ -3205,9 +3204,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PD4=</last-search>
+      <last-search>IdentityService</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PD4=</last-pattern>
+      <last-pattern>IdentityService</last-pattern>
       <last-replace>throw BadArgumentException.newInstance(</last-replace>
       <last-substitute>throw(new NotPerformedException(</last-substitute>
       <last-dir>1</last-dir>
@@ -3215,8 +3214,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TextArea</entry>
-        <entry>SelectionList</entry>
         <entry>TextLookup</entry>
         <entry>MessageItemSeparator</entry>
         <entry>MessageTagSeparator</entry>
@@ -3235,6 +3232,8 @@
         <entry>SystemServiceLocal</entry>
         <entry>amd</entry>
         <entry encoding="base64">PD4=</entry>
+        <entry>EchoEntityService</entry>
+        <entry>IdentityService</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RleHRQYW5lL1RhYmxlL2c=</entry>
