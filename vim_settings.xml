@@ -220,6 +220,13 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" timestamp="1511993008026">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="452" column="46" />
+        <mark key="]" line="452" column="46" />
+        <mark key="." line="452" column="46" />
+        <mark key="^" line="452" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/ElementLayout.java" timestamp="1511877276392">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="14" column="30" />
@@ -538,11 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="68" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/AbstractSelectableItem.java" />
-      <jump line="20" column="75" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/AbstractSelectableItem.java" />
-      <jump line="420" column="38" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="743" column="17" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
-      <jump line="560" column="25" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="566" column="8" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="664" column="10" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="1165" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
@@ -638,6 +640,11 @@
       <jump line="50" column="52" filename="$USER_HOME$/Code/alesha/cpsc-lab12/LinkedListMethods2.java" />
       <jump line="221" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="41" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/user/UserServiceBean.java" />
+      <jump line="449" column="29" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="24" column="37" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="25" column="22" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
+      <jump line="94" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -667,19 +674,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVqYi1sb2NhbC1yZWY+CiAgICAgICAgICAgICAgICA8ZWpiLXJlZi1uYW1lPjwvZWpiLXJlZi1uYW1lPgogICAgICAgICAgICAgICAgPGVqYi1yZWYtdHlwZT48L2VqYi1yZWYtdHlwZT4KICAgICAgICAgICAgICAgIDxsb2NhbC1ob21lPjwvbG9jYWwtaG9tZT4KICAgICAgICAgICAgICAgIDxsb2NhbD48L2xvY2FsPgogICAgICAgICAgICA8L2VqYi1sb2NhbC1yZWY+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Integer</text>
       </register>
       <register name="/" type="4">
-        <text>SystemServiceLocal</text>
+        <text>amd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE5vZGU8U3RyaW5nPiBjdXJyZW50ID0gaGVhZDsKLy8gICAgICAgIE5vZGU8U3RyaW5nPiBuZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVqYi1sb2NhbC1yZWY+CiAgICAgICAgICAgICAgICA8ZWpiLXJlZi1uYW1lPnJlZi9BbWRTZXJ2aWNlPC9lamItcmVmLW5hbWU+CiAgICAgICAgICAgICAgICA8ZWpiLXJlZi10eXBlPlNlc3Npb248L2VqYi1yZWYtdHlwZT4KICAgICAgICAgICAgICAgIDxsb2NhbC1ob21lPmNvbS5tYXBjb21tdW5pY2F0aW9ucy5hbWQuQW1kU2VydmljZUxvY2FsSG9tZTwvbG9jYWwtaG9tZT4KICAgICAgICAgICAgICAgIDxsb2NhbD5jb20ubWFwY29tbXVuaWNhdGlvbnMuYW5kLkFtZFNlcnZpY2VMb2NhbDwvbG9jYWw+CiAgICAgICAgICAgIDwvZWpiLWxvY2FsLXJlZj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVqYi1sb2NhbC1yZWY+CiAgICAgICAgICAgICAgICA8ZWpiLXJlZi1uYW1lPjwvZWpiLXJlZi1uYW1lPgogICAgICAgICAgICAgICAgPGVqYi1yZWYtdHlwZT48L2VqYi1yZWYtdHlwZT4KICAgICAgICAgICAgICAgIDxsb2NhbC1ob21lPjwvbG9jYWwtaG9tZT4KICAgICAgICAgICAgICAgIDxsb2NhbD48L2xvY2FsPgogICAgICAgICAgICA8L2VqYi1sb2NhbC1yZWY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -688,7 +695,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3055,16 +3062,16 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICghaW4uaGFzTmV4dCgpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIG51bGw7Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlPFN0cmluZz4gbmV4dDsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICghaW4uaGFzTmV4dCgpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIG51bGw7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlPFN0cmluZz4gY3VycmVudCA9IGhlYWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBOb2RlPFN0cmluZz4gbmV4dDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlPFN0cmluZz4gaGVhZCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBOb2RlPFN0cmluZz4gY3VycmVudCA9IGhlYWQ7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3188,19 +3195,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBOb2RlPFN0cmluZz4gaGVhZCA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRXcml0ZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SystemServiceLocal</last-search>
+      <last-search>amd</last-search>
       <last-offset />
-      <last-pattern>SystemServiceLocal</last-pattern>
+      <last-pattern>amd</last-pattern>
       <last-replace>throw BadArgumentException.newInstance(</last-replace>
       <last-substitute>throw(new NotPerformedException(</last-substitute>
       <last-dir>1</last-dir>
@@ -3208,7 +3215,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OnCallDispacthComboBox</entry>
         <entry>OnCallDispatchComboBox</entry>
         <entry>TextArea</entry>
         <entry>SelectionList</entry>
@@ -3228,6 +3234,7 @@
         <entry>isEntity</entry>
         <entry>isFormEntityCurrently</entry>
         <entry>SystemServiceLocal</entry>
+        <entry>amd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RleHRQYW5lL1RhYmxlL2c=</entry>
