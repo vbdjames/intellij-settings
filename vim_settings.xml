@@ -68,6 +68,9 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceLocal.java" timestamp="1512585732693">
+        <mark key="'" line="190" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Main.java" timestamp="1508177466337">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="51" />
@@ -515,8 +518,8 @@
         <mark key="." line="17" column="58" />
         <mark key="^" line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1512575582209">
-        <mark key="'" line="66" column="40" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1512585692740">
+        <mark key="'" line="6139" column="39" />
         <mark key="[" line="9570" column="42" />
         <mark key="]" line="9570" column="40" />
         <mark key="." line="9570" column="40" />
@@ -537,15 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="55" filename="$USER_HOME$/Code/echo/resource/internal/ear/META-INF/persistence.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
-      <jump line="467" column="23" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
-      <jump line="470" column="32" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
-      <jump line="472" column="103" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
-      <jump line="473" column="28" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
-      <jump line="474" column="28" filename="$USER_HOME$/Code/echo/resource/internal/database/Oracle/ddl/create_custom_form_tables.sql" />
-      <jump line="708" column="0" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="886" column="0" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="1006" column="50" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="32" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/OnCallDispatchComboBoxElement.java" />
@@ -632,11 +626,20 @@
       <jump line="6220" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="8919" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="9564" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
-      <jump line="9570" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="6198" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="65" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="66" column="40" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="9570" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="731" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="2488" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="2496" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="2503" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="6136" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="6139" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="20" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceLocal.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceLocal.java" />
+      <jump line="190" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceLocal.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -672,7 +675,7 @@
         <text encoding="base64">IC8vIGZpcnN0Lm5leHQgPSBsYXN0LCBsYXN0Lm5leHQgPSBmaXJzdA==</text>
       </register>
       <register name="/" type="4">
-        <text>EchoEntityService</text>
+        <text>isEntity</text>
       </register>
       <register name="0" type="4">
         <text>initializing echo entityservice local</text>
@@ -3197,9 +3200,9 @@
       </register>
     </registers>
     <search>
-      <last-search>EchoEntityService</last-search>
+      <last-search>isEntity</last-search>
       <last-offset />
-      <last-pattern>EchoEntityService</last-pattern>
+      <last-pattern>isEntity</last-pattern>
       <last-replace>next</last-replace>
       <last-substitute>getLink()</last-substitute>
       <last-dir>1</last-dir>
@@ -3207,12 +3210,10 @@
     </search>
     <history>
       <history-search>
-        <entry>entityManager</entry>
         <entry>echoDs</entry>
         <entry>isEntityAtt</entry>
         <entry>throw(new NotPerformedException(</entry>
         <entry>isFormEntity</entry>
-        <entry>isEntity</entry>
         <entry>isFormEntityCurrently</entry>
         <entry>SystemServiceLocal</entry>
         <entry>amd</entry>
@@ -3227,6 +3228,8 @@
         <entry>echoEntityService</entry>
         <entry>echoEntityServiceLocal</entry>
         <entry>EchoEntityService</entry>
+        <entry>getSearchDataLa</entry>
+        <entry>isEntity</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbWJvQm94L0N1cnJlbmN5RmllbGQvZw==</entry>
