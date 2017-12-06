@@ -121,6 +121,13 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/build.xml" timestamp="1512587975264">
+        <mark key="'" line="1838" column="37" />
+        <mark key="[" line="1856" column="0" />
+        <mark key="]" line="1856" column="0" />
+        <mark key="^" line="1855" column="55" />
+        <mark key="." line="1856" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3-alesha/src/FlightAttendant.java" timestamp="1508555911528">
         <mark key="[" line="3" column="52" />
         <mark key="]" line="3" column="51" />
@@ -539,21 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/OnCallDispatchComboBoxElement.java" />
-      <jump line="940" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="23" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceLocal.java" />
-      <jump line="222" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceLocal.java" />
-      <jump line="938" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1025" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="249" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1027" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="5" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="197" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceLocal.java" />
-      <jump line="1052" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="235" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="77" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="24" column="25" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="120" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="121" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="143" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
@@ -639,6 +631,21 @@
       <jump line="5155" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="332" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
+      <jump line="1856" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="1855" column="38" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="1854" column="37" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="2490" column="37" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="2491" column="37" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="691" column="47" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="692" column="41" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="693" column="41" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="707" column="51" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="708" column="45" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="709" column="45" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="722" column="47" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="723" column="47" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="1838" column="37" filename="$USER_HOME$/Code/echo/build.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -668,28 +675,28 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gaW5pdGlhbGl6ZWQgZWNobyBlbnRpdHlzZXJ2aWNlIGxvY2FsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR7ZWNob2VudGl0eS5wa2cuZGlyfS9FY2hvRW50aXR5U2VydmljZUxvY2FsSG9tZS5jbGFzcywK</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>echoentity</text>
+        <text>DirectoryService</text>
       </register>
       <register name="0" type="4">
         <text>initializing echo entityservice local</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gaW5pdGlhbGl6ZWQgZWNobyBlbnRpdHlzZXJ2aWNlIGxvY2FsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR7ZWNob2VudGl0eS5wa2cuZGlyfS9FY2hvRW50aXR5U2VydmljZUxvY2FsSG9tZS5jbGFzcywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gaW5pdGFsaXppbmcgZWNobyBlbnRpdHlzZXJ2aWNlIGxvY2FsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR7ZWNob2VudGl0eS5wa2cuZGlyfS9FY2hvRW50aXR5U2VydmljZUxvY2FsLmNsYXNzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR7ZWNob2VudGl0eS5wa2cuZGlyfS9FY2hvRW50aXR5U2VydmljZUxvY2FsSG9tZS5jbGFzcywK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3056,16 +3063,16 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlPFQ+IHB0ciA9IGZpcnN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR7ZWNob2VudGl0eS5wa2cuZGlyfS9FY2hvRW50aXR5U2VydmljZUxvY2FsLmNsYXNzLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmaXJzdCA9IGxhc3QubmV4dDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gaW5pdGlhbGl6ZWQgZWNobyBlbnRpdHlzZXJ2aWNlIGxvY2FsIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBsYXN0Lm5leHQgPSBmaXJzdC5uZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oIj09PT4gaW5pdGFsaXppbmcgZWNobyBlbnRpdHlzZXJ2aWNlIGxvY2FsIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyc3QgPSBsYXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3189,19 +3196,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdCA9IGZpcgo=</text>
+        <text encoding="base64">ICAgICAgICBOb2RlPFQ+IHB0ciA9IGZpcnN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyc3QgPSBsYXN0Lm5leHQ7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBmaXJzdCA9IGxhc3QubmV4dDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>echoentity</last-search>
+      <last-search>DirectoryService</last-search>
       <last-offset />
-      <last-pattern>echoentity</last-pattern>
+      <last-pattern>DirectoryService</last-pattern>
       <last-replace>next</last-replace>
       <last-substitute>getLink()</last-substitute>
       <last-dir>1</last-dir>
@@ -3209,8 +3216,6 @@
     </search>
     <history>
       <history-search>
-        <entry>throw(new NotPerformedException(</entry>
-        <entry>isFormEntity</entry>
         <entry>isFormEntityCurrently</entry>
         <entry>SystemServiceLocal</entry>
         <entry>amd</entry>
@@ -3229,6 +3234,8 @@
         <entry>isEntity</entry>
         <entry>echoEntityServiceLocal_</entry>
         <entry>echoentity</entry>
+        <entry>echoentityservice</entry>
+        <entry>DirectoryService</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbWJvQm94L0N1cnJlbmN5RmllbGQvZw==</entry>
