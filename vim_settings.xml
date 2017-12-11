@@ -68,6 +68,9 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1513001252385">
+        <mark key="'" line="14" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Main.java" timestamp="1508177466337">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="51" />
@@ -537,7 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="121" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="143" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="216" column="22" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
@@ -637,6 +639,7 @@
       <jump line="722" column="47" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="723" column="47" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="1838" column="37" filename="$USER_HOME$/Code/echo/build.xml" />
+      <jump line="14" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -672,7 +675,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>DirectoryService</text>
+        <text>switch</text>
       </register>
       <register name="0" type="4">
         <text>initializing echo entityservice local</text>
@@ -3197,9 +3200,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DirectoryService</last-search>
+      <last-search>switch</last-search>
       <last-offset />
-      <last-pattern>DirectoryService</last-pattern>
+      <last-pattern>switch</last-pattern>
       <last-replace>next</last-replace>
       <last-substitute>getLink()</last-substitute>
       <last-dir>1</last-dir>
@@ -3207,7 +3210,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isFormEntityCurrently</entry>
         <entry>SystemServiceLocal</entry>
         <entry>amd</entry>
         <entry encoding="base64">PD4=</entry>
@@ -3227,6 +3229,7 @@
         <entry>echoentity</entry>
         <entry>echoentityservice</entry>
         <entry>DirectoryService</entry>
+        <entry>switch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbWJvQm94L0N1cnJlbmN5RmllbGQvZw==</entry>
