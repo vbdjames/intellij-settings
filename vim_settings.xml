@@ -529,7 +529,7 @@
         <mark key="." line="17" column="58" />
         <mark key="^" line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1513008987223">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1513084520232">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14069" column="0" />
         <mark key="]" line="14069" column="0" />
@@ -550,7 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="22" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="94" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/alesha/cpsc-lab12/LinkedListMethods2.java" />
       <jump line="417" column="51" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
@@ -649,6 +648,7 @@
       <jump line="4562" column="31" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="4628" column="11" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="14069" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="312" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
     </jumps>
     <registers>
@@ -685,7 +685,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>==</text>
+        <text>escreply</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLgo=</text>
@@ -3210,9 +3210,9 @@
       </register>
     </registers>
     <search>
-      <last-search>==</last-search>
+      <last-search>escreply</last-search>
       <last-offset />
-      <last-pattern>==</last-pattern>
+      <last-pattern>escreply</last-pattern>
       <last-replace>next</last-replace>
       <last-substitute>getLink()</last-substitute>
       <last-dir>1</last-dir>
@@ -3220,7 +3220,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>getData()</entry>
         <entry>getLink()</entry>
         <entry>getSearchDtataLayoutItem</entry>
@@ -3240,6 +3239,7 @@
         <entry>isFormEntity</entry>
         <entry>===</entry>
         <entry>==</entry>
+        <entry>escreply</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0RhdGVUaW1lL0ludGVnZXIvZw==</entry>
