@@ -37,6 +37,9 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/DataSearchGroupComponentType.java" timestamp="1513199312869">
+        <mark key="'" line="287" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Seat.java" timestamp="1508168910078">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="0" />
@@ -217,17 +220,12 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormDao.java" timestamp="1504099361698">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="8" column="5" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" timestamp="1513198064092">
-        <mark key="[" line="49" column="9" />
-        <mark key="]" line="49" column="7" />
-        <mark key="." line="49" column="7" />
-        <mark key="^" line="49" column="7" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/DataSearchFieldElement.java" timestamp="1513200056414">
+        <mark key="'" line="314" column="0" />
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="34" column="12" />
+        <mark key="^" line="34" column="12" />
+        <mark key="." line="34" column="12" />
       </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/FirstClass.java" timestamp="1508168524918">
         <mark key="[" line="6" column="0" />
@@ -474,6 +472,9 @@
         <mark key="^" line="19" column="69" />
         <mark key="." line="19" column="69" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1513199644877">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/util/PHelper.java" timestamp="1503671133941">
         <mark key="[" line="94" column="45" />
         <mark key="]" line="95" column="23" />
@@ -540,15 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="50" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="428" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="430" column="55" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="431" column="50" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="487" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="489" column="55" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="490" column="50" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
-      <jump line="936" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="61" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="81" column="4" filename="$USER_HOME$/Code/alesha/cpsc-4/JosephusList.java" />
       <jump line="79" column="8" filename="$USER_HOME$/Code/alesha/cpsc-4/JosephusList.java" />
       <jump line="183" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
@@ -640,6 +632,15 @@
       <jump line="516" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" />
       <jump line="518" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" />
       <jump line="529" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/persistence/AbstractDao.java" />
+      <jump line="191" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/DataSearchGroupComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/DataSearchGroupComponentType.java" />
+      <jump line="127" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/DataSearchGroupComponentType.java" />
+      <jump line="190" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/DataSearchGroupComponentType.java" />
+      <jump line="281" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/DataSearchGroupComponentType.java" />
+      <jump line="287" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/swing/group/DataSearchGroupComponentType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
+      <jump line="21" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/DataSearchFieldElement.java" />
+      <jump line="309" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/DataSearchFieldElement.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -669,28 +670,28 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGN1c3RvbUZvcm1EYW9fLnNldEVudGl0eU1hbmFnZXIobWFuYWdlcl8pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDFMOwogICAgCiAgICBwcml2YXRlIExpc3Q8U2VhcmNoRGF0YUxheW91dEl0ZW0+IGxheW91dEl0ZW1zOwogICAgcHJpdmF0ZSBMb25nIGxheW91dElkOwogICAgcHJpdmF0ZSBib29sZWFuIGFuaVNlYXJjaEVuYWJsZWRfOwo=</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>entityManager_</text>
+        <text>Data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVmYXVsdEZvcm1fLmdldFRpdGxlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGN1c3RvbUZvcm1EYW9fLnNldEVudGl0eU1hbmFnZXIobWFuYWdlcl8pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDFMOwogICAgCiAgICBwcml2YXRlIExpc3Q8U2VhcmNoRGF0YUxheW91dEl0ZW0+IGxheW91dEl0ZW1zOwogICAgcHJpdmF0ZSBMb25nIGxheW91dElkOwogICAgcHJpdmF0ZSBib29sZWFuIGFuaVNlYXJjaEVuYWJsZWRfOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hbmFnZXJfID0gUGVyc2lzdGVuY2VIZWxwZXIuZ2V0RW50aXR5TWFuYWdlcigpOwo=</text>
+        <text encoding="base64">ICAgIC8vIEV4cGxpY2l0IGRlY2xhcmF0aW9uIG9mIHNlcmlhbFZlcnNpb25VSUQgZ3VhcmFudGVlcyBjb25zaXN0ZW50IHZhbHVlIAogICAgLy8gYWNyb3NzIGRpZmZlcmVudCBqYXZhIGNvbXBpbGVyIGltcGxlbWVudGF0aW9uczsgc2VlIAogICAgLy8gaHR0cDovL2phdmEuc3VuLmNvbS9qMnNlLzEuNS4wL2RvY3MvYXBpL2phdmEvaW8vU2VyaWFsaXphYmxlLmh0bWwuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBtYW5hZ2VyXyA9IFBlcnNpc3RlbmNlSGVscGVyLmdldEVudGl0eU1hbmFnZXIoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGN1c3RvbUZvcm1EYW9fLnNldEVudGl0eU1hbmFnZXIobWFuYWdlcl8pOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3057,16 +3058,16 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1hbmFnZXJfID0gUGVyc2lzdGVuY2VIZWxwZXIuZ2V0RW50aXR5TWFuYWdlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBtYW5hZ2VyXyA9IFBlcnNpc3RlbmNlSGVscGVyLmdldEVudGl0eU1hbmFnZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLlVuaGFuZGxlZEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLk5vdFBlcmZvcm1lZEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3189,20 +3190,20 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bmV3IFNlbGVjdGlvbkxpc3RJdGVtPFN0cmluZz4oaXRlbUVsZW1lbnQuZ2V0TmFtZSgpLCAKICAgICAgICAgICAgICAgIGl0ZW1FbGVtZW50LmdldFZhbHVlKCksIGl0ZW1FbGVtZW50LmdldFZhbHVlVHlwZSgpLCAKICAgICAgICAgICAgICAgIGl0ZW1FbGVtZW50LmlzVW5zZWxlY3RhYmxlKCkp</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLlVuaGFuZGxlZEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLk5vdFBlcmZvcm1lZEV4Y2VwdGlvbjsK</text>
       </register>
       <register name=":" type="4">
-        <text>337</text>
+        <text>192</text>
       </register>
     </registers>
     <search>
-      <last-search>entityManager_</last-search>
+      <last-search>Data</last-search>
       <last-offset />
-      <last-pattern>entityManager_</last-pattern>
+      <last-pattern>Data</last-pattern>
       <last-replace>next</last-replace>
       <last-substitute>getLink()</last-substitute>
       <last-dir>1</last-dir>
@@ -3210,8 +3211,6 @@
     </search>
     <history>
       <history-search>
-        <entry>echoEntityServiceLocal</entry>
-        <entry>EchoEntityService</entry>
         <entry>getSearchDataLa</entry>
         <entry>echoEntityServiceLocal_</entry>
         <entry>echoentity</entry>
@@ -3230,9 +3229,10 @@
         <entry>Abstract</entry>
         <entry>SelectionListElement</entry>
         <entry>entityManager_</entry>
+        <entry>SEARCH_VALUES</entry>
+        <entry>Data</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0ludGVnZXIvTWFza2VkVGV4dC9n</entry>
         <entry encoding="base64">JzwsJz5zL01hc2tlZFRleHRGaWVsZC9PbkNhbGxEaXNwYXRjaEJvbWJvQm94L2c=</entry>
         <entry encoding="base64">JzwsJz5zL09uQ2FsbERpc3BhY3RoQ29tYm9Cb3gvUmFkaW9CdXR0b24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL09uQ2FsbERpc3BhdGNoQ29tYm9Cb3gvUmFkaW9CdXR0b24vZw==</entry>
@@ -3252,6 +3252,7 @@
         <entry>983</entry>
         <entry>w</entry>
         <entry>337</entry>
+        <entry>192</entry>
       </history-cmd>
       <history-expr />
       <history-input />
