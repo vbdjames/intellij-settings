@@ -68,8 +68,8 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1513017456078">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1513181688354">
+        <mark key="'" line="844" column="7" />
       </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Main.java" timestamp="1508177466337">
         <mark key="[" line="7" column="51" />
@@ -133,13 +133,6 @@
         <mark key="]" line="3" column="51" />
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
-      </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/ear/META-INF/persistence.xml" timestamp="1513180225753">
-        <mark key="'" line="127" column="77" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="74" />
-        <mark key="^" line="137" column="61" />
-        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/civicinfo/CivicInfoLevel.java" timestamp="1507906294905">
         <mark key="[" line="24" column="68" />
@@ -550,7 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="417" column="51" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/ejb-jar-core.xml" />
       <jump line="74" column="76" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
       <jump line="104" column="26" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
       <jump line="161" column="34" filename="$USER_HOME$/Code/echo/resource/internal/ear/descriptor/jboss-core-ejb.xml" />
@@ -650,6 +642,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/ear/META-INF/persistence.xml" />
       <jump line="127" column="77" filename="$USER_HOME$/Code/echo/resource/internal/ear/META-INF/persistence.xml" />
+      <jump line="844" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -685,7 +678,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>===</text>
+        <text>isEntity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLgo=</text>
@@ -3210,9 +3203,9 @@
       </register>
     </registers>
     <search>
-      <last-search>===</last-search>
+      <last-search>isEntity</last-search>
       <last-offset />
-      <last-pattern>===</last-pattern>
+      <last-pattern>isEntity</last-pattern>
       <last-replace>next</last-replace>
       <last-substitute>getLink()</last-substitute>
       <last-dir>1</last-dir>
@@ -3234,12 +3227,12 @@
         <entry>echoentityservice</entry>
         <entry>DirectoryService</entry>
         <entry>switch</entry>
-        <entry>isEntity</entry>
         <entry>isPlaypenE</entry>
         <entry>isFormEntity</entry>
         <entry>==</entry>
         <entry>escreply</entry>
         <entry>===</entry>
+        <entry>isEntity</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0RhdGVUaW1lL0ludGVnZXIvZw==</entry>
