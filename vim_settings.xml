@@ -107,8 +107,8 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" timestamp="1513264740134">
-        <mark key="'" line="724" column="23" />
+      <file name="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" timestamp="1513267480924">
+        <mark key="'" line="886" column="23" />
         <mark key="[" line="910" column="0" />
         <mark key="]" line="910" column="0" />
         <mark key="." line="910" column="0" />
@@ -498,8 +498,8 @@
         <mark key="^" line="19" column="69" />
         <mark key="." line="19" column="69" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1513263848478">
-        <mark key="'" line="346" column="35" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" timestamp="1513267528106">
+        <mark key="'" line="457" column="26" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/util/PHelper.java" timestamp="1503671133941">
         <mark key="[" line="94" column="45" />
@@ -567,8 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="691" column="47" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="692" column="41" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="693" column="41" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="707" column="51" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="708" column="45" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -667,6 +665,8 @@
       <jump line="720" column="13" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="722" column="22" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="723" column="23" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
+      <jump line="886" column="23" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
+      <jump line="457" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -702,7 +702,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>SEARCH_DATA</text>
+        <text>searchdatalayoutitem</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8Y2xhc3M+Y29tLm1hcGNvbW11bmljYXRpb25zLmZvcm0uU2VhcmNoRGF0YUxheW91dEl0ZW08L2NsYXNzPgo=</text>
@@ -3227,9 +3227,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SEARCH_DATA</last-search>
+      <last-search>searchdatalayoutitem</last-search>
       <last-offset />
-      <last-pattern>SEARCH_DATA</last-pattern>
+      <last-pattern>searchdatalayoutitem</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3237,8 +3237,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isFormEntity</entry>
-        <entry>==</entry>
         <entry>escreply</entry>
         <entry>===</entry>
         <entry>isEntity</entry>
@@ -3257,6 +3255,8 @@
         <entry>RANK</entry>
         <entry>SearchData</entry>
         <entry>SEARCH_DATA</entry>
+        <entry>Searchdatalayoutitem</entry>
+        <entry>searchdatalayoutitem</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL09uQ2FsbERpc3BhdGNoQ29tYm9Cb3gvUmFkaW9CdXR0b24vZw==</entry>
