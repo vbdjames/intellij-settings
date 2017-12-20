@@ -62,11 +62,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1513797257203">
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1513798455725">
+        <mark key="'" line="1061" column="19" />
         <mark key="[" line="1034" column="44" />
-        <mark key="]" line="1031" column="57" />
-        <mark key="^" line="1031" column="57" />
-        <mark key="." line="1031" column="57" />
+        <mark key="]" line="1036" column="74" />
+        <mark key="^" line="1036" column="74" />
+        <mark key="." line="1036" column="74" />
       </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Main.java" timestamp="1508177466337">
         <mark key="[" line="7" column="51" />
@@ -550,12 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="917" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="903" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
-      <jump line="199" column="2" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
-      <jump line="14075" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="198" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="14079" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="14292" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
@@ -650,6 +645,12 @@
       <jump line="78" column="34" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="352" column="0" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
+      <jump line="1036" column="74" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1124" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="894" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="996" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1061" column="19" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -685,7 +686,7 @@
         <text>L</text>
       </register>
       <register name="/" type="4">
-        <text>SELECTION_LIST</text>
+        <text>isEntity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuc2V0UGFyYW1ldGVyKDMsIEVjaG9FbnRpdHlBdHRhY2htZW50VHlwZS5BVFRBQ0guZ2V0VG9rZW4oKSk7Cg==</text>
@@ -3210,9 +3211,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SELECTION_LIST</last-search>
+      <last-search>isEntity</last-search>
       <last-offset />
-      <last-pattern>SELECTION_LIST</last-pattern>
+      <last-pattern>isEntity</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3220,7 +3221,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SearchDataLayoutItem</entry>
         <entry>search</entry>
         <entry>SEARCH_DATA_COLUMN</entry>
         <entry>ECHO:</entry>
@@ -3240,6 +3240,7 @@
         <entry>FORM_SELECTION</entry>
         <entry>SELECTION_IST</entry>
         <entry>SELECTION_LIST</entry>
+        <entry>isEntity</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1NlbGVjdGlvbkxpc3QvVGV4dExvb2t1cEZpZWxkL2c=</entry>
