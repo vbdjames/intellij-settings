@@ -282,12 +282,6 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1514492681206">
-        <mark key="'" line="1119" column="0" />
-        <mark key="[" line="1177" column="13" />
-        <mark key="]" line="1180" column="56" />
-        <mark key="." line="1179" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceLocalHome.java" timestamp="1495028888789">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="17" column="60" />
@@ -414,9 +408,6 @@
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/TestMessageServiceBean.java" timestamp="1513183285553">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="71" column="55" />
-      </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1514412317619">
-        <mark key="'" line="6715" column="58" />
       </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Bulkhead.java" timestamp="1508168637388">
         <mark key="[" line="1" column="37" />
@@ -553,19 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="709" column="105" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="710" column="30" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="711" column="30" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="772" column="27" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="887" column="24" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="725" column="21" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="726" column="21" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="727" column="21" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="714" column="18" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="724" column="21" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="728" column="0" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="719" column="25" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
-      <jump line="346" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
       <jump line="268" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" />
       <jump line="917" column="0" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="893" column="0" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
@@ -612,7 +590,6 @@
       <jump line="211" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceLocal.java" />
       <jump line="1127" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="923" column="27" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1061" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="1063" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="1179" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="1057" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
@@ -651,8 +628,22 @@
       <jump line="848" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="17" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="1050" column="33" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="1119" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1194" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="13" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1294" column="56" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1298" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1305" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1307" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1310" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1154" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1008" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1061" column="23" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="1062" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="232" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceLocal.java" />
+      <jump line="1227" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="903" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -682,28 +673,28 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUHJlcGFyZSBhbmQgZXhlY3V0ZSBxdWVyeSB0aGF0IHJldHJpZXZlcyBkZXRhY2htZW50cyBmb3IKICAgICAgICAgICAgLy8gdGhlIHNwZWNpZmllZCBlbnRpdHkgYW5kIGF0dGFjaG1lbnQgdHlwZS4K</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEJhZEFyZ3VtZW50RXhjZXB0aW9uKCJFbnRpdHkgdHlwZSBbIiArIHR5cGUgKwogICAgICAgICAgICAgICAgCSJdIGlzIG5vdCB2YWxpZC4iLCBjb250ZXh0LCBpZCk7Cj4+Pj4+Pj4gOTAzNDg1MDkyLi4uIENoYW5nZSBFY2hvRW50aXR5U2VydmljZUJlYW4gZ2V0IG1ldGhvZHMgdG8gZ2V0IGZyb20gUG9zdGdyZVNRTCBvciBPcmFjbGUuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>todo-dwj</text>
+        <text>===</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETy1kd2o6IHVzZSBGb3JtRW50aXR5VHlwZSBpbnN0ZWFkIG9mIFN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgVW5oYW5kbGVkRXhjZXB0aW9uIHdoZW4gYW55IG90aGVyIGV4Y2VwdGlvbiBvY2N1cnMgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUHJlcGFyZSBhbmQgZXhlY3V0ZSBxdWVyeSB0aGF0IHJldHJpZXZlcyBkZXRhY2htZW50cyBmb3IKICAgICAgICAgICAgLy8gdGhlIHNwZWNpZmllZCBlbnRpdHkgYW5kIGF0dGFjaG1lbnQgdHlwZS4K</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEJhZEFyZ3VtZW50RXhjZXB0aW9uKCJFbnRpdHkgdHlwZSBbIiArIHR5cGUgKwogICAgICAgICAgICAgICAgCSJdIGlzIG5vdCB2YWxpZC4iLCBjb250ZXh0LCBpZCk7Cj4+Pj4+Pj4gOTAzNDg1MDkyLi4uIENoYW5nZSBFY2hvRW50aXR5U2VydmljZUJlYW4gZ2V0IG1ldGhvZHMgdG8gZ2V0IGZyb20gUG9zdGdyZVNRTCBvciBPcmFjbGUuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2o6IExpa2UgaXNFbnRpdHlBdHRhY2hlZCBmb3IgYXR0YWNoZWQgc3RhdHVzLCB0aGlzIAogICAgICAgICAgICAvLyBtZXRob2QgbmVlZHMgdG8gY2hlY2sgZXhwcmVzc2x5IHdoZXRoZXIgYW4gZW50aXR5IGlzIGRldGFjaGVkIAogICAgICAgICAgICAvLyAob3IsIHBvdGVudGlhbGx5LCBhbHNvIGV4cHJlc3NseSBmb3JtIGdyb3VwIG9yIHNjaGVkdWxlIAogICAgICAgICAgICAvLyBkaXNhYmxlZCkuIFRoYXQncyB3aGF0IHRoZSBtZXRob2QgaXQgcmVwbGFjZXMgZG9lczogY2hlY2sgCiAgICAgICAgICAgIC8vIHdoZXRoZXIgZGV0YWNoZWQuIE1ha2UgY2hhbmdlcyBjb21wYXJhYmxlIHRvIHRob3NlIG1hZGUgZm9yIAogICAgICAgICAgICAvLyBpc0VudGl0eUF0dGFjaGVkIGFuZCwgZm9yIGZvcm1zLCB0ZW1wb3JhcmlseSBjYWxsIAogICAgICAgICAgICAvLyBDdXN0b21Gb3JtU2VydmljZUJlYW4gbWV0aG9kIGlzQ3VzdG9tRm9ybURldGFjaGVkLgogICAgICAgICAgICAvLyBUZW1wb3JhcmlseSBjYWxsIEN1c3RvbUZvcm1TZXJ2aWNlIGJlYW4uIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2o6IFRoZSB1c2VzIG9mIHRoZSBvbGQgbWV0aG9kIHNlcnZlZCBleHByZXNzbHkgdG8gY2hlY2sKICAgICAgICAgICAgLy8gd2hldGhlciBhdHRhY2hlZCwgYW5kIG5vdCB3aGV0aGVyIGZvcm0gZ3JvdXAgb3Igc2NoZWR1bGUgCiAgICAgICAgICAgIC8vIGVuYWJsZWQuIEFzIGlzLCB0aGUgbWV0aG9kIGNoZWNrcyBmb3IgdGhlIGV4aXN0ZW5jZSBvZiBhbnkgCiAgICAgICAgICAgIC8vICJhdHRhY2htZW50IiBzdGF0dXMuIEkgYmVsaWV2ZSB0aGVyZSBhcmUgdHdvIG9wdGlvbnMuIFRoZSAKICAgICAgICAgICAgLy8gZmlyc3QgaXMgdG8gY2hhbmdlIHRoZSBxdWVyeSBoZXJlIHRvIGluY2x1ZGUgYSBjaGVjayBmb3IgCiAgICAgICAgICAgIC8vIGF0dGFjaG1lbnRUeXBlXyBlcXVhbCB0byBFY2hvRW50aXR5QXR0YWNobWVudFR5cGUuQVRUQUNIRUQKICAgICAgICAgICAgLy8gLmdldFRva2VuKCkuIElmIGxhdGVyIHRoZXJlIGlzIGEgbmVlZCB0byBjaGVjayB3aGV0aGVyIGFuIAogICAgICAgICAgICAvLyBlbnRpdHkgaXMgZm9ybSBncm91cCBlbmFibGVkIG9yIHNjaGVkdWxlIGVuYWJsZWQsIGFkZCAKICAgICAgICAgICAgLy8gaXNFbnRpdHlGb3JtR3JvdXBFbmFibGVkIGFuZCBpc0VudGl0eVNjaGVkdWxlRW5hYmxlZCBtZXRob2RzLiAKICAgICAgICAgICAgLy8gVGhlIG90aGVyIGlzIHRvIGFkZCBhbiBFY2hvRW50aXR5QXR0YWNobWVudFR5cGUgcGFyYW1ldGVyIGFuZCAKICAgICAgICAgICAgLy8gY29tcGFyZSBhdHRhY2htZW50VHlwZV8gd2l0aCB0aGUgcGFyYW1ldGVyIHZhbHVlLCB3aGljaCB3aWxsIAogICAgICAgICAgICAvLyBoYW5kbGUgYWxsIGN1cnJlbnQgYW5kIGZ1dHVyZSAiYXR0YWNobWVudCIgdHlwZXMuCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEJhZEFyZ3VtZW50RXhjZXB0aW9uKCJFbnRpdHkgdHlwZSBpcyBudWxsLiIsIGNvbnRleHQsCiAgICAgICAgICAgICAgICAJbnVsbCk7Cj4+Pj4+Pj4gOTAzNDg1MDkyLi4uIENoYW5nZSBFY2hvRW50aXR5U2VydmljZUJlYW4gZ2V0IG1ldGhvZHMgdG8gZ2V0IGZyb20gUG9zdGdyZVNRTCBvciBPcmFjbGUuCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3070,16 +3061,16 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUHJlcGFyZSBhbmQgZXhlY3V0ZSBxdWVyeSB0aGF0IHJldHJpZXZlcyBhY3RpdmUgYXR0YWNobWVudHMgZm9yCiAgICAgICAgICAgIC8vIHRoZSBzcGVjaWZpZWQgZW50aXR5Lgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogcmVtb3ZlIHRoaXMgb25jZSBhbGwgZm9ybXMgaGF2ZSBiZWVuIG1vdmVkIHRvIE9yYWNsZS4K</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRGF0YWJhc2VFeGNlcHRpb24gd2hlbiBhIGRhdGFiYXNlIGV4Y2VwdGlvbiBvY2N1cnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPLWR3ajogVGhlIG1ldGhvZCB0aGlzIHJlcGxhY2VzIGhhbmRsZXMgY2hlY2tpbmcgb25seQogICAgICAgICAgICAvLyBmb3IgQU1EcywgZm9ybXMsIHByb2ZpbGVzIGFuZCAoQU1EIGFuZCBmb3JtKSBzY2hlZHVsZXMsIHNvIGl0CiAgICAgICAgICAgIC8vIG11c3Qgd29yayBmb3IgdGhlc2UuIEZvciBBTURzLCBvbmx5IGZvcm0gZ3JvdXAgYW5kIHNjaGVkdWxlCiAgICAgICAgICAgIC8vIGVuYWJsZSBhcHBseSwgc28gdGhlc2UgYXJlIG5ldmVyIGF0dGFjaGVkLiBJbmNsdWRpbmcgYSBjaGVjawogICAgICAgICAgICAvLyBvZiBhdHRhY2htZW50VHlwZV8gaW4gdGhlIHF1ZXJ5IHdpbGwgZml4IHRoaXMuIFByb2ZpbGUKICAgICAgICAgICAgLy8gYXR0YWNobWVudHMgZXhpc3QgaW4gZWNob19lbnRpdHlfYXR0YWNobWVudCBhbmQgYXJlIG9ubHkKICAgICAgICAgICAgLy8gYXR0YWNoZWQsIHNvIGl0J3MgZ29vZCBmb3IgdGhlc2UuIEFkZGluZyBhIGNoZWNrIG9mCiAgICAgICAgICAgIC8vIGF0dGFjaG1lbnRUeXBlXyBmb3IgImF0dGFjaCIgd2lsbCBnaXZlIHRoZSBzYW1lIHJlc3VsdC4gVGhlCiAgICAgICAgICAgIC8vIGF0dGFjaG1lbnQgZGF0YSBmb3Igc2NoZWR1bGVzIChBTUQgYW5kIGZvcm0pIG1vdmUgdG8KICAgICAgICAgICAgLy8gZWNob19lbnRpdHlfYXR0YWNobWVudCBpbiAxLjEwLjk4LCBzbyBpdCB3b3JrcyBmb3IgdGhlc2UuIEJ1dAogICAgICAgICAgICAvLyBmb3JtIHNjaGVkdWxlcyBhbHNvIHN1cHBvcnQgdXNlIG9mIGZvcm0gZ3JvdXAgZW5hYmxlLCBzbyB0aGUKICAgICAgICAgICAgLy8gbWV0aG9kIG11c3QgY2hlY2sgYXR0YWNobWVudFR5cGVfLiBGb3IgZm9ybXMsIGV2ZW50dWFsbHkgdGhlCiAgICAgICAgICAgIC8vIHF1ZXJ5IHdpbGwgd29yaywgYnV0IHRoZSBBZG1pblNlcnZpY2VCZWFuIGNhbGxzIG9mIHRoZSBtZXRob2QKICAgICAgICAgICAgLy8gbmVlZCB0byBnZXQgdGhlIHJpZ2h0IHJlc3VsdCB3aGV0aGVyIHRoZSBmb3JtIGxpdmVzIGluCiAgICAgICAgICAgIC8vIFBvc3RncmVTUUwgb3IgT3JhY2xlLiBSaWdodCBub3cgaXQgd29ya3Mgb25seSBmb3IgZm9ybXMgaW4KICAgICAgICAgICAgLy8gT3JhY2xlLiBGb3IgZm9ybXMgb25seSwgdGVtcG9yYXJpbHkgSSBzdWdnZXN0IGNhbGxpbmcKICAgICAgICAgICAgLy8gQ3VzdG9tRm9ybVNlcnZpY2VCZWFuIG1ldGhvZCBpc0N1c3RvbUZvcm1BdHRhY2hlZC4gSXQKICAgICAgICAgICAgLy8gZGV0ZXJtaW5lcyB3aGV0aGVyIHRoZSBmb3JtIGxpdmVzIGluIFBvc3RncmVTUUwgb3IgT3JhY2xlIGFuZAogICAgICAgICAgICAvLyBjaGVja3MgaXRzIGF0dGFjaG1lbnQgc3RhdHVzIHdoZXJlIGl0IGxpdmVzLgo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRGF0YWJhc2VFeGNlcHRpb24gd2hlbiBhIGRhdGFiYXNlIGV4Y2VwdGlvbiBvY2N1cnMK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBMb2cgYW5kIHJldGhyb3cgYW4gVW5oYW5kbGVkRXhjZXB0aW9uLgogICAgICAgIGNhdGNoKFVuaGFuZGxlZEV4Y2VwdGlvbiBleGNlcHRpb24pIHsKICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3203,19 +3194,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLndhcm4oIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUHJlcGFyZSBhbmQgZXhlY3V0ZSBxdWVyeSB0aGF0IHJldHJpZXZlcyBkZXRhY2htZW50cyBmb3IKICAgICAgICAgICAgLy8gdGhlIHNwZWNpZmllZCBlbnRpdHkgYW5kIGF0dGFjaG1lbnQgdHlwZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBMb2cgYW4gVW5oYW5kbGVkRXhjZXB0aW9uIGFuZCB0cmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETy1kd2o6IExpa2UgaXNFbnRpdHlBdHRhY2hlZCBmb3IgYXR0YWNoZWQgc3RhdHVzLCB0aGlzIAogICAgICAgICAgICAvLyBtZXRob2QgbmVlZHMgdG8gY2hlY2sgZXhwcmVzc2x5IHdoZXRoZXIgYW4gZW50aXR5IGlzIGRldGFjaGVkIAogICAgICAgICAgICAvLyAob3IsIHBvdGVudGlhbGx5LCBhbHNvIGV4cHJlc3NseSBmb3JtIGdyb3VwIG9yIHNjaGVkdWxlIAogICAgICAgICAgICAvLyBkaXNhYmxlZCkuIFRoYXQncyB3aGF0IHRoZSBtZXRob2QgaXQgcmVwbGFjZXMgZG9lczogY2hlY2sgCiAgICAgICAgICAgIC8vIHdoZXRoZXIgZGV0YWNoZWQuIE1ha2UgY2hhbmdlcyBjb21wYXJhYmxlIHRvIHRob3NlIG1hZGUgZm9yIAogICAgICAgICAgICAvLyBpc0VudGl0eUF0dGFjaGVkIGFuZCwgZm9yIGZvcm1zLCB0ZW1wb3JhcmlseSBjYWxsIAogICAgICAgICAgICAvLyBDdXN0b21Gb3JtU2VydmljZUJlYW4gbWV0aG9kIGlzQ3VzdG9tRm9ybURldGFjaGVkLgogICAgICAgICAgICAvLyBUZW1wb3JhcmlseSBjYWxsIEN1c3RvbUZvcm1TZXJ2aWNlIGJlYW4uIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>todo-dwj</last-search>
+      <last-search>===</last-search>
       <last-offset />
-      <last-pattern>todo-dwj</last-pattern>
+      <last-pattern>===</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3223,18 +3214,8 @@
     </search>
     <history>
       <history-search>
-        <entry>SELECTION_LIST</entry>
-        <entry>isEntityAttached</entry>
-        <entry>isEntityDetached</entry>
-        <entry>Prepare and execute query that retrieves detachments for</entry>
-        <entry>Prepare and execute query that retrieves active attachments for</entry>
-        <entry>'template'</entry>
-        <entry>playpen</entry>
-        <entry>'playpen'</entry>
-        <entry>'template</entry>
         <entry>PLAYPEN</entry>
         <entry>TEMPLATE</entry>
-        <entry>isEntity</entry>
         <entry>entityType</entry>
         <entry>String entityType</entry>
         <entry>914</entry>
@@ -3243,10 +3224,18 @@
         <entry>toto</entry>
         <entry>todo</entry>
         <entry>todo-dwj</entry>
+        <entry>isEchoEntityAttachefd</entry>
+        <entry>template</entry>
+        <entry>is entity</entry>
+        <entry>default:</entry>
+        <entry>isEntity</entry>
+        <entry>isEchoEntityDeta</entry>
+        <entry>isEchoEntityDe</entry>
+        <entry>isEntityDet</entry>
+        <entry>isEntityDe</entry>
+        <entry>===</entry>
       </history-search>
       <history-cmd>
-        <entry>11536</entry>
-        <entry>983</entry>
         <entry>337</entry>
         <entry>192</entry>
         <entry encoding="base64">JzwsJz5zL1NFQVJDSF9EQVRBL0VDSE86U0VBUkNIX0RBVEEvZw==</entry>
@@ -3263,8 +3252,10 @@
         <entry>972</entry>
         <entry>893</entry>
         <entry>914</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>1103</entry>
+        <entry>1100</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
