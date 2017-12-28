@@ -282,6 +282,9 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1514489800877">
+        <mark key="'" line="848" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceLocalHome.java" timestamp="1495028888789">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="17" column="60" />
@@ -547,7 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="34" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="704" column="25" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="707" column="20" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="709" column="105" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
@@ -647,6 +649,7 @@
       <jump line="6846" column="53" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="7001" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6715" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="848" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -682,7 +685,7 @@
         <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>mds.history</text>
+        <text>todo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vVE9ETy1kd2o6IHVzZSBGb3JtRW50aXR5VHlwZSBpbnN0ZWFkIG9mIFN0cmluZwo=</text>
@@ -3207,9 +3210,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mds.history</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern>mds.history</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3217,8 +3220,6 @@
     </search>
     <history>
       <history-search>
-        <entry>form_selection</entry>
-        <entry>FORM_SELECTION</entry>
         <entry>SELECTION_IST</entry>
         <entry>SELECTION_LIST</entry>
         <entry>isEntityAttached</entry>
@@ -3235,8 +3236,10 @@
         <entry>entityType</entry>
         <entry>String entityType</entry>
         <entry>914</entry>
-        <entry>TODO-dwj</entry>
         <entry>mds.history</entry>
+        <entry>TODO-dwj</entry>
+        <entry>toto</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
         <entry>11536</entry>
