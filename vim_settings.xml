@@ -12,13 +12,6 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceLocal.java" timestamp="1514410119657">
-        <mark key="'" line="211" column="33" />
-        <mark key="[" line="229" column="43" />
-        <mark key="]" line="229" column="49" />
-        <mark key="." line="229" column="49" />
-        <mark key="^" line="229" column="49" />
-      </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Main.java" timestamp="1508177466337">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="51" />
@@ -289,12 +282,6 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1514410252677">
-        <mark key="'" line="1169" column="15" />
-        <mark key="[" line="1147" column="0" />
-        <mark key="]" line="1147" column="0" />
-        <mark key="." line="1147" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormPostgresServiceLocalHome.java" timestamp="1495028888789">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="17" column="60" />
@@ -422,6 +409,9 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="71" column="55" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1514412317619">
+        <mark key="'" line="6715" column="58" />
+      </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Bulkhead.java" timestamp="1508168637388">
         <mark key="[" line="1" column="37" />
         <mark key="]" line="2" column="22" />
@@ -548,10 +538,6 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" timestamp="1514410162980">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10415" column="97" />
-        <mark key="]" line="10415" column="86" />
-        <mark key="^" line="10415" column="86" />
-        <mark key="." line="10415" column="86" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CurrencyFieldElement.java" timestamp="1511877014582">
         <mark key="[" line="11" column="0" />
@@ -561,10 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" />
-      <jump line="262" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" />
-      <jump line="456" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomForm.hbm.xml" />
-      <jump line="422" column="61" filename="$USER_HOME$/Code/echo/src/test/com/mapcommunications/form/TestCustomFormPersistence.java" />
       <jump line="27" column="34" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="704" column="25" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="707" column="20" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
@@ -661,6 +643,10 @@
       <jump line="1052" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="1111" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="1169" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="111" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6846" column="53" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="7001" column="26" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="6715" column="58" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -696,7 +682,7 @@
         <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>TODO-dwj</text>
+        <text>mds.history</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vVE9ETy1kd2o6IHVzZSBGb3JtRW50aXR5VHlwZSBpbnN0ZWFkIG9mIFN0cmluZwo=</text>
@@ -3217,13 +3203,13 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gVmVyaWZ5IHRoYXQgZW50aXR5IHR5cGUgaXMgdmFsaWQuCiAgICAgICAgICAgIEZvcm1FbnRpdHlUeXBlIGZvcm1FbnRpdHlUeXBlID0gdGhpcy5lY2hvRW50aXR5VHlwZU1hcF8uZ2V0KGVudGl0eVR5cGUpOwogICAgICAgICAgICBpZiAoZm9ybUVudGl0eVR5cGUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgQmFkQXJndW1lbnRFeGNlcHRpb24ubmV3SW5zdGFuY2UoImNhbm5vdCBkZXRlcm1pbmUgaWYgIiArCiAgICAgICAgICAgICAgICAgICAgImVudGl0eSBpcyBkZXRhY2hlZDsgZW50aXR5IHR5cGUgWyIgKyBlbnRpdHlUeXBlICsgIl0gcHJvdmlkZWQgIiArCiAgICAgICAgICAgICAgICAgICAgImlzIG5vdCB2YWxpZC4iLCBjb250ZXh0KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO-dwj</last-search>
+      <last-search>mds.history</last-search>
       <last-offset />
-      <last-pattern>TODO-dwj</last-pattern>
+      <last-pattern>mds.history</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3231,7 +3217,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selection_list</entry>
         <entry>form_selection</entry>
         <entry>FORM_SELECTION</entry>
         <entry>SELECTION_IST</entry>
@@ -3251,9 +3236,9 @@
         <entry>String entityType</entry>
         <entry>914</entry>
         <entry>TODO-dwj</entry>
+        <entry>mds.history</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2dldExpbmsoKS9uZXh0L2c=</entry>
         <entry>11536</entry>
         <entry>983</entry>
         <entry>337</entry>
@@ -3273,6 +3258,7 @@
         <entry>893</entry>
         <entry>914</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
