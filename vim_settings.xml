@@ -275,6 +275,9 @@
         <mark key="^" line="85" column="57" />
         <mark key="." line="85" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethod.java" timestamp="1514925546217">
+        <mark key="'" line="30" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1512574680378">
         <mark key="'" line="183" column="0" />
         <mark key="[" line="0" column="36" />
@@ -544,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/SearchDataLayoutItem.java" />
       <jump line="917" column="0" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="893" column="0" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/resource/internal/testing/create-db.sql" />
@@ -644,6 +646,7 @@
       <jump line="1227" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="903" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethod.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -679,7 +682,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>===</text>
+        <text>equals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgVW5oYW5kbGVkRXhjZXB0aW9uIHdoZW4gYW55IG90aGVyIGV4Y2VwdGlvbiBvY2N1cnMgCg==</text>
@@ -3204,9 +3207,9 @@
       </register>
     </registers>
     <search>
-      <last-search>===</last-search>
+      <last-search>equals</last-search>
       <last-offset />
-      <last-pattern>===</last-pattern>
+      <last-pattern>equals</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3214,7 +3217,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PLAYPEN</entry>
         <entry>TEMPLATE</entry>
         <entry>entityType</entry>
         <entry>String entityType</entry>
@@ -3234,6 +3236,7 @@
         <entry>isEntityDet</entry>
         <entry>isEntityDe</entry>
         <entry>===</entry>
+        <entry>equals</entry>
       </history-search>
       <history-cmd>
         <entry>337</entry>
