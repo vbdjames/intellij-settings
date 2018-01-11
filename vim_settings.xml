@@ -715,7 +715,7 @@
         <text>.getToken()</text>
       </register>
       <register name="/" type="4">
-        <text>isEntity</text>
+        <text>getTriLevelS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgVW5oYW5kbGVkRXhjZXB0aW9uIHdoZW4gYW55IG90aGVyIGV4Y2VwdGlvbiBvY2N1cnMgCg==</text>
@@ -3240,9 +3240,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isEntity</last-search>
+      <last-search>getTriLevelS</last-search>
       <last-offset />
-      <last-pattern>isEntity</last-pattern>
+      <last-pattern>getTriLevelS</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3250,7 +3250,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isEchoEntityAttachefd</entry>
         <entry>template</entry>
         <entry>is entity</entry>
         <entry>default:</entry>
@@ -3270,6 +3269,7 @@
         <entry>HEAD</entry>
         <entry>isFormEntity</entry>
         <entry>isEntity</entry>
+        <entry>getTriLevelS</entry>
       </history-search>
       <history-cmd>
         <entry>1267</entry>
