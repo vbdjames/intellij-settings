@@ -24,6 +24,9 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceLocal.java" timestamp="1515773984909">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/kata-bootstraps/java/maven/src/test/java/net/example/ExampleTest.java" timestamp="1491590692411">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="12" column="3" />
@@ -48,6 +51,7 @@
         <mark key="^" line="38" column="71" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceBean.java" timestamp="1515773914769" />
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Seat.java" timestamp="1508168910078">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="0" />
@@ -580,8 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="468" column="54" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="542" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="1032" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="1092" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
@@ -680,6 +682,8 @@
       <jump line="9206" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="9547" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="9549" column="41" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
+      <jump line="955" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceLocal.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/form/CustomFormServiceLocal.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -715,7 +719,7 @@
         <text>.getToken()</text>
       </register>
       <register name="/" type="4">
-        <text>getTriLevelS</text>
+        <text>getCustomFormInfo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgVW5oYW5kbGVkRXhjZXB0aW9uIHdoZW4gYW55IG90aGVyIGV4Y2VwdGlvbiBvY2N1cnMgCg==</text>
@@ -3240,9 +3244,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTriLevelS</last-search>
+      <last-search>getCustomFormInfo</last-search>
       <last-offset />
-      <last-pattern>getTriLevelS</last-pattern>
+      <last-pattern>getCustomFormInfo</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3250,7 +3254,6 @@
     </search>
     <history>
       <history-search>
-        <entry>template</entry>
         <entry>is entity</entry>
         <entry>default:</entry>
         <entry>isEchoEntityDeta</entry>
@@ -3270,6 +3273,7 @@
         <entry>isFormEntity</entry>
         <entry>isEntity</entry>
         <entry>getTriLevelS</entry>
+        <entry>getCustomFormInfo</entry>
       </history-search>
       <history-cmd>
         <entry>1267</entry>
