@@ -297,11 +297,12 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethod.java" timestamp="1514925546217">
         <mark key="'" line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1516213287774">
-        <mark key="'" line="14365" column="8" />
-        <mark key="[" line="5501" column="62" />
-        <mark key="]" line="5545" column="0" />
-        <mark key="." line="5545" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1516214597831">
+        <mark key="'" line="4898" column="30" />
+        <mark key="[" line="5546" column="0" />
+        <mark key="]" line="5546" column="0" />
+        <mark key="." line="5546" column="0" />
+        <mark key="^" line="5545" column="24" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1515430283222">
         <mark key="'" line="12" column="27" />
@@ -589,17 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1157" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1393" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1201" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="920" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1009" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="197" column="51" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1031" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1156" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1147" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1052" column="14" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
-      <jump line="1111" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="1169" column="15" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" />
       <jump line="111" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
       <jump line="6846" column="53" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
@@ -689,6 +679,17 @@
       <jump line="14316" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="1046" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/formgroup/FormGroupEditorFrame.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/formgroup/FormGroupEditorFrame.java" />
+      <jump line="126" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="1008" column="47" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="4827" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="4834" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="4844" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="4845" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="4846" column="43" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="4868" column="29" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="4890" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="4898" column="30" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -717,17 +718,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c2NoZWR1bGVzID0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2NoZWR1bGVzID0g</text>
+        <text>Invoking</text>
       </register>
       <register name="/" type="4">
-        <text>took</text>
+        <text>getForms</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGb3IgZWFjaCBhdmFpbGFibGUgZm9ybSBzY2hlZHVsZSwgZGV0ZXJtaW5lIHdoZXRoZXIgaXQgdXNlcyBhCiAgICAgICAgLy8gdHJpLWxldmVsIGZvcm0gaW4gd2hpY2ggYSBzZWxlY3Rpb24gcmVwcmVzZW50cyB0aGUgc2FtZSBzZXJ2aWNlIGl0ZW0KICAgICAgICAvLyBhcyB0aGUgb3duZXIgb2YgdGhlIGZvcm0gZ3JvdXAuCg==</text>
+      <register name="0" type="4">
+        <text>getFormSchedulesWhichUseTriLevelFormsWhichReferenceOwner</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -736,10 +737,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0dHRVIuZmluZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2NoZWR1bGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5maW5lKCJHZXR0aW5nIGFkbWluU2VydmljZVJlZiIpOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3106,16 +3107,16 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgICAgICBmb3IgZWFjaCBmb3JtIHNjaGVkdWxlCiAgICAgICAgICAgICAgICAqKmhpdCBtaWRkbGV3YXJlIGFuZCBnZXQgdGhlIGluc3RydWN0aW9ucwogICAgICAgICAgICAgICAgZm9yIGVhY2ggaW5zdHJ1Y3Rpb24KICAgICAgICAgICAgICAgICAgICAqKmhpdCB0aGUgbWlkZGxld2FyZSBhbmQgZ2V0RWNob0VudGl0eUluZm8KICAgICAgICAgICAgICAgICAgICBpZiB0aGUgZW50aXR5IGlzIGEgdHJpbGV2ZWwKICAgICAgICAgICAgICAgICAgICAgICAgKipoaXQgdGhlIG1pZGRsZXdhcmUgYW5kIGdldCBzZWxlY3Rpb25zCiAgICAgICAgICAgICAgICAgICAgICAgIGZvciBlYWNoIHNlbGVjdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF5YmUgYWRkIGl0IHRvIG91ciBsaXN0CiAgICAgICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2NoZWR1bGVzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U2NoZWR1bGVJbmZvLEN1c3RvbUZvcm1JbmZvPiBnZXRGb3JtU2NoZWR1bGVzV2hpY2hVc2VUcmlMZXZlbEZvcm1zV2hpY2hSZWZlcmVuY2VPd25lcihMaXN0PFNjaGVkdWxlSW5mbz4gYXZhaWxhYmxlRm9ybVNjaGVkdWxlcywgU3RyaW5nIHR5cGUsIFN0cmluZyBudW1iZXIpIHsKICAgICAgICBNYXA8U2NoZWR1bGVJbmZvLCBDdXN0b21Gb3JtSW5mbz4gc2NoZWR1bGVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIAogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgICAgICBmb3IgZWFjaCBmb3JtIHNjaGVkdWxlCiAgICAgICAgICAgICAgICAqKmhpdCBtaWRkbGV3YXJlIGFuZCBnZXQgdGhlIGluc3RydWN0aW9ucwogICAgICAgICAgICAgICAgZm9yIGVhY2ggaW5zdHJ1Y3Rpb24KICAgICAgICAgICAgICAgICAgICAqKmhpdCB0aGUgbWlkZGxld2FyZSBhbmQgZ2V0RWNob0VudGl0eUluZm8KICAgICAgICAgICAgICAgICAgICBpZiB0aGUgZW50aXR5IGlzIGEgdHJpbGV2ZWwKICAgICAgICAgICAgICAgICAgICAgICAgKipoaXQgdGhlIG1pZGRsZXdhcmUgYW5kIGdldCBzZWxlY3Rpb25zCiAgICAgICAgICAgICAgICAgICAgICAgIGZvciBlYWNoIHNlbGVjdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF5YmUgYWRkIGl0IHRvIG91ciBsaXN0CiAgICAgICAgICovCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3239,19 +3240,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5hZG1pblNlcnZpY2UKICAgICAgICAgICAgLmdldEZvcm1TY2hlZHVsZXNXaGljaFVzZVRyaUxldmVsRm9ybXNXaGljaFJlZmVyZW5jZU93bmVyCiAgICAgICAgICAgICAgICAoYXZhaWxhYmxlRm9ybVNjaGVkdWxlcywgdGhpcy5mb3JtR3JvdXAuZ2V0VHlwZSgpLCB0aGlzCiAgICAgICAgICAgICAgICAgICAgLmZvcm1Hcm91cC5nZXROdW1iZXIoKSk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW50aXR5VHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IEJhZEFyZ3VtZW50RXhjZXB0aW9uLm5ld0luc3RhbmNlKCJlbnRpdHkgdHlwZSBbIiArIHR5cGUgKwogICAgICAgICAgICAgICAgIl0gaXMgbm90IHZhbGlkLiIsIGNvbnRleHQpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>took</last-search>
+      <last-search>getForms</last-search>
       <last-offset />
-      <last-pattern>took</last-pattern>
+      <last-pattern>getForms</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3259,8 +3260,6 @@
     </search>
     <history>
       <history-search>
-        <entry>default:</entry>
-        <entry>isEchoEntityDeta</entry>
         <entry>isEchoEntityDe</entry>
         <entry>isEntityDet</entry>
         <entry>isEntityDe</entry>
@@ -3279,6 +3278,8 @@
         <entry>getTriLevelS</entry>
         <entry>getCustomFormInfo</entry>
         <entry>took</entry>
+        <entry>getForm</entry>
+        <entry>getForms</entry>
       </history-search>
       <history-cmd>
         <entry>1267</entry>
