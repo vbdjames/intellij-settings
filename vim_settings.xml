@@ -170,11 +170,11 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/echo/resource/internal/ear/xmdesc/ScheduledServiceQueueTestService-xmbean.xml" timestamp="1517239837529">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="45" />
-        <mark key="^" line="12" column="45" />
-        <mark key="." line="12" column="45" />
+      <file name="$USER_HOME$/Code/echo/resource/internal/ear/xmdesc/ScheduledServiceQueueTestService-xmbean.xml" timestamp="1517240766489">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/directory/DirectoryContactBuilder.java" timestamp="1492181202664">
         <mark key="[" line="51" column="0" />
@@ -286,6 +286,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="25" column="13" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceQueueTestServiceBean.java" timestamp="1517241097373">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+        <mark key="." line="9" column="52" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1516742535744">
         <mark key="'" line="1347" column="47" />
@@ -498,11 +504,11 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceQueueConnector.java" timestamp="1517001697081">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="39" column="38" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceQueueConnector.java" timestamp="1517241455332">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
         <mark key="^" line="39" column="38" />
-        <mark key="." line="39" column="38" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/MessageDeliveryBuilder.java" timestamp="1492188017607">
         <mark key="[" line="8" column="21" />
@@ -622,9 +628,9 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallMessageFailureQueueConnector.java" timestamp="1516981543489">
-        <mark key="[" line="66" column="37" />
-        <mark key="]" line="66" column="37" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallMessageFailureQueueConnector.java" timestamp="1517241445611">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="61" />
         <mark key="^" line="66" column="38" />
         <mark key="." line="66" column="37" />
       </file>
@@ -786,7 +792,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlc291cmNlLXJlZj4KICAgICAgICAgICAgICAgIDxyZXMtcmVmLW5hbWU+am1zL1NjaGVkdWxlZFNlcnZpY2VRdWV1ZTwvcmVzLXJlZi1uYW1lPgogICAgICAgICAgICAgICAgPGpuZGktbmFtZT5qbnA6Ly8ke2pib3NzLmJpbmQuYWRkcmVzc306MTEwMC9xdWV1ZS9TY2hlZHVsZWRTZXJ2aWNlUXVldWU8L2puZGktbmFtZT4KICAgICAgICAgICAgPC9yZXNvdXJjZS1yZWY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4Lmxvb2t1cCgiamF2YTpjb21wL2Vudi9qbXMvQ29ubmVjdGlvbkZhY3RvcnkiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>Generates and stores custom form ECHO entity warnings.</text>
@@ -795,19 +801,19 @@
         <text>CallMessageFailureQueue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb25uZWN0b3JfID0gbmV3IFNjaGVkdWxlZFNlcnZpY2VRdWV1ZUNvbm5lY3RvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBRdWV1ZUNvbm5lY3Rpb25GYWN0b3J5IHFjZiA9IChRdWV1ZUNvbm5lY3Rpb25GYWN0b3J5KSAKICAgICAgICAgICAgY3R4Lmxvb2t1cCgiamF2YTpjb21wL2Vudi9qbXMvQ29ubmVjdGlvbkZhY3RvcnkiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlc291cmNlLXJlZj4KICAgICAgICAgICAgICAgIDxyZXMtcmVmLW5hbWU+am1zL1NjaGVkdWxlZFNlcnZpY2VRdWV1ZTwvcmVzLXJlZi1uYW1lPgogICAgICAgICAgICAgICAgPGpuZGktbmFtZT5qbnA6Ly8ke2pib3NzLmJpbmQuYWRkcmVzc306MTEwMC9xdWV1ZS9TY2hlZHVsZWRTZXJ2aWNlUXVldWU8L2puZGktbmFtZT4KICAgICAgICAgICAgPC9yZXNvdXJjZS1yZWY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4Lmxvb2t1cCgiamF2YTpjb21wL2Vudi9qbXMvQ29ubmVjdGlvbkZhY3RvcnkiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlc291cmNlLXJlZj4KICAgICAgICAgICAgICAgIDxyZXMtcmVmLW5hbWU+am1zL1NjaGVkdWxlZFNlcnZpY2VRdWV1ZTwvcmVzLXJlZi1uYW1lPgogICAgICAgICAgICAgICAgPHJlcy10eXBlPmphdmF4Lmptcy5RdWV1ZTwvcmVzLXR5cGU+CiAgICAgICAgICAgICAgICA8cmVzLWF1dGg+Q29udGFpbmVyPC9yZXMtYXV0aD4KICAgICAgICAgICAgPC9yZXNvdXJjZS1yZWY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBRdWV1ZUNvbm5lY3Rpb25GYWN0b3J5IHFjZiA9IChRdWV1ZUNvbm5lY3Rpb25GYWN0b3J5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFNjaGVkdWxlZFNlcnZpY2VRdWV1ZVRlc3RCZWFuIGltcGxlbWVudHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3174,16 +3180,16 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBjcmVhdGUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNlcnZpY2VPbmUgLSBDcmVhdGluZyIpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHN0YXJ0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTZXJ2aWNlT25lIC0gU3RhcnRpbmciKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzdG9wKCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU2VydmljZU9uZSAtIFN0b3BwaW5nIik7CiAgICB9CgogICAgcHVibGljIHZvaWQgZGVzdHJveSgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNlcnZpY2VPbmUgLSBEZXN0cm95aW5nIik7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNyZWF0ZSgpIHRocm93cyBKTVNFeGNlcHRpb24sIE5hbWluZ0V4Y2VwdGlvbiB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbiBjcmVhdGUiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlc291cmNlLXJlZj4KICAgICAgICAgICAgICAgIDxyZXMtcmVmLW5hbWU+am1zL1NjaGVkdWxlZFNlcnZpY2VRdWV1ZTwvcmVzLXJlZi1uYW1lPgogICAgICAgICAgICAgICAgPGpuZGktbmFtZT5qbnA6Ly8ke2pib3NzLmJpbmQuYWRkcmVzc306MTEwMC9xdWV1ZS9TY2hlZHVsZWRTZXJ2aWNlUXVldWU8L2puZGktbmFtZT4KICAgICAgICAgICAgPC9yZXNvdXJjZS1yZWY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbm5lY3Rvcl8gPSBuZXcgU2NoZWR1bGVkU2VydmljZVF1ZXVlQ29ubmVjdG9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlc291cmNlLXJlZj4KICAgICAgICAgICAgICAgIDxyZXMtcmVmLW5hbWU+am1zL1NjaGVkdWxlZFNlcnZpY2VRdWV1ZTwvcmVzLXJlZi1uYW1lPgogICAgICAgICAgICAgICAgPHJlcy10eXBlPmphdmF4Lmptcy5RdWV1ZTwvcmVzLXR5cGU+CiAgICAgICAgICAgICAgICA8cmVzLWF1dGg+Q29udGFpbmVyPC9yZXMtYXV0aD4KICAgICAgICAgICAgPC9yZXNvdXJjZS1yZWY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmVqYi5DcmVhdGVFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFNjaGVkdWxlZFNlcnZpY2VRdWV1ZVRlc3RCZWFuIGltcGxlbWVudHMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3307,10 +3313,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGVqYkNyZWF0ZSgpIHRocm93cyBDcmVhdGVFeGNlcHRpb24gewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHRoaXMuY29ubmVjdG9yXyA9IG5ldyBTY2hlZHVsZWRTZXJ2aWNlUXVldWVDb25uZWN0b3IoKTsKICAgICAgICB9IGNhdGNoIChOYW1pbmdFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKEpNU0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBjcmVhdGUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNlcnZpY2VPbmUgLSBDcmVhdGluZyIpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHN0YXJ0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTZXJ2aWNlT25lIC0gU3RhcnRpbmciKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzdG9wKCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU2VydmljZU9uZSAtIFN0b3BwaW5nIik7CiAgICB9CgogICAgcHVibGljIHZvaWQgZGVzdHJveSgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlNlcnZpY2VPbmUgLSBEZXN0cm95aW5nIik7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNyZWF0ZSgpIHRocm93cyBKTVNFeGNlcHRpb24sIE5hbWluZ0V4Y2VwdGlvbiB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbiBjcmVhdGUiKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
