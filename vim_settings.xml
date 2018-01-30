@@ -347,12 +347,12 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethod.java" timestamp="1514925546217">
         <mark key="'" line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1517344683268">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1517346087068">
+        <mark key="'" line="5562" column="50" />
         <mark key="[" line="10188" column="28" />
-        <mark key="]" line="10188" column="27" />
-        <mark key="." line="10188" column="27" />
-        <mark key="^" line="10188" column="27" />
+        <mark key="]" line="251" column="12" />
+        <mark key="." line="251" column="12" />
+        <mark key="^" line="251" column="12" />
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/echoentity/EchoEntityServiceBean.java" timestamp="1515430283222">
         <mark key="'" line="12" column="27" />
@@ -662,13 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2579" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2580" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2581" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2582" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2583" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2584" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2585" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2586" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2587" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2588" column="44" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -762,6 +755,13 @@
       <jump line="6532" column="44" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="10159" column="36" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="251" column="12" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="5518" column="45" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="5529" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="5539" column="79" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="5541" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="5543" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
+      <jump line="5562" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -797,7 +797,7 @@
         <text>schedules</text>
       </register>
       <register name="/" type="4">
-        <text>getFormSchedulesW</text>
+        <text>WhichReference</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB3aGlsZSAocmV0cnkpIHsKICAgICAgICAgICAgICAgICsrYXR0ZW1wdENvdW50OwogICAgICAgICAgICAgICAgTE9HR0VSLmZpbmUoIkF0dGVtcHQgIiArIEludGVnZXIudG9TdHJpbmcoYXR0ZW1wdENvdW50KSk7CgogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBMT0dHRVIuZmluZSgiR2V0dGluZyBhZG1pblNlcnZpY2VSZWYiKTsKICAgICAgICAgICAgICAgICAgICByZWYgPSB0aGlzLmFkbWluU2VydmljZVJlZi5nZXRSZWYoKTsKICAgICAgICAgICAgICAgICAgICBMT0dHRVIuZmluZSgiSW52b2tpbmcgZ2V0Rm9ybVNjaGVkdWxlc1doaWNoVXNlVHJpTGV2ZWxGb3Jtc1doaWNoUmVmZXJlbmNlT3duZXIiKTsKICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZXMgPSByZWYKICAgICAgICAgICAgICAgICAgICAgICAgLmdldEZvcm1TY2hlZHVsZXNXaGljaFVzZVRyaUxldmVsRm9ybXNXaGljaFJlZmVyZW5jZU93bmVyKGF2YWlsYWJsZUZvcm1TY2hlZHVsZXMsIGZvcm1Hcm91cE51bWJlciwgZm9ybUdyb3VwVHlwZSk7CiAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmZpbmUoIkNvbXBsZXRlZCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgImdldEZvcm1TY2hlZHVsZXNXaGljaFVzZVRyaUxldmVsRm9ybXNXaGljaFJlZmVyZW5jZU93bmVyIik7CiAgICAgICAgICAgICAgICAgICAgcmV0cnkgPSBmYWxzZTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBleGNlcHRpb24pIHsKICAgICAgICAgICAgICAgICAgICByZXRyeSA9IGF0dGVtcHRDb3VudCA8IG1heEF0dGVtcHRDb3VudCAmJgogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnJlc3RvcmVBZG1pblNlcnZpY2VSZWYoZXhjZXB0aW9uKTsKICAgICAgICAgICAgICAgICAgICBpZiAoIXJldHJ5KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuaGFuZGxlUmVtb3RlRXhjZXB0aW9uKGV4Y2VwdGlvbik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGNhdGNoIChOb3RQZXJmb3JtZWRFeGNlcHRpb24gZXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICB0aHJvdyhleGNlcHRpb24pOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoVGhyb3dhYmxlIHRocm93YWJsZSkgewogICAgICAgICAgICB0aHJvdyhuZXcgVW5oYW5kbGVkRXhjZXB0aW9uKHRocm93YWJsZSkpOwogICAgICAgIH0KCiAgICAgICAgTE9HR0VSLmluZm8oIkxlYXZpbmcgIiArCiAgICAgICAgICAgICJnZXRGb3JtU2NoZWR1bGVzV2hpY2hVc2VUcmlMZXZlbEZvcm1zV2hpY2hSZWZlcmVuY2VPd25lciIpOwo=</text>
@@ -3322,9 +3322,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getFormSchedulesW</last-search>
+      <last-search>WhichReference</last-search>
       <last-offset />
-      <last-pattern>getFormSchedulesW</last-pattern>
+      <last-pattern>WhichReference</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3332,7 +3332,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ScheduledService</entry>
         <entry>CallMessageFailureQueue</entry>
         <entry>getMessageRetreival</entry>
         <entry>getMess</entry>
@@ -3352,6 +3351,7 @@
         <entry>getTriLevel</entry>
         <entry>getTriLevelF</entry>
         <entry>getFormSchedulesW</entry>
+        <entry>WhichReference</entry>
       </history-search>
       <history-cmd>
         <entry>1292</entry>
