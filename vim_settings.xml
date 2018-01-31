@@ -352,6 +352,10 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethod.java" timestamp="1514925546217">
         <mark key="'" line="30" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatcherNotesFrame.java" timestamp="1517425411799">
+        <mark key="'" line="90" column="34" />
+        <mark key="[" line="69" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceProxy.java" timestamp="1517417691533">
         <mark key="'" line="10153" column="5" />
         <mark key="[" line="5519" column="72" />
@@ -520,6 +524,7 @@
         <mark key="^" line="39" column="38" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/FormEditorFrame.java" timestamp="1517425144509" />
       <file name="$USER_HOME$/Code/echo/src/test/com/mapcommunications/message/MessageDeliveryBuilder.java" timestamp="1492188017607">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="23" column="26" />
@@ -674,10 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="66" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="212" column="66" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="217" column="66" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
-      <jump line="247" column="50" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="1053" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
       <jump line="1032" column="28" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/call/CallServiceBean.java" />
@@ -774,6 +775,10 @@
       <jump line="6542" column="5" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="4616" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="211" column="46" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/RemoteAgentAdminFrame.java" />
+      <jump line="88" column="3" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatcherNotesFrame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatcherNotesFrame.java" />
+      <jump line="28" column="48" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatcherNotesFrame.java" />
+      <jump line="90" column="34" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/manualdispatch/ui/ManualDispatcherNotesFrame.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -809,7 +814,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>getTriLevelFormsW</text>
+        <text>adminFrame</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGF2YWlsYWJsZUZvcm1TY2hlZHVsZXMgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgQmFkQXJndW1lbnRFeGNlcHRpb24ubmV3SW5zdGFuY2UoIkxpc3Qgb2YgYXZhaWxhYmxlICIgKwogICAgICAgICAgICAgICAgICAgICJmb3JtIHNjaGVkdWxlcyBpcyBudWxsLiIsIGNvbnRleHQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChvd25lckZvcm1Hcm91cFR5cGUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgQmFkQXJndW1lbnRFeGNlcHRpb24ubmV3SW5zdGFuY2UoIk93bmVyIGZvcm0gZ3JvdXAgIiArCiAgICAgICAgICAgICAgICAgICAgInR5cGUgaXMgbnVsbC4iLCBjb250ZXh0KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAob3duZXJGb3JtR3JvdXBOdW1iZXIgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgQmFkQXJndW1lbnRFeGNlcHRpb24ubmV3SW5zdGFuY2UoIk93bmVyIGZvcm0gZ3JvdXAgIiArCiAgICAgICAgICAgICAgICAgICAgIm51bWJlciBpcyBudWxsLiIsIGNvbnRleHQpOwogICAgICAgICAgICB9Cg==</text>
@@ -3334,9 +3339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTriLevelFormsW</last-search>
+      <last-search>adminFrame</last-search>
       <last-offset />
-      <last-pattern>getTriLevelFormsW</last-pattern>
+      <last-pattern>adminFrame</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3344,7 +3349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enqueue</entry>
         <entry>dwj</entry>
         <entry>getFormSchedules</entry>
         <entry>adminService</entry>
@@ -3364,6 +3368,7 @@
         <entry>getFormSchedulesW</entry>
         <entry>GetTriLevelFormsW</entry>
         <entry>getTriLevelFormsW</entry>
+        <entry>adminFrame</entry>
       </history-search>
       <history-cmd>
         <entry>1292</entry>
