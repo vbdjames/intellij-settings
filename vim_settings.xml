@@ -239,8 +239,8 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1518018864774">
-        <mark key="'" line="563" column="24" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1518030467169">
+        <mark key="'" line="2791" column="17" />
       </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/FirstClass.java" timestamp="1508168524918">
         <mark key="[" line="6" column="0" />
@@ -586,8 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1872" column="45" filename="$USER_HOME$/Code/echo/build.xml" />
-      <jump line="2252" column="71" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2253" column="55" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2628" column="48" filename="$USER_HOME$/Code/echo/build.xml" />
       <jump line="2771" column="63" filename="$USER_HOME$/Code/echo/build.xml" />
@@ -686,6 +684,8 @@
       <jump line="191" column="35" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="205" column="18" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="563" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="564" column="49" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="2791" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -721,7 +721,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>ActiveCheckMinuteInterval</text>
+        <text>latest_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyB0aGUgc3BlY2lmaWVkIFNjaGVkdWxlZCBTZXJ2aWNlIGZvciB0aGUgc3BlY2lmaWVkIHJlcXVlc3Rvci4KICAgICAqIAogICAgICogQHBhcmFtIGlkIExvbmcgY29udGFpbmluZyBkYXRhYmFzZSBJRCBvZiBTY2hlZHVsZWQgU2VydmljZQogICAgICogQHBhcmFtIGxvY2sgdHJ1ZSB0byBsb2NrIFNjaGVkdWxlZCBTZXJ2aWNlLCBhbmQgZmFsc2UgdG8gbm90IGxvY2sKICAgICAqIEBwYXJhbSB1c2VybmFtZSBTdHJpbmcgY29udGFpbmluZyB1c2VybmFtZSBvZiByZXF1ZXN0b3IKICAgICAgICAqIEByZXR1cm4gU2NoZWR1bGVkU2VydmljZSBjb250YWluaW5nIFNjaGVkdWxlZCBTZXJ2aWNlCiAgICAgKiBAdGhyb3dzIGNvbS5tYXBjb21tdW5pY2F0aW9ucy5sYW5nLk5vdEZvdW5kRXhjZXB0aW9uIHdoZW4gbm8gU2NoZWR1bGVkCiAgICAgKiAgICAgICAgIFNlcnZpY2UgZXhpc3RzIGZvciB0aGUgZGF0YWJhc2UgSUQKICAgICAqIEB0aHJvd3MgY29tLm1hcGNvbW11bmljYXRpb25zLmxhbmcuTm90UGVyZm9ybWVkRXhjZXB0aW9uLCB3aGljaCBpbmNsdWRlcwogICAgICogICAgICAgICBCYWRBcmd1bWVudEV4Y2VwdGlvbiwgd2hlbiBhbnkgcGFyYW1ldGVyIGlzIG51bGwKICAgICAqIEB0aHJvd3MgY29tLm1hcGNvbW11bmljYXRpb25zLmxhbmcuVW5oYW5kbGVkRXhjZXB0aW9uLCB3aGljaCBpbmNsdWRlcwogICAgICogICAgICAgICBEYXRhYmFzZUV4Y2VwdGlvbiwgd2hlbiB1bmFibGUgdG8gbG9jayBTY2hlZHVsZWQgU2VydmljZSBvciBhCiAgICAgKiAgICAgICAgIGRhdGFiYXNlIGV4Y2VwdGlvbiBvY2N1cnMKICAgICAqLwo=</text>
@@ -3246,9 +3246,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ActiveCheckMinuteInterval</last-search>
+      <last-search>latest_</last-search>
       <last-offset />
-      <last-pattern>ActiveCheckMinuteInterval</last-pattern>
+      <last-pattern>latest_</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3256,7 +3256,6 @@
     </search>
     <history>
       <history-search>
-        <entry>system.out.</entry>
         <entry>SYstem</entry>
         <entry>System</entry>
         <entry>System.out</entry>
@@ -3276,6 +3275,7 @@
         <entry>b:</entry>
         <entry>5'</entry>
         <entry>ActiveCheckMinuteInterval</entry>
+        <entry>latest_</entry>
       </history-search>
       <history-cmd>
         <entry>883</entry>
