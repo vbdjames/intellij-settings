@@ -304,10 +304,10 @@
       </file>
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" timestamp="1518032258046">
         <mark key="'" line="563" column="21" />
-        <mark key="[" line="2877" column="38" />
-        <mark key="]" line="2877" column="67" />
-        <mark key="." line="2877" column="67" />
-        <mark key="^" line="2877" column="67" />
+        <mark key="[" line="2878" column="38" />
+        <mark key="]" line="2878" column="67" />
+        <mark key="." line="2878" column="67" />
+        <mark key="^" line="2878" column="67" />
       </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/FirstClass.java" timestamp="1508168524918">
         <mark key="[" line="6" column="0" />
@@ -509,7 +509,9 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1518022082846" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" timestamp="1518098450487">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Bulkhead.java" timestamp="1508168637388">
         <mark key="[" line="1" column="37" />
         <mark key="]" line="2" column="22" />
@@ -700,8 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1831" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="1838" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="1862" column="9" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="1830" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="1852" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
@@ -800,6 +800,8 @@
       <jump line="178" column="16" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="191" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="563" column="21" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="6719" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/message/MessageServiceBean.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -835,7 +837,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>setActive</text>
+        <text>ra_mess</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGVuZGFyLmFkZChDYWxlbmRhci5NSU5VVEUsIAogICAgICAgICAgICAgICAgICAgIC0xICogKHRoaXMuZ2V0U3RhbmRieUNoZWNrTWludXRlSW50ZXJ2YWwoKSkpOwo=</text>
@@ -3360,9 +3362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setActive</last-search>
+      <last-search>ra_mess</last-search>
       <last-offset />
-      <last-pattern>setActive</last-pattern>
+      <last-pattern>ra_mess</last-pattern>
       <last-replace>ECHO.</last-replace>
       <last-substitute>ECHO:</last-substitute>
       <last-dir>1</last-dir>
@@ -3370,7 +3372,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PT09Pg==</entry>
         <entry>f:</entry>
         <entry encoding="base64">PT0+</entry>
         <entry encoding="base64">OiA=</entry>
@@ -3390,6 +3391,7 @@
         <entry>standby</entry>
         <entry>nextCheck</entry>
         <entry>setActive</entry>
+        <entry>ra_mess</entry>
       </history-search>
       <history-cmd>
         <entry>883</entry>
