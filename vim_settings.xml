@@ -213,8 +213,8 @@
       <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/adminui/CustomerManagerFrame.java" timestamp="1517429993262">
         <mark key="'" line="329" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/net/AbstractServerConnector.java" timestamp="1518203816782">
-        <mark key="'" line="395" column="12" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/net/AbstractServerConnector.java" timestamp="1518204971989">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="245" column="34" />
         <mark key="]" line="248" column="73" />
         <mark key="^" line="248" column="73" />
@@ -744,9 +744,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9084" column="42" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/admin/AdminServiceBean.java" />
       <jump line="212" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/net/AbstractServerConnector.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/net/AbstractServerConnector.java" />
       <jump line="9" column="38" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/net/AbstractServerConnector.java" />
       <jump line="23" column="39" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/net/AbstractServerConnector.java" />
       <jump line="43" column="13" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/net/AbstractServerConnector.java" />
@@ -844,6 +842,8 @@
       <jump line="646" column="20" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="647" column="53" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="649" column="24" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="431" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/net/AbstractServerConnector.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/net/AbstractServerConnector.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -879,7 +879,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>channeler</text>
+        <text>System.out</text>
       </register>
       <register name="0" type="4">
         <text>result.getDocument().toString()</text>
@@ -3404,9 +3404,9 @@
       </register>
     </registers>
     <search>
-      <last-search>channeler</last-search>
+      <last-search>System.out</last-search>
       <last-offset />
-      <last-pattern>channeler</last-pattern>
+      <last-pattern>System.out</last-pattern>
       <last-replace>Channeler</last-replace>
       <last-substitute>Dbh</last-substitute>
       <last-dir>1</last-dir>
@@ -3414,7 +3414,6 @@
     </search>
     <history>
       <history-search>
-        <entry>suspend</entry>
         <entry>startDeliverer</entry>
         <entry>stop</entry>
         <entry>dbhServer</entry>
@@ -3434,6 +3433,7 @@
         <entry>Direct</entry>
         <entry>outcallServer</entry>
         <entry>channeler</entry>
+        <entry>System.out</entry>
       </history-search>
       <history-cmd>
         <entry>972</entry>
