@@ -31,11 +31,12 @@
         <mark key="^" line="32" column="32" />
         <mark key="." line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethodType.java" timestamp="1519671946129">
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="43" />
-        <mark key="^" line="47" column="43" />
-        <mark key="." line="47" column="43" />
+      <file name="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethodType.java" timestamp="1519742690459">
+        <mark key="'" line="320" column="8" />
+        <mark key="[" line="112" column="9" />
+        <mark key="]" line="112" column="7" />
+        <mark key="^" line="112" column="7" />
+        <mark key="." line="112" column="7" />
       </file>
       <file name="$USER_HOME$/Code/alesha/cpsc-3/src/Main.java" timestamp="1508177466337">
         <mark key="[" line="7" column="51" />
@@ -758,9 +759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/net/AbstractServerConnector.java" />
-      <jump line="873" column="62" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
-      <jump line="22" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="1543" column="32" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="1553" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="1580" column="17" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
@@ -858,6 +856,9 @@
       <jump line="62" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="632" column="4" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/scheduledservice/ScheduledServiceDelivererBean.java" />
+      <jump line="112" column="7" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethodType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethodType.java" />
+      <jump line="310" column="8" filename="$USER_HOME$/Code/echo/src/java/com/mapcommunications/directory/DirectoryContactMethodType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -893,7 +894,7 @@
         <text>outcall</text>
       </register>
       <register name="/" type="4">
-        <text>startDeliverer</text>
+        <text>dummy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyBwcm94eSBmb3Igb3V0Y2FsbCA8Y29kZT5TZXJ2ZXJDb25uZWN0aW9uSW5mb01CZWFuPC9jb2RlPi4KICAgICAqCiAgICAgKiBAcmV0dXJuIHByb3h5IHRoYXQgZW5hYmxlcyBjYWxsaW5nIHRoZSBwdWJsaWMgbWV0aG9kcyBvZiB0aGUgb3V0Y2FsbAogICAgICogICAgICAgICBTZXJ2ZXJDb25uZWN0aW9uSW5mb01CZWFuCiAgICAgKiBAdGhyb3dzIFVuaGFuZGxlZEV4Y2VwdGlvbiB3aGVuIFN0cmluZyByZXByZXNlbnRpbmcgbmFtZSBvZiBNQmVhbiBpcyBub3QKICAgICAqICAgICAgICAgcHJvcGVydHkgZm9ybWF0dGVkIAogICAgICovCg==</text>
@@ -3418,9 +3419,9 @@
       </register>
     </registers>
     <search>
-      <last-search>startDeliverer</last-search>
+      <last-search>dummy</last-search>
       <last-offset />
-      <last-pattern>startDeliverer</last-pattern>
+      <last-pattern>dummy</last-pattern>
       <last-replace>Channeler</last-replace>
       <last-substitute>Outcall</last-substitute>
       <last-dir>1</last-dir>
@@ -3428,7 +3429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>socket</entry>
         <entry>Direct(</entry>
         <entry>Socket(</entry>
         <entry>getFormsW</entry>
@@ -3448,6 +3448,7 @@
         <entry>Channeler</entry>
         <entry>stop</entry>
         <entry>startDeliverer</entry>
+        <entry>dummy</entry>
       </history-search>
       <history-cmd>
         <entry>893</entry>
